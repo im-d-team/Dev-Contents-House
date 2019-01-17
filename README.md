@@ -6,7 +6,7 @@ Dev-Contents-House of Im-D
 
 ## Category
 
-- [Javascript](#-javascript)
+- [Javascript](#javascript)
 
 ## 🔒 Rule  
 
