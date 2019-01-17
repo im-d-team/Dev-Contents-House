@@ -10,6 +10,8 @@ Dev-Contents-House of Im-D
 
 - [Javascript](#javascript)
 - [CSS](#CSS)
+- [GraphQL](#GraphQL)
+- [취업정보](#취업정보)
 
 <br/>
 
@@ -31,12 +33,21 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ## Javascript
 
 - [[번역] React를 본격적으로 하기 전 알면 좋은 6가지](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
-
+- [자바스크립트 간단한 Test 코드 만들어보기](https://joshua1988.github.io/web-development/javascript/js-testing/)
+- [자바스크립트 엔진의 최적화 기법 (2) - Hidden class, Inline Caching](https://meetup.toast.com/posts/78)
+- [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726)
 
 ## CSS
 
 - [[번역] CSS GPU 애니메이션 제대로 하기](https://wit.nts-corp.com/2017/08/31/4861)
 
+## GraphQL
+
+- [GraphQL vs. REST](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b)
+
+## 취업정보
+
+- [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 
 
 <br/>
