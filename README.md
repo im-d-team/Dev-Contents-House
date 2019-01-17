@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 ## 📚 Category
 
 - [Javascript](#javascript)
+- [CSS](#CSS)
 
 <br/>
 
@@ -30,6 +31,12 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ## Javascript
 
 - [[번역] React를 본격적으로 하기 전 알면 좋은 6가지](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
+
+
+## CSS
+
+- [[번역] CSS GPU 애니메이션 제대로 하기](https://wit.nts-corp.com/2017/08/31/4861)
+
 
 
 <br/>
