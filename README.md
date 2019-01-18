@@ -49,9 +49,11 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ## Git
 
 - [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
+  
 ## 취업정보
 
 - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
+- [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/)
 
 
 <br/>
