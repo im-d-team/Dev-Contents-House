@@ -8,29 +8,25 @@ Dev-Contents-House of Im-D
 
 ## 📚 Category
 
-### 1. [개발 일반](#개발-일반)
+### 1. [개발 일반](#1-개발-일반-1)
 
 - [개발 문화](#개발-문화)
 - [취업 정보](#취업-정보)
 
-### 2. [언어 & Tool](#언어-&-Tool)
+### 2. [언어 & Tool](#2-언어--tool-1)
 
 - [GraphQL](#GraphQL)
 - [Git](#Git)
 
-### 3. [FrontEnd](#FrontEnd)
+### 3. [FrontEnd](#3-frontend-1)
 
 - [Javascript](#Javascript)
 - [CSS](#CSS)
-- [HTML](#HTML)
 
-### 4. [기타](#기타)
+### 4. [기타](#4-기타-1)
 
 - [Web](#Web)
 - [보안](#보안)
-
-
-
 
 <br/>
 
@@ -56,6 +52,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [함께 일하고 싶은 개발자](https://speakerdeck.com/jaeyeophan/gdg-campus-2018-meetup-balpyojaryo-hamgge-ilhago-sipeun-gaebalja)
 - [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
 
+---
+
 ### 취업 정보
 
 - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
@@ -63,17 +61,23 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ---
 
+<br/>
+
 ## 2. 언어 & Tool
 
 ### GraphQL
 
 - [GraphQL vs. REST](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b)
 
+---
+
 ### Git
 
 - [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
 
 ---
+
+<br/>
 
 ## 3. FrontEnd
 
@@ -84,11 +88,15 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [자바스크립트 엔진의 최적화 기법 (2) - Hidden class, Inline Caching](https://meetup.toast.com/posts/78)
 - [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726)
 
+---
+
 ### CSS
 
 - [[번역] CSS GPU 애니메이션 제대로 하기](https://wit.nts-corp.com/2017/08/31/4861)
 
 ---
+
+<br/>
 
 ## 4. 기타
 
@@ -96,9 +104,13 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [[영문] Web Development Trends that will Dominate in 2019](https://dashbouquet.com/blog/web-development/web-development-trends-that-will-dominate-in-2019)
 
+---
+
 ### 보안
 
 - [[번역] 비둘기로 설명하는 HTTPS(HTTPS explained with carrier pigeons)](https://www.vobour.com/%EB%B9%84%EB%91%98%EA%B8%B0%EB%A1%9C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-https-https-explained-with-car)
+
+---
 
 <br/>
 
