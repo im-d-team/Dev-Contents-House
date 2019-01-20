@@ -91,6 +91,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [자바스크립트의 함수 정리본](https://medium.com/ibare-story/e252506f8525)
 - [Intro to React Hooks](https://css-tricks.com/intro-to-react-hooks/)
 - [Does it mutate](https://doesitmutate.xyz/)
+- [the Different Testing Tools (chai, mocha, enzyme, jest)](https://medium.com/@leannezhang/clarifying-different-testing-tools-chai-mocha-enzyme-jest-d7a561f01857)
 
 ---
 
