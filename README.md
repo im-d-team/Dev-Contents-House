@@ -75,6 +75,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
 
+- [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
 ---
 
 <br/>
@@ -87,6 +88,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [자바스크립트 간단한 Test 코드 만들어보기](https://joshua1988.github.io/web-development/javascript/js-testing/)
 - [자바스크립트 엔진의 최적화 기법 (2) - Hidden class, Inline Caching](https://meetup.toast.com/posts/78)
 - [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726)
+- [자바스크립트의 함수 정리본](https://medium.com/ibare-story/e252506f8525)
+- [Intro to React Hooks](https://css-tricks.com/intro-to-react-hooks/)
+- [Does it mutate](https://doesitmutate.xyz/)
 
 ---
 
