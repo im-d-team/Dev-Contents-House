@@ -6,6 +6,12 @@ Dev-Contents-House of Im-D
 
 <br/>
 
+## 📖 This Week
+
+- [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
+
+
+<br/>
 ## 📚 Category
 
 ### 1. [개발 일반](#1-개발-일반-1)
@@ -34,7 +40,7 @@ Dev-Contents-House of Im-D
 
 - 단순 기사, 저작권법 위반 컨텐츠는 공유하지 않는다.
 - 본인이 반드시 읽어보고 올린다.(무작위로 올리지 않는다. 상대방의 시간을 뺏지 말자.)
-- README에 추가하면 되고 새로운 카테고리의 컨텐츠라면 카테고리를 만들어 올리면 된다.
+- [This Week](#this-week)에 올린 뒤, 차주 월요일에 카테고리별로 정리한다.
 - 커밋은 아래의 작성법을 따른다.
 
 ```md
