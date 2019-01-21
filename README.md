@@ -9,7 +9,9 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
-
+- [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
+- [Does it mutate](https://doesitmutate.xyz/)
+- [the Different Testing Tools (chai, mocha, enzyme, jest)](https://medium.com/@leannezhang/clarifying-different-testing-tools-chai-mocha-enzyme-jest-d7a561f01857)
 
 <br/>
 
@@ -81,8 +83,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### Git
 
 - [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
-
 - [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
+
 ---
 
 <br/>
