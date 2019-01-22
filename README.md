@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
 - [Does it mutate](https://doesitmutate.xyz/)
 - [the Different Testing Tools (chai, mocha, enzyme, jest)](https://medium.com/@leannezhang/clarifying-different-testing-tools-chai-mocha-enzyme-jest-d7a561f01857)
+- [Line 블로그](https://engineering.linecorp.com/ko/blog/)
 
 <br/>
 
@@ -21,6 +22,7 @@ Dev-Contents-House of Im-D
 
 - [개발 문화](#개발-문화)
 - [취업 정보](#취업-정보)
+- [Line 블로그](https://engineering.linecorp.com/ko/blog/)
 
 ### 2. [언어 & Tool](#2-언어--tool-1)
 
