@@ -13,6 +13,8 @@ Dev-Contents-House of Im-D
 - [Does it mutate](https://doesitmutate.xyz/)
 - [the Different Testing Tools (chai, mocha, enzyme, jest)](https://medium.com/@leannezhang/clarifying-different-testing-tools-chai-mocha-enzyme-jest-d7a561f01857)
 - [Line 블로그](https://engineering.linecorp.com/ko/blog/)
+- [JSONP 알고 쓰자](https://kingbbode.tistory.com/26)
+- [javascript ajax 크로스 도메인 요청하기](https://enterkey.tistory.com/409)
 
 <br/>
 
