@@ -19,6 +19,7 @@ Dev-Contents-House of Im-D
 - [불쌍한 프론트엔드 개발자](https://www.youtube.com/watch?v=sBcbqRgBH7E)
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/)
 - [typescript-in-5-minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [.git - 쩜깃의 이해](https://jusths.tistory.com/64)
 
 <br/>
 
