@@ -13,6 +13,8 @@ Dev-Contents-House of Im-D
 - [Vue 3.0 소식](http://www.webdongne.com/bbs/bbs/board.php?bo_table=c_usefull_info&wr_id=1445)
 - [arguments 문제](https://gist.github.com/ENvironmentSet/0f841fbaa5115a9675a26b33917224ed)
 - [arguments in Detail](https://environmentset.github.io/2019/01/31/You-don-t-know-Arguments-Object/)
+- [함수형 프로그래머가 되고 싶다고? (Part 1)](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
+
 
 <br/>
 
