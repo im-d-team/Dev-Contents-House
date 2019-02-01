@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [requestAnimationFrame() 개념 정리하기](https://fullest-sway.me/blog/2019/01/28/requestAnimationFrame/)
 - [Vue 3.0 소식](http://www.webdongne.com/bbs/bbs/board.php?bo_table=c_usefull_info&wr_id=1445)
 - [arguments 문제](https://gist.github.com/ENvironmentSet/0f841fbaa5115a9675a26b33917224ed)
+- [arguments in Detail](https://environmentset.github.io/2019/01/31/You-don-t-know-Arguments-Object/)
 
 <br/>
 
