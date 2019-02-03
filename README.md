@@ -17,6 +17,7 @@ Dev-Contents-House of Im-D
 - [2019 개발자 로드맵-devJang](https://github.com/devJang/developer-roadmap/blob/master/readme.md)
 - [How to setup Webpack config - Morioh -](https://morioh.com/p/66bca0b85da5/how-to-setup-webpack-config)
 - [인기 오픈소스 순위](https://octoverse.github.com/projects)
+- [Nomad가 말해주는 향후 알아야하는 5가지(영상 약 5분)](https://www.facebook.com/nomadcoders/videos/301617017069442/)
 
 <br/>
 
