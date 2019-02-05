@@ -8,18 +8,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [React의 기본, 컴포넌트를 알아보자-모두 알지만 잘 알지는 못하는 컴포넌트](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
-- [requestAnimationFrame() 개념 정리하기](https://fullest-sway.me/blog/2019/01/28/requestAnimationFrame/)
-- [Vue 3.0 소식](http://www.webdongne.com/bbs/bbs/board.php?bo_table=c_usefull_info&wr_id=1445)
-- [arguments 문제](https://gist.github.com/ENvironmentSet/0f841fbaa5115a9675a26b33917224ed)
-- [arguments in Detail](https://environmentset.github.io/2019/01/31/You-don-t-know-Arguments-Object/)
-- [함수형 프로그래머가 되고 싶다고? (Part 1)](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
-- [2019 개발자 로드맵-devJang](https://github.com/devJang/developer-roadmap/blob/master/readme.md)
-- [How to setup Webpack config - Morioh -](https://morioh.com/p/66bca0b85da5/how-to-setup-webpack-config)
-- [인기 오픈소스 순위](https://octoverse.github.com/projects)
-- [Nomad가 말해주는 향후 알아야하는 5가지(영상 약 5분)](https://www.facebook.com/nomadcoders/videos/301617017069442/)
-- [React Hook source](https://github.com/facebook/react/blob/master/packages/react/src/ReactHooks.js)
-
+- []()
+  
 <br/>
 
 ## 📚 Category
@@ -40,6 +30,10 @@ Dev-Contents-House of Im-D
 - [Javascript](#Javascript)
 - [CSS](#CSS)
 - [Testing](#Testing)
+- [WebPack](#Webpack)
+- [Functional Programming](#Functional-Programming)
+- [Vue](#Vue)
+- [React](#React)
 
 ### 4. [기타](#4-기타-1)
 
@@ -84,6 +78,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### 개발 정보
 
 - [Dev_free_book](https://devfreebooks.github.io/)
+- [Nomad가 말해주는 향후 알아야하는 5가지(영상 약 5분)](https://www.facebook.com/nomadcoders/videos/301617017069442/)
+- [인기 오픈소스 순위](https://octoverse.github.com/projects)
+- [2019 개발자 로드맵-devJang](https://github.com/devJang/developer-roadmap/blob/master/readme.md)
 
 ---
 
@@ -121,6 +118,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [javascript ajax 크로스 도메인 요청하기](https://enterkey.tistory.com/409)
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/)
 - [typescript-in-5-minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [arguments 문제](https://gist.github.com/ENvironmentSet/0f841fbaa5115a9675a26b33917224ed)
+- [arguments in Detail](https://environmentset.github.io/2019/01/31/You-don-t-know-Arguments-Object/)
+- [requestAnimationFrame() 개념 정리하기](https://fullest-sway.me/blog/2019/01/28/requestAnimationFrame/)
 
 ---
 
@@ -134,6 +134,30 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [the Different Testing Tools (chai, mocha, enzyme, jest)](https://medium.com/@leannezhang/clarifying-different-testing-tools-chai-mocha-enzyme-jest-d7a561f01857)
 - [Node.js 로 TDD 를 도전해보자](https://seokjun.kim/node-js-tdd/)
+
+---
+
+### WebPack
+
+- [How to setup Webpack config - Morioh -](https://morioh.com/p/66bca0b85da5/how-to-setup-webpack-config)
+
+---
+
+### Functional Programming
+
+- [함수형 프로그래머가 되고 싶다고? (Part 1)](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
+
+---
+
+### Vue
+
+- [Vue 3.0 소식](http://www.webdongne.com/bbs/bbs/board.php?bo_table=c_usefull_info&wr_id=1445)
+
+---
+
+### React
+
+- [React의 기본, 컴포넌트를 알아보자-모두 알지만 잘 알지는 못하는 컴포넌트](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
 
 ---
 
