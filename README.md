@@ -8,7 +8,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- []()
+- [GitHub 이미지 조절&정렬](https://blog.yena.io/studynote/2017/11/23/Github-resize-image.html)
   
 <br/>
 
