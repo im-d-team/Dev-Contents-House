@@ -8,6 +8,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
   
+- [30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react)
+
 <br/>
 
 ## 📚 Category
