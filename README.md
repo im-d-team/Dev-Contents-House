@@ -7,10 +7,6 @@ Dev-Contents-House of Im-D
 <br/>
 
 ## 📖 This Week
-
-- [GitHub 이미지 조절&정렬](https://blog.yena.io/studynote/2017/11/23/Github-resize-image.html)
-- [2019 Programmers Report](https://programmers.co.kr/pages/dev-survey-2019)
-- [Hook을 쉽게 배워보자](https://usehooks.com/)
   
 <br/>
 
@@ -83,6 +79,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Nomad가 말해주는 향후 알아야하는 5가지(영상 약 5분)](https://www.facebook.com/nomadcoders/videos/301617017069442/)
 - [인기 오픈소스 순위](https://octoverse.github.com/projects)
 - [2019 개발자 로드맵-devJang](https://github.com/devJang/developer-roadmap/blob/master/readme.md)
+- [2019 Programmers Report](https://programmers.co.kr/pages/dev-survey-2019)
 
 ---
 
@@ -101,6 +98,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
 - [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
 - [.git - 쩜깃의 이해](https://jusths.tistory.com/64)
+- [GitHub 이미지 조절&정렬](https://blog.yena.io/studynote/2017/11/23/Github-resize-image.html)
 
 ---
 
@@ -160,6 +158,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### React
 
 - [React의 기본, 컴포넌트를 알아보자-모두 알지만 잘 알지는 못하는 컴포넌트](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+- [Hook을 쉽게 배워보자](https://usehooks.com/)
 
 ---
 
