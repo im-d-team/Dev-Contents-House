@@ -9,6 +9,8 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
   
 - [30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react)
+- [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://jbee.io/essay/for_junior_frontend_developer/)
+- [프로젝트를 마치며 회고한 경험](https://jbee.io/essay/about_retrospective/)
 
 <br/>
 
