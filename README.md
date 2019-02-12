@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://jbee.io/essay/for_junior_frontend_developer/)
 - [프로젝트를 마치며 회고한 경험](https://jbee.io/essay/about_retrospective/)
 - [React Hooks for daily use!](https://www.youtube.com/watch?v=sZDvByH2mNU&feature=youtu.be)
+- [Sass 문법 정리](https://gomcine.tistory.com/entry/Sass-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC-mixin-include-expend-partial-import?category=693292)
 
 <br/>
 
