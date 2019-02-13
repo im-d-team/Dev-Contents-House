@@ -7,7 +7,7 @@ Dev-Contents-House of Im-D
 <br/>
 
 ## 📖 This Week
-  
+
 - [30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react)
 - [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://jbee.io/essay/for_junior_frontend_developer/)
 - [프로젝트를 마치며 회고한 경험](https://jbee.io/essay/about_retrospective/)
@@ -15,6 +15,7 @@ Dev-Contents-House of Im-D
 - [Sass 문법 정리 (mixin, include, expend, partial, import, if문)](https://gomcine.tistory.com/entry/Sass-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC-mixin-include-expend-partial-import?category=693292)
 - [백준 알고리즘 풀이 블로그](http://wookje.dance/)
 - [모두가 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
+- [2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 
 <br/>
 
@@ -48,7 +49,7 @@ Dev-Contents-House of Im-D
 
 <br/>
 
-## 🔒 Rule  
+## 🔒 Rule
 
 - 단순 기사, 저작권법 위반 컨텐츠는 공유하지 않는다.
 - 본인이 반드시 읽어보고 올린다.(무작위로 올리지 않는다. 상대방의 시간을 뺏지 말자.)
@@ -153,7 +154,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ### Functional Programming
 
-- [함수형 프로그래머가 되고 싶다고? (Part 1)](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
+- [함수형 프로그래머가 되고 싶다고? (Part 1)](<https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1)>)
 
 ---
 
