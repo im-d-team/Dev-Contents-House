@@ -16,6 +16,8 @@ Dev-Contents-House of Im-D
 - [백준 알고리즘 풀이 블로그](http://wookje.dance/)
 - [모두가 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
 - [2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
+- [동기부여 - 질문 잘 하는 법(코드스쿼드 강의-10분)](https://www.youtube.com/watch?v=L2p1mdpxD5w)
+- [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
 
 <br/>
 
