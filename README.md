@@ -8,17 +8,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react)
-- [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://jbee.io/essay/for_junior_frontend_developer/)
-- [프로젝트를 마치며 회고한 경험](https://jbee.io/essay/about_retrospective/)
-- [React Hooks for daily use!](https://www.youtube.com/watch?v=sZDvByH2mNU&feature=youtu.be)
-- [Sass 문법 정리 (mixin, include, expend, partial, import, if문)](https://gomcine.tistory.com/entry/Sass-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC-mixin-include-expend-partial-import?category=693292)
-- [백준 알고리즘 풀이 블로그](http://wookje.dance/)
-- [모두가 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
-- [2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
-- [동기부여 - 질문 잘 하는 법(코드스쿼드 강의-10분)](https://www.youtube.com/watch?v=L2p1mdpxD5w)
-- [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
-
 <br/>
 
 ## 📚 Category
@@ -74,6 +63,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
 - [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
 - [불쌍한 프론트엔드 개발자](https://www.youtube.com/watch?v=sBcbqRgBH7E)
+- [동기부여 - 질문 잘 하는 법(코드스쿼드 강의-10분)](https://www.youtube.com/watch?v=L2p1mdpxD5w)
 
 ---
 
@@ -81,6 +71,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 - [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/)
+- [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://jbee.io/essay/for_junior_frontend_developer/)
 
 ---
 
@@ -91,6 +82,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [인기 오픈소스 순위](https://octoverse.github.com/projects)
 - [2019 개발자 로드맵-devJang](https://github.com/devJang/developer-roadmap/blob/master/readme.md)
 - [2019 Programmers Report](https://programmers.co.kr/pages/dev-survey-2019)
+- [2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
+- [백준 알고리즘 풀이 블로그](http://wookje.dance/)
+- [프로젝트를 마치며 회고한 경험](https://jbee.io/essay/about_retrospective/)
 
 ---
 
@@ -132,13 +126,15 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [arguments 문제](https://gist.github.com/ENvironmentSet/0f841fbaa5115a9675a26b33917224ed)
 - [arguments in Detail](https://environmentset.github.io/2019/01/31/You-don-t-know-Arguments-Object/)
 - [requestAnimationFrame() 개념 정리하기](https://fullest-sway.me/blog/2019/01/28/requestAnimationFrame/)
+- [모두가 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
 
 ---
 
 ### CSS
 
 - [[번역] CSS GPU 애니메이션 제대로 하기](https://wit.nts-corp.com/2017/08/31/4861)
-
+- [Sass 문법 정리 (mixin, include, expend, partial, import, if문)](https://gomcine.tistory.com/entry/Sass-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC-mixin-include-expend-partial-import?category=693292)
+  
 ---
 
 ### Testing
@@ -151,6 +147,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### WebPack
 
 - [How to setup Webpack config - Morioh -](https://morioh.com/p/66bca0b85da5/how-to-setup-webpack-config)
+- [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
 
 ---
 
@@ -170,6 +167,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [React의 기본, 컴포넌트를 알아보자-모두 알지만 잘 알지는 못하는 컴포넌트](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
 - [Hook을 쉽게 배워보자](https://usehooks.com/)
+- [React Hooks for daily use!](https://www.youtube.com/watch?v=sZDvByH2mNU&feature=youtu.be)
+- [30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react)
 
 ---
 
