@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [ES6 Cheatsheets](https://github.com/azat-co/cheatsheets/tree/master/es6)
+- [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
 
 <br/>
 
