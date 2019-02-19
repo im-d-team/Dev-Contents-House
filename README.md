@@ -10,6 +10,7 @@ Dev-Contents-House of Im-D
 
 - [ES6 Cheatsheets](https://github.com/azat-co/cheatsheets/tree/master/es6)
 - [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
+- [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 
 <br/>
 
@@ -137,7 +138,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [[번역] CSS GPU 애니메이션 제대로 하기](https://wit.nts-corp.com/2017/08/31/4861)
 - [Sass 문법 정리 (mixin, include, expend, partial, import, if문)](https://gomcine.tistory.com/entry/Sass-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC-mixin-include-expend-partial-import?category=693292)
-  
+
 ---
 
 ### Testing
