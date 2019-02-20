@@ -11,6 +11,8 @@ Dev-Contents-House of Im-D
 - [ES6 Cheatsheets](https://github.com/azat-co/cheatsheets/tree/master/es6)
 - [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
 - [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
+- [isNaN is not equal Number.isNaN](https://www.stefanjudis.com/today-i-learned/isnan-is-not-equal-number-isnan/)
+- [[번역] JavaScript Essentials: 자료형과 자료구조](https://medium.com/the6thblog/%EB%B2%88%EC%97%AD-javascript-essentials-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-5a5b4c60d5eb)
 
 <br/>
 
