@@ -14,6 +14,7 @@ Dev-Contents-House of Im-D
 - [isNaN is not equal Number.isNaN](https://www.stefanjudis.com/today-i-learned/isnan-is-not-equal-number-isnan/)
 - [[번역] JavaScript Essentials: 자료형과 자료구조](https://medium.com/the6thblog/%EB%B2%88%EC%97%AD-javascript-essentials-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-5a5b4c60d5eb)
 - [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
+- [개발자 meetup](https://meetup4u.com/)
 
 <br/>
 
