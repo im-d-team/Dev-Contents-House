@@ -16,6 +16,7 @@ Dev-Contents-House of Im-D
 - [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
 - [개발자 meetup](https://meetup4u.com/)
 - [typescript-book](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
+- [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
 
 <br/>
 
