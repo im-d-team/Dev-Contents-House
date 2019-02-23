@@ -17,6 +17,7 @@ Dev-Contents-House of Im-D
 - [개발자 meetup](https://meetup4u.com/)
 - [typescript-book](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 - [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
+- [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 
 <br/>
 
