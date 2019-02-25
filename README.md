@@ -8,17 +8,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [ES6 Cheatsheets](https://github.com/azat-co/cheatsheets/tree/master/es6)
-- [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
-- [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
-- [isNaN is not equal Number.isNaN](https://www.stefanjudis.com/today-i-learned/isnan-is-not-equal-number-isnan/)
-- [[번역] JavaScript Essentials: 자료형과 자료구조](https://medium.com/the6thblog/%EB%B2%88%EC%97%AD-javascript-essentials-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-5a5b4c60d5eb)
-- [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
-- [개발자 meetup](https://meetup4u.com/)
-- [typescript-book](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
-- [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
-- [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
-
 <br/>
 
 ## 📚 Category
@@ -33,7 +22,7 @@ Dev-Contents-House of Im-D
 
 - [GraphQL](#GraphQL)
 - [Git](#Git)
-- [
+- [Node.js](#Node.js)
 
 ### 3. [FrontEnd](#3-frontend-1)
 
@@ -44,6 +33,7 @@ Dev-Contents-House of Im-D
 - [Functional Programming](#Functional-Programming)
 - [Vue](#Vue)
 - [React](#React)
+- [TypeScript](#TypeScript)
 
 ### 4. [기타](#4-기타-1)
 
@@ -97,6 +87,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 - [백준 알고리즘 풀이 블로그](http://wookje.dance/)
 - [프로젝트를 마치며 회고한 경험](https://jbee.io/essay/about_retrospective/)
+- [개발자 meetup](https://meetup4u.com/)
 
 ---
 
@@ -121,6 +112,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ### Node.js
 
+- [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
+
 ---
 
 <br/>
@@ -143,6 +136,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [arguments in Detail](https://environmentset.github.io/2019/01/31/You-don-t-know-Arguments-Object/)
 - [requestAnimationFrame() 개념 정리하기](https://fullest-sway.me/blog/2019/01/28/requestAnimationFrame/)
 - [모두가 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
+- [[번역] JavaScript Essentials: 자료형과 자료구조](https://medium.com/the6thblog/%EB%B2%88%EC%97%AD-javascript-essentials-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-5a5b4c60d5eb)
+- [isNaN is not equal Number.isNaN](https://www.stefanjudis.com/today-i-learned/isnan-is-not-equal-number-isnan/)
+- [ES6 Cheatsheets](https://github.com/azat-co/cheatsheets/tree/master/es6)
 
 ---
 
@@ -170,6 +166,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### Functional Programming
 
 - [함수형 프로그래머가 되고 싶다고? (Part 1)](<https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1)>)
+- [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 
 ---
 
@@ -185,8 +182,15 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Hook을 쉽게 배워보자](https://usehooks.com/)
 - [React Hooks for daily use!](https://www.youtube.com/watch?v=sZDvByH2mNU&feature=youtu.be)
 - [30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react)
+- [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
+- [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
+- [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
 
 ---
+
+### TypeScript
+
+- [typescript-book](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 
 <br/>
 
