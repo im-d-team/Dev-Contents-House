@@ -8,6 +8,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+-[Tabnabbing 피싱 공격의 동작 원리와 대응책](https://tech.lezhin.com/2017/06/12/tabnabbing)
+
 <br/>
 
 ## 📚 Category
