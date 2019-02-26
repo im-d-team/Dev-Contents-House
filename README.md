@@ -8,7 +8,10 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
--[Tabnabbing 피싱 공격의 동작 원리와 대응책](https://tech.lezhin.com/2017/06/12/tabnabbing)
+- [Tabnabbing 피싱 공격의 동작 원리와 대응책](https://tech.lezhin.com/2017/06/12/tabnabbing)
+- [12 Concepts That Will Level Up Your JavaScript Skills](https://morioh.com/p/05b4ab6bbcb4/12-concepts-that-will-level-up-your-javascript-skills)
+- [Javascript and Functional Programming: An Introduction](https://morioh.com/p/a24614b5545b/javascript-and-functional-programming-an-introduction)
+- [2 Ways to Merge Arrays in JavaScript](https://morioh.com/p/096085d6e775/2-ways-to-merge-arrays-in-javascript)
 
 <br/>
 
