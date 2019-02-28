@@ -154,7 +154,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [모두가 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
 - [[번역] JavaScript Essentials: 자료형과 자료구조](https://medium.com/the6thblog/%EB%B2%88%EC%97%AD-javascript-essentials-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-5a5b4c60d5eb)
 - [isNaN is not equal Number.isNaN](https://www.stefanjudis.com/today-i-learned/isnan-is-not-equal-number-isnan/)
-- [ES6 Cheatsheets](https://github.com/azat-co/cheatsheets/tree/master/es6)
+- [React 프로젝트의 디렉토리 구조](https://medium.com/@FourwingsY/react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-bb183c0a426e)
 
 ---
 
