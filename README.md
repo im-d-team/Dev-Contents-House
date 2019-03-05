@@ -8,25 +8,9 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [ES6 Cheatsheets](https://github.com/azat-co/cheatsheets/tree/master/es6)
-- [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
-- [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
-- [isNaN is not equal Number.isNaN](https://www.stefanjudis.com/today-i-learned/isnan-is-not-equal-number-isnan/)
-- [[번역] JavaScript Essentials: 자료형과 자료구조](https://medium.com/the6thblog/%EB%B2%88%EC%97%AD-javascript-essentials-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-5a5b4c60d5eb)
-- [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
-- [개발자 meetup](https://meetup4u.com/)
-- [typescript-book](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
-- [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
-- [The Complete Guide to ES10 Features](https://medium.freecodecamp.org/the-complete-guide-to-es10-features-5fd0feb9513a)
-- [Tabnabbing 피싱 공격의 동작 원리와 대응책](https://tech.lezhin.com/2017/06/12/tabnabbing)
-- [12 Concepts That Will Level Up Your JavaScript Skills](https://morioh.com/p/05b4ab6bbcb4/12-concepts-that-will-level-up-your-javascript-skills)
-- [Javascript and Functional Programming: An Introduction](https://morioh.com/p/a24614b5545b/javascript-and-functional-programming-an-introduction)
-- [2 Ways to Merge Arrays in JavaScript](https://morioh.com/p/096085d6e775/2-ways-to-merge-arrays-in-javascript)
-- [Regex Cheat Sheet](https://morioh.com/p/0d5f4713db1f/regex-cheat-sheet)
-
-
 - [devsisters react](https://ui.devsisters.com/?fbclid=IwAR2Sb5X1oK-z7RjIzDADy7ODBm47oTm9jF2coleCxpDRTxUwfeNXuxi9BRw)
 - [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
+
 <br/>
 
 ## 📚 Category
@@ -141,12 +125,10 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ### Javascript
 
-- [[번역] React를 본격적으로 하기 전 알면 좋은 6가지](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
 - [자바스크립트 간단한 Test 코드 만들어보기](https://joshua1988.github.io/web-development/javascript/js-testing/)
 - [자바스크립트 엔진의 최적화 기법 (2) - Hidden class, Inline Caching](https://meetup.toast.com/posts/78)
 - [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726)
 - [자바스크립트의 함수 정리본](https://medium.com/ibare-story/e252506f8525)
-- [Intro to React Hooks](https://css-tricks.com/intro-to-react-hooks/)
 - [Does it mutate](https://doesitmutate.xyz/)
 - [javascript ajax 크로스 도메인 요청하기](https://enterkey.tistory.com/409)
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/)
@@ -157,7 +139,13 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [모두가 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
 - [[번역] JavaScript Essentials: 자료형과 자료구조](https://medium.com/the6thblog/%EB%B2%88%EC%97%AD-javascript-essentials-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-5a5b4c60d5eb)
 - [isNaN is not equal Number.isNaN](https://www.stefanjudis.com/today-i-learned/isnan-is-not-equal-number-isnan/)
-- [React 프로젝트의 디렉토리 구조](https://medium.com/@FourwingsY/react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-bb183c0a426e)
+- [Regex Cheat Sheet](https://morioh.com/p/0d5f4713db1f/regex-cheat-sheet)
+- [2 Ways to Merge Arrays in JavaScript](https://morioh.com/p/096085d6e775/2-ways-to-merge-arrays-in-javascript)
+- [12 Concepts That Will Level Up Your JavaScript Skills](https://morioh.com/p/05b4ab6bbcb4/12-concepts-that-will-level-up-your-javascript-skills)
+- [The Complete Guide to ES10 Features](https://medium.freecodecamp.org/the-complete-guide-to-es10-features-5fd0feb9513a)
+- [ES6 Cheatsheets](https://github.com/azat-co/cheatsheets/tree/master/es6)
+- [isNaN is not equal Number.isNaN](https://www.stefanjudis.com/today-i-learned/isnan-is-not-equal-number-isnan/)
+- [[번역] JavaScript Essentials: 자료형과 자료구조](https://medium.com/the6thblog/%EB%B2%88%EC%97%AD-javascript-essentials-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-5a5b4c60d5eb)
 
 ---
 
@@ -186,6 +174,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [함수형 프로그래머가 되고 싶다고? (Part 1)](<https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1)>)
 - [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
+- [Javascript and Functional Programming: An Introduction](https://morioh.com/p/a24614b5545b/javascript-and-functional-programming-an-introduction)
+
 
 ---
 
@@ -204,6 +194,12 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
 - [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 - [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
+- [React 프로젝트의 디렉토리 구조](https://medium.com/@FourwingsY/react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-bb183c0a426e)
+- [[번역] React를 본격적으로 하기 전 알면 좋은 6가지](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
+- [Intro to React Hooks](https://css-tricks.com/intro-to-react-hooks/)
+- [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
+- [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
+- [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 
 ---
 
@@ -226,6 +222,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### 보안
 
 - [[번역] 비둘기로 설명하는 HTTPS(HTTPS explained with carrier pigeons)](https://www.vobour.com/%EB%B9%84%EB%91%98%EA%B8%B0%EB%A1%9C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-https-https-explained-with-car)
+- [Tabnabbing 피싱 공격의 동작 원리와 대응책](https://tech.lezhin.com/2017/06/12/tabnabbing)
 
 ---
 
