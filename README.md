@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [devsisters react](https://ui.devsisters.com/?fbclid=IwAR2Sb5X1oK-z7RjIzDADy7ODBm47oTm9jF2coleCxpDRTxUwfeNXuxi9BRw)
 - [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
 - [How to Deep Clone an Array in JavaScript](https://morioh.com/p/d15a64da5d09/how-to-deep-clone-an-array-in-javascript)
+- [실용적인 테스트 코드 작성하기(JS)](https://velog.io/@leejh3224/%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 
 <br/>
 
@@ -176,7 +177,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [함수형 프로그래머가 되고 싶다고? (Part 1)](<https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1)>)
 - [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 - [Javascript and Functional Programming: An Introduction](https://morioh.com/p/a24614b5545b/javascript-and-functional-programming-an-introduction)
-
 
 ---
 
