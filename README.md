@@ -24,6 +24,9 @@ Dev-Contents-House of Im-D
 - [2 Ways to Merge Arrays in JavaScript](https://morioh.com/p/096085d6e775/2-ways-to-merge-arrays-in-javascript)
 - [Regex Cheat Sheet](https://morioh.com/p/0d5f4713db1f/regex-cheat-sheet)
 
+
+- [devsisters react](https://ui.devsisters.com/?fbclid=IwAR2Sb5X1oK-z7RjIzDADy7ODBm47oTm9jF2coleCxpDRTxUwfeNXuxi9BRw)
+
 <br/>
 
 ## 📚 Category
