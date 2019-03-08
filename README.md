@@ -15,6 +15,7 @@ Dev-Contents-House of Im-D
 - [Why I Write CSS in JavaScript](https://mxstbr.com/thoughts/css-in-js/)
 - [Oh No! Our Stylesheet Only Grows and Grows and Grows! (The Append-Only Stylesheet Problem)](https://css-tricks.com/oh-no-stylesheet-grows-grows-grows-append-stylesheet-problem/)
 - [Intersection Observer API의 사용법과 활용방법](https://blog.hyeyoonjung.com/2019/01/09/intersectionobserver-tutorial/)
+- [한국어 데이터를 제공하는 초간단 JSON API.](https://koreanjson.com/)
 
 <br/>
 
