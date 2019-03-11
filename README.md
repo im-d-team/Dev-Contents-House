@@ -8,6 +8,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [the complete guide to es10 features](https://morioh.com/p/006147c9d73c/the-complete-guide-to-es10-features)
+
 <br/>
 
 ## 📚 Category
