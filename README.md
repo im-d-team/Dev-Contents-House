@@ -10,6 +10,7 @@ Dev-Contents-House of Im-D
 
 - [the complete guide to es10 features](https://morioh.com/p/006147c9d73c/the-complete-guide-to-es10-features)
 - [33 js concepts](https://github.com/yjs03057/33-js-concepts/blob/master/README.md#)
+- [What makes a 10x Developer?](https://dev.to/dvddpl/what-makes-a-10x-developer--1k0f)
 
 <br/>
 
