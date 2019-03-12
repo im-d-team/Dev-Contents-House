@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [33 js concepts](https://github.com/yjs03057/33-js-concepts/blob/master/README.md#)
 - [What makes a 10x Developer?](https://dev.to/dvddpl/what-makes-a-10x-developer--1k0f)
 - [Redux로의 카툰 안내서](https://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
+- [[번역]ES6 축약코딩 기법 19가지]([https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html](https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html))
 
 <br/>
 
