@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [What makes a 10x Developer?](https://dev.to/dvddpl/what-makes-a-10x-developer--1k0f)
 - [Redux로의 카툰 안내서](https://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
 - [[번역]ES6 축약코딩 기법 19가지]([https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html](https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html))
+- [브라우저 HTTP 최대 연결수 알아보기](https://medium.com/@syalot005006/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-http-%EC%B5%9C%EB%8C%80-%EC%97%B0%EA%B2%B0%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3f7aa1453bc2)
 
 <br/>
 
