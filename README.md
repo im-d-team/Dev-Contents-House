@@ -17,6 +17,7 @@ Dev-Contents-House of Im-D
 - [A Complete Guide to useEffect — Overreacted(너무 길어 Dan)](https://overreacted.io/a-complete-guide-to-useeffect/)
 - [타입스크립트 입문용으로 좋은 GitBook](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 - [아마 이게 제일 이해하기 쉬울걸요? React + Redux 플로우의 이해](https://medium.com/@ca3rot/%EC%95%84%EB%A7%88-%EC%9D%B4%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%89%AC%EC%9A%B8%EA%B1%B8%EC%9A%94-react-redux-%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-1585e911a0a6)
+- [[자바스크립트] 프락시 패턴 - 이벤트 관리의 편리함을 주는 코드 디자인 스타일](https://velog.io/@hansanghun/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%9D%BD%EC%8B%9C-%ED%8C%A8%ED%84%B4-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B4%80%EB%A6%AC%EC%9D%98-%ED%8E%B8%EB%A6%AC%ED%95%A8%EC%9D%84-%EC%A3%BC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8A%A4%ED%83%80%EC%9D%BC)
 
 <br/>
 
