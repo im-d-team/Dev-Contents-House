@@ -20,6 +20,7 @@ Dev-Contents-House of Im-D
 - [[자바스크립트] 프락시 패턴 - 이벤트 관리의 편리함을 주는 코드 디자인 스타일](https://velog.io/@hansanghun/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%9D%BD%EC%8B%9C-%ED%8C%A8%ED%84%B4-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B4%80%EB%A6%AC%EC%9D%98-%ED%8E%B8%EB%A6%AC%ED%95%A8%EC%9D%84-%EC%A3%BC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8A%A4%ED%83%80%EC%9D%BC)
 - [React hooks useCallback](https://velog.io/@baldongdong/React-hooks-useCallback)
 - [TypeScript at Google(번역)](https://hyunseob.github.io/2018/11/27/typescript-at-google/), [원글](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
+- [Understanding Memoization In JavaScript](https://morioh.com/p/08ba8ca0fb47/understanding-memoization-in-javascript)
 
 <br/>
 
