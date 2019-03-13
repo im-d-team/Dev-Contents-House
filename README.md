@@ -12,13 +12,14 @@ Dev-Contents-House of Im-D
 - [33 js concepts](https://github.com/yjs03057/33-js-concepts/blob/master/README.md#)
 - [What makes a 10x Developer?](https://dev.to/dvddpl/what-makes-a-10x-developer--1k0f)
 - [Redux로의 카툰 안내서](https://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
-- [[번역]ES6 축약코딩 기법 19가지]([https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html](https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html))
+- [[번역]ES6 축약코딩 기법 19가지](<[https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html](https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html)>)
 - [브라우저 HTTP 최대 연결수 알아보기](https://medium.com/@syalot005006/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-http-%EC%B5%9C%EB%8C%80-%EC%97%B0%EA%B2%B0%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3f7aa1453bc2)
 - [A Complete Guide to useEffect — Overreacted(너무 길어 Dan)](https://overreacted.io/a-complete-guide-to-useeffect/)
 - [타입스크립트 입문용으로 좋은 GitBook](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 - [아마 이게 제일 이해하기 쉬울걸요? React + Redux 플로우의 이해](https://medium.com/@ca3rot/%EC%95%84%EB%A7%88-%EC%9D%B4%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%89%AC%EC%9A%B8%EA%B1%B8%EC%9A%94-react-redux-%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-1585e911a0a6)
 - [[자바스크립트] 프락시 패턴 - 이벤트 관리의 편리함을 주는 코드 디자인 스타일](https://velog.io/@hansanghun/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%9D%BD%EC%8B%9C-%ED%8C%A8%ED%84%B4-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B4%80%EB%A6%AC%EC%9D%98-%ED%8E%B8%EB%A6%AC%ED%95%A8%EC%9D%84-%EC%A3%BC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8A%A4%ED%83%80%EC%9D%BC)
 - [React hooks useCallback](https://velog.io/@baldongdong/React-hooks-useCallback)
+- [TypeScript at Google(번역)](https://hyunseob.github.io/2018/11/27/typescript-at-google/), [원글](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
 
 <br/>
 
@@ -160,7 +161,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [[번역] JavaScript Essentials: 자료형과 자료구조](https://medium.com/the6thblog/%EB%B2%88%EC%97%AD-javascript-essentials-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-5a5b4c60d5eb)
 - [Intersection Observer API의 사용법과 활용방법](https://blog.hyeyoonjung.com/2019/01/09/intersectionobserver-tutorial/)
 - [How to Deep Clone an Array in JavaScript](https://morioh.com/p/d15a64da5d09/how-to-deep-clone-an-array-in-javascript)
-  
+
 ---
 
 ### CSS
