@@ -22,7 +22,7 @@ Dev-Contents-House of Im-D
 - [TypeScript at Google(번역)](https://hyunseob.github.io/2018/11/27/typescript-at-google/), [원글](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
 - [Understanding Memoization In JavaScript](https://morioh.com/p/08ba8ca0fb47/understanding-memoization-in-javascript)
 - [What are React Hooks?](https://www.robinwieruch.de/react-hooks/?utm_campaign=Robin%20Wieruch%20-%20A%20Developer%27s%20Digest&utm_medium=email&utm_source=Revue%20newsletter)
-
+- [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기](https://engineering.linecorp.com/ko/blog/tensorflow-js/)
 <br/>
 
 ## 📚 Category
