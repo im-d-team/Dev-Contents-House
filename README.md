@@ -21,6 +21,7 @@ Dev-Contents-House of Im-D
 - [React hooks useCallback](https://velog.io/@baldongdong/React-hooks-useCallback)
 - [TypeScript at Google(번역)](https://hyunseob.github.io/2018/11/27/typescript-at-google/), [원글](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
 - [Understanding Memoization In JavaScript](https://morioh.com/p/08ba8ca0fb47/understanding-memoization-in-javascript)
+- [What are React Hooks?](https://www.robinwieruch.de/react-hooks/?utm_campaign=Robin%20Wieruch%20-%20A%20Developer%27s%20Digest&utm_medium=email&utm_source=Revue%20newsletter)
 
 <br/>
 
