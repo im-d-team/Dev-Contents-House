@@ -26,6 +26,7 @@ Dev-Contents-House of Im-D
 - [3 Tools to Keep npm Packages Updated](https://morioh.com/p/e6ce0548bb54/3-tools-to-keep-npm-packages-updated)
 - [Understanding ES6 Modules](https://school.geekwall.in/p/S1B0YBGS4/understanding-es6-modules)
 - [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
+- [사다리 게임, 절대 걸리지 않는 법(통계와 프로그래밍)](http://docs.likejazz.com/ghost-leg-probabilities/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR1xeBtGAwXmxOJFQeUoyaxwa7TIaUnnskfOZpP_K6g69M7EFYSeLAIMC6c)
 
 <br/>
 
