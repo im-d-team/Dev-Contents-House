@@ -25,6 +25,7 @@ Dev-Contents-House of Im-D
 - [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기](https://engineering.linecorp.com/ko/blog/tensorflow-js/)
 - [3 Tools to Keep npm Packages Updated](https://morioh.com/p/e6ce0548bb54/3-tools-to-keep-npm-packages-updated)
 - [Understanding ES6 Modules](https://school.geekwall.in/p/S1B0YBGS4/understanding-es6-modules)
+- [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
 
 <br/>
 
