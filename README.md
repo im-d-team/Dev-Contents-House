@@ -27,6 +27,7 @@ Dev-Contents-House of Im-D
 - [Understanding ES6 Modules](https://school.geekwall.in/p/S1B0YBGS4/understanding-es6-modules)
 - [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
 - [사다리 게임, 절대 걸리지 않는 법(통계와 프로그래밍)](http://docs.likejazz.com/ghost-leg-probabilities/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR1xeBtGAwXmxOJFQeUoyaxwa7TIaUnnskfOZpP_K6g69M7EFYSeLAIMC6c)
+- [시리즈:수학인듯 과학아닌 공학같은 컴퓨터과학/알고리즘 기초](https://librewiki.net/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%88%98%ED%95%99%EC%9D%B8%EB%93%AF_%EA%B3%BC%ED%95%99%EC%95%84%EB%8B%8C_%EA%B3%B5%ED%95%99%EA%B0%99%EC%9D%80_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B8%B0%EC%B4%88)
 
 <br/>
 
