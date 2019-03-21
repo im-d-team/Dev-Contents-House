@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [빅 오 분석법(Big-O Analysis)으로 알고리즘 성능시간 분석하기](https://futurecreator.github.io/2017/01/27/algorithm-big-o-analysis-in-programming/)
 - [React Code Splitting in 2019](https://itnext.io/react-code-splitting-in-2019-9a5d2776c502)
 - [Understanding Closures in JavaScript](https://medium.com/javascript-in-plain-english/understanding-closures-in-javascript-in-3-minutes-557ebb8a215b)
+- [CSS { position: sticky }](https://tech.lezhin.com/2019/03/20/css-sticky)
 
 <br/>
 
