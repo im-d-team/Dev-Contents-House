@@ -10,6 +10,7 @@ Dev-Contents-House of Im-D
 
 - [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
 - [빅 오 분석법(Big-O Analysis)으로 알고리즘 성능시간 분석하기](https://futurecreator.github.io/2017/01/27/algorithm-big-o-analysis-in-programming/)
+- [React Code Splitting in 2019](https://itnext.io/react-code-splitting-in-2019-9a5d2776c502)
 
 <br/>
 
