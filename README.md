@@ -14,6 +14,7 @@ Dev-Contents-House of Im-D
 - [Understanding Closures in JavaScript](https://medium.com/javascript-in-plain-english/understanding-closures-in-javascript-in-3-minutes-557ebb8a215b)
 - [CSS { position: sticky }](https://tech.lezhin.com/2019/03/20/css-sticky)
 - [자바의 객체](https://brunch.co.kr/@mystoryg/51)
+- [(인터뷰)이동욱 배달의민족 개발자/주니어 개발자 채용 github](https://www.imaso.co.kr/archives/4869)
 
 <br/>
 
