@@ -15,6 +15,7 @@ Dev-Contents-House of Im-D
 - [CSS { position: sticky }](https://tech.lezhin.com/2019/03/20/css-sticky)
 - [자바의 객체](https://brunch.co.kr/@mystoryg/51)
 - [(인터뷰)이동욱 배달의민족 개발자/주니어 개발자 채용 github](https://www.imaso.co.kr/archives/4869)
+- [Code Squad 우아한 코드(클린코드)](https://www.youtube.com/watch?v=25Si0Sq3Vbs&t=1789s)
 
 <br/>
 
