@@ -8,15 +8,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
-- [빅 오 분석법(Big-O Analysis)으로 알고리즘 성능시간 분석하기](https://futurecreator.github.io/2017/01/27/algorithm-big-o-analysis-in-programming/)
-- [React Code Splitting in 2019](https://itnext.io/react-code-splitting-in-2019-9a5d2776c502)
-- [Understanding Closures in JavaScript](https://medium.com/javascript-in-plain-english/understanding-closures-in-javascript-in-3-minutes-557ebb8a215b)
-- [CSS { position: sticky }](https://tech.lezhin.com/2019/03/20/css-sticky)
-- [자바의 객체](https://brunch.co.kr/@mystoryg/51)
-- [(인터뷰)이동욱 배달의민족 개발자/주니어 개발자 채용 github](https://www.imaso.co.kr/archives/4869)
-- [Code Squad 우아한 코드(클린코드)](https://www.youtube.com/watch?v=25Si0Sq3Vbs&t=1789s)
-
 <br/>
 
 ## 📚 Category
@@ -32,6 +23,7 @@ Dev-Contents-House of Im-D
 - [GraphQL](#GraphQL)
 - [Git](#Git)
 - [Node.js](#Node.js)
+- [Java](#Java)
 
 ### 3. [FrontEnd](#3-frontend-1)
 
@@ -52,6 +44,7 @@ Dev-Contents-House of Im-D
 - [보안](#보안)
 - [TEST Case](#TEST-Case)
 - [HTTP](#HTTP)
+- [알고리즘](#알고리즘)
 
 <br/>
 
@@ -87,6 +80,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 - [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/)
 - [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://jbee.io/essay/for_junior_frontend_developer/)
+- [(인터뷰)이동욱 배달의민족 개발자/주니어 개발자 채용 github](https://www.imaso.co.kr/archives/4869)
 
 ---
 
@@ -105,6 +99,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [사다리 게임, 절대 걸리지 않는 법(통계와 프로그래밍)](http://docs.likejazz.com/ghost-leg-probabilities/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR1xeBtGAwXmxOJFQeUoyaxwa7TIaUnnskfOZpP_K6g69M7EFYSeLAIMC6c)
 - [시리즈:수학인듯 과학아닌 공학같은 컴퓨터과학/알고리즘 기초](https://librewiki.net/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%88%98%ED%95%99%EC%9D%B8%EB%93%AF_%EA%B3%BC%ED%95%99%EC%95%84%EB%8B%8C_%EA%B3%B5%ED%95%99%EA%B0%99%EC%9D%80_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B8%B0%EC%B4%88)
 - [What makes a 10x Developer?](https://dev.to/dvddpl/what-makes-a-10x-developer--1k0f)
+- [Code Squad 우아한 코드(클린코드)](https://www.youtube.com/watch?v=25Si0Sq3Vbs&t=1789s)
 
 ---
 
@@ -131,6 +126,12 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### Node.js
 
 - [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
+
+---
+
+### Java
+
+- [자바의 객체](https://brunch.co.kr/@mystoryg/51)
 
 ---
 
@@ -172,6 +173,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [타입스크립트 입문용으로 좋은 GitBook](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 - [[자바스크립트] 프락시 패턴 - 이벤트 관리의 편리함을 주는 코드 디자인 스타일](https://velog.io/@hansanghun/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%9D%BD%EC%8B%9C-%ED%8C%A8%ED%84%B4-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B4%80%EB%A6%AC%EC%9D%98-%ED%8E%B8%EB%A6%AC%ED%95%A8%EC%9D%84-%EC%A3%BC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8A%A4%ED%83%80%EC%9D%BC)
 - [Understanding Memoization In JavaScript](https://morioh.com/p/08ba8ca0fb47/understanding-memoization-in-javascript)
+- [Understanding Closures in JavaScript](https://medium.com/javascript-in-plain-english/understanding-closures-in-javascript-in-3-minutes-557ebb8a215b)
 
 ---
 
@@ -181,6 +183,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Sass 문법 정리 (mixin, include, expend, partial, import, if문)](https://gomcine.tistory.com/entry/Sass-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC-mixin-include-expend-partial-import?category=693292)
 - [Oh No! Our Stylesheet Only Grows and Grows and Grows! (The Append-Only Stylesheet Problem)](https://css-tricks.com/oh-no-stylesheet-grows-grows-grows-append-stylesheet-problem/)
 - [Why I Write CSS in JavaScript](https://mxstbr.com/thoughts/css-in-js/)
+- [CSS { position: sticky }](https://tech.lezhin.com/2019/03/20/css-sticky)
 
 ---
 
@@ -232,6 +235,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [React hooks useCallback](https://velog.io/@baldongdong/React-hooks-useCallback)
 - [What are React Hooks?](https://www.robinwieruch.de/react-hooks/?utm_campaign=Robin%20Wieruch%20-%20A%20Developer%27s%20Digest&utm_medium=email&utm_source=Revue%20newsletter)
 - [A Complete Guide to useEffect — Overreacted(너무 길어 Dan)](https://overreacted.io/a-complete-guide-to-useeffect/)
+- [React Code Splitting in 2019](https://itnext.io/react-code-splitting-in-2019-9a5d2776c502)
 
 ---
 
@@ -264,6 +268,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [[영문] Web Development Trends that will Dominate in 2019](https://dashbouquet.com/blog/web-development/web-development-trends-that-will-dominate-in-2019)
 - [Line 블로그](https://engineering.linecorp.com/ko/blog/)
 - [JSONP 알고 쓰자](https://kingbbode.tistory.com/26)
+- [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
+
 
 ---
 
@@ -284,6 +290,12 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### HTTP
 
 - [브라우저 HTTP 최대 연결수 알아보기](https://medium.com/@syalot005006/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-http-%EC%B5%9C%EB%8C%80-%EC%97%B0%EA%B2%B0%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3f7aa1453bc2)
+
+---
+
+### 알고리즘 
+
+- [빅 오 분석법(Big-O Analysis)으로 알고리즘 성능시간 분석하기](https://futurecreator.github.io/2017/01/27/algorithm-big-o-analysis-in-programming/)
 
 ---
 
