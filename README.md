@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [How to Remove Duplicates from an Array in JavaScript?](https://twitter.com/qksrldns)
 - [프로그래밍 언어 선택에 대한 고민](https://lynlab.co.kr/blog/63/)
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2)
+- [Vue 2.6 released! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e)
 
 <br/>
 
