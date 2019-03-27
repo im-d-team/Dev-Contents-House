@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [프로그래밍 언어 선택에 대한 고민](https://lynlab.co.kr/blog/63/)
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2)
 - [Vue 2.6 released! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e)
+- [최신 브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
 
 <br/>
 
