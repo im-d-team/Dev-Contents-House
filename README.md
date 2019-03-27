@@ -8,12 +8,13 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [An Introduction to Web Components]([https://css-tricks.com/an-introduction-to-web-components/](https://css-tricks.com/an-introduction-to-web-components/))
+- [An Introduction to Web Components](<[https://css-tricks.com/an-introduction-to-web-components/](https://css-tricks.com/an-introduction-to-web-components/)>)
 - [How to Remove Duplicates from an Array in JavaScript?](https://twitter.com/qksrldns)
 - [프로그래밍 언어 선택에 대한 고민](https://lynlab.co.kr/blog/63/)
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2)
 - [Vue 2.6 released! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e)
 - [최신 브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
+- [왕초보를 위한 클라우드 입문 1: 클라우드는 무엇인가?-영상](https://www.youtube.com/watch?v=Y_zqn2GD-nI)
 
 <br/>
 
@@ -277,7 +278,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [JSONP 알고 쓰자](https://kingbbode.tistory.com/26)
 - [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
 
-
 ---
 
 ### 보안
@@ -300,7 +300,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ---
 
-### 알고리즘 
+### 알고리즘
 
 - [빅 오 분석법(Big-O Analysis)으로 알고리즘 성능시간 분석하기](https://futurecreator.github.io/2017/01/27/algorithm-big-o-analysis-in-programming/)
 
