@@ -17,6 +17,7 @@ Dev-Contents-House of Im-D
 - [왕초보를 위한 클라우드 입문 1: 클라우드는 무엇인가?-영상](https://www.youtube.com/watch?v=Y_zqn2GD-nI)
 - [A Tour of Go](https://go-tour-kr.appspot.com/#3)
 - [GOLANG TUTORIAL](https://1ambda.github.io/golang/golang-tutorial/)
+- [Clean Code](http://sungjk.github.io/2017/07/27/clean-code.html)
 
 <br/>
 
