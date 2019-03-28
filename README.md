@@ -15,6 +15,8 @@ Dev-Contents-House of Im-D
 - [Vue 2.6 released! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e)
 - [최신 브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
 - [왕초보를 위한 클라우드 입문 1: 클라우드는 무엇인가?-영상](https://www.youtube.com/watch?v=Y_zqn2GD-nI)
+- [A Tour of Go](https://go-tour-kr.appspot.com/#3)
+- [GOLANG TUTORIAL](https://1ambda.github.io/golang/golang-tutorial/)
 
 <br/>
 
