@@ -18,6 +18,7 @@ Dev-Contents-House of Im-D
 - [A Tour of Go](https://go-tour-kr.appspot.com/#3)
 - [GOLANG TUTORIAL](https://1ambda.github.io/golang/golang-tutorial/)
 - [Clean Code](http://sungjk.github.io/2017/07/27/clean-code.html)
+- [Top 10 JavaScript array methods you should know](https://morioh.com/p/3ba421a8a63d/top-10-javascript-array-methods-you-should-know)
 
 <br/>
 
