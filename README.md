@@ -13,8 +13,9 @@ Dev-Contents-House of Im-D
 - [Quick Debug with console.log using ||](https://morioh.com/p/ef71c1d39673/quick-debug-with-console-log-using)
 - [Paths: Stroking and Offsetting | Tavmjong Bah's Blog](http://tavmjong.free.fr/blog/?p=1257)
 - [Can you control how an SVG's stroke-width is drawn?](https://stackoverflow.com/questions/7241393/can-you-control-how-an-svgs-stroke-width-is-drawn)
-
-
+- [SVG Strokes](https://svgwg.org/specs/strokes/#SpecifyingStrokeAlignment)
+- []()
+ 
 <br/>
 
 ## 📚 Category
