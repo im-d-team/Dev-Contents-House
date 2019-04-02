@@ -8,17 +8,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [An Introduction to Web Components](<[https://css-tricks.com/an-introduction-to-web-components/](https://css-tricks.com/an-introduction-to-web-components/)>)
-- [How to Remove Duplicates from an Array in JavaScript?](https://twitter.com/qksrldns)
-- [프로그래밍 언어 선택에 대한 고민](https://lynlab.co.kr/blog/63/)
-- [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2)
-- [Vue 2.6 released! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e)
-- [최신 브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
-- [왕초보를 위한 클라우드 입문 1: 클라우드는 무엇인가?-영상](https://www.youtube.com/watch?v=Y_zqn2GD-nI)
-- [A Tour of Go](https://go-tour-kr.appspot.com/#3)
-- [GOLANG TUTORIAL](https://1ambda.github.io/golang/golang-tutorial/)
-- [Clean Code](http://sungjk.github.io/2017/07/27/clean-code.html)
-- [Top 10 JavaScript array methods you should know](https://morioh.com/p/3ba421a8a63d/top-10-javascript-array-methods-you-should-know)
 - [후배개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4)
 
 <br/>
@@ -113,6 +102,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [시리즈:수학인듯 과학아닌 공학같은 컴퓨터과학/알고리즘 기초](https://librewiki.net/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%88%98%ED%95%99%EC%9D%B8%EB%93%AF_%EA%B3%BC%ED%95%99%EC%95%84%EB%8B%8C_%EA%B3%B5%ED%95%99%EA%B0%99%EC%9D%80_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B8%B0%EC%B4%88)
 - [What makes a 10x Developer?](https://dev.to/dvddpl/what-makes-a-10x-developer--1k0f)
 - [Code Squad 우아한 코드(클린코드)](https://www.youtube.com/watch?v=25Si0Sq3Vbs&t=1789s)
+- [Clean Code](http://sungjk.github.io/2017/07/27/clean-code.html)
+- [프로그래밍 언어 선택에 대한 고민](https://lynlab.co.kr/blog/63/)
 
 ---
 
@@ -187,6 +178,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [[자바스크립트] 프락시 패턴 - 이벤트 관리의 편리함을 주는 코드 디자인 스타일](https://velog.io/@hansanghun/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%9D%BD%EC%8B%9C-%ED%8C%A8%ED%84%B4-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B4%80%EB%A6%AC%EC%9D%98-%ED%8E%B8%EB%A6%AC%ED%95%A8%EC%9D%84-%EC%A3%BC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8A%A4%ED%83%80%EC%9D%BC)
 - [Understanding Memoization In JavaScript](https://morioh.com/p/08ba8ca0fb47/understanding-memoization-in-javascript)
 - [Understanding Closures in JavaScript](https://medium.com/javascript-in-plain-english/understanding-closures-in-javascript-in-3-minutes-557ebb8a215b)
+- [Top 10 JavaScript array methods you should know](https://morioh.com/p/3ba421a8a63d/top-10-javascript-array-methods-you-should-know)
+- [How to Remove Duplicates from an Array in JavaScript?](https://twitter.com/qksrldns)
+- [An Introduction to Web Components](<[https://css-tricks.com/an-introduction-to-web-components/](https://css-tricks.com/an-introduction-to-web-components/)>)
 
 ---
 
@@ -197,6 +191,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Oh No! Our Stylesheet Only Grows and Grows and Grows! (The Append-Only Stylesheet Problem)](https://css-tricks.com/oh-no-stylesheet-grows-grows-grows-append-stylesheet-problem/)
 - [Why I Write CSS in JavaScript](https://mxstbr.com/thoughts/css-in-js/)
 - [CSS { position: sticky }](https://tech.lezhin.com/2019/03/20/css-sticky)
+- [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2)
 
 ---
 
@@ -225,6 +220,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### Vue
 
 - [Vue 3.0 소식](http://www.webdongne.com/bbs/bbs/board.php?bo_table=c_usefull_info&wr_id=1445)
+- [Vue 2.6 released! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e)
 
 ---
 
@@ -262,6 +258,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### Browser
 
 - [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
+- [최신 브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
 
 ---
 
@@ -308,6 +305,19 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### 알고리즘
 
 - [빅 오 분석법(Big-O Analysis)으로 알고리즘 성능시간 분석하기](https://futurecreator.github.io/2017/01/27/algorithm-big-o-analysis-in-programming/)
+
+---
+
+### Go
+
+- [GOLANG TUTORIAL](https://1ambda.github.io/golang/golang-tutorial/)
+- [A Tour of Go](https://go-tour-kr.appspot.com/#3)
+  
+---
+
+### 클라우드
+
+- [왕초보를 위한 클라우드 입문 1: 클라우드는 무엇인가?-영상](https://www.youtube.com/watch?v=Y_zqn2GD-nI)
 
 ---
 
