@@ -10,7 +10,8 @@ Dev-Contents-House of Im-D
 
 - [후배개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4)
 - [Moment.js를 Day.js로 대체하기](https://john015.github.io/moment-js%EB%A5%BC-day-js%EB%A1%9C-%EB%8C%80%EC%B2%B4%ED%95%98%EA%B8%B0)
-- [Quick Debug with console.log using ||]([https://morioh.com/p/ef71c1d39673/quick-debug-with-console-log-using](https://morioh.com/p/ef71c1d39673/quick-debug-with-console-log-using))
+- [Quick Debug with console.log using ||](https://morioh.com/p/ef71c1d39673/quick-debug-with-console-log-using)
+- [Paths: Stroking and Offsetting | Tavmjong Bah's Blog](http://tavmjong.free.fr/blog/?p=1257)
 
 <br/>
 
