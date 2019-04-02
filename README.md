@@ -14,7 +14,8 @@ Dev-Contents-House of Im-D
 - [Paths: Stroking and Offsetting | Tavmjong Bah's Blog](http://tavmjong.free.fr/blog/?p=1257)
 - [Can you control how an SVG's stroke-width is drawn?](https://stackoverflow.com/questions/7241393/can-you-control-how-an-svgs-stroke-width-is-drawn)
 - [SVG Strokes](https://svgwg.org/specs/strokes/#SpecifyingStrokeAlignment)
-- []()
+- [How to use Props in React?](https://morioh.com/p/08d9b3209b94/how-to-use-props-in-react)
+- [개념 정리 - (7) 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
  
 <br/>
 
