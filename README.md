@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [후배개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4)
+- [Moment.js를 Day.js로 대체하기](https://john015.github.io/moment-js%EB%A5%BC-day-js%EB%A1%9C-%EB%8C%80%EC%B2%B4%ED%95%98%EA%B8%B0)
 
 <br/>
 
