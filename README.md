@@ -18,6 +18,7 @@ Dev-Contents-House of Im-D
 - [개념 정리 - (7) 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
 - [shape-rendering - SVG: Scalable Vector Graphics | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/shape-rendering)
 - [JavaScript Functions — Understanding The Basics – codeburst](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+- [ES6: var, let and const — The battle between function scope and block scope](https://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
  
 <br/>
 
