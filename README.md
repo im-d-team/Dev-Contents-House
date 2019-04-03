@@ -17,6 +17,7 @@ Dev-Contents-House of Im-D
 - [How to use Props in React?](https://morioh.com/p/08d9b3209b94/how-to-use-props-in-react)
 - [개념 정리 - (7) 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
 - [shape-rendering - SVG: Scalable Vector Graphics | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/shape-rendering)
+- [JavaScript Functions — Understanding The Basics – codeburst](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
  
 <br/>
 
