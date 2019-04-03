@@ -19,7 +19,10 @@ Dev-Contents-House of Im-D
 - [shape-rendering - SVG: Scalable Vector Graphics | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/shape-rendering)
 - [JavaScript Functions — Understanding The Basics – codeburst](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
 - [ES6: var, let and const — The battle between function scope and block scope](https://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
- 
+- [Emulating Block Scope in JavaScript - A Drip of JavaScript](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
+- [네트워크의 기본 'OSI 7계층' 한번에 이해하고 외우는 방법](http://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
+- [[JS #5] ES6 Map(), Set() – Kevin Seokyou Hong – Medium](https://medium.com/@hongkevin/js-5-es6-map-set-2a9ebf40f96b)
+
 <br/>
 
 ## 📚 Category
