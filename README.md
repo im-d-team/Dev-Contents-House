@@ -24,6 +24,7 @@ Dev-Contents-House of Im-D
 - [[JS #5] ES6 Map(), Set() – Kevin Seokyou Hong – Medium](https://medium.com/@hongkevin/js-5-es6-map-set-2a9ebf40f96b)
 - [Hello Nestjs](https://dev-momo.tistory.com/entry/Hello-Nestjs)
 - [Javascript performance test - for vs for each vs (map, reduce, filter, find)](https://hackernoon.com/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)
+- [JavaScript Web Workers: A Beginner’s Guide](https://morioh.com/p/4dee73021026/javascript-web-workers-a-beginner-s-guide)
 
 <br/>
 
