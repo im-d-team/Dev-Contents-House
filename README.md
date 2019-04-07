@@ -28,6 +28,7 @@ Dev-Contents-House of Im-D
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
 - [Best VS Code Extensions You Need in 2019](https://levelup.gitconnected.com/best-vs-code-extensions-that-you-must-try-in-2019-7add34e7b89d)
 - [Google’s Go Essentials For Node.js / JavaScript Developers](https://morioh.com/p/70a2ab2b1947/google-s-go-essentials-for-node-js-javascript-developers)
+- [From Javascript to Typescript to Elm](https://morioh.com/p/129a0bfcfb0d/from-javascript-to-typescript-to-elm)
 
 <br/>
 
