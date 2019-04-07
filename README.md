@@ -200,7 +200,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Understanding Closures in JavaScript](https://medium.com/javascript-in-plain-english/understanding-closures-in-javascript-in-3-minutes-557ebb8a215b)
 - [Top 10 JavaScript array methods you should know](https://morioh.com/p/3ba421a8a63d/top-10-javascript-array-methods-you-should-know)
 - [How to Remove Duplicates from an Array in JavaScript?](https://twitter.com/qksrldns)
-- [An Introduction to Web Components](<[https://css-tricks.com/an-introduction-to-web-components/](https://css-tricks.com/an-introduction-to-web-components/)>)
+- [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
 
 ---
 
