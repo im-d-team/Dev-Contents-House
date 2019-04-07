@@ -27,6 +27,7 @@ Dev-Contents-House of Im-D
 - [JavaScript Web Workers: A Beginner’s Guide](https://morioh.com/p/4dee73021026/javascript-web-workers-a-beginner-s-guide)
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
 - [Best VS Code Extensions You Need in 2019](https://levelup.gitconnected.com/best-vs-code-extensions-that-you-must-try-in-2019-7add34e7b89d)
+- [Google’s Go Essentials For Node.js / JavaScript Developers](https://morioh.com/p/70a2ab2b1947/google-s-go-essentials-for-node-js-javascript-developers)
 
 <br/>
 
