@@ -8,6 +8,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [JavaScript Functions — Understanding The Basics](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+
 <br/>
 
 ## 📚 Category
