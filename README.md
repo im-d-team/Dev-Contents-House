@@ -15,6 +15,7 @@ Dev-Contents-House of Im-D
 - [Function scopes and block scopes in JavaScript](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
 - [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
 - [JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)
+- [Understanding Scope in JavaScript](https://www.telerik.com/blogs/understanding-scope-in-javascript)
 
 <br/>
 
