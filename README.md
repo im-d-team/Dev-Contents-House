@@ -8,28 +8,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [후배개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4)
-- [Moment.js를 Day.js로 대체하기](https://john015.github.io/moment-js%EB%A5%BC-day-js%EB%A1%9C-%EB%8C%80%EC%B2%B4%ED%95%98%EA%B8%B0)
-- [Quick Debug with console.log using ||](https://morioh.com/p/ef71c1d39673/quick-debug-with-console-log-using)
-- [Paths: Stroking and Offsetting | Tavmjong Bah's Blog](http://tavmjong.free.fr/blog/?p=1257)
-- [Can you control how an SVG's stroke-width is drawn?](https://stackoverflow.com/questions/7241393/can-you-control-how-an-svgs-stroke-width-is-drawn)
-- [SVG Strokes](https://svgwg.org/specs/strokes/#SpecifyingStrokeAlignment)
-- [How to use Props in React?](https://morioh.com/p/08d9b3209b94/how-to-use-props-in-react)
-- [개념 정리 - (7) 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
-- [shape-rendering - SVG: Scalable Vector Graphics | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/shape-rendering)
-- [JavaScript Functions — Understanding The Basics – codeburst](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
-- [ES6: var, let and const — The battle between function scope and block scope](https://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
-- [Emulating Block Scope in JavaScript - A Drip of JavaScript](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
-- [네트워크의 기본 'OSI 7계층' 한번에 이해하고 외우는 방법](http://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
-- [[JS #5] ES6 Map(), Set() – Kevin Seokyou Hong – Medium](https://medium.com/@hongkevin/js-5-es6-map-set-2a9ebf40f96b)
-- [Hello Nestjs](https://dev-momo.tistory.com/entry/Hello-Nestjs)
-- [Javascript performance test - for vs for each vs (map, reduce, filter, find)](https://hackernoon.com/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)
-- [JavaScript Web Workers: A Beginner’s Guide](https://morioh.com/p/4dee73021026/javascript-web-workers-a-beginner-s-guide)
-- [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
-- [Best VS Code Extensions You Need in 2019](https://levelup.gitconnected.com/best-vs-code-extensions-that-you-must-try-in-2019-7add34e7b89d)
-- [Google’s Go Essentials For Node.js / JavaScript Developers](https://morioh.com/p/70a2ab2b1947/google-s-go-essentials-for-node-js-javascript-developers)
-- [From Javascript to Typescript to Elm](https://morioh.com/p/129a0bfcfb0d/from-javascript-to-typescript-to-elm)
-
 <br/>
 
 ## 📚 Category
@@ -59,6 +37,7 @@ Dev-Contents-House of Im-D
 - [TypeScript](#TypeScript)
 - [Browser](#Browser)
 - [Redux](#Redux)
+- [SVG](#SVG)
 
 ### 4. [기타](#4-기타-1)
 
@@ -67,6 +46,10 @@ Dev-Contents-House of Im-D
 - [TEST Case](#TEST-Case)
 - [HTTP](#HTTP)
 - [알고리즘](#알고리즘)
+- [Go](#Go)
+- [네크워크](#네트워크)
+- [OS](#OS)
+- [Elm](#Elm)
 
 <br/>
 
@@ -95,6 +78,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [불쌍한 프론트엔드 개발자](https://www.youtube.com/watch?v=sBcbqRgBH7E)
 - [동기부여 - 질문 잘 하는 법(코드스쿼드 강의-10분)](https://www.youtube.com/watch?v=L2p1mdpxD5w)
 
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
 ### 취업 정보
@@ -103,6 +88,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/)
 - [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://jbee.io/essay/for_junior_frontend_developer/)
 - [(인터뷰)이동욱 배달의민족 개발자/주니어 개발자 채용 github](https://www.imaso.co.kr/archives/4869)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
 
@@ -124,6 +111,10 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Code Squad 우아한 코드(클린코드)](https://www.youtube.com/watch?v=25Si0Sq3Vbs&t=1789s)
 - [Clean Code](http://sungjk.github.io/2017/07/27/clean-code.html)
 - [프로그래밍 언어 선택에 대한 고민](https://lynlab.co.kr/blog/63/)
+- [후배개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4)
+- [Best VS Code Extensions You Need in 2019](https://levelup.gitconnected.com/best-vs-code-extensions-that-you-must-try-in-2019-7add34e7b89d)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
 
@@ -135,6 +126,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [GraphQL vs. REST](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b)
 
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
 ### Git
@@ -145,17 +138,23 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [GitHub 이미지 조절&정렬](https://blog.yena.io/studynote/2017/11/23/Github-resize-image.html)
 - [git과 github(youtube)](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX)
 
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
 ### Node.js
 
 - [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
 
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
 ### Java
 
 - [자바의 객체](https://brunch.co.kr/@mystoryg/51)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
 
@@ -201,6 +200,17 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Top 10 JavaScript array methods you should know](https://morioh.com/p/3ba421a8a63d/top-10-javascript-array-methods-you-should-know)
 - [How to Remove Duplicates from an Array in JavaScript?](https://twitter.com/qksrldns)
 - [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
+- [Moment.js를 Day.js로 대체하기](https://john015.github.io/moment-js%EB%A5%BC-day-js%EB%A1%9C-%EB%8C%80%EC%B2%B4%ED%95%98%EA%B8%B0)
+- [Quick Debug with console.log using ||](https://morioh.com/p/ef71c1d39673/quick-debug-with-console-log-using)
+- [JavaScript Functions — Understanding The Basics – codeburst](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+- [ES6: var, let and const — The battle between function scope and block scope](https://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
+- [Emulating Block Scope in JavaScript - A Drip of JavaScript](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
+- [[JS #5] ES6 Map(), Set() – Kevin Seokyou Hong – Medium](https://medium.com/@hongkevin/js-5-es6-map-set-2a9ebf40f96b)
+- [Hello Nestjs](https://dev-momo.tistory.com/entry/Hello-Nestjs)
+- [Javascript performance test - for vs for each vs (map, reduce, filter, find)](https://hackernoon.com/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)
+- [JavaScript Web Workers: A Beginner’s Guide](https://morioh.com/p/4dee73021026/javascript-web-workers-a-beginner-s-guide)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
 
@@ -213,6 +223,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [CSS { position: sticky }](https://tech.lezhin.com/2019/03/20/css-sticky)
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2)
 
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
 ### Testing
@@ -220,12 +232,16 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [the Different Testing Tools (chai, mocha, enzyme, jest)](https://medium.com/@leannezhang/clarifying-different-testing-tools-chai-mocha-enzyme-jest-d7a561f01857)
 - [Node.js 로 TDD 를 도전해보자](https://seokjun.kim/node-js-tdd/)
 
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
 ### WebPack
 
 - [How to setup Webpack config - Morioh -](https://morioh.com/p/66bca0b85da5/how-to-setup-webpack-config)
 - [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
 
@@ -235,12 +251,16 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 - [Javascript and Functional Programming: An Introduction](https://morioh.com/p/a24614b5545b/javascript-and-functional-programming-an-introduction)
 
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
 ### Vue
 
 - [Vue 3.0 소식](http://www.webdongne.com/bbs/bbs/board.php?bo_table=c_usefull_info&wr_id=1445)
 - [Vue 2.6 released! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
 
@@ -265,6 +285,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [What are React Hooks?](https://www.robinwieruch.de/react-hooks/?utm_campaign=Robin%20Wieruch%20-%20A%20Developer%27s%20Digest&utm_medium=email&utm_source=Revue%20newsletter)
 - [A Complete Guide to useEffect — Overreacted(너무 길어 Dan)](https://overreacted.io/a-complete-guide-to-useeffect/)
 - [React Code Splitting in 2019](https://itnext.io/react-code-splitting-in-2019-9a5d2776c502)
+- [How to use Props in React?](https://morioh.com/p/08d9b3209b94/how-to-use-props-in-react)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
 
@@ -273,12 +296,17 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [typescript-book](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 - [TypeScript at Google(번역)](https://hyunseob.github.io/2018/11/27/typescript-at-google/), [원글](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
 
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
 ### Browser
 
 - [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
 - [최신 브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
+- [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
 
@@ -286,6 +314,19 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [Redux로의 카툰 안내서](https://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
 - [아마 이게 제일 이해하기 쉬울걸요? React + Redux 플로우의 이해](https://medium.com/@ca3rot/%EC%95%84%EB%A7%88-%EC%9D%B4%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%89%AC%EC%9A%B8%EA%B1%B8%EC%9A%94-react-redux-%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-1585e911a0a6)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### SVG
+
+- [Paths: Stroking and Offsetting | Tavmjong Bah's Blog](http://tavmjong.free.fr/blog/?p=1257)
+- [Can you control how an SVG's stroke-width is drawn?](https://stackoverflow.com/questions/7241393/can-you-control-how-an-svgs-stroke-width-is-drawn)
+- [SVG Strokes](https://svgwg.org/specs/strokes/#SpecifyingStrokeAlignment)
+- [shape-rendering - SVG: Scalable Vector Graphics | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/shape-rendering)
+  
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
 
@@ -300,12 +341,16 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [JSONP 알고 쓰자](https://kingbbode.tistory.com/26)
 - [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
 
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
 ### 보안
 
 - [[번역] 비둘기로 설명하는 HTTPS(HTTPS explained with carrier pigeons)](https://www.vobour.com/%EB%B9%84%EB%91%98%EA%B8%B0%EB%A1%9C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-https-https-explained-with-car)
 - [Tabnabbing 피싱 공격의 동작 원리와 대응책](https://tech.lezhin.com/2017/06/12/tabnabbing)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
 
@@ -314,11 +359,15 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [실용적인 테스트 코드 작성하기(JS)](https://velog.io/@leejh3224/%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
 
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
 ### HTTP
 
 - [브라우저 HTTP 최대 연결수 알아보기](https://medium.com/@syalot005006/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-http-%EC%B5%9C%EB%8C%80-%EC%97%B0%EA%B2%B0%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3f7aa1453bc2)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
 
@@ -326,20 +375,41 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [빅 오 분석법(Big-O Analysis)으로 알고리즘 성능시간 분석하기](https://futurecreator.github.io/2017/01/27/algorithm-big-o-analysis-in-programming/)
 
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
 ### Go
 
 - [GOLANG TUTORIAL](https://1ambda.github.io/golang/golang-tutorial/)
 - [A Tour of Go](https://go-tour-kr.appspot.com/#3)
-  
+- [Google’s Go Essentials For Node.js / JavaScript Developers](https://morioh.com/p/70a2ab2b1947/google-s-go-essentials-for-node-js-javascript-developers)
+
+**[⬆ Top](#Dev-Contents-House)**
+
 ---
 
-### 클라우드
+### 네트워크
 
 - [왕초보를 위한 클라우드 입문 1: 클라우드는 무엇인가?-영상](https://www.youtube.com/watch?v=Y_zqn2GD-nI)
+- [네트워크의 기본 'OSI 7계층' 한번에 이해하고 외우는 방법](http://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 ---
+
+### OS
+
+- [개념 정리 - (7) 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### Elm
+
+- [From Javascript to Typescript to Elm](https://morioh.com/p/129a0bfcfb0d/from-javascript-to-typescript-to-elm)
+
 
 <br/>
 
