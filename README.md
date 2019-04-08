@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [Emulating Block Scope in JavaScript - A Drip of JavaScript](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
 - [The Difference Between Function and Block Scope in JavaScript](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe)
 - [Function scopes and block scopes in JavaScript](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
+- [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
 
 <br/>
 
