@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [JavaScript Functions — Understanding The Basics](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+- [ES6: var, let and const — The battle between function scope and block scope](https://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
 
 <br/>
 
