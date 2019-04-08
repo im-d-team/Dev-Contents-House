@@ -16,6 +16,7 @@ Dev-Contents-House of Im-D
 - [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
 - [JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)
 - [Understanding Scope in JavaScript](https://www.telerik.com/blogs/understanding-scope-in-javascript)
+- [삼성 청년 SW 아카데미](https://www.ssafy.com/)
 
 <br/>
 
