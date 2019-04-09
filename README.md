@@ -21,6 +21,7 @@ Dev-Contents-House of Im-D
 - [Understanding Scope in JavaScript](https://www.telerik.com/blogs/understanding-scope-in-javascript)
 - [Why JAM Stack?](https://morioh.com/p/eccf5cb9bf4e/why-jam-stack)
 - [Quick Tip: Function Expressions vs Function Declarations](https://www.sitepoint.com/function-expressions-vs-declarations/)
+- [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
 
 <br/>
 
