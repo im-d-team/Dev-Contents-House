@@ -19,6 +19,8 @@ Dev-Contents-House of Im-D
 - [삼성 청년 SW 아카데미](https://www.ssafy.com/)
 - [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript)
 - [Understanding Scope in JavaScript](https://www.telerik.com/blogs/understanding-scope-in-javascript)
+- [Why JAM Stack?](https://morioh.com/p/eccf5cb9bf4e/why-jam-stack)
+- [Quick Tip: Function Expressions vs Function Declarations](https://www.sitepoint.com/function-expressions-vs-declarations/)
 
 <br/>
 
