@@ -17,6 +17,7 @@ Dev-Contents-House of Im-D
 - [JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)
 - [Understanding Scope in JavaScript](https://www.telerik.com/blogs/understanding-scope-in-javascript)
 - [삼성 청년 SW 아카데미](https://www.ssafy.com/)
+- [https://scotch.io/tutorials/understanding-scope-in-javascript](https://scotch.io/tutorials/understanding-scope-in-javascript)
 
 <br/>
 
