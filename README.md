@@ -28,6 +28,7 @@ Dev-Contents-House of Im-D
 - [NCSoft - 채용공고](https://recruit.ncsoft.net/korean/careers/adoptionview.aspx?BID=&BC=&SYear=&SType=&SWord=&PNo=1&d1=1&d2=0&BNo=7277&Section=)
 - [Quick Tip: Function Expressions vs Function Declarations](https://www.sitepoint.com/function-expressions-vs-declarations/)
 - [웹 프론트엔드 개발자, 어떻게 준비해야 할까?](https://medium.com/@codesquad_yoda/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9)
+- [효과적으로 TDD, 리팩토링, OOP를 연습하는 방법은?](https://medium.com/@codesquad_yoda/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-tdd-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-oop%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-7ecc9ddb5d45)
 
 <br/>
 
