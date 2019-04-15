@@ -4,6 +4,8 @@ Dev-Contents-House of Im-D
 
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
+- [코드리뷰, GitHub로 바로 적용하기](https://academy.realm.io/kr/posts/codereview-howto)
+
 <br/>
 
 ## 📖 This Week
