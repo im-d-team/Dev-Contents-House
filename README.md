@@ -8,34 +8,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [JavaScript Functions — Understanding The Basics](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
-- [ES6: var, let and const — The battle between function scope and block scope](https://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
-- [Emulating Block Scope in JavaScript - A Drip of JavaScript](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
-- [The Difference Between Function and Block Scope in JavaScript](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe)
-- [Function scopes and block scopes in JavaScript](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
-- [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
-- [JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)
-- [Understanding Scope in JavaScript](https://www.telerik.com/blogs/understanding-scope-in-javascript)
-- [삼성 청년 SW 아카데미](https://www.ssafy.com/)
-- [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript)
-- [Understanding Scope in JavaScript](https://www.telerik.com/blogs/understanding-scope-in-javascript)
-- [Why JAM Stack?](https://morioh.com/p/eccf5cb9bf4e/why-jam-stack)
-- [Quick Tip: Function Expressions vs Function Declarations](https://www.sitepoint.com/function-expressions-vs-declarations/)
-- [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
-- [JavaScript Function — Declaration vs Expression](https://medium.com/@raviroshan.talk/javascript-function-declaration-vs-expression-f5873b8c7b38)
-- [Function Declarations vs. Function Expressions](https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052)
-- [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
-- [NCSoft - 채용공고](https://recruit.ncsoft.net/korean/careers/adoptionview.aspx?BID=&BC=&SYear=&SType=&SWord=&PNo=1&d1=1&d2=0&BNo=7277&Section=)
-- [Quick Tip: Function Expressions vs Function Declarations](https://www.sitepoint.com/function-expressions-vs-declarations/)
-- [웹 프론트엔드 개발자, 어떻게 준비해야 할까?](https://medium.com/@codesquad_yoda/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9)
-- [효과적으로 TDD, 리팩토링, OOP를 연습하는 방법은?](https://medium.com/@codesquad_yoda/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-tdd-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-oop%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-7ecc9ddb5d45)
-- [러버덕 디버깅](https://medium.com/@codesquad_yoda/%EB%9F%AC%EB%B2%84%EB%8D%95-%EB%94%94%EB%B2%84%EA%B9%85-76c4e3fbef3c)
-- [Do ES6 Modules make the case of IIFEs obsolete?](https://hashnode.com/post/do-es6-modules-make-the-case-of-iifes-obsolete-civ96wet80scqgc538un20es0)
-- [Essential JavaScript: Mastering Immediately](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
-- [git flow cheetsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
-- [HTTPS는 어떻게 다를까?](https://parksb.github.io/article/24.html)
-- [Vim Cheat Sheet](https://vim.rtorr.com/lang/ko)
-
 <br/>
 
 ## 📚 Category
@@ -105,6 +77,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
 - [불쌍한 프론트엔드 개발자](https://www.youtube.com/watch?v=sBcbqRgBH7E)
 - [동기부여 - 질문 잘 하는 법(코드스쿼드 강의-10분)](https://www.youtube.com/watch?v=L2p1mdpxD5w)
+- [러버덕 디버깅](https://medium.com/@codesquad_yoda/%EB%9F%AC%EB%B2%84%EB%8D%95-%EB%94%94%EB%B2%84%EA%B9%85-76c4e3fbef3c)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -116,6 +89,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Front-end Job Interview Questions](https://h5bp.github.io/Front-end-Developer-Interview-Questions/)
 - [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://jbee.io/essay/for_junior_frontend_developer/)
 - [(인터뷰)이동욱 배달의민족 개발자/주니어 개발자 채용 github](https://www.imaso.co.kr/archives/4869)
+- [삼성 청년 SW 아카데미](https://www.ssafy.com/)
+- [NCSoft - 채용공고](https://recruit.ncsoft.net/korean/careers/adoptionview.aspx?BID=&BC=&SYear=&SType=&SWord=&PNo=1&d1=1&d2=0&BNo=7277&Section=)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -141,6 +116,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [프로그래밍 언어 선택에 대한 고민](https://lynlab.co.kr/blog/63/)
 - [후배개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4)
 - [Best VS Code Extensions You Need in 2019](https://levelup.gitconnected.com/best-vs-code-extensions-that-you-must-try-in-2019-7add34e7b89d)
+- [웹 프론트엔드 개발자, 어떻게 준비해야 할까?](https://medium.com/@codesquad_yoda/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9)
+- [Vim Cheat Sheet](https://vim.rtorr.com/lang/ko)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -165,6 +142,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [.git - 쩜깃의 이해](https://jusths.tistory.com/64)
 - [GitHub 이미지 조절&정렬](https://blog.yena.io/studynote/2017/11/23/Github-resize-image.html)
 - [git과 github(youtube)](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX)
+- [git flow cheetsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -237,6 +215,25 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Hello Nestjs](https://dev-momo.tistory.com/entry/Hello-Nestjs)
 - [Javascript performance test - for vs for each vs (map, reduce, filter, find)](https://hackernoon.com/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)
 - [JavaScript Web Workers: A Beginner’s Guide](https://morioh.com/p/4dee73021026/javascript-web-workers-a-beginner-s-guide)
+- [JavaScript Functions — Understanding The Basics](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+- [ES6: var, let and const — The battle between function scope and block scope](https://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
+- [Emulating Block Scope in JavaScript - A Drip of JavaScript](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
+- [The Difference Between Function and Block Scope in JavaScript](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe)
+- [Function scopes and block scopes in JavaScript](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
+- [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
+- [JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)
+- [Understanding Scope in JavaScript](https://www.telerik.com/blogs/understanding-scope-in-javascript)
+- [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript)
+- [Understanding Scope in JavaScript](https://www.telerik.com/blogs/understanding-scope-in-javascript)
+- [Why JAM Stack?](https://morioh.com/p/eccf5cb9bf4e/why-jam-stack)
+- [Quick Tip: Function Expressions vs Function Declarations](https://www.sitepoint.com/function-expressions-vs-declarations/)
+- [All you need to know about Javascript's Expressions, Statements and Expression Statements](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
+- [JavaScript Function — Declaration vs Expression](https://medium.com/@raviroshan.talk/javascript-function-declaration-vs-expression-f5873b8c7b38)
+- [Function Declarations vs. Function Expressions](https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052)
+- [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
+- [Do ES6 Modules make the case of IIFEs obsolete?](https://hashnode.com/post/do-es6-modules-make-the-case-of-iifes-obsolete-civ96wet80scqgc538un20es0)
+- [Essential JavaScript: Mastering Immediately](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
+- [Quick Tip: Function Expressions vs Function Declarations](https://www.sitepoint.com/function-expressions-vs-declarations/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -386,6 +383,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [실용적인 테스트 코드 작성하기(JS)](https://velog.io/@leejh3224/%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
+- [효과적으로 TDD, 리팩토링, OOP를 연습하는 방법은?](https://medium.com/@codesquad_yoda/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-tdd-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-oop%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-7ecc9ddb5d45)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -394,6 +392,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### HTTP
 
 - [브라우저 HTTP 최대 연결수 알아보기](https://medium.com/@syalot005006/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-http-%EC%B5%9C%EB%8C%80-%EC%97%B0%EA%B2%B0%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3f7aa1453bc2)
+- [HTTPS는 어떻게 다를까?](https://parksb.github.io/article/24.html)
 
 **[⬆ Top](#Dev-Contents-House)**
 
