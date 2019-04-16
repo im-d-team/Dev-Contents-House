@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 - [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
 - [performance.now() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Performance/now)
 - [CODE - 40 Useful JavaScript Tips, Tricks and Best Practices](https://www.designmycodes.com/javascript/javascript-tips-and-tricks.html?fbclid=IwAR2v1nEVvzhZabl5BJy7dgrrPnnw_xRhvA7GdSuxKHyoRyJOfKBBNymSVKk)
+- [Optimizing Performance with Web Workers – Salesforce Engineering](https://engineering.salesforce.com/optimizing-performance-with-web-workers-612b48621d8d)
 
 
 <br/>
