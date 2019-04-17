@@ -10,6 +10,7 @@ Dev-Contents-House of Im-D
 - [CODE - 40 Useful JavaScript Tips, Tricks and Best Practices](https://www.designmycodes.com/javascript/javascript-tips-and-tricks.html?fbclid=IwAR2v1nEVvzhZabl5BJy7dgrrPnnw_xRhvA7GdSuxKHyoRyJOfKBBNymSVKk)
 - [Optimizing Performance with Web Workers – Salesforce Engineering](https://engineering.salesforce.com/optimizing-performance-with-web-workers-612b48621d8d)
 - [SharedArrayBuffer - JavaScript | MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer)
+- [Javascript iterator와 iterable, generator 어떻게 구현하고 사용할까?](https://velog.io/@victor/Javascript-iterator%EC%99%80-iterable-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 
 <br/>
