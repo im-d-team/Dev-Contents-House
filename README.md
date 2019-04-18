@@ -11,6 +11,9 @@ Dev-Contents-House of Im-D
 - [Optimizing Performance with Web Workers – Salesforce Engineering](https://engineering.salesforce.com/optimizing-performance-with-web-workers-612b48621d8d)
 - [SharedArrayBuffer - JavaScript | MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer)
 - [Javascript iterator와 iterable, generator 어떻게 구현하고 사용할까?](https://velog.io/@victor/Javascript-iterator%EC%99%80-iterable-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%82%AC%EC%9A%A9%EB%B2%95)
+- [How and why to use Functional Programming in modern JavaScript - Morioh](https://morioh.com/p/71dac6124d39/how-and-why-to-use-functional-programming-in-modern-javascript)
+
+
 
 
 <br/>
