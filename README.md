@@ -14,6 +14,7 @@ Dev-Contents-House of Im-D
 - [How and why to use Functional Programming in modern JavaScript - Morioh](https://morioh.com/p/71dac6124d39/how-and-why-to-use-functional-programming-in-modern-javascript)
 - [Making a Calendar in Vanilla Javascript - Morioh](https://morioh.com/p/03b4c040c15e/making-a-calendar-in-vanilla-javascript)
 - [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
+- [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
 
 
 
