@@ -18,6 +18,7 @@ Dev-Contents-House of Im-D
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?time_continue=4&v=8aGhZQkoFbQ)
 - [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기)](https://medium.com/harbor-school/%EB%82%B4%EA%B0%80-framer-x%EC%97%90-%EB%AF%B8%EC%B3%90%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0-framer-x-6%EA%B0%9C%EC%9B%94-%EC%82%AC%EC%9A%A9%EA%B8%B0-a3a400eddca)
 - [레진 기술 블로그 - IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](https://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
+- [](https://morioh.com/p/9d7cada6edf0/optimize-the-performance-of-a-vue-app-with-async-components)
 
 
 
