@@ -16,7 +16,7 @@ Dev-Contents-House of Im-D
 - [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
 - [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?time_continue=4&v=8aGhZQkoFbQ)
-
+- [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기)](https://medium.com/harbor-school/%EB%82%B4%EA%B0%80-framer-x%EC%97%90-%EB%AF%B8%EC%B3%90%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0-framer-x-6%EA%B0%9C%EC%9B%94-%EC%82%AC%EC%9A%A9%EA%B8%B0-a3a400eddca)
 
 
 
