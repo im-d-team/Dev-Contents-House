@@ -4,23 +4,6 @@ Dev-Contents-House of Im-D
 
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
-- [코드리뷰, GitHub로 바로 적용하기](https://academy.realm.io/kr/posts/codereview-howto)
-- [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
-- [performance.now() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Performance/now)
-- [CODE - 40 Useful JavaScript Tips, Tricks and Best Practices](https://www.designmycodes.com/javascript/javascript-tips-and-tricks.html?fbclid=IwAR2v1nEVvzhZabl5BJy7dgrrPnnw_xRhvA7GdSuxKHyoRyJOfKBBNymSVKk)
-- [Optimizing Performance with Web Workers – Salesforce Engineering](https://engineering.salesforce.com/optimizing-performance-with-web-workers-612b48621d8d)
-- [SharedArrayBuffer - JavaScript | MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer)
-- [Javascript iterator와 iterable, generator 어떻게 구현하고 사용할까?](https://velog.io/@victor/Javascript-iterator%EC%99%80-iterable-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%82%AC%EC%9A%A9%EB%B2%95)
-- [How and why to use Functional Programming in modern JavaScript - Morioh](https://morioh.com/p/71dac6124d39/how-and-why-to-use-functional-programming-in-modern-javascript)
-- [Making a Calendar in Vanilla Javascript - Morioh](https://morioh.com/p/03b4c040c15e/making-a-calendar-in-vanilla-javascript)
-- [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
-- [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
-- [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?time_continue=4&v=8aGhZQkoFbQ)
-- [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기)](https://medium.com/harbor-school/%EB%82%B4%EA%B0%80-framer-x%EC%97%90-%EB%AF%B8%EC%B3%90%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0-framer-x-6%EA%B0%9C%EC%9B%94-%EC%82%AC%EC%9A%A9%EA%B8%B0-a3a400eddca)
-- [레진 기술 블로그 - IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](https://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
-- [Optimize the Performance of a Vue App with Async Components](https://morioh.com/p/9d7cada6edf0/optimize-the-performance-of-a-vue-app-with-async-components)
-- [간단하게 구축해 보는 JavaScript 개발 환경](https://d2.naver.com/helloworld/2564557)
-
 <br/>
 
 ## 📖 This Week
@@ -95,6 +78,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [불쌍한 프론트엔드 개발자](https://www.youtube.com/watch?v=sBcbqRgBH7E)
 - [동기부여 - 질문 잘 하는 법(코드스쿼드 강의-10분)](https://www.youtube.com/watch?v=L2p1mdpxD5w)
 - [러버덕 디버깅](https://medium.com/@codesquad_yoda/%EB%9F%AC%EB%B2%84%EB%8D%95-%EB%94%94%EB%B2%84%EA%B9%85-76c4e3fbef3c)
+- [코드리뷰, GitHub로 바로 적용하기](https://academy.realm.io/kr/posts/codereview-howto)
+- [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -176,6 +161,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### Java
 
 - [자바의 객체](https://brunch.co.kr/@mystoryg/51)
+- [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -251,6 +237,14 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Do ES6 Modules make the case of IIFEs obsolete?](https://hashnode.com/post/do-es6-modules-make-the-case-of-iifes-obsolete-civ96wet80scqgc538un20es0)
 - [Essential JavaScript: Mastering Immediately](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
 - [Quick Tip: Function Expressions vs Function Declarations](https://www.sitepoint.com/function-expressions-vs-declarations/)
+- [간단하게 구축해 보는 JavaScript 개발 환경](https://d2.naver.com/helloworld/2564557)
+- [performance.now() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Performance/now)
+- [CODE - 40 Useful JavaScript Tips, Tricks and Best Practices](https://www.designmycodes.com/javascript/javascript-tips-and-tricks.html?fbclid=IwAR2v1nEVvzhZabl5BJy7dgrrPnnw_xRhvA7GdSuxKHyoRyJOfKBBNymSVKk)
+- [Optimizing Performance with Web Workers – Salesforce Engineering](https://engineering.salesforce.com/optimizing-performance-with-web-workers-612b48621d8d)
+- [SharedArrayBuffer - JavaScript | MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer)
+- [Javascript iterator와 iterable, generator 어떻게 구현하고 사용할까?](https://velog.io/@victor/Javascript-iterator%EC%99%80-iterable-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%82%AC%EC%9A%A9%EB%B2%95)
+- [How and why to use Functional Programming in modern JavaScript - Morioh](https://morioh.com/p/71dac6124d39/how-and-why-to-use-functional-programming-in-modern-javascript)
+- [Making a Calendar in Vanilla Javascript - Morioh](https://morioh.com/p/03b4c040c15e/making-a-calendar-in-vanilla-javascript)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -264,6 +258,10 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Why I Write CSS in JavaScript](https://mxstbr.com/thoughts/css-in-js/)
 - [CSS { position: sticky }](https://tech.lezhin.com/2019/03/20/css-sticky)
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2)
+- [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기)](https://medium.com/harbor-school/%EB%82%B4%EA%B0%80-framer-x%EC%97%90-%EB%AF%B8%EC%B3%90%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0-framer-x-6%EA%B0%9C%EC%9B%94-%EC%82%AC%EC%9A%A9%EA%B8%B0-a3a400eddca)
+- [레진 기술 블로그 - IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](https://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
+- [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
+- [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?time_continue=4&v=8aGhZQkoFbQ)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -301,6 +299,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [Vue 3.0 소식](http://www.webdongne.com/bbs/bbs/board.php?bo_table=c_usefull_info&wr_id=1445)
 - [Vue 2.6 released! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e)
+- [Optimize the Performance of a Vue App with Async Components](https://morioh.com/p/9d7cada6edf0/optimize-the-performance-of-a-vue-app-with-async-components)
 
 **[⬆ Top](#Dev-Contents-House)**
 
