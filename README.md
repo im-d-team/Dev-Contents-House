@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [vuejs-interview-questions-korean](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
 - [GitHub로 프로젝트 관리하기 Part1 - 이슈 발급 부터 코드리뷰까지](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part1-%EC%9D%B4%EC%8A%88-%EB%B0%9C%EA%B8%89-%EB%B6%80%ED%84%B0-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EA%B9%8C/)
 - [JavaScript’s Arrow Functions Explained By Going Down A Slide - Morioh](https://morioh.com/p/7639c262cbed/javascript-s-arrow-functions-explained-by-going-down-a-slide)
+- [[javascript] async, await를 사용하여 비동기 javascript를 동기식으로 만들자 | bono's blog](https://blueshw.github.io/2018/02/27/async-await/)
 
 <br/>
 
