@@ -4,6 +4,8 @@ Dev-Contents-House of Im-D
 
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
+- [웹팩의 기본 개념](http://jeonghwan-kim.github.io/js/2017/05/15/webpack.html)
+
 <br/>
 
 ## 📖 This Week
