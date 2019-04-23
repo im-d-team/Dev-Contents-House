@@ -18,6 +18,7 @@ Dev-Contents-House of Im-D
 - [성능이 중요한 이유  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 - [html.css - Code Search](https://cs.chromium.org/chromium/src/third_party/blink/renderer/core/html/resources/html.css)
 - [Instagram App UI using CSS](https://codepen.io/apvarun/pen/wdVypQ)
+- [JavaScript Closures: setTimeout Inside a For Loop - Will Vincent](https://wsvincent.com/javascript-closure-settimeout-for-loop/)
 
 
 <br/>
