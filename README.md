@@ -19,7 +19,7 @@ Dev-Contents-House of Im-D
 - [html.css - Code Search](https://cs.chromium.org/chromium/src/third_party/blink/renderer/core/html/resources/html.css)
 - [Instagram App UI using CSS](https://codepen.io/apvarun/pen/wdVypQ)
 - [JavaScript Closures: setTimeout Inside a For Loop - Will Vincent](https://wsvincent.com/javascript-closure-settimeout-for-loop/)
-
+- [타입스크립트 3.0 – Huiseoul Engineering](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
 
 <br/>
 
