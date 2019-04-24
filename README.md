@@ -21,6 +21,7 @@ Dev-Contents-House of Im-D
 - [JavaScript Closures: setTimeout Inside a For Loop - Will Vincent](https://wsvincent.com/javascript-closure-settimeout-for-loop/)
 - [타입스크립트 3.0 – Huiseoul Engineering](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [문서화에 대해 아무도 말해주지 않는 것들 - 이상한모임](http://blog.weirdx.io/post/60414)
 
 <br/>
 
