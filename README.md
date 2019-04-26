@@ -23,6 +23,7 @@ Dev-Contents-House of Im-D
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [문서화에 대해 아무도 말해주지 않는 것들 - 이상한모임](http://blog.weirdx.io/post/60414)
 - [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/)
+- [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/?sfns=1)
 
 <br/>
 
