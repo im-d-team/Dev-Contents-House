@@ -25,6 +25,7 @@ Dev-Contents-House of Im-D
 - [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/)
 - [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/?sfns=1)
 - [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class/)
+- [JavaScript 엔진 톺아보기 (2)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-2-pujpqum2ji)
 
 <br/>
 
