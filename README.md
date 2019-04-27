@@ -29,6 +29,7 @@ Dev-Contents-House of Im-D
 - [Hidden classes in JavaScript and Inline Caching](https://gist.github.com/twokul/9501770)
 - [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
 - [JavaScript engine fundamentals: Shapes and Inline Caches | First Blog](https://shlrur.github.io//javascripts/javascript-engine-fundamentals-shapes-and-Inline-caches/)
+- [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
 
 <br/>
 
