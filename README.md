@@ -27,6 +27,7 @@ Dev-Contents-House of Im-D
 - [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class/)
 - [JavaScript 엔진 톺아보기 (2)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-2-pujpqum2ji)
 - [Hidden classes in JavaScript and Inline Caching](https://gist.github.com/twokul/9501770)
+- [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
 
 <br/>
 
