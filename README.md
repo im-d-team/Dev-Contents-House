@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [프로그래머는 몇 살까지 할 수 있나 : 네이버 블로그](https://m.blog.naver.com/PostView.nhn?blogId=birdparang&logNo=221525024009&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)
+- [7 Useful JavaScript Tricks](https://morioh.com/p/8788b0c51614/7-useful-javascript-tricks)
 
 <br/>
 
