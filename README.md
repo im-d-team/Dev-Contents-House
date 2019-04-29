@@ -3,37 +3,10 @@
 Dev-Contents-House of Im-D
 
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
-
-- [웹팩의 기본 개념](http://jeonghwan-kim.github.io/js/2017/05/15/webpack.html)
-- [Babel | PoiemaWeb](https://poiemaweb.com/es6-babel-webpack-1)
-- [Under the hood of React’s hooks system - Morioh](https://morioh.com/p/d74868dde613/under-the-hood-of-react-s-hooks-system)
-- [Webpack 4와 babel 7으로 react개발환경 셋업하기 – Clyde – Medium](https://medium.com/@benjaminwoojang/webpack-4%EC%99%80-babel-7%EC%9C%BC%EB%A1%9C-react%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%85%8B%EC%97%85%ED%95%98%EA%B8%B0-340e00d2760b))
-- [vuejs-interview-questions-korean](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
-- [GitHub로 프로젝트 관리하기 Part1 - 이슈 발급 부터 코드리뷰까지](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part1-%EC%9D%B4%EC%8A%88-%EB%B0%9C%EA%B8%89-%EB%B6%80%ED%84%B0-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EA%B9%8C/)
-- [JavaScript’s Arrow Functions Explained By Going Down A Slide - Morioh](https://morioh.com/p/7639c262cbed/javascript-s-arrow-functions-explained-by-going-down-a-slide)
-- [[javascript] async, await를 사용하여 비동기 javascript를 동기식으로 만들자 | bono's blog](https://blueshw.github.io/2018/02/27/async-await/)
-- [웹 어셈블리를 보다 쉽게 웹 어플리케이션에 적용하는 방법 : TOAST Meetup](https://meetup.toast.com/posts/121)
-- [쓰레드풀 과 ForkJoinPool](https://hamait.tistory.com/612)
-- [최신 브라우저의 내부 살펴보기 3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
-- [성능이 중요한 이유  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-- [html.css - Code Search](https://cs.chromium.org/chromium/src/third_party/blink/renderer/core/html/resources/html.css)
-- [Instagram App UI using CSS](https://codepen.io/apvarun/pen/wdVypQ)
-- [JavaScript Closures: setTimeout Inside a For Loop - Will Vincent](https://wsvincent.com/javascript-closure-settimeout-for-loop/)
-- [타입스크립트 3.0 – Huiseoul Engineering](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [문서화에 대해 아무도 말해주지 않는 것들 - 이상한모임](http://blog.weirdx.io/post/60414)
-- [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/)
-- [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/?sfns=1)
-- [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class/)
-- [JavaScript 엔진 톺아보기 (2)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-2-pujpqum2ji)
-- [Hidden classes in JavaScript and Inline Caching](https://gist.github.com/twokul/9501770)
-- [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
-- [JavaScript engine fundamentals: Shapes and Inline Caches | First Blog](https://shlrur.github.io//javascripts/javascript-engine-fundamentals-shapes-and-Inline-caches/)
-- [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
-
 <br/>
 
 ## 📖 This Week
+
 
 <br/>
 
@@ -44,6 +17,7 @@ Dev-Contents-House of Im-D
 - [개발 문화](#개발-문화)
 - [취업 정보](#취업-정보)
 - [개발 정보](#개발-정보)
+- [Performance](#Performance)
 
 ### 2. [언어 & Tool](#2-언어--tool-1)
 
@@ -77,6 +51,7 @@ Dev-Contents-House of Im-D
 - [네크워크](#네트워크)
 - [OS](#OS)
 - [Elm](#Elm)
+- [Vim](#Vim)
 
 <br/>
 
@@ -146,7 +121,18 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [후배개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4)
 - [Best VS Code Extensions You Need in 2019](https://levelup.gitconnected.com/best-vs-code-extensions-that-you-must-try-in-2019-7add34e7b89d)
 - [웹 프론트엔드 개발자, 어떻게 준비해야 할까?](https://medium.com/@codesquad_yoda/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9)
-- [Vim Cheat Sheet](https://vim.rtorr.com/lang/ko)
+- [문서화에 대해 아무도 말해주지 않는 것들 - 이상한모임](http://blog.weirdx.io/post/60414)
+- [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/)
+- [GitHub로 프로젝트 관리하기 Part1 - 이슈 발급 부터 코드리뷰까지](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part1-%EC%9D%B4%EC%8A%88-%EB%B0%9C%EA%B8%89-%EB%B6%80%ED%84%B0-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EA%B9%8C/)
+
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### Performance
+
+- [성능이 중요한 이유  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -272,6 +258,17 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Javascript iterator와 iterable, generator 어떻게 구현하고 사용할까?](https://velog.io/@victor/Javascript-iterator%EC%99%80-iterable-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%82%AC%EC%9A%A9%EB%B2%95)
 - [How and why to use Functional Programming in modern JavaScript - Morioh](https://morioh.com/p/71dac6124d39/how-and-why-to-use-functional-programming-in-modern-javascript)
 - [Making a Calendar in Vanilla Javascript - Morioh](https://morioh.com/p/03b4c040c15e/making-a-calendar-in-vanilla-javascript)
+- [JavaScript engine fundamentals: Shapes and Inline Caches | First Blog](https://shlrur.github.io//javascripts/javascript-engine-fundamentals-shapes-and-Inline-caches/)
+- [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
+- [Hidden classes in JavaScript and Inline Caching](https://gist.github.com/twokul/9501770)
+- [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class/)
+- [JavaScript 엔진 톺아보기 (2)](https://velog.io/@godori/JavaScript-%EC%97%94%EC%A7%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-2-pujpqum2ji)
+- [JavaScript’s Arrow Functions Explained By Going Down A Slide - Morioh](https://morioh.com/p/7639c262cbed/javascript-s-arrow-functions-explained-by-going-down-a-slide)
+- [[javascript] async, await를 사용하여 비동기 javascript를 동기식으로 만들자 | bono's blog](https://blueshw.github.io/2018/02/27/async-await/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [JavaScript Closures: setTimeout Inside a For Loop - Will Vincent](https://wsvincent.com/javascript-closure-settimeout-for-loop/)
+- [최신 브라우저의 내부 살펴보기 3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
+- [웹 어셈블리를 보다 쉽게 웹 어플리케이션에 적용하는 방법 : TOAST Meetup](https://meetup.toast.com/posts/121)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -289,6 +286,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [레진 기술 블로그 - IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](https://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
 - [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?time_continue=4&v=8aGhZQkoFbQ)
+- [Instagram App UI using CSS](https://codepen.io/apvarun/pen/wdVypQ)
+- [html.css - Code Search](https://cs.chromium.org/chromium/src/third_party/blink/renderer/core/html/resources/html.css)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -327,6 +326,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Vue 3.0 소식](http://www.webdongne.com/bbs/bbs/board.php?bo_table=c_usefull_info&wr_id=1445)
 - [Vue 2.6 released! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e)
 - [Optimize the Performance of a Vue App with Async Components](https://morioh.com/p/9d7cada6edf0/optimize-the-performance-of-a-vue-app-with-async-components)
+- [vuejs-interview-questions-korean](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -354,6 +354,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [A Complete Guide to useEffect — Overreacted(너무 길어 Dan)](https://overreacted.io/a-complete-guide-to-useeffect/)
 - [React Code Splitting in 2019](https://itnext.io/react-code-splitting-in-2019-9a5d2776c502)
 - [How to use Props in React?](https://morioh.com/p/08d9b3209b94/how-to-use-props-in-react)
+- [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
+- [Under the hood of React’s hooks system - Morioh](https://morioh.com/p/d74868dde613/under-the-hood-of-react-s-hooks-system)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -363,6 +365,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [typescript-book](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 - [TypeScript at Google(번역)](https://hyunseob.github.io/2018/11/27/typescript-at-google/), [원글](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
+- [타입스크립트 3.0 – Huiseoul Engineering](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -408,6 +411,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Line 블로그](https://engineering.linecorp.com/ko/blog/)
 - [JSONP 알고 쓰자](https://kingbbode.tistory.com/26)
 - [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
+- [웹팩의 기본 개념](http://jeonghwan-kim.github.io/js/2017/05/15/webpack.html)
+- [Babel | PoiemaWeb](https://poiemaweb.com/es6-babel-webpack-1)
+- [Webpack 4와 babel 7으로 react개발환경 셋업하기 – Clyde – Medium](https://medium.com/@benjaminwoojang/webpack-4%EC%99%80-babel-7%EC%9C%BC%EB%A1%9C-react%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%85%8B%EC%97%85%ED%95%98%EA%B8%B0-340e00d2760b))
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -471,6 +477,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### OS
 
 - [개념 정리 - (7) 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
+- [쓰레드풀 과 ForkJoinPool](https://hamait.tistory.com/612)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -480,7 +487,15 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [From Javascript to Typescript to Elm](https://morioh.com/p/129a0bfcfb0d/from-javascript-to-typescript-to-elm)
 
+**[⬆ Top](#Dev-Contents-House)**
 
+---
+
+### Vim
+
+- [Vim Cheat Sheet](https://vim.rtorr.com/lang/ko)
+- [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/?sfns=1)
+  
 <br/>
 
 **[⬆ Top](#Dev-Contents-House)**
