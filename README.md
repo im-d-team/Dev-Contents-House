@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [최신 브라우저의 내부 살펴보기 4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
 - [Using JavaScript’s Bitwise Operators in Real Life](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
 - [[Reactjs] setState() 왜 비동기로 처리되는가?](https://medium.com/@Dongmin_Jang/reactjs-setstate-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%A1%9C-%EC%B2%98%EB%A6%AC%EB%90%98%EB%8A%94%EA%B0%80-8197d707ca6a)
+- [개발자처럼 변수이름짓기](https://soojin.ro/blog/page2/)
 
 
 <br/>
