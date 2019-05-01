@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [웹 개발자의 10가지 흔한 실수](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791) 
 - [System Fonts in CSS • furbo.org](https://furbo.org/2018/03/28/system-fonts-in-css/)
 - [최신 브라우저의 내부 살펴보기 4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
+- [Using JavaScript’s Bitwise Operators in Real Life](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
 
 
 <br/>
