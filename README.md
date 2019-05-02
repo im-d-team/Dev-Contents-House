@@ -8,7 +8,7 @@ Dev-Contents-House of Im-D
 
 - [프로그래머는 몇 살까지 할 수 있나 : 네이버 블로그](https://m.blog.naver.com/PostView.nhn?blogId=birdparang&logNo=221525024009&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)
 - [7 Useful JavaScript Tricks](https://morioh.com/p/8788b0c51614/7-useful-javascript-tricks)
-- [웹 개발자의 10가지 흔한 실수](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791) 
+- [웹 개발자의 10가지 흔한 실수](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791)
 - [System Fonts in CSS • furbo.org](https://furbo.org/2018/03/28/system-fonts-in-css/)
 - [최신 브라우저의 내부 살펴보기 4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
 - [Using JavaScript’s Bitwise Operators in Real Life](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
@@ -16,6 +16,8 @@ Dev-Contents-House of Im-D
 - [개발자처럼 변수이름짓기](https://soojin.ro/blog/page2/)
 - [이해하기 쉬운 코드 작성방법 정리](http://chodragon9.github.io//blog/easy-code/)
 - [How to useReducer in React](https://www.robinwieruch.de/react-usereducer-hook/)
+- [Eloquent JavaScript-3rd edition(책)](http://eloquentjavascript.net/index.html)
+- [JavaScript for impatient programmers(책)](http://exploringjs.com/impatient-js/toc.html)
 
 <br/>
 
@@ -133,7 +135,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [문서화에 대해 아무도 말해주지 않는 것들 - 이상한모임](http://blog.weirdx.io/post/60414)
 - [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/)
 - [GitHub로 프로젝트 관리하기 Part1 - 이슈 발급 부터 코드리뷰까지](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part1-%EC%9D%B4%EC%8A%88-%EB%B0%9C%EA%B8%89-%EB%B6%80%ED%84%B0-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EA%B9%8C/)
-
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -405,7 +406,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Can you control how an SVG's stroke-width is drawn?](https://stackoverflow.com/questions/7241393/can-you-control-how-an-svgs-stroke-width-is-drawn)
 - [SVG Strokes](https://svgwg.org/specs/strokes/#SpecifyingStrokeAlignment)
 - [shape-rendering - SVG: Scalable Vector Graphics | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/shape-rendering)
-  
+
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -504,7 +505,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [Vim Cheat Sheet](https://vim.rtorr.com/lang/ko)
 - [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/?sfns=1)
-  
+
 <br/>
 
 **[⬆ Top](#Dev-Contents-House)**
