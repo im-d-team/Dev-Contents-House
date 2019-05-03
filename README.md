@@ -18,6 +18,7 @@ Dev-Contents-House of Im-D
 - [How to useReducer in React](https://www.robinwieruch.de/react-usereducer-hook/)
 - [Eloquent JavaScript-3rd edition(책)](http://eloquentjavascript.net/index.html)
 - [JavaScript for impatient programmers(책)](http://exploringjs.com/impatient-js/toc.html)
+- [목적의식 있는 연습을 통한 효과적인 학습](http://woowabros.github.io/woowabros/2019/05/02/techcourse.html)
 
 <br/>
 
