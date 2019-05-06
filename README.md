@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [[번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
+
 <br/>
 
 ## 📚 Category
@@ -278,7 +280,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Eloquent JavaScript-3rd edition(책)](http://eloquentjavascript.net/index.html)
 - [JavaScript for impatient programmers(책)](http://exploringjs.com/impatient-js/toc.html)
 - [Using JavaScript’s Bitwise Operators in Real Life](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
-
 
 **[⬆ Top](#Dev-Contents-House)**
 
