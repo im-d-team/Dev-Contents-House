@@ -6,23 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [프로그래머는 몇 살까지 할 수 있나 : 네이버 블로그](https://m.blog.naver.com/PostView.nhn?blogId=birdparang&logNo=221525024009&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)
-- [7 Useful JavaScript Tricks](https://morioh.com/p/8788b0c51614/7-useful-javascript-tricks)
-- [웹 개발자의 10가지 흔한 실수](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791)
-- [System Fonts in CSS • furbo.org](https://furbo.org/2018/03/28/system-fonts-in-css/)
-- [최신 브라우저의 내부 살펴보기 4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
-- [Using JavaScript’s Bitwise Operators in Real Life](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
-- [[Reactjs] setState() 왜 비동기로 처리되는가?](https://medium.com/@Dongmin_Jang/reactjs-setstate-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%A1%9C-%EC%B2%98%EB%A6%AC%EB%90%98%EB%8A%94%EA%B0%80-8197d707ca6a)
-- [개발자처럼 변수이름짓기](https://soojin.ro/blog/page2/)
-- [이해하기 쉬운 코드 작성방법 정리](http://chodragon9.github.io//blog/easy-code/)
-- [How to useReducer in React](https://www.robinwieruch.de/react-usereducer-hook/)
-- [Eloquent JavaScript-3rd edition(책)](http://eloquentjavascript.net/index.html)
-- [JavaScript for impatient programmers(책)](http://exploringjs.com/impatient-js/toc.html)
-- [목적의식 있는 연습을 통한 효과적인 학습](http://woowabros.github.io/woowabros/2019/05/02/techcourse.html)
-- [console을 이쁘게 꾸며보자](https://blog.naver.com/bkcaller/221360325002)
-- [2019 구글 스터디 잼](https://sites.google.com/view/studyjamkr/home?authuser=0)
-- [notion으로 블로그 만들기](https://zeit.co/blog/serverless-pre-rendering)
-
 <br/>
 
 ## 📚 Category
@@ -139,6 +122,14 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [문서화에 대해 아무도 말해주지 않는 것들 - 이상한모임](http://blog.weirdx.io/post/60414)
 - [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/)
 - [GitHub로 프로젝트 관리하기 Part1 - 이슈 발급 부터 코드리뷰까지](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part1-%EC%9D%B4%EC%8A%88-%EB%B0%9C%EA%B8%89-%EB%B6%80%ED%84%B0-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EA%B9%8C/)
+- [프로그래머는 몇 살까지 할 수 있나 : 네이버 블로그](https://m.blog.naver.com/PostView.nhn?blogId=birdparang&logNo=221525024009&proxyReferer=http%3A%2F%2Fm.facebook.com%2F)
+- [웹 개발자의 10가지 흔한 실수](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791)
+- [개발자처럼 변수이름짓기](https://soojin.ro/blog/page2/)
+- [이해하기 쉬운 코드 작성방법 정리](http://chodragon9.github.io//blog/easy-code/)
+- [목적의식 있는 연습을 통한 효과적인 학습](http://woowabros.github.io/woowabros/2019/05/02/techcourse.html)
+- [console을 이쁘게 꾸며보자](https://blog.naver.com/bkcaller/221360325002)
+- [2019 구글 스터디 잼](https://sites.google.com/view/studyjamkr/home?authuser=0)
+- [notion으로 블로그 만들기](https://zeit.co/blog/serverless-pre-rendering)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -283,6 +274,11 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [JavaScript Closures: setTimeout Inside a For Loop - Will Vincent](https://wsvincent.com/javascript-closure-settimeout-for-loop/)
 - [최신 브라우저의 내부 살펴보기 3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
 - [웹 어셈블리를 보다 쉽게 웹 어플리케이션에 적용하는 방법 : TOAST Meetup](https://meetup.toast.com/posts/121)
+- [7 Useful JavaScript Tricks](https://morioh.com/p/8788b0c51614/7-useful-javascript-tricks)
+- [Eloquent JavaScript-3rd edition(책)](http://eloquentjavascript.net/index.html)
+- [JavaScript for impatient programmers(책)](http://exploringjs.com/impatient-js/toc.html)
+- [Using JavaScript’s Bitwise Operators in Real Life](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -302,6 +298,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?time_continue=4&v=8aGhZQkoFbQ)
 - [Instagram App UI using CSS](https://codepen.io/apvarun/pen/wdVypQ)
 - [html.css - Code Search](https://cs.chromium.org/chromium/src/third_party/blink/renderer/core/html/resources/html.css)
+- [System Fonts in CSS • furbo.org](https://furbo.org/2018/03/28/system-fonts-in-css/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -370,6 +367,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [How to use Props in React?](https://morioh.com/p/08d9b3209b94/how-to-use-props-in-react)
 - [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
 - [Under the hood of React’s hooks system - Morioh](https://morioh.com/p/d74868dde613/under-the-hood-of-react-s-hooks-system)
+- [[Reactjs] setState() 왜 비동기로 처리되는가?](https://medium.com/@Dongmin_Jang/reactjs-setstate-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%A1%9C-%EC%B2%98%EB%A6%AC%EB%90%98%EB%8A%94%EA%B0%80-8197d707ca6a)
+- [How to useReducer in React](https://www.robinwieruch.de/react-usereducer-hook/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -389,6 +388,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
 - [최신 브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
+- [최신 브라우저의 내부 살펴보기 4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
 
 **[⬆ Top](#Dev-Contents-House)**
