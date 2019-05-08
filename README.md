@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [Performance Profiling Your React App](https://www.telerik.com/blogs/performance-profiling-your-react-app)
 - [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+- [Styling HTML checkboxes is hard - here's why](https://morioh.com/p/d1bfefe65424/styling-html-checkboxes-is-hard-here-s-why)
 
 <br/>
 
