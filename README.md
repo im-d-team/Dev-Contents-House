@@ -15,6 +15,7 @@ Dev-Contents-House of Im-D
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [Styling HTML checkboxes is hard - here's why](https://morioh.com/p/d1bfefe65424/styling-html-checkboxes-is-hard-here-s-why)
 - [A Closer Look at SVG Path Data](https://www.sitepoint.com/closer-look-svg-path-data/)
+- [The problem with SVG and Canvas](https://kilianvalkhof.com/2010/design/the-problem-with-svg-and-canvas/)
 
 <br/>
 
