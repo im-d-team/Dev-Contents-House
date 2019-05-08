@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
 - [Performance Profiling Your React App](https://www.telerik.com/blogs/performance-profiling-your-react-app)
 - [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
+- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 
 <br/>
 
