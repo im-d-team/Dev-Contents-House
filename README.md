@@ -10,6 +10,7 @@ Dev-Contents-House of Im-D
 - [hyper.js 3](https://hyper.is/blog)
 - [바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자.](https://moonformeli.tistory.com/m/28)
 - [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
+- [Performance Profiling Your React App](https://www.telerik.com/blogs/performance-profiling-your-react-app)
 
 <br/>
 
