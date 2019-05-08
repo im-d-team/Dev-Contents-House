@@ -16,6 +16,7 @@ Dev-Contents-House of Im-D
 - [Styling HTML checkboxes is hard - here's why](https://morioh.com/p/d1bfefe65424/styling-html-checkboxes-is-hard-here-s-why)
 - [A Closer Look at SVG Path Data](https://www.sitepoint.com/closer-look-svg-path-data/)
 - [The problem with SVG and Canvas](https://kilianvalkhof.com/2010/design/the-problem-with-svg-and-canvas/)
+- [Intro to React Hooks(영상)](https://developers.facebook.com/videos/2019/intro-to-react-hooks/)
 
 <br/>
 
