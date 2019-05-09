@@ -19,6 +19,8 @@ Dev-Contents-House of Im-D
 - [Intro to React Hooks(영상)](https://developers.facebook.com/videos/2019/intro-to-react-hooks/)
 - [구글I/O 2019](https://n.news.naver.com/article/293/0000024070)
 - [[PWA] 프로그레시브 웹 앱 시작하기 (1) - PWA란?](https://codevkr.tistory.com/85)
+- [Simple Swipe with Vanilla JavaScript](https://css-tricks.com/simple-swipe-with-vanilla-javascript/)
+
 
 <br/>
 
