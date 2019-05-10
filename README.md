@@ -26,6 +26,7 @@ Dev-Contents-House of Im-D
 - [Vue + WebAssembly – Brock Reece](https://medium.com/@brockreece/vue-webassembly-1a09e38d0389)
 - [실전에 써먹는 스프링 부트 이야기](https://docs.google.com/presentation/d/1nid-BYFGHYjvzgMpbBBgEC2Hwx_nJ6JomikDbHtA55g/mobilepresent?slide=id.p)
 - [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829?fbclid=IwAR2NvlfYGCfYZ7COqvTYQPbenIS8pMlIaS_yNmni0PeWTZLQ-pZts9saZBQ)
+- [KSUG 스프링캠프 2019 발표자료 - "무엇을 테스트할 것인가, 어떻게 테스트할 것인가"](https://www.slideshare.net/ssuser59a869/ksug-2019?fbclid=IwAR2UcYpT58l7AUEPj8vAXIUpllk4meCTlLk4aGDZJSnaECgMwpRR1sVkYAc)
 
 <br/>
 
