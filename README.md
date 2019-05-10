@@ -22,6 +22,7 @@ Dev-Contents-House of Im-D
 - [Simple Swipe with Vanilla JavaScript](https://css-tricks.com/simple-swipe-with-vanilla-javascript/)
 - [Chrome 75 Beta(Low Latency Canvas), Babylon.js 4.0(WebGL)](https://jser.info/ko/2019/05/07/chrome-75-betalow-latency-canvasbabylon.js-4.0webgl/)
 - [[번역] 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr)
+- [해외 취업 - 신입 웹 개발자의 싱가포르 상륙기](https://sujinlee.me/how-i-landed-my-dream-job-in-sg/)
 
 <br/>
 
