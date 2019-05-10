@@ -24,6 +24,7 @@ Dev-Contents-House of Im-D
 - [[번역] 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr)
 - [해외 취업 - 신입 웹 개발자의 싱가포르 상륙기](https://sujinlee.me/how-i-landed-my-dream-job-in-sg/)
 - [Vue + WebAssembly – Brock Reece](https://medium.com/@brockreece/vue-webassembly-1a09e38d0389)
+- [실전에 써먹는 스프링 부트 이야기](https://docs.google.com/presentation/d/1nid-BYFGHYjvzgMpbBBgEC2Hwx_nJ6JomikDbHtA55g/mobilepresent?slide=id.p)
 
 <br/>
 
