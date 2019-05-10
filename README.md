@@ -25,6 +25,7 @@ Dev-Contents-House of Im-D
 - [해외 취업 - 신입 웹 개발자의 싱가포르 상륙기](https://sujinlee.me/how-i-landed-my-dream-job-in-sg/)
 - [Vue + WebAssembly – Brock Reece](https://medium.com/@brockreece/vue-webassembly-1a09e38d0389)
 - [실전에 써먹는 스프링 부트 이야기](https://docs.google.com/presentation/d/1nid-BYFGHYjvzgMpbBBgEC2Hwx_nJ6JomikDbHtA55g/mobilepresent?slide=id.p)
+- [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829?fbclid=IwAR2NvlfYGCfYZ7COqvTYQPbenIS8pMlIaS_yNmni0PeWTZLQ-pZts9saZBQ)
 
 <br/>
 
