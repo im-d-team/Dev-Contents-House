@@ -6,29 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [[번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
-- [hyper.js 3](https://hyper.is/blog)
-- [바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자.](https://moonformeli.tistory.com/m/28)
-- [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
-- [Performance Profiling Your React App](https://www.telerik.com/blogs/performance-profiling-your-react-app)
-- [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
-- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
-- [Styling HTML checkboxes is hard - here's why](https://morioh.com/p/d1bfefe65424/styling-html-checkboxes-is-hard-here-s-why)
-- [A Closer Look at SVG Path Data](https://www.sitepoint.com/closer-look-svg-path-data/)
-- [The problem with SVG and Canvas](https://kilianvalkhof.com/2010/design/the-problem-with-svg-and-canvas/)
-- [Intro to React Hooks(영상)](https://developers.facebook.com/videos/2019/intro-to-react-hooks/)
-- [구글I/O 2019](https://n.news.naver.com/article/293/0000024070)
-- [[PWA] 프로그레시브 웹 앱 시작하기 (1) - PWA란?](https://codevkr.tistory.com/85)
-- [Simple Swipe with Vanilla JavaScript](https://css-tricks.com/simple-swipe-with-vanilla-javascript/)
-- [Chrome 75 Beta(Low Latency Canvas), Babylon.js 4.0(WebGL)](https://jser.info/ko/2019/05/07/chrome-75-betalow-latency-canvasbabylon.js-4.0webgl/)
-- [[번역] 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr)
-- [해외 취업 - 신입 웹 개발자의 싱가포르 상륙기](https://sujinlee.me/how-i-landed-my-dream-job-in-sg/)
-- [Vue + WebAssembly – Brock Reece](https://medium.com/@brockreece/vue-webassembly-1a09e38d0389)
-- [실전에 써먹는 스프링 부트 이야기](https://docs.google.com/presentation/d/1nid-BYFGHYjvzgMpbBBgEC2Hwx_nJ6JomikDbHtA55g/mobilepresent?slide=id.p)
-- [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829?fbclid=IwAR2NvlfYGCfYZ7COqvTYQPbenIS8pMlIaS_yNmni0PeWTZLQ-pZts9saZBQ)
-- [KSUG 스프링캠프 2019 발표자료 - "무엇을 테스트할 것인가, 어떻게 테스트할 것인가"](https://www.slideshare.net/ssuser59a869/ksug-2019?fbclid=IwAR2UcYpT58l7AUEPj8vAXIUpllk4meCTlLk4aGDZJSnaECgMwpRR1sVkYAc)
-- [평범한 개발자의 학습 요령](https://umanking.github.io/2019/05/09/developer-study/)
-
 <br/>
 
 ## 📚 Category
@@ -46,6 +23,7 @@ Dev-Contents-House of Im-D
 - [Git](#Git)
 - [Node.js](#Node.js)
 - [Java](#Java)
+- [이외](#이외)
 
 ### 3. [FrontEnd](#3-frontend-1)
 
@@ -60,6 +38,9 @@ Dev-Contents-House of Im-D
 - [Browser](#Browser)
 - [Redux](#Redux)
 - [SVG](#SVG)
+- [HTML](#HTML)
+- [PWA](#PWA)
+- [Babel](#Babel)
 
 ### 4. [기타](#4-기타-1)
 
@@ -73,6 +54,7 @@ Dev-Contents-House of Im-D
 - [OS](#OS)
 - [Elm](#Elm)
 - [Vim](#Vim)
+- [디자인 패턴](#디자인-패턴)
 
 <br/>
 
@@ -116,6 +98,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [(인터뷰)이동욱 배달의민족 개발자/주니어 개발자 채용 github](https://www.imaso.co.kr/archives/4869)
 - [삼성 청년 SW 아카데미](https://www.ssafy.com/)
 - [NCSoft - 채용공고](https://recruit.ncsoft.net/korean/careers/adoptionview.aspx?BID=&BC=&SYear=&SType=&SWord=&PNo=1&d1=1&d2=0&BNo=7277&Section=)
+- [해외 취업 - 신입 웹 개발자의 싱가포르 상륙기](https://sujinlee.me/how-i-landed-my-dream-job-in-sg/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -153,6 +136,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [console을 이쁘게 꾸며보자](https://blog.naver.com/bkcaller/221360325002)
 - [2019 구글 스터디 잼](https://sites.google.com/view/studyjamkr/home?authuser=0)
 - [notion으로 블로그 만들기](https://zeit.co/blog/serverless-pre-rendering)
+- [평범한 개발자의 학습 요령](https://umanking.github.io/2019/05/09/developer-study/)
+- [구글I/O 2019](https://n.news.naver.com/article/293/0000024070)
+- [Chrome 75 Beta(Low Latency Canvas), Babylon.js 4.0(WebGL)](https://jser.info/ko/2019/05/07/chrome-75-betalow-latency-canvasbabylon.js-4.0webgl/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -203,6 +189,17 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [자바의 객체](https://brunch.co.kr/@mystoryg/51)
 - [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
+- [실전에 써먹는 스프링 부트 이야기](https://docs.google.com/presentation/d/1nid-BYFGHYjvzgMpbBBgEC2Hwx_nJ6JomikDbHtA55g/mobilepresent?slide=id.p)
+- [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829?fbclid=IwAR2NvlfYGCfYZ7COqvTYQPbenIS8pMlIaS_yNmni0PeWTZLQ-pZts9saZBQ)
+- [KSUG 스프링캠프 2019 발표자료 - "무엇을 테스트할 것인가, 어떻게 테스트할 것인가"](https://www.slideshare.net/ssuser59a869/ksug-2019?fbclid=IwAR2UcYpT58l7AUEPj8vAXIUpllk4meCTlLk4aGDZJSnaECgMwpRR1sVkYAc)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### 이외
+
+- [hyper.js 3](https://hyper.is/blog)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -301,6 +298,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Eloquent JavaScript-3rd edition(책)](http://eloquentjavascript.net/index.html)
 - [JavaScript for impatient programmers(책)](http://exploringjs.com/impatient-js/toc.html)
 - [Using JavaScript’s Bitwise Operators in Real Life](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
+- [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
+- [Simple Swipe with Vanilla JavaScript](https://css-tricks.com/simple-swipe-with-vanilla-javascript/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -321,6 +320,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Instagram App UI using CSS](https://codepen.io/apvarun/pen/wdVypQ)
 - [html.css - Code Search](https://cs.chromium.org/chromium/src/third_party/blink/renderer/core/html/resources/html.css)
 - [System Fonts in CSS • furbo.org](https://furbo.org/2018/03/28/system-fonts-in-css/)
+- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -360,6 +360,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Vue 2.6 released! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e)
 - [Optimize the Performance of a Vue App with Async Components](https://morioh.com/p/9d7cada6edf0/optimize-the-performance-of-a-vue-app-with-async-components)
 - [vuejs-interview-questions-korean](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
+- [Vue + WebAssembly – Brock Reece](https://medium.com/@brockreece/vue-webassembly-1a09e38d0389)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -391,6 +392,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Under the hood of React’s hooks system - Morioh](https://morioh.com/p/d74868dde613/under-the-hood-of-react-s-hooks-system)
 - [[Reactjs] setState() 왜 비동기로 처리되는가?](https://medium.com/@Dongmin_Jang/reactjs-setstate-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%A1%9C-%EC%B2%98%EB%A6%AC%EB%90%98%EB%8A%94%EA%B0%80-8197d707ca6a)
 - [How to useReducer in React](https://www.robinwieruch.de/react-usereducer-hook/)
+- [[번역] 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr)
+- [Intro to React Hooks(영상)](https://developers.facebook.com/videos/2019/intro-to-react-hooks/)
+- [Performance Profiling Your React App](https://www.telerik.com/blogs/performance-profiling-your-react-app)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -432,6 +436,33 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Can you control how an SVG's stroke-width is drawn?](https://stackoverflow.com/questions/7241393/can-you-control-how-an-svgs-stroke-width-is-drawn)
 - [SVG Strokes](https://svgwg.org/specs/strokes/#SpecifyingStrokeAlignment)
 - [shape-rendering - SVG: Scalable Vector Graphics | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/shape-rendering)
+- [Styling HTML checkboxes is hard - here's why](https://morioh.com/p/d1bfefe65424/styling-html-checkboxes-is-hard-here-s-why)
+- [A Closer Look at SVG Path Data](https://www.sitepoint.com/closer-look-svg-path-data/)
+- [The problem with SVG and Canvas](https://kilianvalkhof.com/2010/design/the-problem-with-svg-and-canvas/)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### HTML
+
+- [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### PWA
+
+- [[PWA] 프로그레시브 웹 앱 시작하기 (1) - PWA란?](https://codevkr.tistory.com/85)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### Babel 
+
+- [바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자.](https://moonformeli.tistory.com/m/28)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -531,6 +562,15 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [Vim Cheat Sheet](https://vim.rtorr.com/lang/ko)
 - [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/?sfns=1)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### 디자인 패턴
+
+- [[번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
+
 
 <br/>
 
