@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
+- [구글, iframe 태그를 대체할 Portals 발표](https://m.clien.net/service/board/news/13485840)
 
 <br/>
 
