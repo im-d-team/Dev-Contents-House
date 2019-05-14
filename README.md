@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
+
 <br/>
 
 ## 📚 Category
