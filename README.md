@@ -9,7 +9,7 @@ Dev-Contents-House of Im-D
 - [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
 - [구글, iframe 태그를 대체할 Portals 발표](https://m.clien.net/service/board/news/13485840)
 - [기술 뉴스 #126 : 19-05-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1441)
-
+- [구글이 생각하는 검색 친화적 사이트는? (구글 웹마스터 컨퍼런스 후기)](http://ggang-m.me/google-webmaster-conference-seoul-review/)
 
 <br/>
 
