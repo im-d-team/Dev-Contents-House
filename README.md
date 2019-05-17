@@ -8,6 +8,8 @@ Dev-Contents-House of Im-D
 
 - [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
 - [구글, iframe 태그를 대체할 Portals 발표](https://m.clien.net/service/board/news/13485840)
+- [기술 뉴스 #126 : 19-05-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1441)
+
 
 <br/>
 
