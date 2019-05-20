@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [이슈 PR로 처리시 키워드](https://help.github.com/en/articles/closing-issues-using-keywords)
+
 <br/>
 
 ## 📚 Category
