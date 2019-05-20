@@ -6,13 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
-- [구글, iframe 태그를 대체할 Portals 발표](https://m.clien.net/service/board/news/13485840)
-- [기술 뉴스 #126 : 19-05-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1441)
-- [구글이 생각하는 검색 친화적 사이트는? (구글 웹마스터 컨퍼런스 후기)](http://ggang-m.me/google-webmaster-conference-seoul-review/)
-- [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
-- [구글 크롬 확장 프로그램 만들기](https://minwook-shin.github.io/chrome-extension/)
-
 <br/>
 
 ## 📚 Category
@@ -146,6 +139,11 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [평범한 개발자의 학습 요령](https://umanking.github.io/2019/05/09/developer-study/)
 - [구글I/O 2019](https://n.news.naver.com/article/293/0000024070)
 - [Chrome 75 Beta(Low Latency Canvas), Babylon.js 4.0(WebGL)](https://jser.info/ko/2019/05/07/chrome-75-betalow-latency-canvasbabylon.js-4.0webgl/)
+- [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
+- [구글, iframe 태그를 대체할 Portals 발표](https://m.clien.net/service/board/news/13485840)
+- [기술 뉴스 #126 : 19-05-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1441)
+- [구글이 생각하는 검색 친화적 사이트는? (구글 웹마스터 컨퍼런스 후기)](http://ggang-m.me/google-webmaster-conference-seoul-review/)
+- [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -307,6 +305,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Using JavaScript’s Bitwise Operators in Real Life](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
 - [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
 - [Simple Swipe with Vanilla JavaScript](https://css-tricks.com/simple-swipe-with-vanilla-javascript/)
+- [구글 크롬 확장 프로그램 만들기](https://minwook-shin.github.io/chrome-extension/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
