@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [V8 release v7.5 · V8](https://v8.dev/blog/v8-release-75)
 - [프론트엔드 성능 최적화 기본()](https://ideveloper2.tistory.com/173)
 - [크롬 네이티브 레이지 로딩](https://meetup.toast.com/posts/183)
+- [웹 성능 최적화에 필요한 브라우저의 모든 것](https://tv.naver.com/v/4578425)
 
 <br/>
 
