@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 - [이슈 PR로 처리시 키워드](https://help.github.com/en/articles/closing-issues-using-keywords)
 - [{ passive:true } 의 진정한 의미](https://amati.io/2019/05/20/eventlisteneroptions-passive-true/)
 - [V8 release v7.5 · V8](https://v8.dev/blog/v8-release-75)
+- [프론트엔드 성능 최적화 기본()](https://ideveloper2.tistory.com/173)
 
 <br/>
 
