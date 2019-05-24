@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [프론트엔드 성능 최적화 기본()](https://ideveloper2.tistory.com/173)
 - [크롬 네이티브 레이지 로딩](https://meetup.toast.com/posts/183)
 - [웹 성능 최적화에 필요한 브라우저의 모든 것](https://tv.naver.com/v/4578425)
+- [JavaScript’s Async/Await versus Promises: The Great Debate](https://itnext.io/javascripts-async-await-versus-promise-the-great-debate-6308cb2e10b3)
 
 <br/>
 
