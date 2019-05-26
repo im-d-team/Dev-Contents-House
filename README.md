@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [크롬 네이티브 레이지 로딩](https://meetup.toast.com/posts/183)
 - [웹 성능 최적화에 필요한 브라우저의 모든 것](https://tv.naver.com/v/4578425)
 - [JavaScript’s Async/Await versus Promises: The Great Debate](https://itnext.io/javascripts-async-await-versus-promise-the-great-debate-6308cb2e10b3)
+- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) / [브라우저는 어떻게 동작하는가? - 한글 번역](https://d2.naver.com/helloworld/59361)
 
 <br/>
 
@@ -474,7 +475,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ---
 
-### Babel 
+### Babel
 
 - [바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자.](https://moonformeli.tistory.com/m/28)
 
@@ -584,7 +585,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### 디자인 패턴
 
 - [[번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
-
 
 <br/>
 
