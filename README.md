@@ -6,15 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [이슈 PR로 처리시 키워드](https://help.github.com/en/articles/closing-issues-using-keywords)
-- [{ passive:true } 의 진정한 의미](https://amati.io/2019/05/20/eventlisteneroptions-passive-true/)
-- [V8 release v7.5 · V8](https://v8.dev/blog/v8-release-75)
-- [프론트엔드 성능 최적화 기본()](https://ideveloper2.tistory.com/173)
-- [크롬 네이티브 레이지 로딩](https://meetup.toast.com/posts/183)
-- [웹 성능 최적화에 필요한 브라우저의 모든 것](https://tv.naver.com/v/4578425)
-- [JavaScript’s Async/Await versus Promises: The Great Debate](https://itnext.io/javascripts-async-await-versus-promise-the-great-debate-6308cb2e10b3)
-- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) / [브라우저는 어떻게 동작하는가? - 한글 번역](https://d2.naver.com/helloworld/59361)
-
 <br/>
 
 ## 📚 Category
@@ -161,6 +152,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### Performance
 
 - [성능이 중요한 이유  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+- [프론트엔드 성능 최적화 기본()](https://ideveloper2.tistory.com/173)
+- [웹 성능 최적화에 필요한 브라우저의 모든 것](https://tv.naver.com/v/4578425)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -186,6 +180,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [GitHub 이미지 조절&정렬](https://blog.yena.io/studynote/2017/11/23/Github-resize-image.html)
 - [git과 github(youtube)](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX)
 - [git flow cheetsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
+- [이슈 PR로 처리시 키워드](https://help.github.com/en/articles/closing-issues-using-keywords)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -315,6 +310,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
 - [Simple Swipe with Vanilla JavaScript](https://css-tricks.com/simple-swipe-with-vanilla-javascript/)
 - [구글 크롬 확장 프로그램 만들기](https://minwook-shin.github.io/chrome-extension/)
+- [{ passive:true } 의 진정한 의미](https://amati.io/2019/05/20/eventlisteneroptions-passive-true/)
+- [JavaScript’s Async/Await versus Promises: The Great Debate](https://itnext.io/javascripts-async-await-versus-promise-the-great-debate-6308cb2e10b3)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -431,6 +428,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [최신 브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
 - [최신 브라우저의 내부 살펴보기 4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
+- [V8 release v7.5 · V8](https://v8.dev/blog/v8-release-75)
+- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) / [브라우저는 어떻게 동작하는가? - 한글 번역](https://d2.naver.com/helloworld/59361)
+- [크롬 네이티브 레이지 로딩](https://meetup.toast.com/posts/183)
 
 **[⬆ Top](#Dev-Contents-House)**
 
