@@ -8,6 +8,8 @@ Dev-Contents-House of Im-D
 
 - [어댑터 패턴 Adapter Pattern](https://dev-momo.tistory.com/entry/Adapter-Pattern-%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4)
 - [The online code editor for web dev](https://stackblitz.com/)
+- [Javascript ES6 Proxy](https://dev-momo.tistory.com/entry/javascript-ES6-Proxy)
+
 
 <br/>
 
