@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [자바스크립트에서 팩토리 함수란 무엇인가?](https://github.com/codepink/codepink.github.com/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%95%A8%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Frontend Focus](https://frontendfoc.us/)
+- [Node Weekly](https://nodeweekly.com/)
 
 <br/>
 
