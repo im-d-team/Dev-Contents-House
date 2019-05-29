@@ -16,6 +16,7 @@ Dev-Contents-House of Im-D
 - [Node Weekly](https://nodeweekly.com/)
 - [당신이 Promise를 사용해야만 하는 5가지 이유](https://github.com/codepink/codepink.github.com/wiki/July-11-July-15,-2016-:-%EB%8B%B9%EC%8B%A0%EC%9D%B4-Promise%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
 - [NSIS Modern User Interface](https://nsis.sourceforge.io/Docs/Modern%20UI/Readme.html)
+- [vim 유용한 단축키 정리](https://gmlwjd9405.github.io/2019/05/14/vim-shortkey.html)
 
 <br/>
 
