@@ -6,19 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [어댑터 패턴 Adapter Pattern](https://dev-momo.tistory.com/entry/Adapter-Pattern-%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4)
-- [The online code editor for web dev](https://stackblitz.com/)
-- [Javascript ES6 Proxy](https://dev-momo.tistory.com/entry/javascript-ES6-Proxy)
-- [스크롤과 관련된 CSS 속성 3가지 - 코드쓰는사람](https://taegon.kim/archives/9807)
-- [자바스크립트에서 팩토리 함수란 무엇인가?](https://github.com/codepink/codepink.github.com/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%95%A8%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F)
-- [JavaScript Weekly](https://javascriptweekly.com/)
-- [Frontend Focus](https://frontendfoc.us/)
-- [Node Weekly](https://nodeweekly.com/)
-- [당신이 Promise를 사용해야만 하는 5가지 이유](https://github.com/codepink/codepink.github.com/wiki/July-11-July-15,-2016-:-%EB%8B%B9%EC%8B%A0%EC%9D%B4-Promise%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
-- [NSIS Modern User Interface](https://nsis.sourceforge.io/Docs/Modern%20UI/Readme.html)
-- [vim 유용한 단축키 정리](https://gmlwjd9405.github.io/2019/05/14/vim-shortkey.html)
-- [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
-- [probot 블로그](https://blog.bglee.me/posts/2018/probot/)
 - [Code Formatting 자동화](https://jbee.io/web/formatting-code-automatically/)
 
 <br/>
@@ -159,6 +146,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [기술 뉴스 #126 : 19-05-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1441)
 - [구글이 생각하는 검색 친화적 사이트는? (구글 웹마스터 컨퍼런스 후기)](http://ggang-m.me/google-webmaster-conference-seoul-review/)
 - [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
+- [Frontend Focus](https://frontendfoc.us/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -204,6 +192,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### Node.js
 
 - [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
+- [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
+- [probot 블로그](https://blog.bglee.me/posts/2018/probot/)
+- [Node Weekly](https://nodeweekly.com/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -327,6 +318,10 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [구글 크롬 확장 프로그램 만들기](https://minwook-shin.github.io/chrome-extension/)
 - [{ passive:true } 의 진정한 의미](https://amati.io/2019/05/20/eventlisteneroptions-passive-true/)
 - [JavaScript’s Async/Await versus Promises: The Great Debate](https://itnext.io/javascripts-async-await-versus-promise-the-great-debate-6308cb2e10b3)
+- [Javascript ES6 Proxy](https://dev-momo.tistory.com/entry/javascript-ES6-Proxy)
+- [자바스크립트에서 팩토리 함수란 무엇인가?](https://github.com/codepink/codepink.github.com/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%95%A8%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F)
+- [JavaScript Weekly](https://javascriptweekly.com/)
+- [당신이 Promise를 사용해야만 하는 5가지 이유](https://github.com/codepink/codepink.github.com/wiki/July-11-July-15,-2016-:-%EB%8B%B9%EC%8B%A0%EC%9D%B4-Promise%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -348,6 +343,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [html.css - Code Search](https://cs.chromium.org/chromium/src/third_party/blink/renderer/core/html/resources/html.css)
 - [System Fonts in CSS • furbo.org](https://furbo.org/2018/03/28/system-fonts-in-css/)
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+- [스크롤과 관련된 CSS 속성 3가지 - 코드쓰는사람](https://taegon.kim/archives/9807)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -395,6 +391,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ### React
 
+- [The online code editor for web dev](https://stackblitz.com/)
 - [React의 기본, 컴포넌트를 알아보자-모두 알지만 잘 알지는 못하는 컴포넌트](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
 - [Hook을 쉽게 배워보자](https://usehooks.com/)
 - [React Hooks for daily use!](https://www.youtube.com/watch?v=sZDvByH2mNU&feature=youtu.be)
@@ -592,6 +589,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [Vim Cheat Sheet](https://vim.rtorr.com/lang/ko)
 - [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/?sfns=1)
+- [vim 유용한 단축키 정리](https://gmlwjd9405.github.io/2019/05/14/vim-shortkey.html)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -600,6 +598,15 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### 디자인 패턴
 
 - [[번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
+- [어댑터 패턴 Adapter Pattern](https://dev-momo.tistory.com/entry/Adapter-Pattern-%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### NSIS
+
+- [NSIS Modern User Interface](https://nsis.sourceforge.io/Docs/Modern%20UI/Readme.html)
 
 <br/>
 
