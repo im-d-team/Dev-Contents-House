@@ -19,6 +19,7 @@ Dev-Contents-House of Im-D
 - [vim 유용한 단축키 정리](https://gmlwjd9405.github.io/2019/05/14/vim-shortkey.html)
 - [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
 - [probot 블로그](https://blog.bglee.me/posts/2018/probot/)
+- [Code Formatting 자동화](https://jbee.io/web/formatting-code-automatically/)
 
 <br/>
 
