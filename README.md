@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 - [Code Formatting 자동화](https://jbee.io/web/formatting-code-automatically/)
 - [리액트의 Hooks 완벽 정복하기](https://velog.io/@velopert/react-hooks)
 - [CSS 애니메이션 성능 개선 방법(reflow 최소화, will-change 사용)](https://wit.nts-corp.com/2017/06/05/4571?fbclid=IwAR3uRkfyC6Wq8JcZy6Tu7-qkdy9xdzDXdQhr_F4rvc4MV2xwCSl5kjhN_Co)
+- [스터디 모임 방법 몇 가지 - 애자일](http://agile.egloos.com/m/5830026)
 
 <br/>
 
