@@ -6,29 +6,20 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [Code Formatting 자동화](https://jbee.io/web/formatting-code-automatically/)
-- [리액트의 Hooks 완벽 정복하기](https://velog.io/@velopert/react-hooks)
-- [CSS 애니메이션 성능 개선 방법(reflow 최소화, will-change 사용)](https://wit.nts-corp.com/2017/06/05/4571?fbclid=IwAR3uRkfyC6Wq8JcZy6Tu7-qkdy9xdzDXdQhr_F4rvc4MV2xwCSl5kjhN_Co)
-- [스터디 모임 방법 몇 가지 - 애자일](http://agile.egloos.com/m/5830026)
-- [꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
-- [예제로 배우는 GO 프로그래밍](http://golang.site/go/article/1-Go-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-%EC%86%8C%EA%B0%9C)
-- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
-- [그대로 따라해보기 좋은 react+node](https://backend-intro.vlpt.us)\
-- [[Git] 그림으로 배우는 Add, Commit의 원리](https://milooy.wordpress.com/2019/06/08/git-add-commit/)
 - ['When to useMemo and useCallback' 를 읽고](https://rinae.dev/posts/review-when-to-usememo-and-usecallback)
 
 <br/>
 
 ## 📚 Category
 
-### 1. [개발 일반](#1-개발-일반-1)
+### 1. [개발 일반](#1-개발-일반)
 
 - [개발 문화](#개발-문화)
 - [취업 정보](#취업-정보)
 - [개발 정보](#개발-정보)
 - [Performance](#Performance)
 
-### 2. [언어 & Tool](#2-언어--tool-1)
+### 2. [언어 & Tool](#2-언어-tool)
 
 - [GraphQL](#GraphQL)
 - [Git](#Git)
@@ -36,7 +27,7 @@ Dev-Contents-House of Im-D
 - [Java](#Java)
 - [이외](#이외)
 
-### 3. [FrontEnd](#3-frontend-1)
+### 3. [FrontEnd](#3-frontend)
 
 - [Javascript](#Javascript)
 - [CSS](#CSS)
@@ -53,7 +44,7 @@ Dev-Contents-House of Im-D
 - [PWA](#PWA)
 - [Babel](#Babel)
 
-### 4. [기타](#4-기타-1)
+### 4. [기타](#4-기타)
 
 - [Web](#Web)
 - [보안](#보안)
@@ -96,6 +87,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [러버덕 디버깅](https://medium.com/@codesquad_yoda/%EB%9F%AC%EB%B2%84%EB%8D%95-%EB%94%94%EB%B2%84%EA%B9%85-76c4e3fbef3c)
 - [코드리뷰, GitHub로 바로 적용하기](https://academy.realm.io/kr/posts/codereview-howto)
 - [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
+- [스터디 모임 방법 몇 가지 - 애자일](http://agile.egloos.com/m/5830026)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -156,6 +148,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [구글이 생각하는 검색 친화적 사이트는? (구글 웹마스터 컨퍼런스 후기)](http://ggang-m.me/google-webmaster-conference-seoul-review/)
 - [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
 - [Frontend Focus](https://frontendfoc.us/)
+- [Code Formatting 자동화](https://jbee.io/web/formatting-code-automatically/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -166,6 +159,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [성능이 중요한 이유  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 - [프론트엔드 성능 최적화 기본()](https://ideveloper2.tistory.com/173)
 - [웹 성능 최적화에 필요한 브라우저의 모든 것](https://tv.naver.com/v/4578425)
+- [CSS 애니메이션 성능 개선 방법(reflow 최소화, will-change 사용)](https://wit.nts-corp.com/2017/06/05/4571?fbclid=IwAR3uRkfyC6Wq8JcZy6Tu7-qkdy9xdzDXdQhr_F4rvc4MV2xwCSl5kjhN_Co)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -192,6 +186,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [git과 github(youtube)](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX)
 - [git flow cheetsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
 - [이슈 PR로 처리시 키워드](https://help.github.com/en/articles/closing-issues-using-keywords)
+- [[Git] 그림으로 배우는 Add, Commit의 원리](https://milooy.wordpress.com/2019/06/08/git-add-commit/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -427,6 +422,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [[번역] 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr)
 - [Intro to React Hooks(영상)](https://developers.facebook.com/videos/2019/intro-to-react-hooks/)
 - [Performance Profiling Your React App](https://www.telerik.com/blogs/performance-profiling-your-react-app)
+- [리액트의 Hooks 완벽 정복하기](https://velog.io/@velopert/react-hooks)
+- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+- [그대로 따라해보기 좋은 react+node](https://backend-intro.vlpt.us)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -482,6 +480,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### HTML
 
 - [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
+- [꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -562,6 +561,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [GOLANG TUTORIAL](https://1ambda.github.io/golang/golang-tutorial/)
 - [A Tour of Go](https://go-tour-kr.appspot.com/#3)
 - [Google’s Go Essentials For Node.js / JavaScript Developers](https://morioh.com/p/70a2ab2b1947/google-s-go-essentials-for-node-js-javascript-developers)
+- [예제로 배우는 GO 프로그래밍](http://golang.site/go/article/1-Go-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-%EC%86%8C%EA%B0%9C)
 
 **[⬆ Top](#Dev-Contents-House)**
 
