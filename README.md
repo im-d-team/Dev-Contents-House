@@ -15,6 +15,7 @@ Dev-Contents-House of Im-D
 - [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 - [그대로 따라해보기 좋은 react+node](https://backend-intro.vlpt.us)\
 - [[Git] 그림으로 배우는 Add, Commit의 원리](https://milooy.wordpress.com/2019/06/08/git-add-commit/)
+- ['When to useMemo and useCallback' 를 읽고](https://rinae.dev/posts/review-when-to-usememo-and-usecallback)
 
 <br/>
 
