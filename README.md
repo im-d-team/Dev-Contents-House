@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 - ['When to useMemo and useCallback' 를 읽고](https://rinae.dev/posts/review-when-to-usememo-and-usecallback)
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
+- [모바일 UI, UX 디자인시 고려해야 할 가이드라인](https://brunch.co.kr/@chulhochoiucj0/8)
 
 <br/>
 
