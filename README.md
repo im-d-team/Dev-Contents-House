@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
 - [모바일 UI, UX 디자인시 고려해야 할 가이드라인](https://brunch.co.kr/@chulhochoiucj0/8)
 - [Web Club :: CSS의 7가지 단위 - rem, vh, vw, vmin, vmax, ex, ch](https://webclub.tistory.com/356)
+- [2019년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4007447)
 
 <br/>
 
