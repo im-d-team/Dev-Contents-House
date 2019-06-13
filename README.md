@@ -14,6 +14,7 @@ Dev-Contents-House of Im-D
 - [종합 안내: Rem 그리고 Em, 언제 써야 할까](https://webdesign.tutsplus.com/ko/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 - [2019년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4007447)
 - [React.js Top 10 Articles for the Past Month (v.June 2019)](https://medium.com/@Mybridge/react-js-top-10-articles-for-the-past-month-v-june-2019-28a401045657)
+- [Chrome 75 Update](https://developers.google.com/web/updates/2019/06/nic75)
 
 <br/>
 
