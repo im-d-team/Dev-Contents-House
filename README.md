@@ -16,7 +16,7 @@ Dev-Contents-House of Im-D
 - [React.js Top 10 Articles for the Past Month (v.June 2019)](https://medium.com/@Mybridge/react-js-top-10-articles-for-the-past-month-v-june-2019-28a401045657)
 - [Chrome 75 Update](https://developers.google.com/web/updates/2019/06/nic75)
 - [[번역] 쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
-- [Why ['1', '7', '11'].map(parseInt) returns [1, NaN, 3] in Javascript” - “Why ['1', '7', '11'].map(parseInt) returns [1, NaN, 3] in Javascript](https://link.medium.com/knR7VXUWuX
+- [Why ['1', '7', '11'].map(parseInt) returns [1, NaN, 3] in Javascript](https://link.medium.com/knR7VXUWuX)
 
 <br/>
 
