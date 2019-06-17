@@ -6,18 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- ['When to useMemo and useCallback' 를 읽고](https://rinae.dev/posts/review-when-to-usememo-and-usecallback)
-- [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
-- [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
-- [모바일 UI, UX 디자인시 고려해야 할 가이드라인](https://brunch.co.kr/@chulhochoiucj0/8)
-- [Web Club :: CSS의 7가지 단위 - rem, vh, vw, vmin, vmax, ex, ch](https://webclub.tistory.com/356)
-- [종합 안내: Rem 그리고 Em, 언제 써야 할까](https://webdesign.tutsplus.com/ko/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
-- [2019년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4007447)
-- [React.js Top 10 Articles for the Past Month (v.June 2019)](https://medium.com/@Mybridge/react-js-top-10-articles-for-the-past-month-v-june-2019-28a401045657)
-- [Chrome 75 Update](https://developers.google.com/web/updates/2019/06/nic75)
-- [[번역] 쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
-- [Why ['1', '7', '11'].map(parseInt) returns [1, NaN, 3] in Javascript](https://link.medium.com/knR7VXUWuX)
-
 <br/>
 
 ## 📚 Category
@@ -170,6 +158,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [프론트엔드 성능 최적화 기본()](https://ideveloper2.tistory.com/173)
 - [웹 성능 최적화에 필요한 브라우저의 모든 것](https://tv.naver.com/v/4578425)
 - [CSS 애니메이션 성능 개선 방법(reflow 최소화, will-change 사용)](https://wit.nts-corp.com/2017/06/05/4571?fbclid=IwAR3uRkfyC6Wq8JcZy6Tu7-qkdy9xdzDXdQhr_F4rvc4MV2xwCSl5kjhN_Co)
+- [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
+- [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -228,6 +218,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### 이외
 
 - [hyper.js 3](https://hyper.is/blog)
+- [[번역] 쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -335,6 +326,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [자바스크립트에서 팩토리 함수란 무엇인가?](https://github.com/codepink/codepink.github.com/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%95%A8%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [당신이 Promise를 사용해야만 하는 5가지 이유](https://github.com/codepink/codepink.github.com/wiki/July-11-July-15,-2016-:-%EB%8B%B9%EC%8B%A0%EC%9D%B4-Promise%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
+- [Why ['1', '7', '11'].map(parseInt) returns [1, NaN, 3] in Javascript](https://link.medium.com/knR7VXUWuX)
+- [2019년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4007447)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -357,6 +350,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [System Fonts in CSS • furbo.org](https://furbo.org/2018/03/28/system-fonts-in-css/)
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [스크롤과 관련된 CSS 속성 3가지 - 코드쓰는사람](https://taegon.kim/archives/9807)
+- [모바일 UI, UX 디자인시 고려해야 할 가이드라인](https://brunch.co.kr/@chulhochoiucj0/8)
+- [Web Club :: CSS의 7가지 단위 - rem, vh, vw, vmin, vmax, ex, ch](https://webclub.tistory.com/356)
+- [종합 안내: Rem 그리고 Em, 언제 써야 할까](https://webdesign.tutsplus.com/ko/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -435,6 +431,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [리액트의 Hooks 완벽 정복하기](https://velog.io/@velopert/react-hooks)
 - [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 - [그대로 따라해보기 좋은 react+node](https://backend-intro.vlpt.us)
+- ['When to useMemo and useCallback' 를 읽고](https://rinae.dev/posts/review-when-to-usememo-and-usecallback)
+- [React.js Top 10 Articles for the Past Month (v.June 2019)](https://medium.com/@Mybridge/react-js-top-10-articles-for-the-past-month-v-june-2019-28a401045657)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -468,6 +466,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [Redux로의 카툰 안내서](https://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
 - [아마 이게 제일 이해하기 쉬울걸요? React + Redux 플로우의 이해](https://medium.com/@ca3rot/%EC%95%84%EB%A7%88-%EC%9D%B4%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%89%AC%EC%9A%B8%EA%B1%B8%EC%9A%94-react-redux-%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-1585e911a0a6)
+- [Chrome 75 Update](https://developers.google.com/web/updates/2019/06/nic75)
 
 **[⬆ Top](#Dev-Contents-House)**
 
