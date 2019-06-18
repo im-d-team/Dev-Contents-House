@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [JavaScript 클립보드 복사 구현하기](https://velog.io/@godori/js-clipboard-copy)
+
 <br/>
 
 ## 📚 Category
