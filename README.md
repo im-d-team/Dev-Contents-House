@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [JavaScript 클립보드 복사 구현하기](https://velog.io/@godori/js-clipboard-copy)
+- [텍스트 버튼은 사용성을 어떻게 해치는가?](https://brunch.co.kr/@monodream/22)
 
 <br/>
 
