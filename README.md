@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [JavaScript 클립보드 복사 구현하기](https://velog.io/@godori/js-clipboard-copy)
 - [텍스트 버튼은 사용성을 어떻게 해치는가?](https://brunch.co.kr/@monodream/22)
+- [함수형 프로그래밍 언어에 대한 고찰 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/functional-programing-language-and-line-game-cloud/)
 
 <br/>
 
