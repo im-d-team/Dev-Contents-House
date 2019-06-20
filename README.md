@@ -10,7 +10,7 @@ Dev-Contents-House of Im-D
 - [텍스트 버튼은 사용성을 어떻게 해치는가?](https://brunch.co.kr/@monodream/22)
 - [함수형 프로그래밍 언어에 대한 고찰 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/functional-programing-language-and-line-game-cloud/)
 - [[자바스크립트] 압축(Minify) / 난독화(Uglify)](https://12bme.tistory.com/357)
-
+- [30secondsofcode](https://30secondsofcode.org/index)
 <br/>
 
 ## 📚 Category
