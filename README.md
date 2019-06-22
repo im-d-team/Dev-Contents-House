@@ -12,7 +12,7 @@ Dev-Contents-House of Im-D
 - [[자바스크립트] 압축(Minify) / 난독화(Uglify)](https://12bme.tistory.com/357)
 - [30secondsofcode](https://30secondsofcode.org/index)
 - [소프트웨어 공학 - Scrum, Kanban 방법론](https://m.blog.naver.com/scw0531/221567406732)
-
+- [Web Components Tutorial for Beginners [2019]](https://www.robinwieruch.de/web-components-tutorial/)
 
 <br/>
 
