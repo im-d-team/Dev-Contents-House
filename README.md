@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [30secondsofcode](https://30secondsofcode.org/index)
 - [소프트웨어 공학 - Scrum, Kanban 방법론](https://m.blog.naver.com/scw0531/221567406732)
 - [Web Components Tutorial for Beginners [2019]](https://www.robinwieruch.de/web-components-tutorial/)
+- [Building Micro Frontends with React, Vue, and Single-spa](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)
 
 <br/>
 
