@@ -6,14 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [JavaScript 클립보드 복사 구현하기](https://velog.io/@godori/js-clipboard-copy)
-- [텍스트 버튼은 사용성을 어떻게 해치는가?](https://brunch.co.kr/@monodream/22)
-- [함수형 프로그래밍 언어에 대한 고찰 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/functional-programing-language-and-line-game-cloud/)
-- [[자바스크립트] 압축(Minify) / 난독화(Uglify)](https://12bme.tistory.com/357)
-- [30secondsofcode](https://30secondsofcode.org/index)
-- [소프트웨어 공학 - Scrum, Kanban 방법론](https://m.blog.naver.com/scw0531/221567406732)
-- [Web Components Tutorial for Beginners [2019]](https://www.robinwieruch.de/web-components-tutorial/)
-- [Building Micro Frontends with React, Vue, and Single-spa](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)
 - [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV/view)
 - [Basic monads in Javascript](https://dev.to/rametta/basic-monads-in-javascript-3el3)
 
@@ -158,6 +150,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
 - [Frontend Focus](https://frontendfoc.us/)
 - [Code Formatting 자동화](https://jbee.io/web/formatting-code-automatically/)
+- [Building Micro Frontends with React, Vue, and Single-spa](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -171,6 +164,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [CSS 애니메이션 성능 개선 방법(reflow 최소화, will-change 사용)](https://wit.nts-corp.com/2017/06/05/4571?fbclid=IwAR3uRkfyC6Wq8JcZy6Tu7-qkdy9xdzDXdQhr_F4rvc4MV2xwCSl5kjhN_Co)
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
+- [소프트웨어 공학 - Scrum, Kanban 방법론](https://m.blog.naver.com/scw0531/221567406732)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -339,6 +334,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [당신이 Promise를 사용해야만 하는 5가지 이유](https://github.com/codepink/codepink.github.com/wiki/July-11-July-15,-2016-:-%EB%8B%B9%EC%8B%A0%EC%9D%B4-Promise%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
 - [Why ['1', '7', '11'].map(parseInt) returns [1, NaN, 3] in Javascript](https://link.medium.com/knR7VXUWuX)
 - [2019년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4007447)
+- [Web Components Tutorial for Beginners [2019]](https://www.robinwieruch.de/web-components-tutorial/)
+- [[자바스크립트] 압축(Minify) / 난독화(Uglify)](https://12bme.tistory.com/357)
+- [30secondsofcode](https://30secondsofcode.org/index)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -364,6 +362,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [모바일 UI, UX 디자인시 고려해야 할 가이드라인](https://brunch.co.kr/@chulhochoiucj0/8)
 - [Web Club :: CSS의 7가지 단위 - rem, vh, vw, vmin, vmax, ex, ch](https://webclub.tistory.com/356)
 - [종합 안내: Rem 그리고 Em, 언제 써야 할까](https://webdesign.tutsplus.com/ko/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
+- [JavaScript 클립보드 복사 구현하기](https://velog.io/@godori/js-clipboard-copy)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -392,6 +391,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [함수형 프로그래머가 되고 싶다고? (Part 1)](<https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1)>)
 - [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 - [Javascript and Functional Programming: An Introduction](https://morioh.com/p/a24614b5545b/javascript-and-functional-programming-an-introduction)
+- [함수형 프로그래밍 언어에 대한 고찰 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/functional-programing-language-and-line-game-cloud/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -501,6 +501,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
 - [꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
+- [텍스트 버튼은 사용성을 어떻게 해치는가?](https://brunch.co.kr/@monodream/22)
 
 **[⬆ Top](#Dev-Contents-House)**
 
