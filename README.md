@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV/view)
 - [Basic monads in Javascript](https://dev.to/rametta/basic-monads-in-javascript-3el3)
+- [JavaScript can do that?](https://morioh.com/p/ca6f1b686dd0/javascript-can-do-that)
 
 <br/>
 
