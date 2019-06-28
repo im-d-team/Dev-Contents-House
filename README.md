@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [[면접] 개발자 면접관을 감동시키는 면접](http://blog.hwang.gg/20190627/)
 - [Navigating code on GitHub](https://help.github.com/en/articles/navigating-code-on-github)
 - [[NodeJS] 모두 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
+- [[영상]JS개발자라면 알아야하는 핵심 컨셉 - setTimeout, setInterval, rAF](https://youtu.be/JaHlR1IGLN8)
 
 <br/>
 
