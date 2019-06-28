@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [JavaScript can do that?](https://morioh.com/p/ca6f1b686dd0/javascript-can-do-that)
 - [[면접] 개발자 면접관을 감동시키는 면접](http://blog.hwang.gg/20190627/)
 - [Navigating code on GitHub](https://help.github.com/en/articles/navigating-code-on-github)
+- [[NodeJS] 모두 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
 
 <br/>
 
