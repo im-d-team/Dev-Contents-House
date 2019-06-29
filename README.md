@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [Navigating code on GitHub](https://help.github.com/en/articles/navigating-code-on-github)
 - [[NodeJS] 모두 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
 - [[영상]JS개발자라면 알아야하는 핵심 컨셉 - setTimeout, setInterval, rAF](https://youtu.be/JaHlR1IGLN8)
+- [React를 실질적으로 제어하는 updater](https://wonism.github.io/react-updater/)
 
 <br/>
 
