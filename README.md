@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [이미지 최적화 자동화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
+- [실행 취소 / 다시 실행 기능 구현하기](https://blog.coderifleman.com/2019/06/29/create-the-undo-redo-feature/)
 
 <br/>
 
