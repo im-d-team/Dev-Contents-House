@@ -6,14 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV/view)
-- [Basic monads in Javascript](https://dev.to/rametta/basic-monads-in-javascript-3el3)
-- [JavaScript can do that?](https://morioh.com/p/ca6f1b686dd0/javascript-can-do-that)
-- [[면접] 개발자 면접관을 감동시키는 면접](http://blog.hwang.gg/20190627/)
-- [Navigating code on GitHub](https://help.github.com/en/articles/navigating-code-on-github)
-- [[NodeJS] 모두 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
-- [[영상]JS개발자라면 알아야하는 핵심 컨셉 - setTimeout, setInterval, rAF](https://youtu.be/JaHlR1IGLN8)
-- [React를 실질적으로 제어하는 updater](https://wonism.github.io/react-updater/)
 - [이미지 최적화 자동화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
 
 <br/>
@@ -110,6 +102,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [삼성 청년 SW 아카데미](https://www.ssafy.com/)
 - [NCSoft - 채용공고](https://recruit.ncsoft.net/korean/careers/adoptionview.aspx?BID=&BC=&SYear=&SType=&SWord=&PNo=1&d1=1&d2=0&BNo=7277&Section=)
 - [해외 취업 - 신입 웹 개발자의 싱가포르 상륙기](https://sujinlee.me/how-i-landed-my-dream-job-in-sg/)
+- [[면접] 개발자 면접관을 감동시키는 면접](http://blog.hwang.gg/20190627/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -200,6 +193,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [git flow cheetsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
 - [이슈 PR로 처리시 키워드](https://help.github.com/en/articles/closing-issues-using-keywords)
 - [[Git] 그림으로 배우는 Add, Commit의 원리](https://milooy.wordpress.com/2019/06/08/git-add-commit/)
+- [Navigating code on GitHub](https://help.github.com/en/articles/navigating-code-on-github)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -211,6 +205,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
 - [probot 블로그](https://blog.bglee.me/posts/2018/probot/)
 - [Node Weekly](https://nodeweekly.com/)
+- [[NodeJS] 모두 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -344,6 +339,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Web Components Tutorial for Beginners [2019]](https://www.robinwieruch.de/web-components-tutorial/)
 - [[자바스크립트] 압축(Minify) / 난독화(Uglify)](https://12bme.tistory.com/357)
 - [30secondsofcode](https://30secondsofcode.org/index)
+- [[영상]JS개발자라면 알아야하는 핵심 컨셉 - setTimeout, setInterval, rAF](https://youtu.be/JaHlR1IGLN8)
+- [Basic monads in Javascript](https://dev.to/rametta/basic-monads-in-javascript-3el3)
+- [JavaScript can do that?](https://morioh.com/p/ca6f1b686dd0/javascript-can-do-that)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -451,6 +449,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [그대로 따라해보기 좋은 react+node](https://backend-intro.vlpt.us)
 - ['When to useMemo and useCallback' 를 읽고](https://rinae.dev/posts/review-when-to-usememo-and-usecallback)
 - [React.js Top 10 Articles for the Past Month (v.June 2019)](https://medium.com/@Mybridge/react-js-top-10-articles-for-the-past-month-v-june-2019-28a401045657)
+- [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV/view)
+- [React를 실질적으로 제어하는 updater](https://wonism.github.io/react-updater/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
