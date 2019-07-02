@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [이미지 최적화 자동화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
 - [실행 취소 / 다시 실행 기능 구현하기](https://blog.coderifleman.com/2019/06/29/create-the-undo-redo-feature/)
+- [Dan Abramov: Beyond React 16 | JSConf Iceland 2018](https://www.youtube.com/watch?v=nLF0n9SACd4&feature=youtu.be)
 
 <br/>
 
