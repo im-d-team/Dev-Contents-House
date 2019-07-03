@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 - [이미지 최적화 자동화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
 - [실행 취소 / 다시 실행 기능 구현하기](https://blog.coderifleman.com/2019/06/29/create-the-undo-redo-feature/)
 - [Dan Abramov: Beyond React 16 | JSConf Iceland 2018](https://www.youtube.com/watch?v=nLF0n9SACd4&feature=youtu.be)
+- [Handing JavaScript events efficiently with bubble and capture](https://dev.to/shimphillip/handing-javascript-events-efficiently-with-bubble-and-capture-4ha5)
 
 <br/>
 
@@ -167,7 +168,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
 - [소프트웨어 공학 - Scrum, Kanban 방법론](https://m.blog.naver.com/scw0531/221567406732)
-
 
 **[⬆ Top](#Dev-Contents-House)**
 
