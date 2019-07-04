@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [Dan Abramov: Beyond React 16 | JSConf Iceland 2018](https://www.youtube.com/watch?v=nLF0n9SACd4&feature=youtu.be)
 - [Handing JavaScript events efficiently with bubble and capture](https://dev.to/shimphillip/handing-javascript-events-efficiently-with-bubble-and-capture-4ha5)
 - [Chrome을 vim처럼 조작해보자](https://vimium.github.io/)
+- [Toast에서 공개한 FE Guide](https://ui.toast.com/fe-guide/ko/)
 
 <br/>
 
