@@ -14,6 +14,7 @@ Dev-Contents-House of Im-D
 - [Toast에서 공개한 FE Guide](https://ui.toast.com/fe-guide/ko/)
 - [Haunted: Hooks for Web Components](https://css-tricks.com/haunted-hooks-for-web-components/)
 - [How to Use the Observable Pattern in JavaScript](https://webdevstudios.com/2019/02/19/observable-pattern-in-javascript/)
+- [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html?fbclid=IwAR2qRAz5-XzW3G9u1ZMP1R-KH5kGK6k_frJ2ZJAapGpEkduRI8C34mx39kM)
 
 <br/>
 
