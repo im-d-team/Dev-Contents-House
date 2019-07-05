@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [Chrome을 vim처럼 조작해보자](https://vimium.github.io/)
 - [Toast에서 공개한 FE Guide](https://ui.toast.com/fe-guide/ko/)
 - [Haunted: Hooks for Web Components](https://css-tricks.com/haunted-hooks-for-web-components/)
+- [How to Use the Observable Pattern in JavaScript](https://webdevstudios.com/2019/02/19/observable-pattern-in-javascript/)
 
 <br/>
 
