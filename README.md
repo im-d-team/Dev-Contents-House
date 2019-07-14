@@ -17,6 +17,7 @@ Dev-Contents-House of Im-D
 - [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html?fbclid=IwAR2qRAz5-XzW3G9u1ZMP1R-KH5kGK6k_frJ2ZJAapGpEkduRI8C34mx39kM)
 - [Menus with "Dynamic Hit Areas"](https://css-tricks.com/menus-with-dynamic-hit-areas/)
 - [Advanced React & GraphQL](https://advancedreact.com/)
+- [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 
 <br/>
 
