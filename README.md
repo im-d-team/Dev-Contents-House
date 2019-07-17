@@ -6,19 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [이미지 최적화 자동화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
-- [실행 취소 / 다시 실행 기능 구현하기](https://blog.coderifleman.com/2019/06/29/create-the-undo-redo-feature/)
-- [Dan Abramov: Beyond React 16 | JSConf Iceland 2018](https://www.youtube.com/watch?v=nLF0n9SACd4&feature=youtu.be)
-- [Handing JavaScript events efficiently with bubble and capture](https://dev.to/shimphillip/handing-javascript-events-efficiently-with-bubble-and-capture-4ha5)
-- [Chrome을 vim처럼 조작해보자](https://vimium.github.io/)
-- [Toast에서 공개한 FE Guide](https://ui.toast.com/fe-guide/ko/)
-- [Haunted: Hooks for Web Components](https://css-tricks.com/haunted-hooks-for-web-components/)
-- [How to Use the Observable Pattern in JavaScript](https://webdevstudios.com/2019/02/19/observable-pattern-in-javascript/)
-- [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html?fbclid=IwAR2qRAz5-XzW3G9u1ZMP1R-KH5kGK6k_frJ2ZJAapGpEkduRI8C34mx39kM)
-- [Menus with "Dynamic Hit Areas"](https://css-tricks.com/menus-with-dynamic-hit-areas/)
-- [Advanced React & GraphQL](https://advancedreact.com/)
-- [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
-
 <br/>
 
 ## 📚 Category
@@ -162,6 +149,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Frontend Focus](https://frontendfoc.us/)
 - [Code Formatting 자동화](https://jbee.io/web/formatting-code-automatically/)
 - [Building Micro Frontends with React, Vue, and Single-spa](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)
+- [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html?fbclid=IwAR2qRAz5-XzW3G9u1ZMP1R-KH5kGK6k_frJ2ZJAapGpEkduRI8C34mx39kM)
+- [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -237,6 +226,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [hyper.js 3](https://hyper.is/blog)
 - [[번역] 쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
+- [Chrome을 vim처럼 조작해보자](https://vimium.github.io/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -352,6 +342,13 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [[영상]JS개발자라면 알아야하는 핵심 컨셉 - setTimeout, setInterval, rAF](https://youtu.be/JaHlR1IGLN8)
 - [Basic monads in Javascript](https://dev.to/rametta/basic-monads-in-javascript-3el3)
 - [JavaScript can do that?](https://morioh.com/p/ca6f1b686dd0/javascript-can-do-that)
+- [이미지 최적화 자동화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
+- [실행 취소 / 다시 실행 기능 구현하기](https://blog.coderifleman.com/2019/06/29/create-the-undo-redo-feature/)
+- [Dan Abramov: Beyond React 16 | JSConf Iceland 2018](https://www.youtube.com/watch?v=nLF0n9SACd4&feature=youtu.be)
+- [Handing JavaScript events efficiently with bubble and capture](https://dev.to/shimphillip/handing-javascript-events-efficiently-with-bubble-and-capture-4ha5)
+- [Haunted: Hooks for Web Components](https://css-tricks.com/haunted-hooks-for-web-components/)
+- [Menus with "Dynamic Hit Areas"](https://css-tricks.com/menus-with-dynamic-hit-areas/)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -461,6 +458,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [React.js Top 10 Articles for the Past Month (v.June 2019)](https://medium.com/@Mybridge/react-js-top-10-articles-for-the-past-month-v-june-2019-28a401045657)
 - [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV/view)
 - [React를 실질적으로 제어하는 updater](https://wonism.github.io/react-updater/)
+- [Advanced React & GraphQL](https://advancedreact.com/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -553,6 +551,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [웹팩의 기본 개념](http://jeonghwan-kim.github.io/js/2017/05/15/webpack.html)
 - [Babel | PoiemaWeb](https://poiemaweb.com/es6-babel-webpack-1)
 - [Webpack 4와 babel 7으로 react개발환경 셋업하기 – Clyde – Medium](https://medium.com/@benjaminwoojang/webpack-4%EC%99%80-babel-7%EC%9C%BC%EB%A1%9C-react%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%85%8B%EC%97%85%ED%95%98%EA%B8%B0-340e00d2760b))
+- [Toast에서 공개한 FE Guide](https://ui.toast.com/fe-guide/ko/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -645,6 +644,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [[번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
 - [어댑터 패턴 Adapter Pattern](https://dev-momo.tistory.com/entry/Adapter-Pattern-%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4)
+- [How to Use the Observable Pattern in JavaScript](https://webdevstudios.com/2019/02/19/observable-pattern-in-javascript/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
