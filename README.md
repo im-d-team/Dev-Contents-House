@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [AMP 그게 뭐야?](https://velog.io/@hongku/AMP-hnjy58td1h)
+
 <br/>
 
 ## 📚 Category
