@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [AMP 그게 뭐야?](https://velog.io/@hongku/AMP-hnjy58td1h)
+- [프레임워크와 라이브러리 차이점 ? 비교? 정의](https://velog.io/@naynara/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EB%B9%84%EA%B5%90-%EC%A0%95%EC%9D%98)
 
 <br/>
 
