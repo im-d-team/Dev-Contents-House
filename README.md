@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [10 top Programming Languages in 2019 for developers](https://codeburst.io/10-top-programming-languages-in-2019-for-developers-a2921798d652)
+
 <br/>
 
 ## 📚 Category
@@ -545,7 +547,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [AMP 그게 뭐야?](https://velog.io/@hongku/AMP-hnjy58td1h)
 
 **[⬆ Top](#Dev-Contents-House)**
-
 ---
 
 <br/>
