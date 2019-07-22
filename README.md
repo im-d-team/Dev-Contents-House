@@ -6,11 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [AMP 그게 뭐야?](https://velog.io/@hongku/AMP-hnjy58td1h)
-- [프레임워크와 라이브러리 차이점 ? 비교? 정의](https://velog.io/@naynara/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EB%B9%84%EA%B5%90-%EC%A0%95%EC%9D%98)
-- [리액트 아폴로(React Apollo) 리덕스와 무엇이 다른가?!](https://medium.com/@shlee1353/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%95%84%ED%8F%B4%EB%A1%9C-react-apollo-%EB%A6%AC%EB%8D%95%EC%8A%A4%EC%99%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-a4bfdb48bbc)
-- [웹폰트 적용에서 최적화까지](https://armadillo-dev.github.io/html/css/webfont-optimize/)
-
 <br/>
 
 ## 📚 Category
@@ -46,6 +41,7 @@ Dev-Contents-House of Im-D
 - [HTML](#HTML)
 - [PWA](#PWA)
 - [Babel](#Babel)
+- [AMP](#AMP)
 
 ### 4. [기타](#4-기타)
 
@@ -170,6 +166,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
 - [소프트웨어 공학 - Scrum, Kanban 방법론](https://m.blog.naver.com/scw0531/221567406732)
+- [웹폰트 적용에서 최적화까지](https://armadillo-dev.github.io/html/css/webfont-optimize/)
+- [프레임워크와 라이브러리 차이점 ? 비교? 정의](https://velog.io/@naynara/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EB%B9%84%EA%B5%90-%EC%A0%95%EC%9D%98)  
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -464,6 +462,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV/view)
 - [React를 실질적으로 제어하는 updater](https://wonism.github.io/react-updater/)
 - [Advanced React & GraphQL](https://advancedreact.com/)
+- [리액트 아폴로(React Apollo) 리덕스와 무엇이 다른가?!](https://medium.com/@shlee1353/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%95%84%ED%8F%B4%EB%A1%9C-react-apollo-%EB%A6%AC%EB%8D%95%EC%8A%A4%EC%99%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-a4bfdb48bbc)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -538,6 +537,12 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### Babel
 
 - [바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자.](https://moonformeli.tistory.com/m/28)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+### AMP
+
+- [AMP 그게 뭐야?](https://velog.io/@hongku/AMP-hnjy58td1h)
 
 **[⬆ Top](#Dev-Contents-House)**
 
