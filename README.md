@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [10 top Programming Languages in 2019 for developers](https://codeburst.io/10-top-programming-languages-in-2019-for-developers-a2921798d652)
+- [2019년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8786166)
 
 <br/>
 
