@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [모두를 위한 접근성](https://medium.com/@euncho/%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%91%EA%B7%BC%EC%84%B1-cd2045b70f02)
+
 <br/>
 
 ## 📚 Category
