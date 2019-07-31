@@ -6,9 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [10 top Programming Languages in 2019 for developers](https://codeburst.io/10-top-programming-languages-in-2019-for-developers-a2921798d652)
-- [2019년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8786166)
-
 <br/>
 
 ## 📚 Category
@@ -155,6 +152,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Building Micro Frontends with React, Vue, and Single-spa](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)
 - [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html?fbclid=IwAR2qRAz5-XzW3G9u1ZMP1R-KH5kGK6k_frJ2ZJAapGpEkduRI8C34mx39kM)
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+- [10 top Programming Languages in 2019 for developers](https://codeburst.io/10-top-programming-languages-in-2019-for-developers-a2921798d652)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -354,7 +352,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Handing JavaScript events efficiently with bubble and capture](https://dev.to/shimphillip/handing-javascript-events-efficiently-with-bubble-and-capture-4ha5)
 - [Haunted: Hooks for Web Components](https://css-tricks.com/haunted-hooks-for-web-components/)
 - [Menus with "Dynamic Hit Areas"](https://css-tricks.com/menus-with-dynamic-hit-areas/)
-
+- [2019년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8786166)
 
 **[⬆ Top](#Dev-Contents-House)**
 
