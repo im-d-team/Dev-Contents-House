@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [모두를 위한 접근성](https://medium.com/@euncho/%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%91%EA%B7%BC%EC%84%B1-cd2045b70f02)
+- [남다른 개선방법을 다시 보여준 페이스북의 React Fiber](https://medium.com/@codesquad_yoda/%EB%82%A8%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EC%84%A0%EB%B0%A9%EB%B2%95%EC%9D%84-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EC%97%AC%EC%A4%80-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%9D%98-react-fiber-80b7ca5bd9bb)
 
 <br/>
 
