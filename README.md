@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/0145894)
 - [React 렌더링 이해 및 최적화 (With Hook)](https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849)
 - [JavaScript의 함수는 1급 객체(first class object)이다](https://bestalign.github.io/2015/10/18/first-class-object/)
+- [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
 
 <br/>
 
