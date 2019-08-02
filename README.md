@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [모두를 위한 접근성](https://medium.com/@euncho/%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%91%EA%B7%BC%EC%84%B1-cd2045b70f02)
 - [남다른 개선방법을 다시 보여준 페이스북의 React Fiber](https://medium.com/@codesquad_yoda/%EB%82%A8%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EC%84%A0%EB%B0%A9%EB%B2%95%EC%9D%84-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EC%97%AC%EC%A4%80-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%9D%98-react-fiber-80b7ca5bd9bb)
+- [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/0145894)
 
 <br/>
 
@@ -171,7 +172,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
 - [소프트웨어 공학 - Scrum, Kanban 방법론](https://m.blog.naver.com/scw0531/221567406732)
 - [웹폰트 적용에서 최적화까지](https://armadillo-dev.github.io/html/css/webfont-optimize/)
-- [프레임워크와 라이브러리 차이점 ? 비교? 정의](https://velog.io/@naynara/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EB%B9%84%EA%B5%90-%EC%A0%95%EC%9D%98)  
+- [프레임워크와 라이브러리 차이점 ? 비교? 정의](https://velog.io/@naynara/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EB%B9%84%EA%B5%90-%EC%A0%95%EC%9D%98)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -548,8 +549,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [AMP 그게 뭐야?](https://velog.io/@hongku/AMP-hnjy58td1h)
 
-**[⬆ Top](#Dev-Contents-House)**
----
+## **[⬆ Top](#Dev-Contents-House)**
 
 <br/>
 
