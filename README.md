@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [JavaScript의 함수는 1급 객체(first class object)이다](https://bestalign.github.io/2015/10/18/first-class-object/)
 - [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
 - [제너레이터와 async/awit - poiemaweb](https://poiemaweb.com/es6-generator)
+- [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/#%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%94%EC%A7%84-%EB%82%B4%EB%B6%80%EC%97%90-%EC%9E%88%EB%8B%A4)
 
 <br/>
 
