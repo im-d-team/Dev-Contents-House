@@ -6,16 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [모두를 위한 접근성](https://medium.com/@euncho/%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%91%EA%B7%BC%EC%84%B1-cd2045b70f02)
-- [남다른 개선방법을 다시 보여준 페이스북의 React Fiber](https://medium.com/@codesquad_yoda/%EB%82%A8%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EC%84%A0%EB%B0%A9%EB%B2%95%EC%9D%84-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EC%97%AC%EC%A4%80-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%9D%98-react-fiber-80b7ca5bd9bb)
-- [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/0145894)
-- [React 렌더링 이해 및 최적화 (With Hook)](https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849)
-- [JavaScript의 함수는 1급 객체(first class object)이다](https://bestalign.github.io/2015/10/18/first-class-object/)
-- [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
-- [제너레이터와 async/awit - poiemaweb](https://poiemaweb.com/es6-generator)
-- [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/#%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%94%EC%A7%84-%EB%82%B4%EB%B6%80%EC%97%90-%EC%9E%88%EB%8B%A4)
-- [ES6 Iterator, Iterable 쉽게 이해하기](https://brunch.co.kr/@nujabes403/9)
-
 <br/>
 
 ## 📚 Category
@@ -219,6 +209,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [probot 블로그](https://blog.bglee.me/posts/2018/probot/)
 - [Node Weekly](https://nodeweekly.com/)
 - [[NodeJS] 모두 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
+- [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/#%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%94%EC%A7%84-%EB%82%B4%EB%B6%80%EC%97%90-%EC%9E%88%EB%8B%A4)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -363,6 +354,11 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Haunted: Hooks for Web Components](https://css-tricks.com/haunted-hooks-for-web-components/)
 - [Menus with "Dynamic Hit Areas"](https://css-tricks.com/menus-with-dynamic-hit-areas/)
 - [2019년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8786166)
+- [JavaScript의 함수는 1급 객체(first class object)이다](https://bestalign.github.io/2015/10/18/first-class-object/)
+- [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
+- [제너레이터와 async/awit - poiemaweb](https://poiemaweb.com/es6-generator)
+- [ES6 Iterator, Iterable 쉽게 이해하기](https://brunch.co.kr/@nujabes403/9)
+- [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/0145894)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -484,6 +480,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [typescript-book](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 - [TypeScript at Google(번역)](https://hyunseob.github.io/2018/11/27/typescript-at-google/), [원글](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
 - [타입스크립트 3.0 – Huiseoul Engineering](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
+- [남다른 개선방법을 다시 보여준 페이스북의 React Fiber](https://medium.com/@codesquad_yoda/%EB%82%A8%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EC%84%A0%EB%B0%A9%EB%B2%95%EC%9D%84-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EC%97%AC%EC%A4%80-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%9D%98-react-fiber-80b7ca5bd9bb)
+- [React 렌더링 이해 및 최적화 (With Hook)](https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -571,6 +569,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Babel | PoiemaWeb](https://poiemaweb.com/es6-babel-webpack-1)
 - [Webpack 4와 babel 7으로 react개발환경 셋업하기 – Clyde – Medium](https://medium.com/@benjaminwoojang/webpack-4%EC%99%80-babel-7%EC%9C%BC%EB%A1%9C-react%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%85%8B%EC%97%85%ED%95%98%EA%B8%B0-340e00d2760b))
 - [Toast에서 공개한 FE Guide](https://ui.toast.com/fe-guide/ko/)
+- [모두를 위한 접근성](https://medium.com/@euncho/%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%91%EA%B7%BC%EC%84%B1-cd2045b70f02)
 
 **[⬆ Top](#Dev-Contents-House)**
 
