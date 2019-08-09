@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 - [플러터를 빠르게 배우기 좋은 4개의 사이트 :: 소프트웨어 이야기](https://software-creator.tistory.com/11)
 - [Flutter Docs](https://flutter.dev/docs/get-started/install)
 - [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
+- [Typescript가 두려운 당신에게 | 연애의 과학 팀 블로그](https://blog.scienceoflove.co.kr/why-typescript/)
 
 <br/>
 
