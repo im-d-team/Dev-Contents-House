@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 - [Typescript가 두려운 당신에게 | 연애의 과학 팀 블로그](https://blog.scienceoflove.co.kr/why-typescript/)
 - [13 useful JavaScript array tips and tricks you should know](https://www.blog.duomly.com/13-useful-javascript-array-tips-and-tricks-you-should-know/)
+- [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 2](https://d2.naver.com/helloworld/2108442)
 
 <br/>
 
