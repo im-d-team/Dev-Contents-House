@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [Typescript가 두려운 당신에게 | 연애의 과학 팀 블로그](https://blog.scienceoflove.co.kr/why-typescript/)
 - [13 useful JavaScript array tips and tricks you should know](https://www.blog.duomly.com/13-useful-javascript-array-tips-and-tricks-you-should-know/)
 - [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 2](https://d2.naver.com/helloworld/2108442)
+- [What is the maximum size of a URL? Does it depend on the browser being used?](https://www.programmerinterview.com/general-miscellaneous/url-size-limit/)
 
 <br/>
 
