@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [WebRTC에 대해서](https://asfirstalways.tistory.com/306)
 - [WebRTC Sample](https://webrtc.github.io/samples/)
 - [Run the React Router v4 Examples with Create React App](https://egghead.io/lessons/react-run-the-react-router-v4-examples-with-create-react-app)
+- [GraphQL is not just a network protocol](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
 
 <br/>
 
