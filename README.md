@@ -12,7 +12,7 @@ Dev-Contents-House of Im-D
 - [WebRTC Sample](https://webrtc.github.io/samples/)
 - [Run the React Router v4 Examples with Create React App](https://egghead.io/lessons/react-run-the-react-router-v4-examples-with-create-react-app)
 - [GraphQL is not just a network protocol](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
-
+- [야놀자를 떠나며... (feat. 레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/#disqus_thread)
 <br/>
 
 ## 📚 Category
