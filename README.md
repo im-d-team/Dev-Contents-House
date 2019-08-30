@@ -16,6 +16,7 @@ Dev-Contents-House of Im-D
 - [구글에서도 사용하는 버전관리 방법론](https://semver.org/lang/ko/)
 - [머신러닝 단기집중과정 - 구글 colab](https://developers.google.com/machine-learning/crash-course/)
 - [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/)
+- [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
 
 
 <br/>
