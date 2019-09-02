@@ -17,7 +17,7 @@ Dev-Contents-House of Im-D
 - [머신러닝 단기집중과정 - 구글 colab](https://developers.google.com/machine-learning/crash-course/)
 - [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/)
 - [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
-
+- [우리 팀에서도 코드리뷰를 할 수 있을까? - deview](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=EAF9A0EAEB4A46AA875369B32F1489A145C7&outKey=V1264af6231ec0c6f31ea81b461ba01388fe35295f179d45518af81b461ba01388fe3&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
 
 <br/>
 
