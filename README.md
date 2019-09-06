@@ -6,18 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [How I use the Chrome Performance Panel (Part 1)](https://medium.com/@euncho/how-i-used-chrome-performance-panel-part-1-765771ec0393)
-- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
-- [WebRTC에 대해서](https://asfirstalways.tistory.com/306)
-- [WebRTC Sample](https://webrtc.github.io/samples/)
-- [Run the React Router v4 Examples with Create React App](https://egghead.io/lessons/react-run-the-react-router-v4-examples-with-create-react-app)
-- [GraphQL is not just a network protocol](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
-- [야놀자를 떠나며... (feat. 레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/#disqus_thread)
-- [구글에서도 사용하는 버전관리 방법론](https://semver.org/lang/ko/)
-- [머신러닝 단기집중과정 - 구글 colab](https://developers.google.com/machine-learning/crash-course/)
-- [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/)
-- [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
-- [우리 팀에서도 코드리뷰를 할 수 있을까? - deview](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=EAF9A0EAEB4A46AA875369B32F1489A145C7&outKey=V1264af6231ec0c6f31ea81b461ba01388fe35295f179d45518af81b461ba01388fe3&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
 - [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 
 <br/>
@@ -72,6 +60,7 @@ Dev-Contents-House of Im-D
 - [디자인 패턴](#디자인-패턴)
 - [NSIS](#NSIS)
 - [Flutter](#Flutter)
+- [ML](#ML)
 
 <br/>
 
@@ -103,6 +92,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [코드리뷰, GitHub로 바로 적용하기](https://academy.realm.io/kr/posts/codereview-howto)
 - [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
 - [스터디 모임 방법 몇 가지 - 애자일](http://agile.egloos.com/m/5830026)
+- [우리 팀에서도 코드리뷰를 할 수 있을까? - deview](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=EAF9A0EAEB4A46AA875369B32F1489A145C7&outKey=V1264af6231ec0c6f31ea81b461ba01388fe35295f179d45518af81b461ba01388fe3&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -169,6 +159,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html?fbclid=IwAR2qRAz5-XzW3G9u1ZMP1R-KH5kGK6k_frJ2ZJAapGpEkduRI8C34mx39kM)
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 - [10 top Programming Languages in 2019 for developers](https://codeburst.io/10-top-programming-languages-in-2019-for-developers-a2921798d652)
+- [야놀자를 떠나며... (feat. 레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/#disqus_thread)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -197,6 +188,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### GraphQL
 
 - [GraphQL vs. REST](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b)
+- [GraphQL is not just a network protocol](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -213,6 +205,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [이슈 PR로 처리시 키워드](https://help.github.com/en/articles/closing-issues-using-keywords)
 - [[Git] 그림으로 배우는 Add, Commit의 원리](https://milooy.wordpress.com/2019/06/08/git-add-commit/)
 - [Navigating code on GitHub](https://help.github.com/en/articles/navigating-code-on-github)
+- [구글에서도 사용하는 버전관리 방법론](https://semver.org/lang/ko/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -248,6 +241,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [hyper.js 3](https://hyper.is/blog)
 - [[번역] 쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
 - [Chrome을 vim처럼 조작해보자](https://vimium.github.io/)
+- [How I use the Chrome Performance Panel (Part 1)](https://medium.com/@euncho/how-i-used-chrome-performance-panel-part-1-765771ec0393)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -378,6 +372,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Typescript가 두려운 당신에게 | 연애의 과학 팀 블로그](https://blog.scienceoflove.co.kr/why-typescript/)
 - [13 useful JavaScript array tips and tricks you should know](https://www.blog.duomly.com/13-useful-javascript-array-tips-and-tricks-you-should-know/)
 - [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 2](https://d2.naver.com/helloworld/2108442)
+- [WebRTC Sample](https://webrtc.github.io/samples/)
+- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+- [WebRTC에 대해서](https://asfirstalways.tistory.com/306)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -405,6 +402,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [종합 안내: Rem 그리고 Em, 언제 써야 할까](https://webdesign.tutsplus.com/ko/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 - [JavaScript 클립보드 복사 구현하기](https://velog.io/@godori/js-clipboard-copy)
 - [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
+- [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -490,6 +488,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [React를 실질적으로 제어하는 updater](https://wonism.github.io/react-updater/)
 - [Advanced React & GraphQL](https://advancedreact.com/)
 - [리액트 아폴로(React Apollo) 리덕스와 무엇이 다른가?!](https://medium.com/@shlee1353/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%95%84%ED%8F%B4%EB%A1%9C-react-apollo-%EB%A6%AC%EB%8D%95%EC%8A%A4%EC%99%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-a4bfdb48bbc)
+- [Run the React Router v4 Examples with Create React App](https://egghead.io/lessons/react-run-the-react-router-v4-examples-with-create-react-app)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -701,5 +700,12 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [플러터를 빠르게 배우기 좋은 4개의 사이트 :: 소프트웨어 이야기](https://software-creator.tistory.com/11)
 - [Flutter Docs](https://flutter.dev/docs/get-started/install)
+- [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+### ML
+
+- [머신러닝 단기집중과정 - 구글 colab](https://developers.google.com/machine-learning/crash-course/)
 
 **[⬆ Top](#Dev-Contents-House)**
