@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
+- [React Hooks와 Context를 이용한 설계 패턴](https://www.huskyhoochu.com/)
 
 <br/>
 
