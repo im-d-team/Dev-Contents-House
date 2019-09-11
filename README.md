@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 - [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 - [React Hooks와 Context를 이용한 설계 패턴](https://www.huskyhoochu.com/)
 - [구글의 코드 리뷰 가이드-번역](https://soojin.ro/review/)
+- [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 
 <br/>
 
