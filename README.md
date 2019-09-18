@@ -194,7 +194,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ## 2. 언어 & Tool
 
-### GraphQL
+### ![GraphQL] GraphQL
 
 - [GraphQL vs. REST](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b)
 - [GraphQL is not just a network protocol](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
@@ -203,7 +203,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ---
 
-### Git
+### ![Git] Git
 
 - [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
 - [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
@@ -220,7 +220,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ---
 
-### Node.js
+### ![Node.js] Node.js
 
 - [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
 - [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
@@ -233,7 +233,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ---
 
-### Java
+### ![Java] Java
 
 - [자바의 객체](https://brunch.co.kr/@mystoryg/51)
 - [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
@@ -260,7 +260,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ## 3. FrontEnd
 
-### Javascript
+### ![Javascript] Javascript
 
 - [자바스크립트 간단한 Test 코드 만들어보기](https://joshua1988.github.io/web-development/javascript/js-testing/)
 - [자바스크립트 엔진의 최적화 기법 (2) - Hidden class, Inline Caching](https://meetup.toast.com/posts/78)
@@ -389,7 +389,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ---
 
-### CSS
+### ![CSS] CSS
 
 - [[번역] CSS GPU 애니메이션 제대로 하기](https://wit.nts-corp.com/2017/08/31/4861)
 - [Sass 문법 정리 (mixin, include, expend, partial, import, if문)](https://gomcine.tistory.com/entry/Sass-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC-mixin-include-expend-partial-import?category=693292)
@@ -426,7 +426,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ---
 
-### WebPack
+### ![WebPack] WebPack
 
 - [How to setup Webpack config - Morioh -](https://morioh.com/p/66bca0b85da5/how-to-setup-webpack-config)
 - [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
@@ -435,7 +435,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ---
 
-### Functional Programming
+### ![FunctionalProgramming] Functional Programming
 
 - [함수형 프로그래머가 되고 싶다고? (Part 1)](<https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1)>)
 - [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
@@ -446,7 +446,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ---
 
-### Vue
+### ![Vue] Vue
 
 - [Vue 3.0 소식](http://www.webdongne.com/bbs/bbs/board.php?bo_table=c_usefull_info&wr_id=1445)
 - [Vue 2.6 released! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e)
@@ -458,7 +458,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ---
 
-### React
+### ![React] React
 
 - [The online code editor for web dev](https://stackblitz.com/)
 - [React의 기본, 컴포넌트를 알아보자-모두 알지만 잘 알지는 못하는 컴포넌트](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
@@ -718,3 +718,15 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [머신러닝 단기집중과정 - 구글 colab](https://developers.google.com/machine-learning/crash-course/)
 
 **[⬆ Top](#Dev-Contents-House)**
+
+
+[GraphQL]: https://img.icons8.com/color/20/000000/graphql.png
+[Git]: https://img.icons8.com/color/20/000000/git.png
+[Node.js]: https://img.icons8.com/color/20/000000/nodejs.png
+[Java]: https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png
+[Javascript]: https://img.icons8.com/color/20/000000/javascript.png
+[CSS]: https://img.icons8.com/color/20/000000/css3.png
+[WebPack]: https://img.icons8.com/dusk/20/000000/webpack.png
+[FunctionalProgramming]: https://img.icons8.com/ios-glyphs/20/000000/function-mac.png
+[Vue]: https://img.icons8.com/color/20/000000/vue-js.png
+[React]: https://img.icons8.com/color/20/000000/react-native.png
