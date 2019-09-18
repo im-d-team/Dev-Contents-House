@@ -212,7 +212,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [git과 github(youtube)](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX)
 - [git flow cheetsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
 - [이슈 PR로 처리시 키워드](https://help.github.com/en/articles/closing-issues-using-keywords)
-- [[Git] 그림으로 배우는 Add, Commit의 원리](https://milooy.wordpress.com/2019/06/08/git-add-commit/)
+- [Git 그림으로 배우는 Add, Commit의 원리](https://milooy.wordpress.com/2019/06/08/git-add-commit/)
 - [Navigating code on GitHub](https://help.github.com/en/articles/navigating-code-on-github)
 - [구글에서도 사용하는 버전관리 방법론](https://semver.org/lang/ko/)
 
