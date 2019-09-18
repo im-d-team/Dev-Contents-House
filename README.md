@@ -13,6 +13,8 @@ Dev-Contents-House of Im-D
 - [Fix the slow render before you fix the re-render](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render)
 - [Mixin은 해롭다.](https://itmining.tistory.com/124)
 - [5 Interesting Uses of JavaScript Destructuring](https://dmitripavlutin.com/5-interesting-uses-javascript-destructuring/)
+- [리액트 HOC 집중 탐구 (1)](https://meetup.toast.com/posts/137)
+- [리액트 HOC 집중 탐구 (2)](https://meetup.toast.com/posts/144)
 
 <br/>
 
