@@ -6,17 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
-- [React Hooks와 Context를 이용한 설계 패턴](https://www.huskyhoochu.com/)
-- [구글의 코드 리뷰 가이드-번역](https://soojin.ro/review/)
-- [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
-- [Fix the slow render before you fix the re-render](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render)
-- [Mixin은 해롭다.](https://itmining.tistory.com/124)
-- [5 Interesting Uses of JavaScript Destructuring](https://dmitripavlutin.com/5-interesting-uses-javascript-destructuring/)
-- [리액트 HOC 집중 탐구 (1)](https://meetup.toast.com/posts/137)
-- [리액트 HOC 집중 탐구 (2)](https://meetup.toast.com/posts/144)
-- [내 사이트 성능측정하고 진단받기(feat. Google)](https://web.dev)
-
 <br/>
 
 ## 📚 Category
@@ -31,6 +20,7 @@ Dev-Contents-House of Im-D
 ### 2. [언어 & Tool](#2-언어-tool)
 
 - [GraphQL](#GraphQL)
+- [REST](#REST)
 - [Git](#Git)
 - [Node.js](#Node.js)
 - [Java](#Java)
@@ -38,13 +28,13 @@ Dev-Contents-House of Im-D
 
 ### 3. [FrontEnd](#3-frontend)
 
-- [Javascript](#Javascript)
+- [Javascript](#![Javascript]-Javascript)
 - [CSS](#CSS)
 - [Testing](#Testing)
 - [WebPack](#Webpack)
 - [Functional Programming](#Functional-Programming)
 - [Vue](#Vue)
-- [React](#React)
+- [React](#![React]-React)
 - [TypeScript](#TypeScript)
 - [Browser](#Browser)
 - [Redux](#Redux)
@@ -102,6 +92,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
 - [스터디 모임 방법 몇 가지 - 애자일](http://agile.egloos.com/m/5830026)
 - [우리 팀에서도 코드리뷰를 할 수 있을까? - deview](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=EAF9A0EAEB4A46AA875369B32F1489A145C7&outKey=V1264af6231ec0c6f31ea81b461ba01388fe35295f179d45518af81b461ba01388fe3&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
+- [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -169,6 +160,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 - [10 top Programming Languages in 2019 for developers](https://codeburst.io/10-top-programming-languages-in-2019-for-developers-a2921798d652)
 - [야놀자를 떠나며... (feat. 레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/#disqus_thread)
+- [구글의 코드 리뷰 가이드-번역](https://soojin.ro/review/)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -185,6 +178,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [소프트웨어 공학 - Scrum, Kanban 방법론](https://m.blog.naver.com/scw0531/221567406732)
 - [웹폰트 적용에서 최적화까지](https://armadillo-dev.github.io/html/css/webfont-optimize/)
 - [프레임워크와 라이브러리 차이점 ? 비교? 정의](https://velog.io/@naynara/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EB%B9%84%EA%B5%90-%EC%A0%95%EC%9D%98)
+- [내 사이트 성능측정하고 진단받기(feat. Google)](https://web.dev)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -198,6 +192,14 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [GraphQL vs. REST](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b)
 - [GraphQL is not just a network protocol](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### REST
+
+- [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -384,6 +386,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [WebRTC Sample](https://webrtc.github.io/samples/)
 - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 - [WebRTC에 대해서](https://asfirstalways.tistory.com/306)
+- [5 Interesting Uses of JavaScript Destructuring](https://dmitripavlutin.com/5-interesting-uses-javascript-destructuring/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -498,6 +501,11 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Advanced React & GraphQL](https://advancedreact.com/)
 - [리액트 아폴로(React Apollo) 리덕스와 무엇이 다른가?!](https://medium.com/@shlee1353/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%95%84%ED%8F%B4%EB%A1%9C-react-apollo-%EB%A6%AC%EB%8D%95%EC%8A%A4%EC%99%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-a4bfdb48bbc)
 - [Run the React Router v4 Examples with Create React App](https://egghead.io/lessons/react-run-the-react-router-v4-examples-with-create-react-app)
+- [리액트 HOC 집중 탐구 (1)](https://meetup.toast.com/posts/137)
+- [리액트 HOC 집중 탐구 (2)](https://meetup.toast.com/posts/144)
+- [Fix the slow render before you fix the re-render](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render)
+- [React Hooks와 Context를 이용한 설계 패턴](https://www.huskyhoochu.com/)
+- [Mixin은 해롭다.](https://itmining.tistory.com/124)
 
 **[⬆ Top](#Dev-Contents-House)**
 
