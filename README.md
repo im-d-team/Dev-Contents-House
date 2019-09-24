@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [초보자를 위한 파이썬 300제 - WikiDocs](https://wikidocs.net/book/922)
+
 <br/>
 
 ## 📚 Category
