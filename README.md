@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [[번역]Vue.js 3: Future-Oriented Programming | 오르막길](https://genie-youn.github.io/journal/%EB%B2%88%EC%97%AD-Vue.js-3-Future-Oriented-Programming.html)
 - [2019년 개발 툴 TOP 48](https://m.blog.naver.com/PostView.nhn?blogId=cabooks&logNo=221543674712&categoryNo=37&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 - [웹 프레임워크 Svelte를 소개합니다.](https://velog.io/@ashnamuh/hello-svelte)
+- [Svelte v3](https://rethinking-reactivity.surge.sh)
 
 <br/>
 
