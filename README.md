@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [초보자를 위한 파이썬 300제 - WikiDocs](https://wikidocs.net/book/922)
 - [모두의 코드 - C/C++ 강좌 사이트](https://modoocode.com/)
+- [스프링 - 생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
 
 <br/>
 
