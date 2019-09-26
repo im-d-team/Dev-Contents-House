@@ -10,6 +10,7 @@ Dev-Contents-House of Im-D
 - [모두의 코드 - C/C++ 강좌 사이트](https://modoocode.com/)
 - [스프링 - 생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
 - [[번역]Vue.js 3: Future-Oriented Programming | 오르막길](https://genie-youn.github.io/journal/%EB%B2%88%EC%97%AD-Vue.js-3-Future-Oriented-Programming.html)
+- [2019년 개발 툴 TOP 48](https://m.blog.naver.com/PostView.nhn?blogId=cabooks&logNo=221543674712&categoryNo=37&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
 <br/>
 
