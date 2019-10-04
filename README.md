@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [Houdini: Demystifying CSS - Google Developers](https://developers.google.com/web/updates/2016/05/houdini)
 - [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
+- [javascript ajax 크로스도메인 요청-CORS](https://brunch.co.kr/@adrenalinee31/1)
 
 <br/>
 
