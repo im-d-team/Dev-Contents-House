@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [Houdini: Demystifying CSS - Google Developers](https://developers.google.com/web/updates/2016/05/houdini)
+- [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
 
 <br/>
 
