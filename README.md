@@ -6,14 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [초보자를 위한 파이썬 300제 - WikiDocs](https://wikidocs.net/book/922)
-- [모두의 코드 - C/C++ 강좌 사이트](https://modoocode.com/)
-- [스프링 - 생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
-- [[번역]Vue.js 3: Future-Oriented Programming | 오르막길](https://genie-youn.github.io/journal/%EB%B2%88%EC%97%AD-Vue.js-3-Future-Oriented-Programming.html)
-- [2019년 개발 툴 TOP 48](https://m.blog.naver.com/PostView.nhn?blogId=cabooks&logNo=221543674712&categoryNo=37&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
-- [웹 프레임워크 Svelte를 소개합니다.](https://velog.io/@ashnamuh/hello-svelte)
-- [Svelte v3](https://rethinking-reactivity.surge.sh)
-
 <br/>
 
 ## 📚 Category
@@ -32,6 +24,8 @@ Dev-Contents-House of Im-D
 - [Git](#Git)
 - [Node.js](#Node.js)
 - [Java](#Java)
+- [Python](#Python)
+- [C C++](#C-C++)
 - [이외](#이외)
 
 ### 3. [FrontEnd](#3-frontend)
@@ -41,7 +35,7 @@ Dev-Contents-House of Im-D
 - [Testing](#Testing)
 - [WebPack](#Webpack)
 - [Functional Programming](#Functional-Programming)
-- [Vue](#Vue)
+- [Vue](#![Vue]-Vue)
 - [React](#![React]-React)
 - [TypeScript](#TypeScript)
 - [Browser](#Browser)
@@ -51,6 +45,7 @@ Dev-Contents-House of Im-D
 - [PWA](#PWA)
 - [Babel](#Babel)
 - [AMP](#AMP)
+- [SVELTE](#SVELTE)
 
 ### 4. [기타](#4-기타)
 
@@ -68,6 +63,7 @@ Dev-Contents-House of Im-D
 - [NSIS](#NSIS)
 - [Flutter](#Flutter)
 - [ML](#ML)
+- [SPRING](#SPRING)
 
 <br/>
 
@@ -169,7 +165,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [10 top Programming Languages in 2019 for developers](https://codeburst.io/10-top-programming-languages-in-2019-for-developers-a2921798d652)
 - [야놀자를 떠나며... (feat. 레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/#disqus_thread)
 - [구글의 코드 리뷰 가이드-번역](https://soojin.ro/review/)
-
+- [2019년 개발 툴 TOP 48](https://m.blog.naver.com/PostView.nhn?blogId=cabooks&logNo=221543674712&categoryNo=37&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -250,6 +246,22 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [실전에 써먹는 스프링 부트 이야기](https://docs.google.com/presentation/d/1nid-BYFGHYjvzgMpbBBgEC2Hwx_nJ6JomikDbHtA55g/mobilepresent?slide=id.p)
 - [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829?fbclid=IwAR2NvlfYGCfYZ7COqvTYQPbenIS8pMlIaS_yNmni0PeWTZLQ-pZts9saZBQ)
 - [KSUG 스프링캠프 2019 발표자료 - "무엇을 테스트할 것인가, 어떻게 테스트할 것인가"](https://www.slideshare.net/ssuser59a869/ksug-2019?fbclid=IwAR2UcYpT58l7AUEPj8vAXIUpllk4meCTlLk4aGDZJSnaECgMwpRR1sVkYAc)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+## Python 
+
+- [초보자를 위한 파이썬 300제 - WikiDocs](https://wikidocs.net/book/922)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### C C++
+
+- [모두의 코드 - C/C++ 강좌 사이트](https://modoocode.com/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -464,6 +476,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Optimize the Performance of a Vue App with Async Components](https://morioh.com/p/9d7cada6edf0/optimize-the-performance-of-a-vue-app-with-async-components)
 - [vuejs-interview-questions-korean](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
 - [Vue + WebAssembly – Brock Reece](https://medium.com/@brockreece/vue-webassembly-1a09e38d0389)
+- [[번역]Vue.js 3: Future-Oriented Programming | 오르막길](https://genie-youn.github.io/journal/%EB%B2%88%EC%97%AD-Vue.js-3-Future-Oriented-Programming.html)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -594,11 +607,22 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 **[⬆ Top](#Dev-Contents-House)**
 
+---
+
 ### AMP
 
 - [AMP 그게 뭐야?](https://velog.io/@hongku/AMP-hnjy58td1h)
 
-## **[⬆ Top](#Dev-Contents-House)**
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### SVELTE
+
+- [웹 프레임워크 Svelte를 소개합니다.](https://velog.io/@ashnamuh/hello-svelte)
+- [Svelte v3](https://rethinking-reactivity.surge.sh)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 <br/>
 
@@ -735,6 +759,11 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 **[⬆ Top](#Dev-Contents-House)**
 
+### SPRING
+
+- [스프링 - 생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
+
+**[⬆ Top](#Dev-Contents-House)**
 
 [GraphQL]: https://img.icons8.com/color/20/000000/graphql.png
 [Git]: https://img.icons8.com/color/20/000000/git.png
