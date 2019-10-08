@@ -10,6 +10,7 @@ Dev-Contents-House of Im-D
 - [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
 - [javascript ajax 크로스도메인 요청-CORS](https://brunch.co.kr/@adrenalinee31/1)
 - [React 전, 7가지 배경지식 다지기](https://medium.com/@codesquad_yoda/react-%EC%A0%84-7%EA%B0%80%EC%A7%80-%EB%B0%B0%EA%B2%BD%EC%A7%80%EC%8B%9D-%EB%8B%A4%EC%A7%80%EA%B8%B0-8ad72f7b6aac)
+- [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 
 <br/>
 
