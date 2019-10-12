@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [스칼라 번역자료](https://sehajyang.github.io/categories/Scala/)
+
 <br/>
 
 ## 📚 Category
