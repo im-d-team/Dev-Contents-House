@@ -6,12 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [Houdini: Demystifying CSS - Google Developers](https://developers.google.com/web/updates/2016/05/houdini)
-- [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
-- [javascript ajax 크로스도메인 요청-CORS](https://brunch.co.kr/@adrenalinee31/1)
-- [React 전, 7가지 배경지식 다지기](https://medium.com/@codesquad_yoda/react-%EC%A0%84-7%EA%B0%80%EC%A7%80-%EB%B0%B0%EA%B2%BD%EC%A7%80%EC%8B%9D-%EB%8B%A4%EC%A7%80%EA%B8%B0-8ad72f7b6aac)
-- [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
-
 <br/>
 
 ## 📚 Category
@@ -37,7 +31,7 @@ Dev-Contents-House of Im-D
 ### 3. [FrontEnd](#3-frontend)
 
 - [Javascript](#![Javascript]-Javascript)
-- [CSS](#CSS)
+- [CSS](#![CSS]-CSS)
 - [Testing](#Testing)
 - [WebPack](#Webpack)
 - [Functional Programming](#Functional-Programming)
@@ -413,6 +407,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 - [WebRTC에 대해서](https://asfirstalways.tistory.com/306)
 - [5 Interesting Uses of JavaScript Destructuring](https://dmitripavlutin.com/5-interesting-uses-javascript-destructuring/)
+- [javascript ajax 크로스도메인 요청-CORS](https://brunch.co.kr/@adrenalinee31/1)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -441,6 +436,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [JavaScript 클립보드 복사 구현하기](https://velog.io/@godori/js-clipboard-copy)
 - [Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 - [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
+- [Houdini: Demystifying CSS - Google Developers](https://developers.google.com/web/updates/2016/05/houdini)
+- [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -533,6 +530,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Fix the slow render before you fix the re-render](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render)
 - [React Hooks와 Context를 이용한 설계 패턴](https://www.huskyhoochu.com/)
 - [Mixin은 해롭다.](https://itmining.tistory.com/124)
+- [React 전, 7가지 배경지식 다지기](https://medium.com/@codesquad_yoda/react-%EC%A0%84-7%EA%B0%80%EC%A7%80-%EB%B0%B0%EA%B2%BD%EC%A7%80%EC%8B%9D-%EB%8B%A4%EC%A7%80%EA%B8%B0-8ad72f7b6aac)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -673,6 +671,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [브라우저 HTTP 최대 연결수 알아보기](https://medium.com/@syalot005006/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-http-%EC%B5%9C%EB%8C%80-%EC%97%B0%EA%B2%B0%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3f7aa1453bc2)
 - [HTTPS는 어떻게 다를까?](https://parksb.github.io/article/24.html)
+- [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
