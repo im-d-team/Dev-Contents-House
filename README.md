@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [스칼라 번역자료](https://sehajyang.github.io/categories/Scala/)
+- [LET’S START SVELTE - W3C 발표자료](https://novemberde.github.io/ppts/svelte/index.html#/)
 
 <br/>
 
