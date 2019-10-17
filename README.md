@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [스칼라 번역자료](https://sehajyang.github.io/categories/Scala/)
 - [LET’S START SVELTE - W3C 발표자료](https://novemberde.github.io/ppts/svelte/index.html#/)
+- [[번역] useEffect 완벽 가이드](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
 
 <br/>
 
