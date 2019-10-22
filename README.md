@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [AWS DeepRacer 강화학습 설명](https://github.com/aws-samples/aws-deepracer-workshops/blob/master/Workshops/2019-AWSSummits-AWSDeepRacerService/Lab1/Readme-Korean.md)
 - [웹 서비스 구현의 모든 것! 무료 제작툴 39개 몽땅 알려드림!](https://www.youtube.com/watch?v=u3Ph_M2bySg&t=303s)
+- [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
 
 <br/>
 
