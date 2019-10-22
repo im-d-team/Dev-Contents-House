@@ -6,9 +6,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [스칼라 번역자료](https://sehajyang.github.io/categories/Scala/)
-- [LET’S START SVELTE - W3C 발표자료](https://novemberde.github.io/ppts/svelte/index.html#/)
-- [[번역] useEffect 완벽 가이드](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
+- [AWS DeepRacer 강화학습 설명](https://github.com/aws-samples/aws-deepracer-workshops/blob/master/Workshops/2019-AWSSummits-AWSDeepRacerService/Lab1/Readme-Korean.md)
 
 <br/>
 
@@ -547,6 +545,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [타입스크립트 3.0 – Huiseoul Engineering](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
 - [남다른 개선방법을 다시 보여준 페이스북의 React Fiber](https://medium.com/@codesquad_yoda/%EB%82%A8%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EC%84%A0%EB%B0%A9%EB%B2%95%EC%9D%84-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EC%97%AC%EC%A4%80-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%9D%98-react-fiber-80b7ca5bd9bb)
 - [React 렌더링 이해 및 최적화 (With Hook)](https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849)
+- [[번역] useEffect 완벽 가이드](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -629,6 +628,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [웹 프레임워크 Svelte를 소개합니다.](https://velog.io/@ashnamuh/hello-svelte)
 - [Svelte v3](https://rethinking-reactivity.surge.sh)
+- [스칼라 번역자료](https://sehajyang.github.io/categories/Scala/)
+- [LET’S START SVELTE - W3C 발표자료](https://novemberde.github.io/ppts/svelte/index.html#/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
