@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
 - [2020 카카오 블라인드 공채 2차 오프라인 코딩 테스트 문제 해설](https://tech.kakao.com/2019/10/21/2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EA%B3%B5%EC%B1%84-2%EC%B0%A8-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8/)
 - [개발자의 글쓰기 PDF](https://drive.google.com/file/d/1ELeCi_1UzCEkj-UDSLM44h9HcgGiDQrb/view?fbclid=IwAR3Vd7coOzYFR-3PAsXWYuthXWQKIWbZLSqnt3Q0DMh8qcEUUoeVr4iBzWY)
+- [V 프로그래밍 언어](https://medium.com/@parkjoonkyu/v-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-80f94f20b23c)
 
 <br/>
 
