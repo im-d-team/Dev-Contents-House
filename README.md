@@ -6,14 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [AWS DeepRacer 강화학습 설명](https://github.com/aws-samples/aws-deepracer-workshops/blob/master/Workshops/2019-AWSSummits-AWSDeepRacerService/Lab1/Readme-Korean.md)
-- [웹 서비스 구현의 모든 것! 무료 제작툴 39개 몽땅 알려드림!](https://www.youtube.com/watch?v=u3Ph_M2bySg&t=303s)
-- [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
-- [2020 카카오 블라인드 공채 2차 오프라인 코딩 테스트 문제 해설](https://tech.kakao.com/2019/10/21/2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EA%B3%B5%EC%B1%84-2%EC%B0%A8-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8/)
-- [개발자의 글쓰기 PDF](https://drive.google.com/file/d/1ELeCi_1UzCEkj-UDSLM44h9HcgGiDQrb/view?fbclid=IwAR3Vd7coOzYFR-3PAsXWYuthXWQKIWbZLSqnt3Q0DMh8qcEUUoeVr4iBzWY)
-- [V 프로그래밍 언어](https://medium.com/@parkjoonkyu/v-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-80f94f20b23c)
-- [자바스크립트의 프로토타입 흝어보기](https://evan-moon.github.io/2019/10/23/js-prototype/)
-
 <br/>
 
 ## 📚 Category
@@ -120,6 +112,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [NCSoft - 채용공고](https://recruit.ncsoft.net/korean/careers/adoptionview.aspx?BID=&BC=&SYear=&SType=&SWord=&PNo=1&d1=1&d2=0&BNo=7277&Section=)
 - [해외 취업 - 신입 웹 개발자의 싱가포르 상륙기](https://sujinlee.me/how-i-landed-my-dream-job-in-sg/)
 - [[면접] 개발자 면접관을 감동시키는 면접](http://blog.hwang.gg/20190627/)
+- [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -174,6 +167,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [야놀자를 떠나며... (feat. 레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/#disqus_thread)
 - [구글의 코드 리뷰 가이드-번역](https://soojin.ro/review/)
 - [2019년 개발 툴 TOP 48](https://m.blog.naver.com/PostView.nhn?blogId=cabooks&logNo=221543674712&categoryNo=37&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+- [개발자의 글쓰기 PDF](https://drive.google.com/file/d/1ELeCi_1UzCEkj-UDSLM44h9HcgGiDQrb/view?fbclid=IwAR3Vd7coOzYFR-3PAsXWYuthXWQKIWbZLSqnt3Q0DMh8qcEUUoeVr4iBzWY)
+- [2020 카카오 블라인드 공채 2차 오프라인 코딩 테스트 문제 해설](https://tech.kakao.com/2019/10/21/2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EA%B3%B5%EC%B1%84-2%EC%B0%A8-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8/)
+- [웹 서비스 구현의 모든 것! 무료 제작툴 39개 몽땅 알려드림!](https://www.youtube.com/watch?v=u3Ph_M2bySg&t=303s)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -281,6 +277,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [[번역] 쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
 - [Chrome을 vim처럼 조작해보자](https://vimium.github.io/)
 - [How I use the Chrome Performance Panel (Part 1)](https://medium.com/@euncho/how-i-used-chrome-performance-panel-part-1-765771ec0393)
+- [V 프로그래밍 언어](https://medium.com/@parkjoonkyu/v-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-80f94f20b23c)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -446,6 +443,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
 - [Houdini: Demystifying CSS - Google Developers](https://developers.google.com/web/updates/2016/05/houdini)
 - [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
+- [자바스크립트의 프로토타입 흝어보기](https://evan-moon.github.io/2019/10/23/js-prototype/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -772,6 +770,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### ML
 
 - [머신러닝 단기집중과정 - 구글 colab](https://developers.google.com/machine-learning/crash-course/)
+- [AWS DeepRacer 강화학습 설명](https://github.com/aws-samples/aws-deepracer-workshops/blob/master/Workshops/2019-AWSSummits-AWSDeepRacerService/Lab1/Readme-Korean.md)
 
 **[⬆ Top](#Dev-Contents-House)**
 
