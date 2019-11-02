@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [FEConf 2019 발표자료](https://2019.feconf.kr/schedule/)
 - [DEVIEW 2일차 후기](https://jbee.io/etc/deview-2day-review/)
+- [Optional chaining · V8](https://v8.dev/features/optional-chaining)
 
 <br/>
 
