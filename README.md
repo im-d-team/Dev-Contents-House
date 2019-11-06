@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [Optional chaining · V8](https://v8.dev/features/optional-chaining)
 - [터미널을 녹화하고 공유하자 - asciinema](https://asciinema.org/)
 - [Alfred Workflows | Packal](http://www.packal.org/workflow-list?sort_by=changed&sort_order=DESC&items_per_page=100)
+- [Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5?_branch_match_id=720479588826978532)
 
 <br/>
 
