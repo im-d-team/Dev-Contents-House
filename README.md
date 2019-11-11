@@ -6,14 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [FEConf 2019 발표자료](https://2019.feconf.kr/schedule/)
-- [DEVIEW 2일차 후기](https://jbee.io/etc/deview-2day-review/)
-- [Optional chaining · V8](https://v8.dev/features/optional-chaining)
-- [터미널을 녹화하고 공유하자 - asciinema](https://asciinema.org/)
-- [Alfred Workflows | Packal](http://www.packal.org/workflow-list?sort_by=changed&sort_order=DESC&items_per_page=100)
-- [Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5?_branch_match_id=720479588826978532)
-- [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2](https://d2.naver.com/helloworld/7975004)
-
 <br/>
 
 ## 📚 Category
@@ -72,6 +64,7 @@ Dev-Contents-House of Im-D
 - [Flutter](#Flutter)
 - [ML](#ML)
 - [SPRING](#SPRING)
+- [Conference](#Conference)
 
 <br/>
 
@@ -286,6 +279,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Chrome을 vim처럼 조작해보자](https://vimium.github.io/)
 - [How I use the Chrome Performance Panel (Part 1)](https://medium.com/@euncho/how-i-used-chrome-performance-panel-part-1-765771ec0393)
 - [V 프로그래밍 언어](https://medium.com/@parkjoonkyu/v-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-80f94f20b23c)
+- [터미널을 녹화하고 공유하자 - asciinema](https://asciinema.org/)
+- [Alfred Workflows | Packal](http://www.packal.org/workflow-list?sort_by=changed&sort_order=DESC&items_per_page=100)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -421,6 +416,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [WebRTC에 대해서](https://asfirstalways.tistory.com/306)
 - [5 Interesting Uses of JavaScript Destructuring](https://dmitripavlutin.com/5-interesting-uses-javascript-destructuring/)
 - [javascript ajax 크로스도메인 요청-CORS](https://brunch.co.kr/@adrenalinee31/1)
+- [Optional chaining · V8](https://v8.dev/features/optional-chaining)
+- [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2](https://d2.naver.com/helloworld/7975004)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -642,6 +639,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Svelte v3](https://rethinking-reactivity.surge.sh)
 - [스칼라 번역자료](https://sehajyang.github.io/categories/Scala/)
 - [LET’S START SVELTE - W3C 발표자료](https://novemberde.github.io/ppts/svelte/index.html#/)
+- [Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5?_branch_match_id=720479588826978532)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -785,6 +783,13 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### SPRING
 
 - [스프링 - 생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+### Conference
+
+- [FEConf 2019 발표자료](https://2019.feconf.kr/schedule/)
+- [DEVIEW 2일차 후기](https://jbee.io/etc/deview-2day-review/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
