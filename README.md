@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [TCP의 헤더에는 어떤 정보들이 담겨있는걸까?](https://evan-moon.github.io/2019/11/10/header-of-tcp/)
 - [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
+- [쿠버네티스 vs. 도커 : 컨테이너와 오케스트레이션의 이해](http://www.itworld.co.kr/news/135282?fbclid=IwAR2B69SmllVFW-ir6n2t8PlCNTLSt06FHDUNPKsCA5eeWJhBsAsuJgfHEpU#csidxbea6ac7485a0604bea2892f56176fc5)
 
 <br/>
 
