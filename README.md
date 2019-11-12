@@ -10,6 +10,7 @@ Dev-Contents-House of Im-D
 - [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
 - [쿠버네티스 vs. 도커 : 컨테이너와 오케스트레이션의 이해](http://www.itworld.co.kr/news/135282?fbclid=IwAR2B69SmllVFW-ir6n2t8PlCNTLSt06FHDUNPKsCA5eeWJhBsAsuJgfHEpU#csidxbea6ac7485a0604bea2892f56176fc5)
 - [나는 어떻게 개발자로 성장했는가?](https://www.youtube.com/watch?v=89XTfnWMM7U)
+- [package-lock.json이란?](https://junwoo45.github.io/2019-10-02-package-lock/)
 
 
 <br/>
