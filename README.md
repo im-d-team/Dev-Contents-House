@@ -6,16 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [TCP의 헤더에는 어떤 정보들이 담겨있는걸까?](https://evan-moon.github.io/2019/11/10/header-of-tcp/)
-- [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
-- [쿠버네티스 vs. 도커 : 컨테이너와 오케스트레이션의 이해](http://www.itworld.co.kr/news/135282?fbclid=IwAR2B69SmllVFW-ir6n2t8PlCNTLSt06FHDUNPKsCA5eeWJhBsAsuJgfHEpU#csidxbea6ac7485a0604bea2892f56176fc5)
-- [나는 어떻게 개발자로 성장했는가?](https://www.youtube.com/watch?v=89XTfnWMM7U)
-- [package-lock.json이란?](https://junwoo45.github.io/2019-10-02-package-lock/)
-- [Docker (Compose) 활용법 - 개발 환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
-- [docker compose 기초 사용법](https://seulcode.tistory.com/238)
-- [GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
-- [프론트엔드 도구 (CSS/JS) 설문조사 2019](https://news.hada.io/topic?id=903)
-
 <br/>
 
 ## 📚 Category
@@ -32,8 +22,8 @@ Dev-Contents-House of Im-D
 - [GraphQL](#GraphQL)
 - [REST](#REST)
 - [Git](#Git)
-- [Node.js](#Node.js)
-- [Java](#Java)
+- [Node.js](#![Node.js]-Node.js)
+- [Java](#![Java]-Java)
 - [Python](#Python)
 - [C C++](#C-C++)
 - [이외](#이외)
@@ -75,6 +65,7 @@ Dev-Contents-House of Im-D
 - [ML](#ML)
 - [SPRING](#SPRING)
 - [Conference](#Conference)
+- [Docker](#Docker)
 
 <br/>
 
@@ -109,6 +100,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [우리 팀에서도 코드리뷰를 할 수 있을까? - deview](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=EAF9A0EAEB4A46AA875369B32F1489A145C7&outKey=V1264af6231ec0c6f31ea81b461ba01388fe35295f179d45518af81b461ba01388fe3&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
 - [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 
+
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -124,6 +116,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [해외 취업 - 신입 웹 개발자의 싱가포르 상륙기](https://sujinlee.me/how-i-landed-my-dream-job-in-sg/)
 - [[면접] 개발자 면접관을 감동시키는 면접](http://blog.hwang.gg/20190627/)
 - [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
+- [나는 어떻게 개발자로 성장했는가?](https://www.youtube.com/watch?v=89XTfnWMM7U)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -181,7 +174,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [개발자의 글쓰기 PDF](https://drive.google.com/file/d/1ELeCi_1UzCEkj-UDSLM44h9HcgGiDQrb/view?fbclid=IwAR3Vd7coOzYFR-3PAsXWYuthXWQKIWbZLSqnt3Q0DMh8qcEUUoeVr4iBzWY)
 - [2020 카카오 블라인드 공채 2차 오프라인 코딩 테스트 문제 해설](https://tech.kakao.com/2019/10/21/2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EA%B3%B5%EC%B1%84-2%EC%B0%A8-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8/)
 - [웹 서비스 구현의 모든 것! 무료 제작툴 39개 몽땅 알려드림!](https://www.youtube.com/watch?v=u3Ph_M2bySg&t=303s)
-
+- [프론트엔드 도구 (CSS/JS) 설문조사 2019](https://news.hada.io/topic?id=903)
+  
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -249,6 +243,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Node Weekly](https://nodeweekly.com/)
 - [[NodeJS] 모두 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
 - [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/#%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%94%EC%A7%84-%EB%82%B4%EB%B6%80%EC%97%90-%EC%9E%88%EB%8B%A4)
+- [package-lock.json이란?](https://junwoo45.github.io/2019-10-02-package-lock/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -428,6 +423,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [javascript ajax 크로스도메인 요청-CORS](https://brunch.co.kr/@adrenalinee31/1)
 - [Optional chaining · V8](https://v8.dev/features/optional-chaining)
 - [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2](https://d2.naver.com/helloworld/7975004)
+- [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -725,6 +721,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [왕초보를 위한 클라우드 입문 1: 클라우드는 무엇인가?-영상](https://www.youtube.com/watch?v=Y_zqn2GD-nI)
 - [네트워크의 기본 'OSI 7계층' 한번에 이해하고 외우는 방법](http://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
+- [TCP의 헤더에는 어떤 정보들이 담겨있는걸까?](https://evan-moon.github.io/2019/11/10/header-of-tcp/)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -800,6 +798,14 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [FEConf 2019 발표자료](https://2019.feconf.kr/schedule/)
 - [DEVIEW 2일차 후기](https://jbee.io/etc/deview-2day-review/)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+### Docker
+
+- [Docker (Compose) 활용법 - 개발 환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
+- [docker compose 기초 사용법](https://seulcode.tistory.com/238)
+- [쿠버네티스 vs. 도커 : 컨테이너와 오케스트레이션의 이해](http://www.itworld.co.kr/news/135282?fbclid=IwAR2B69SmllVFW-ir6n2t8PlCNTLSt06FHDUNPKsCA5eeWJhBsAsuJgfHEpU#csidxbea6ac7485a0604bea2892f56176fc5)
 
 **[⬆ Top](#Dev-Contents-House)**
 
