@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [애플이 웹기술을 죽이려 하고 있다](https://techit.kr/view/?no=20191113073001)
+
 <br/>
 
 ## 📚 Category
