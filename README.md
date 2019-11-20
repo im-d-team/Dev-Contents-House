@@ -10,6 +10,7 @@ Dev-Contents-House of Im-D
 - [개발을 위한 무료툴 모음](https://free-for.dev/#/)
 - [NPM Rank](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
 - [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
+- [Octoverse, GitHub 2019](https://githubkorea.tistory.com/54)
 
 <br/>
 
