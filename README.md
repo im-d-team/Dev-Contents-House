@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [NPM Rank](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
 - [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 - [Octoverse, GitHub 2019](https://githubkorea.tistory.com/54)
+- [You can create these elements without JavaScript](https://dev.to/adrianbdesigns/you-can-create-these-elements-without-javascript-525a)
 
 <br/>
 
@@ -22,7 +23,7 @@ Dev-Contents-House of Im-D
 - [취업 정보](#취업-정보)
 - [개발 정보](#개발-정보)
 - [Performance](#Performance)
-
+****
 ### 2. [언어 & Tool](#2-언어-tool)
 
 - [GraphQL](#GraphQL)
