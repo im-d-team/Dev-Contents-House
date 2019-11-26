@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 - [Octoverse, GitHub 2019](https://githubkorea.tistory.com/54)
 - [You can create these elements without JavaScript](https://dev.to/adrianbdesigns/you-can-create-these-elements-without-javascript-525a)
+- [Docker, NodeJS, Nginx! 너로 정했다!](http://labs.brandi.co.kr/2018/05/25/kangww.html)
 
 <br/>
 
