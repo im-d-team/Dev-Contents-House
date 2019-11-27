@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [Octoverse, GitHub 2019](https://githubkorea.tistory.com/54)
 - [You can create these elements without JavaScript](https://dev.to/adrianbdesigns/you-can-create-these-elements-without-javascript-525a)
 - [Docker, NodeJS, Nginx! 너로 정했다!](http://labs.brandi.co.kr/2018/05/25/kangww.html)
+- [[번역] 심층 분석: React Hook은 실제로 어떻게 동작할까?](https://hewonjeong.github.io/deep-dive-how-do-react-hooks-really-work-ko/)
 
 <br/>
 
