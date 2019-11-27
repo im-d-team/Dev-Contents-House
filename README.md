@@ -14,6 +14,7 @@ Dev-Contents-House of Im-D
 - [You can create these elements without JavaScript](https://dev.to/adrianbdesigns/you-can-create-these-elements-without-javascript-525a)
 - [Docker, NodeJS, Nginx! 너로 정했다!](http://labs.brandi.co.kr/2018/05/25/kangww.html)
 - [[번역] 심층 분석: React Hook은 실제로 어떻게 동작할까?](https://hewonjeong.github.io/deep-dive-how-do-react-hooks-really-work-ko/)
+- [웹 컴포넌트(4) - Template Element & HTML Imports](https://ui.toast.com/weekly-pick/ko_20170901/)
 
 <br/>
 
