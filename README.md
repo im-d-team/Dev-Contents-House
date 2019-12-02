@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [REST API 응답은 어떻게 줘야할까?](https://jeong-pro.tistory.com/200)
+- [produce 구현해보기(Proxy API를 사용한 ImmerJs 뜯어보기)](https://chodragon9.github.io//blog/produce/#%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EB%8B%A4%EC%A7%80%EA%B8%B0)
 
 <br/>
 
