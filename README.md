@@ -6,16 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [애플이 웹기술을 죽이려 하고 있다](https://techit.kr/view/?no=20191113073001)
-- [개발을 위한 무료툴 모음](https://free-for.dev/#/)
-- [NPM Rank](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
-- [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
-- [Octoverse, GitHub 2019](https://githubkorea.tistory.com/54)
-- [You can create these elements without JavaScript](https://dev.to/adrianbdesigns/you-can-create-these-elements-without-javascript-525a)
-- [Docker, NodeJS, Nginx! 너로 정했다!](http://labs.brandi.co.kr/2018/05/25/kangww.html)
-- [[번역] 심층 분석: React Hook은 실제로 어떻게 동작할까?](https://hewonjeong.github.io/deep-dive-how-do-react-hooks-really-work-ko/)
-- [웹 컴포넌트(4) - Template Element & HTML Imports](https://ui.toast.com/weekly-pick/ko_20170901/)
-- [React & Autobinding](https://medium.com/komenco/react-autobinding-2261a1092849)
 
 <br/>
 
@@ -27,7 +17,7 @@ Dev-Contents-House of Im-D
 - [취업 정보](#취업-정보)
 - [개발 정보](#개발-정보)
 - [Performance](#Performance)
-****
+
 ### 2. [언어 & Tool](#2-언어-tool)
 
 - [GraphQL](#GraphQL)
@@ -186,6 +176,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [2020 카카오 블라인드 공채 2차 오프라인 코딩 테스트 문제 해설](https://tech.kakao.com/2019/10/21/2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EA%B3%B5%EC%B1%84-2%EC%B0%A8-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8/)
 - [웹 서비스 구현의 모든 것! 무료 제작툴 39개 몽땅 알려드림!](https://www.youtube.com/watch?v=u3Ph_M2bySg&t=303s)
 - [프론트엔드 도구 (CSS/JS) 설문조사 2019](https://news.hada.io/topic?id=903)
+- [애플이 웹기술을 죽이려 하고 있다](https://techit.kr/view/?no=20191113073001)
+- [Octoverse, GitHub 2019](https://githubkorea.tistory.com/54)
   
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -255,7 +247,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [[NodeJS] 모두 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
 - [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/#%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%94%EC%A7%84-%EB%82%B4%EB%B6%80%EC%97%90-%EC%9E%88%EB%8B%A4)
 - [package-lock.json이란?](https://junwoo45.github.io/2019-10-02-package-lock/)
-
+- [NPM Rank](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
+- [Docker, NodeJS, Nginx! 너로 정했다!](http://labs.brandi.co.kr/2018/05/25/kangww.html)
+  
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -297,7 +291,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [V 프로그래밍 언어](https://medium.com/@parkjoonkyu/v-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-80f94f20b23c)
 - [터미널을 녹화하고 공유하자 - asciinema](https://asciinema.org/)
 - [Alfred Workflows | Packal](http://www.packal.org/workflow-list?sort_by=changed&sort_order=DESC&items_per_page=100)
-
+- [개발을 위한 무료툴 모음](https://free-for.dev/#/)
+  
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -435,6 +430,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Optional chaining · V8](https://v8.dev/features/optional-chaining)
 - [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2](https://d2.naver.com/helloworld/7975004)
 - [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
+- [웹 컴포넌트(4) - Template Element & HTML Imports](https://ui.toast.com/weekly-pick/ko_20170901/)
+- [You can create these elements without JavaScript](https://dev.to/adrianbdesigns/you-can-create-these-elements-without-javascript-525a)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -559,6 +557,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [React Hooks와 Context를 이용한 설계 패턴](https://www.huskyhoochu.com/)
 - [Mixin은 해롭다.](https://itmining.tistory.com/124)
 - [React 전, 7가지 배경지식 다지기](https://medium.com/@codesquad_yoda/react-%EC%A0%84-7%EA%B0%80%EC%A7%80-%EB%B0%B0%EA%B2%BD%EC%A7%80%EC%8B%9D-%EB%8B%A4%EC%A7%80%EA%B8%B0-8ad72f7b6aac)
+- [[번역] 심층 분석: React Hook은 실제로 어떻게 동작할까?](https://hewonjeong.github.io/deep-dive-how-do-react-hooks-really-work-ko/)
+- [React & Autobinding](https://medium.com/komenco/react-autobinding-2261a1092849)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -733,7 +734,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [왕초보를 위한 클라우드 입문 1: 클라우드는 무엇인가?-영상](https://www.youtube.com/watch?v=Y_zqn2GD-nI)
 - [네트워크의 기본 'OSI 7계층' 한번에 이해하고 외우는 방법](http://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
 - [TCP의 헤더에는 어떤 정보들이 담겨있는걸까?](https://evan-moon.github.io/2019/11/10/header-of-tcp/)
-
+- [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
