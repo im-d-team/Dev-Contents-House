@@ -6,6 +6,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [REST API 응답은 어떻게 줘야할까?](https://jeong-pro.tistory.com/200)
 
 <br/>
 
