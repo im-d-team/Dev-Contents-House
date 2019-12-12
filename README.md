@@ -10,6 +10,7 @@ Dev-Contents-House of Im-D
 - [produce 구현해보기(Proxy API를 사용한 ImmerJs 뜯어보기)](https://chodragon9.github.io//blog/produce/#%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EB%8B%A4%EC%A7%80%EA%B8%B0)
 - [MIME types List](https://www.iana.org/assignments/media-types/media-types.xhtml)
 - [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
+- [SOLID 원칙](https://hg-pyun.github.io/solid/)
 
 <br/>
 
