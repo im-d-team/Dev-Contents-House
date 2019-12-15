@@ -12,6 +12,7 @@ Dev-Contents-House of Im-D
 - [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
 - [SOLID 원칙](https://hg-pyun.github.io/solid/)
 - [Docker image 구조](https://trylhc.tistory.com/m/entry/Docker-image)
+- [rust-lang-book-ko](https://rinthel.github.io/rust-lang-book-ko)
 
 <br/>
 
