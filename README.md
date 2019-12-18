@@ -13,6 +13,7 @@ Dev-Contents-House of Im-D
 - [SOLID 원칙](https://hg-pyun.github.io/solid/)
 - [Docker image 구조](https://trylhc.tistory.com/m/entry/Docker-image)
 - [rust-lang-book-ko](https://rinthel.github.io/rust-lang-book-ko)
+- [Implementing Life - Rust and WebAssembly](https://rustwasm.github.io/docs/book/game-of-life/implementing.html)
 
 <br/>
 
