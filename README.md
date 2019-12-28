@@ -6,17 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [REST API 응답은 어떻게 줘야할까?](https://jeong-pro.tistory.com/200)
-- [produce 구현해보기(Proxy API를 사용한 ImmerJs 뜯어보기)](https://chodragon9.github.io//blog/produce/#%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EB%8B%A4%EC%A7%80%EA%B8%B0)
-- [MIME types List](https://www.iana.org/assignments/media-types/media-types.xhtml)
-- [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
-- [SOLID 원칙](https://hg-pyun.github.io/solid/)
-- [Docker image 구조](https://trylhc.tistory.com/m/entry/Docker-image)
-- [rust-lang-book-ko](https://rinthel.github.io/rust-lang-book-ko)
-- [Implementing Life - Rust and WebAssembly](https://rustwasm.github.io/docs/book/game-of-life/implementing.html)
-- [React starter kit for Chrome Extensions with Live Reloading](https://smellycode.com/chrome-extension-live-reloading-with-react/)
-- [React로 ChromeExtension에 빌드하기](https://hoony-gunputer.tistory.com/218)
-
 <br/>
 
 ## 📚 Category
@@ -37,6 +26,7 @@ Dev-Contents-House of Im-D
 - [Java](#![Java]-Java)
 - [Python](#Python)
 - [C C++](#C-C++)
+- [Rust](#Rust)
 - [이외](#이외)
 
 ### 3. [FrontEnd](#3-frontend)
@@ -226,6 +216,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### REST
 
 - [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
+- [REST API 응답은 어떻게 줘야할까?](https://jeong-pro.tistory.com/200)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -271,6 +262,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [실전에 써먹는 스프링 부트 이야기](https://docs.google.com/presentation/d/1nid-BYFGHYjvzgMpbBBgEC2Hwx_nJ6JomikDbHtA55g/mobilepresent?slide=id.p)
 - [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829?fbclid=IwAR2NvlfYGCfYZ7COqvTYQPbenIS8pMlIaS_yNmni0PeWTZLQ-pZts9saZBQ)
 - [KSUG 스프링캠프 2019 발표자료 - "무엇을 테스트할 것인가, 어떻게 테스트할 것인가"](https://www.slideshare.net/ssuser59a869/ksug-2019?fbclid=IwAR2UcYpT58l7AUEPj8vAXIUpllk4meCTlLk4aGDZJSnaECgMwpRR1sVkYAc)
+- [SOLID 원칙](https://hg-pyun.github.io/solid/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -287,6 +279,13 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### C C++
 
 - [모두의 코드 - C/C++ 강좌 사이트](https://modoocode.com/)
+
+
+
+### Rust
+
+- [rust-lang-book-ko](https://rinthel.github.io/rust-lang-book-ko)
+- [Implementing Life - Rust and WebAssembly](https://rustwasm.github.io/docs/book/game-of-life/implementing.html)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -442,7 +441,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
 - [웹 컴포넌트(4) - Template Element & HTML Imports](https://ui.toast.com/weekly-pick/ko_20170901/)
 - [You can create these elements without JavaScript](https://dev.to/adrianbdesigns/you-can-create-these-elements-without-javascript-525a)
-
+- [produce 구현해보기(Proxy API를 사용한 ImmerJs 뜯어보기)](https://chodragon9.github.io//blog/produce/#%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EB%8B%A4%EC%A7%80%EA%B8%B0)
+- [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -569,7 +569,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [React 전, 7가지 배경지식 다지기](https://medium.com/@codesquad_yoda/react-%EC%A0%84-7%EA%B0%80%EC%A7%80-%EB%B0%B0%EA%B2%BD%EC%A7%80%EC%8B%9D-%EB%8B%A4%EC%A7%80%EA%B8%B0-8ad72f7b6aac)
 - [[번역] 심층 분석: React Hook은 실제로 어떻게 동작할까?](https://hewonjeong.github.io/deep-dive-how-do-react-hooks-really-work-ko/)
 - [React & Autobinding](https://medium.com/komenco/react-autobinding-2261a1092849)
-
+- [React starter kit for Chrome Extensions with Live Reloading](https://smellycode.com/chrome-extension-live-reloading-with-react/)
+- [React로 ChromeExtension에 빌드하기](https://hoony-gunputer.tistory.com/218)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -632,6 +633,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
 - [꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
 - [텍스트 버튼은 사용성을 어떻게 해치는가?](https://brunch.co.kr/@monodream/22)
+- [MIME types List](https://www.iana.org/assignments/media-types/media-types.xhtml)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -828,6 +830,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Docker (Compose) 활용법 - 개발 환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 - [docker compose 기초 사용법](https://seulcode.tistory.com/238)
 - [쿠버네티스 vs. 도커 : 컨테이너와 오케스트레이션의 이해](http://www.itworld.co.kr/news/135282?fbclid=IwAR2B69SmllVFW-ir6n2t8PlCNTLSt06FHDUNPKsCA5eeWJhBsAsuJgfHEpU#csidxbea6ac7485a0604bea2892f56176fc5)
+- [Docker image 구조](https://trylhc.tistory.com/m/entry/Docker-image)
 
 **[⬆ Top](#Dev-Contents-House)**
 
