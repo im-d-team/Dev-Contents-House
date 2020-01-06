@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [V8 release v8.0](https://v8.dev/blog/v8-release-80)
+
 <br/>
 
 ## 📚 Category
