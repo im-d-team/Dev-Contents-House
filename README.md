@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 - [V8 release v8.0](https://v8.dev/blog/v8-release-80)
 - [TypeScript MS Blog](https://devblogs.microsoft.com/typescript/)
 - [당신의 개발자들은 결코 느리지 않다.](http://tech.trenbe.com/?p=547)
+- [레거시 운영개발팀을 수습하다.](https://greypencil.tistory.com/113)
 
 <br/>
 
