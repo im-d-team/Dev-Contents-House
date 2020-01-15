@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [Redux의 ducks패턴에 대해서](http://guswnsxodlf.github.io/redux-ducks-pattern)
+
 <br/>
 
 ## 📚 Category
