@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [Redux의 ducks패턴에 대해서](http://guswnsxodlf.github.io/redux-ducks-pattern)
+- [redux-observable 사용하기](https://blog.sapzil.org/2017/07/16/redux-observable/)
 
 <br/>
 
