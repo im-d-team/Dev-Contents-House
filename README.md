@@ -6,20 +6,14 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [V8 release v8.0](https://v8.dev/blog/v8-release-80)
-- [TypeScript MS Blog](https://devblogs.microsoft.com/typescript/)
-- [당신의 개발자들은 결코 느리지 않다.](http://tech.trenbe.com/?p=547)
-- [레거시 운영개발팀을 수습하다.](https://greypencil.tistory.com/113)
-
 <br/>
 
 ## 📚 Category
 
 ### 1. [개발 일반](#1-개발-일반)
 
-|   |   |   |   |
+| [개발 문화](#개발-문화) | [취업 정보](#취업-정보) | [개발 정보](#개발-정보) | [Performance](#Performance) |
 |:-:|:-:|:-:|:-:|
-|[개발 문화](#개발-문화) |[취업 정보](#취업-정보) | [개발 정보](#개발-정보)| [Performance](#Performance) |
 
 ### 2. [언어 & Tool](#2-언어-tool)
 
@@ -104,7 +98,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [스터디 모임 방법 몇 가지 - 애자일](http://agile.egloos.com/m/5830026)
 - [우리 팀에서도 코드리뷰를 할 수 있을까? - deview](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=EAF9A0EAEB4A46AA875369B32F1489A145C7&outKey=V1264af6231ec0c6f31ea81b461ba01388fe35295f179d45518af81b461ba01388fe3&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
 - [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
-
+- [당신의 개발자들은 결코 느리지 않다.](http://tech.trenbe.com/?p=547)
+- [레거시 운영개발팀을 수습하다.](https://greypencil.tistory.com/113)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -588,6 +583,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [남다른 개선방법을 다시 보여준 페이스북의 React Fiber](https://medium.com/@codesquad_yoda/%EB%82%A8%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EC%84%A0%EB%B0%A9%EB%B2%95%EC%9D%84-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EC%97%AC%EC%A4%80-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%9D%98-react-fiber-80b7ca5bd9bb)
 - [React 렌더링 이해 및 최적화 (With Hook)](https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849)
 - [[번역] useEffect 완벽 가이드](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
+- [TypeScript MS Blog](https://devblogs.microsoft.com/typescript/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -603,6 +599,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) / [브라우저는 어떻게 동작하는가? - 한글 번역](https://d2.naver.com/helloworld/59361)
 - [크롬 네이티브 레이지 로딩](https://meetup.toast.com/posts/183)
 - [What is the maximum size of a URL? Does it depend on the browser being used?](https://www.programmerinterview.com/general-miscellaneous/url-size-limit/)
+- [V8 release v8.0](https://v8.dev/blog/v8-release-80)
 
 **[⬆ Top](#Dev-Contents-House)**
 
