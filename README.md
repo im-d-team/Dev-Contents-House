@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 - [Redux의 ducks패턴에 대해서](http://guswnsxodlf.github.io/redux-ducks-pattern)
 - [redux-observable 사용하기](https://blog.sapzil.org/2017/07/16/redux-observable/)
 - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
+- [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
 
 <br/>
 
