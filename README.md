@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 - [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
 - [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
+- [New year, new browser – The new Microsoft Edge is out of preview and now available for download](https://blogs.windows.com/windowsexperience/2020/01/15/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download/)
 
 <br/>
 
