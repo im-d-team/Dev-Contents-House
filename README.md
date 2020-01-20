@@ -15,6 +15,7 @@ Dev-Contents-House of Im-D
 - [[Typescript] type과 interface 차이](https://medium.com/@alexsung/typescript-type%EA%B3%BC-interface-%EC%B0%A8%EC%9D%B4-86666e3e90c)
 - [잘가, 클린 코드 — Overreacted](https://overreacted.io/ko/goodbye-clean-code/?fbclid=IwAR1OoRQfHG0700ygG-BmviLBcTHA5Jvwl7azTtQm__J5qQelzyWlDlFwpz0)
 - [How To Create Deep Fakes Tutorial](https://morioh.com/p/4148ffefa259?f=5c21fb01c16e2556b555ab32)
+- [MS가 개발한 새로운 코드 분석 툴, 오픈소스로 풀렸다](https://www.boannews.com/media/view.asp?idx=85876)
 
 <br/>
 
