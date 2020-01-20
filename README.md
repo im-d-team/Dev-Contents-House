@@ -14,6 +14,7 @@ Dev-Contents-House of Im-D
 - [New year, new browser – The new Microsoft Edge is out of preview and now available for download](https://blogs.windows.com/windowsexperience/2020/01/15/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download/)
 - [[Typescript] type과 interface 차이](https://medium.com/@alexsung/typescript-type%EA%B3%BC-interface-%EC%B0%A8%EC%9D%B4-86666e3e90c)
 - [잘가, 클린 코드 — Overreacted](https://overreacted.io/ko/goodbye-clean-code/?fbclid=IwAR1OoRQfHG0700ygG-BmviLBcTHA5Jvwl7azTtQm__J5qQelzyWlDlFwpz0)
+- [How To Create Deep Fakes Tutorial](https://morioh.com/p/4148ffefa259?f=5c21fb01c16e2556b555ab32)
 
 <br/>
 
