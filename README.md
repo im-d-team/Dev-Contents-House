@@ -16,6 +16,7 @@ Dev-Contents-House of Im-D
 - [잘가, 클린 코드 — Overreacted](https://overreacted.io/ko/goodbye-clean-code/?fbclid=IwAR1OoRQfHG0700ygG-BmviLBcTHA5Jvwl7azTtQm__J5qQelzyWlDlFwpz0)
 - [How To Create Deep Fakes Tutorial](https://morioh.com/p/4148ffefa259?f=5c21fb01c16e2556b555ab32)
 - [MS가 개발한 새로운 코드 분석 툴, 오픈소스로 풀렸다](https://www.boannews.com/media/view.asp?idx=85876)
+- [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/)
 
 <br/>
 
