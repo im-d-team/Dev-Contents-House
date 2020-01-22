@@ -30,15 +30,10 @@ Dev-Contents-House of Im-D
 
 ### 2. [언어 & Tool](#2-언어-tool)
 
-- [GraphQL](#GraphQL)
-- [REST](#REST)
-- [Git](#Git)
-- [Node.js](#![Node.js]-Node.js)
-- [Java](#![Java]-Java)
-- [Python](#Python)
-- [C C++](#C-C++)
-- [Rust](#Rust)
-- [이외](#이외)
+| [GraphQL](#GraphQL) | [REST](#REST) | [Git](#Git) | [Node.js](#![Node.js]-Node.js) |
+|:-:|:-:|:-:|:-:|
+| [Java](#![Java]-Java) | [Python](#Python) | [C C++](#C-C++) | [Rust](#Rust) |
+| [이외](#이외) |  |  |  |
 
 ### 3. [FrontEnd](#3-frontend)
 
