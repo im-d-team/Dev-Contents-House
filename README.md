@@ -18,6 +18,7 @@ Dev-Contents-House of Im-D
 - [MS가 개발한 새로운 코드 분석 툴, 오픈소스로 풀렸다](https://www.boannews.com/media/view.asp?idx=85876)
 - [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/)
 - [프로그래머를 지탱하는 3가지 성분](https://speakerdeck.com/totuworld/peurogeuraemeoreul-jitaenghaneun-3gaji-seongbun)
+- [Using JavaScript to Create Trello-Like Card Re-Arrange and Drag and Drop](https://medium.com/javascript-in-plain-english/using-javascript-to-create-trello-like-card-re-arrange-and-drag-and-drop-557e60125bb4)
 
 <br/>
 
