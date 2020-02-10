@@ -6,20 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [Redux의 ducks패턴에 대해서](http://guswnsxodlf.github.io/redux-ducks-pattern)
-- [redux-observable 사용하기](https://blog.sapzil.org/2017/07/16/redux-observable/)
-- [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
-- [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
-- [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
-- [New year, new browser – The new Microsoft Edge is out of preview and now available for download](https://blogs.windows.com/windowsexperience/2020/01/15/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download/)
-- [[Typescript] type과 interface 차이](https://medium.com/@alexsung/typescript-type%EA%B3%BC-interface-%EC%B0%A8%EC%9D%B4-86666e3e90c)
-- [잘가, 클린 코드 — Overreacted](https://overreacted.io/ko/goodbye-clean-code/?fbclid=IwAR1OoRQfHG0700ygG-BmviLBcTHA5Jvwl7azTtQm__J5qQelzyWlDlFwpz0)
-- [How To Create Deep Fakes Tutorial](https://morioh.com/p/4148ffefa259?f=5c21fb01c16e2556b555ab32)
-- [MS가 개발한 새로운 코드 분석 툴, 오픈소스로 풀렸다](https://www.boannews.com/media/view.asp?idx=85876)
-- [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/)
-- [프로그래머를 지탱하는 3가지 성분](https://speakerdeck.com/totuworld/peurogeuraemeoreul-jitaenghaneun-3gaji-seongbun)
-- [Using JavaScript to Create Trello-Like Card Re-Arrange and Drag and Drop](https://medium.com/javascript-in-plain-english/using-javascript-to-create-trello-like-card-re-arrange-and-drag-and-drop-557e60125bb4)
-
 <br/>
 
 ## 📚 Category
@@ -38,22 +24,11 @@ Dev-Contents-House of Im-D
 
 ### 3. [FrontEnd](#3-frontend)
 
-- [Javascript](#![Javascript]-Javascript)
-- [CSS](#![CSS]-CSS)
-- [Testing](#Testing)
-- [WebPack](#Webpack)
-- [Functional Programming](#Functional-Programming)
-- [Vue](#![Vue]-Vue)
-- [React](#![React]-React)
-- [TypeScript](#TypeScript)
-- [Browser](#Browser)
-- [Redux](#Redux)
-- [SVG](#SVG)
-- [HTML](#HTML)
-- [PWA](#PWA)
-- [Babel](#Babel)
-- [AMP](#AMP)
-- [SVELTE](#SVELTE)
+| [Javascript](#![Javascript]-Javascript) | [CSS](#![CSS]-CSS) | [Testing](#Testing) | [WebPack](#Webpack) |
+|:-:|:-:|:-:|:-:|
+| [Functional Programming](#Functional-Programming) | [Vue](#![Vue]-Vue) | [React](#![React]-React) | [TypeScript](#TypeScript) |
+| [Browser](#Browser) | [Redux](#Redux) | [SVG](#SVG) | [HTML](#HTML) |
+| [PWA](#PWA) | [Babel](#Babel) | [AMP](#AMP) | [SVELTE](#SVELTE) |
 
 ### 4. [기타](#4-기타)
 
@@ -186,7 +161,12 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [프론트엔드 도구 (CSS/JS) 설문조사 2019](https://news.hada.io/topic?id=903)
 - [애플이 웹기술을 죽이려 하고 있다](https://techit.kr/view/?no=20191113073001)
 - [Octoverse, GitHub 2019](https://githubkorea.tistory.com/54)
-  
+- [Chrome 75 Update](https://developers.google.com/web/updates/2019/06/nic75)
+- [New year, new browser – The new Microsoft Edge is out of preview and now available for download](https://blogs.windows.com/windowsexperience/2020/01/15/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download/)
+- [잘가, 클린 코드 — Overreacted](https://overreacted.io/ko/goodbye-clean-code/?fbclid=IwAR1OoRQfHG0700ygG-BmviLBcTHA5Jvwl7azTtQm__J5qQelzyWlDlFwpz0)
+- [프로그래머를 지탱하는 3가지 성분](https://speakerdeck.com/totuworld/peurogeuraemeoreul-jitaenghaneun-3gaji-seongbun)
+- [MS가 개발한 새로운 코드 분석 툴, 오픈소스로 풀렸다](https://www.boannews.com/media/view.asp?idx=85876)
+
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -451,6 +431,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [You can create these elements without JavaScript](https://dev.to/adrianbdesigns/you-can-create-these-elements-without-javascript-525a)
 - [produce 구현해보기(Proxy API를 사용한 ImmerJs 뜯어보기)](https://chodragon9.github.io//blog/produce/#%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EB%8B%A4%EC%A7%80%EA%B8%B0)
 - [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
+- [Using JavaScript to Create Trello-Like Card Re-Arrange and Drag and Drop](https://medium.com/javascript-in-plain-english/using-javascript-to-create-trello-like-card-re-arrange-and-drag-and-drop-557e60125bb4)
+- [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -579,6 +561,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [React & Autobinding](https://medium.com/komenco/react-autobinding-2261a1092849)
 - [React starter kit for Chrome Extensions with Live Reloading](https://smellycode.com/chrome-extension-live-reloading-with-react/)
 - [React로 ChromeExtension에 빌드하기](https://hoony-gunputer.tistory.com/218)
+- [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -593,6 +576,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [React 렌더링 이해 및 최적화 (With Hook)](https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849)
 - [[번역] useEffect 완벽 가이드](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
 - [TypeScript MS Blog](https://devblogs.microsoft.com/typescript/)
+- [[Typescript] type과 interface 차이](https://medium.com/@alexsung/typescript-type%EA%B3%BC-interface-%EC%B0%A8%EC%9D%B4-86666e3e90c)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -609,6 +593,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [크롬 네이티브 레이지 로딩](https://meetup.toast.com/posts/183)
 - [What is the maximum size of a URL? Does it depend on the browser being used?](https://www.programmerinterview.com/general-miscellaneous/url-size-limit/)
 - [V8 release v8.0](https://v8.dev/blog/v8-release-80)
+- [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -618,7 +603,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [Redux로의 카툰 안내서](https://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
 - [아마 이게 제일 이해하기 쉬울걸요? React + Redux 플로우의 이해](https://medium.com/@ca3rot/%EC%95%84%EB%A7%88-%EC%9D%B4%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%89%AC%EC%9A%B8%EA%B1%B8%EC%9A%94-react-redux-%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-1585e911a0a6)
-- [Chrome 75 Update](https://developers.google.com/web/updates/2019/06/nic75)
+- [Redux의 ducks패턴에 대해서](http://guswnsxodlf.github.io/redux-ducks-pattern)
+- [redux-observable 사용하기](https://blog.sapzil.org/2017/07/16/redux-observable/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -819,6 +805,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [머신러닝 단기집중과정 - 구글 colab](https://developers.google.com/machine-learning/crash-course/)
 - [AWS DeepRacer 강화학습 설명](https://github.com/aws-samples/aws-deepracer-workshops/blob/master/Workshops/2019-AWSSummits-AWSDeepRacerService/Lab1/Readme-Korean.md)
+- [How To Create Deep Fakes Tutorial](https://morioh.com/p/4148ffefa259?f=5c21fb01c16e2556b555ab32)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -841,6 +828,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [docker compose 기초 사용법](https://seulcode.tistory.com/238)
 - [쿠버네티스 vs. 도커 : 컨테이너와 오케스트레이션의 이해](http://www.itworld.co.kr/news/135282?fbclid=IwAR2B69SmllVFW-ir6n2t8PlCNTLSt06FHDUNPKsCA5eeWJhBsAsuJgfHEpU#csidxbea6ac7485a0604bea2892f56176fc5)
 - [Docker image 구조](https://trylhc.tistory.com/m/entry/Docker-image)
+- [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
 **[⬆ Top](#Dev-Contents-House)**
 
