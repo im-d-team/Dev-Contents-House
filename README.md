@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [리액트(ReactJS) 개발자가 걷게 되는 길](https://repo.yona.io/doortts/blog/post/297)
+- [왜 내가 Redux 대신 MobX를 쓰게 되었나](https://rokt33r.github.io/posts/why-i-replace-redux-with-mobx)
 
 <br/>
 
