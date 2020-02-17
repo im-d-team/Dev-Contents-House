@@ -6,9 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [견고한 node.js 프로젝트 설계하기](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
-- [Node.js의 Events `EventEmitter` 번역](https://edykim.com/ko/post/events-eventemitter-translation-in-node.js/)
-- [팀을 맡고, 한 달 동안 가장 공을 들인 일 | Huns.me](https://huns.me/posts/2019-11-10-32)
 - [리액트(ReactJS) 개발자가 걷게 되는 길](https://repo.yona.io/doortts/blog/post/297)
 
 <br/>
@@ -89,6 +86,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 - [당신의 개발자들은 결코 느리지 않다.](http://tech.trenbe.com/?p=547)
 - [레거시 운영개발팀을 수습하다.](https://greypencil.tistory.com/113)
+- [팀을 맡고, 한 달 동안 가장 공을 들인 일 | Huns.me](https://huns.me/posts/2019-11-10-32)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -243,7 +241,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [package-lock.json이란?](https://junwoo45.github.io/2019-10-02-package-lock/)
 - [NPM Rank](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
 - [Docker, NodeJS, Nginx! 너로 정했다!](http://labs.brandi.co.kr/2018/05/25/kangww.html)
-  
+- [견고한 node.js 프로젝트 설계하기](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)  
+- [Node.js의 Events `EventEmitter` 번역](https://edykim.com/ko/post/events-eventemitter-translation-in-node.js/)
+
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
