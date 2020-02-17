@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [리액트(ReactJS) 개발자가 걷게 되는 길](https://repo.yona.io/doortts/blog/post/297)
 - [왜 내가 Redux 대신 MobX를 쓰게 되었나](https://rokt33r.github.io/posts/why-i-replace-redux-with-mobx)
+- [상태 관리 라이브러리의 미학: Redux 또는 MobX 를 통한 상태 관리](https://velopert.com/3707)
 
 <br/>
 
