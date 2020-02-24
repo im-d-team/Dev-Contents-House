@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [BDD로 테스트에 중독되어 보자](https://helloworld.kurly.com/blog/try-bdd/)
+
 <br/>
 
 ## 📚 Category
