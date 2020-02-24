@@ -6,11 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [리액트(ReactJS) 개발자가 걷게 되는 길](https://repo.yona.io/doortts/blog/post/297)
-- [왜 내가 Redux 대신 MobX를 쓰게 되었나](https://rokt33r.github.io/posts/why-i-replace-redux-with-mobx)
-- [상태 관리 라이브러리의 미학: Redux 또는 MobX 를 통한 상태 관리](https://velopert.com/3707)
-- [React에서 Mobx 경험기](https://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
-
 <br/>
 
 ## 📚 Category
@@ -570,6 +565,10 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [React starter kit for Chrome Extensions with Live Reloading](https://smellycode.com/chrome-extension-live-reloading-with-react/)
 - [React로 ChromeExtension에 빌드하기](https://hoony-gunputer.tistory.com/218)
 - [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/)
+- [리액트(ReactJS) 개발자가 걷게 되는 길](https://repo.yona.io/doortts/blog/post/297)
+- [왜 내가 Redux 대신 MobX를 쓰게 되었나](https://rokt33r.github.io/posts/why-i-replace-redux-with-mobx)
+- [상태 관리 라이브러리의 미학: Redux 또는 MobX 를 통한 상태 관리](https://velopert.com/3707)
+- [React에서 Mobx 경험기](https://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
 
 **[⬆ Top](#Dev-Contents-House)**
 
