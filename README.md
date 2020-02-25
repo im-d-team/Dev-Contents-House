@@ -7,6 +7,7 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [BDD로 테스트에 중독되어 보자](https://helloworld.kurly.com/blog/try-bdd/)
+- [Promise, 가만히 냅두면 어떻게 될까?](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
 
 <br/>
 
