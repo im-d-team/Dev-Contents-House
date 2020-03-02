@@ -6,14 +6,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [BDD로 테스트에 중독되어 보자](https://helloworld.kurly.com/blog/try-bdd/)
-- [Promise, 가만히 냅두면 어떻게 될까?](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
-- [다트 기본 구조 및 중요 개념](https://brunch.co.kr/@mystoryg/116)
 - [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
-- [Contents of Flutter Code Examples](https://here4you.tistory.com/213)
-- [디자인베이스 | 디자인 강좌의 시작](http://designbase.co.kr/)
-- [Flutter - BLoC 패턴 알아보기](https://beomseok95.tistory.com/312)
-- [오준석의 생존코딩](https://survivalcoding.com/)
 
 <br/>
 
@@ -38,10 +31,18 @@ Dev-Contents-House of Im-D
 | [Functional Programming](#Functional-Programming) | [Vue](#![Vue]-Vue) | [React](#![React]-React) | [TypeScript](#TypeScript) |
 | [Browser](#Browser) | [Redux](#Redux) | [SVG](#SVG) | [HTML](#HTML) |
 | [PWA](#PWA) | [Babel](#Babel) | [AMP](#AMP) | [SVELTE](#SVELTE) |
+| [Web](#Web) ||||
 
-### 4. [기타](#4-기타)
+### 4. [디자인](#4-디자인)
 
-- [Web](#Web)
+- [디자인 강의](#Design-tool)
+
+### 5. [모바일](#5-모바일)
+
+- [Flutter](#Flutter)
+
+### 6. [기타](#6-기타)
+
 - [보안](#보안)
 - [TEST Case](#TEST-Case)
 - [HTTP](#HTTP)
@@ -53,7 +54,6 @@ Dev-Contents-House of Im-D
 - [Vim](#Vim)
 - [디자인 패턴](#디자인-패턴)
 - [NSIS](#NSIS)
-- [Flutter](#Flutter)
 - [ML](#ML)
 - [SPRING](#SPRING)
 - [Conference](#Conference)
@@ -445,6 +445,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
 - [Using JavaScript to Create Trello-Like Card Re-Arrange and Drag and Drop](https://medium.com/javascript-in-plain-english/using-javascript-to-create-trello-like-card-re-arrange-and-drag-and-drop-557e60125bb4)
 - [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
+- [Promise, 가만히 냅두면 어떻게 될까?](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -485,6 +486,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [the Different Testing Tools (chai, mocha, enzyme, jest)](https://medium.com/@leannezhang/clarifying-different-testing-tools-chai-mocha-enzyme-jest-d7a561f01857)
 - [Node.js 로 TDD 를 도전해보자](https://seokjun.kim/node-js-tdd/)
+- [BDD로 테스트에 중독되어 보자](https://helloworld.kurly.com/blog/try-bdd/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -687,7 +689,33 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 <br/>
 
-## 4. 기타
+## 4. 디자인
+
+### Design tool
+
+- [디자인베이스 | 디자인 강좌의 시작](http://designbase.co.kr/)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+<br/>
+
+## 5. 모바일
+
+### Flutter
+
+- [플러터를 빠르게 배우기 좋은 4개의 사이트 :: 소프트웨어 이야기](https://software-creator.tistory.com/11)
+- [Flutter Docs](https://flutter.dev/docs/get-started/install)
+- [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/)
+- [Contents of Flutter Code Examples](https://here4you.tistory.com/213)
+- [Flutter - BLoC 패턴 알아보기](https://beomseok95.tistory.com/312)
+- [오준석의 생존코딩](https://survivalcoding.com/)
+- [다트 기본 구조 및 중요 개념](https://brunch.co.kr/@mystoryg/116)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+<br/>
+
+## 6. 기타
 
 ### Web
 
@@ -806,14 +834,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [NSIS Modern User Interface](https://nsis.sourceforge.io/Docs/Modern%20UI/Readme.html)
 
 <br/>
-
-**[⬆ Top](#Dev-Contents-House)**
-
-### Flutter
-
-- [플러터를 빠르게 배우기 좋은 4개의 사이트 :: 소프트웨어 이야기](https://software-creator.tistory.com/11)
-- [Flutter Docs](https://flutter.dev/docs/get-started/install)
-- [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
