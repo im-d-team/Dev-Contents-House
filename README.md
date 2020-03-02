@@ -7,6 +7,8 @@ Dev-Contents-House of Im-D
 ## 📖 This Week
 
 - [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
+- [프런트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
+
 
 <br/>
 
