@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 - [프런트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
+- [개발자를 위한 레디스 튜토리얼 01](https://meetup.toast.com/posts/224)
 
 
 <br/>
