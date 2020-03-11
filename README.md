@@ -10,7 +10,7 @@ Dev-Contents-House of Im-D
 - [프런트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
 - [개발자를 위한 레디스 튜토리얼 01](https://meetup.toast.com/posts/224)
 - [BEM( Block, Element, Modifier) Quick start](https://velog.io/@yesdoing/BEM-Block-Element-Modifier-Quick-start)
-
+- [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
 
 <br/>
 
