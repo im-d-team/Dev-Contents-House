@@ -6,11 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
-- [프런트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
-- [개발자를 위한 레디스 튜토리얼 01](https://meetup.toast.com/posts/224)
-- [BEM( Block, Element, Modifier) Quick start](https://velog.io/@yesdoing/BEM-Block-Element-Modifier-Quick-start)
-- [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
 
 <br/>
 
@@ -305,7 +300,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [터미널을 녹화하고 공유하자 - asciinema](https://asciinema.org/)
 - [Alfred Workflows | Packal](http://www.packal.org/workflow-list?sort_by=changed&sort_order=DESC&items_per_page=100)
 - [개발을 위한 무료툴 모음](https://free-for.dev/#/)
-  
+- [개발자를 위한 레디스 튜토리얼 01](https://meetup.toast.com/posts/224)
+
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -450,6 +446,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Using JavaScript to Create Trello-Like Card Re-Arrange and Drag and Drop](https://medium.com/javascript-in-plain-english/using-javascript-to-create-trello-like-card-re-arrange-and-drag-and-drop-557e60125bb4)
 - [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
 - [Promise, 가만히 냅두면 어떻게 될까?](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
+- [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
+- [프런트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -481,6 +479,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Houdini: Demystifying CSS - Google Developers](https://developers.google.com/web/updates/2016/05/houdini)
 - [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
 - [자바스크립트의 프로토타입 흝어보기](https://evan-moon.github.io/2019/10/23/js-prototype/)
+- [BEM( Block, Element, Modifier) Quick start](https://velog.io/@yesdoing/BEM-Block-Element-Modifier-Quick-start)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -652,7 +651,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
 - [텍스트 버튼은 사용성을 어떻게 해치는가?](https://brunch.co.kr/@monodream/22)
 - [MIME types List](https://www.iana.org/assignments/media-types/media-types.xhtml)
-
+- [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
+  
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
