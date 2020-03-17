@@ -6,6 +6,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [Back-end for Front-end Pattern (BFF)](https://medium.com/@giljae/back-end-for-front-end-pattern-bff-4b73f29858d6)
 
 <br/>
 
