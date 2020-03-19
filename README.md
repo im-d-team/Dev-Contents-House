@@ -8,6 +8,7 @@ Dev-Contents-House of Im-D
 
 - [Back-end for Front-end Pattern (BFF)](https://medium.com/@giljae/back-end-for-front-end-pattern-bff-4b73f29858d6)
 - [마이크로 서비스 아키텍처를 위한 Frontend 개발패턴](https://cyberx.tistory.com/101)
+- [Node 제작자가 만든 Deno: 자바스크립트의 새로운 접근](https://blog.ull.im/engineering/2019/04/14/deno-ryan-dahl-2019-04-04.html)
 
 <br/>
 
