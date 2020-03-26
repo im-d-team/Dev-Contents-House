@@ -10,6 +10,8 @@ Dev-Contents-House of Im-D
 - [마이크로 서비스 아키텍처를 위한 Frontend 개발패턴](https://cyberx.tistory.com/101)
 - [Node 제작자가 만든 Deno: 자바스크립트의 새로운 접근](https://blog.ull.im/engineering/2019/04/14/deno-ryan-dahl-2019-04-04.html)
 - [쪼잔한 Rust 4.1. 소유권이 무엇이냐](https://dgkim5360.tistory.com/entry/what-i-learned-from-the-rust-book-chapter-4-1-what-is-ownership?category=990157)
+- [한글 문자 집합 및 인코딩 (Korean Character Set and Encoding)
+](http://forensic-proof.com/archives/615)
 
 <br/>
 
