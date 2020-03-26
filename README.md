@@ -14,6 +14,8 @@ Dev-Contents-House of Im-D
 ](http://forensic-proof.com/archives/615)
 - [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리
 ](https://d2.naver.com/helloworld/76650)
+- [JAVA 한글자르기(유니코드)
+](https://jeroschoi.tistory.com/5?category=610740)
 
 <br/>
 
