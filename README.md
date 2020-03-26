@@ -12,6 +12,8 @@ Dev-Contents-House of Im-D
 - [쪼잔한 Rust 4.1. 소유권이 무엇이냐](https://dgkim5360.tistory.com/entry/what-i-learned-from-the-rust-book-chapter-4-1-what-is-ownership?category=990157)
 - [한글 문자 집합 및 인코딩 (Korean Character Set and Encoding)
 ](http://forensic-proof.com/archives/615)
+- [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리
+](https://d2.naver.com/helloworld/76650)
 
 <br/>
 
