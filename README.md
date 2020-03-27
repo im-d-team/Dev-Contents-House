@@ -10,12 +10,10 @@ Dev-Contents-House of Im-D
 - [마이크로 서비스 아키텍처를 위한 Frontend 개발패턴](https://cyberx.tistory.com/101)
 - [Node 제작자가 만든 Deno: 자바스크립트의 새로운 접근](https://blog.ull.im/engineering/2019/04/14/deno-ryan-dahl-2019-04-04.html)
 - [쪼잔한 Rust 4.1. 소유권이 무엇이냐](https://dgkim5360.tistory.com/entry/what-i-learned-from-the-rust-book-chapter-4-1-what-is-ownership?category=990157)
-- [한글 문자 집합 및 인코딩 (Korean Character Set and Encoding)
-](http://forensic-proof.com/archives/615)
-- [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리
-](https://d2.naver.com/helloworld/76650)
-- [JAVA 한글자르기(유니코드)
-](https://jeroschoi.tistory.com/5?category=610740)
+- [한글 문자 집합 및 인코딩 (Korean Character Set and Encoding)](http://forensic-proof.com/archives/615)
+- [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리](https://d2.naver.com/helloworld/76650)
+- [JAVA 한글자르기(유니코드)](https://jeroschoi.tistory.com/5?category=610740)
+- [Vue.js 최근소식들5 — Vue 3 Alpha 버전 시작 등](https://medium.com/@jeongwooahn/vue-js-%EC%B5%9C%EA%B7%BC%EC%86%8C%EC%8B%9D%EB%93%A45-vue-3-alpha-%EB%B2%84%EC%A0%84-%EC%8B%9C%EC%9E%91-%EB%93%B1-92c06b94435b)
 
 <br/>
 
@@ -661,7 +659,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
 - [텍스트 버튼은 사용성을 어떻게 해치는가?](https://brunch.co.kr/@monodream/22)
 - [MIME types List](https://www.iana.org/assignments/media-types/media-types.xhtml)
-- [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
   
 **[⬆ Top](#Dev-Contents-House)**
 
