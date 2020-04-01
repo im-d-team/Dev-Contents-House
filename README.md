@@ -6,15 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [Back-end for Front-end Pattern (BFF)](https://medium.com/@giljae/back-end-for-front-end-pattern-bff-4b73f29858d6)
-- [마이크로 서비스 아키텍처를 위한 Frontend 개발패턴](https://cyberx.tistory.com/101)
-- [Node 제작자가 만든 Deno: 자바스크립트의 새로운 접근](https://blog.ull.im/engineering/2019/04/14/deno-ryan-dahl-2019-04-04.html)
-- [쪼잔한 Rust 4.1. 소유권이 무엇이냐](https://dgkim5360.tistory.com/entry/what-i-learned-from-the-rust-book-chapter-4-1-what-is-ownership?category=990157)
-- [한글 문자 집합 및 인코딩 (Korean Character Set and Encoding)](http://forensic-proof.com/archives/615)
-- [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리](https://d2.naver.com/helloworld/76650)
-- [JAVA 한글자르기(유니코드)](https://jeroschoi.tistory.com/5?category=610740)
-- [Vue.js 최근소식들5 — Vue 3 Alpha 버전 시작 등](https://medium.com/@jeongwooahn/vue-js-%EC%B5%9C%EA%B7%BC%EC%86%8C%EC%8B%9D%EB%93%A45-vue-3-alpha-%EB%B2%84%EC%A0%84-%EC%8B%9C%EC%9E%91-%EB%93%B1-92c06b94435b)
-
 <br/>
 
 ## 📚 Category
@@ -257,6 +248,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Docker, NodeJS, Nginx! 너로 정했다!](http://labs.brandi.co.kr/2018/05/25/kangww.html)
 - [견고한 node.js 프로젝트 설계하기](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)  
 - [Node.js의 Events `EventEmitter` 번역](https://edykim.com/ko/post/events-eventemitter-translation-in-node.js/)
+- [Node 제작자가 만든 Deno: 자바스크립트의 새로운 접근](https://blog.ull.im/engineering/2019/04/14/deno-ryan-dahl-2019-04-04.html)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -293,6 +285,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [rust-lang-book-ko](https://rinthel.github.io/rust-lang-book-ko)
 - [Implementing Life - Rust and WebAssembly](https://rustwasm.github.io/docs/book/game-of-life/implementing.html)
+- [쪼잔한 Rust 4.1. 소유권이 무엇이냐](https://dgkim5360.tistory.com/entry/what-i-learned-from-the-rust-book-chapter-4-1-what-is-ownership?category=990157)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -309,6 +302,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Alfred Workflows | Packal](http://www.packal.org/workflow-list?sort_by=changed&sort_order=DESC&items_per_page=100)
 - [개발을 위한 무료툴 모음](https://free-for.dev/#/)
 - [개발자를 위한 레디스 튜토리얼 01](https://meetup.toast.com/posts/224)
+- [한글 문자 집합 및 인코딩 (Korean Character Set and Encoding)](http://forensic-proof.com/archives/615)
+- [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리](https://d2.naver.com/helloworld/76650)
+- [JAVA 한글자르기(유니코드)](https://jeroschoi.tistory.com/5?category=610740)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -531,6 +527,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [vuejs-interview-questions-korean](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
 - [Vue + WebAssembly – Brock Reece](https://medium.com/@brockreece/vue-webassembly-1a09e38d0389)
 - [[번역]Vue.js 3: Future-Oriented Programming | 오르막길](https://genie-youn.github.io/journal/%EB%B2%88%EC%97%AD-Vue.js-3-Future-Oriented-Programming.html)
+- [Vue.js 최근소식들5 — Vue 3 Alpha 버전 시작 등](https://medium.com/@jeongwooahn/vue-js-%EC%B5%9C%EA%B7%BC%EC%86%8C%EC%8B%9D%EB%93%A45-vue-3-alpha-%EB%B2%84%EC%A0%84-%EC%8B%9C%EC%9E%91-%EB%93%B1-92c06b94435b)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -835,6 +832,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [[번역] 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
 - [어댑터 패턴 Adapter Pattern](https://dev-momo.tistory.com/entry/Adapter-Pattern-%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4)
 - [How to Use the Observable Pattern in JavaScript](https://webdevstudios.com/2019/02/19/observable-pattern-in-javascript/)
+- [Back-end for Front-end Pattern (BFF)](https://medium.com/@giljae/back-end-for-front-end-pattern-bff-4b73f29858d6)
+- [마이크로 서비스 아키텍처를 위한 Frontend 개발패턴](https://cyberx.tistory.com/101)
 
 **[⬆ Top](#Dev-Contents-House)**
 
