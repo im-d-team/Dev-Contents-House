@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [ECMAScript 2020: the final feature set](https://2ality.com/2019/12/ecmascript-2020.html)
+
 <br/>
 
 ## 📚 Category
