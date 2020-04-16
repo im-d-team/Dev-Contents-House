@@ -6,6 +6,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [[RFC] Vuex naming conventions](https://github.com/DivanteLtd/vue-storefront/issues/2069)
 - [[Vue.js + PWA + Prerender] PWA와 Prerender 적용 웹 앱 개발](https://kool-jay.tistory.com/27)
 - [Progressive 웹 앱이 드디어 iOS에서도! | Sophie writes code](https://sophiedophie.github.io/2018/04/23/progressive-web-app-ios/)
 - [ECMAScript 2020: the final feature set](https://2ality.com/2019/12/ecmascript-2020.html)
