@@ -6,9 +6,10 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [Progressive 웹 앱이 드디어 iOS에서도! | Sophie writes code](https://sophiedophie.github.io/2018/04/23/progressive-web-app-ios/)
 - [ECMAScript 2020: the final feature set](https://2ality.com/2019/12/ecmascript-2020.html)
 - [Finally running Rust natively on a Flutter plugin! Here is how](https://medium.com/flutter-community/finally-running-rust-natively-on-a-flutter-plugin-here-is-how-6f2826eb1735)
-- [[Java] NIO 기반 입출력 및 네트워킹 - TCP 블로킹 채널](https://palpit.tistory.com/644?category=843239)
+- [NIO 기반 입출력 및 네트워킹 - TCP 블로킹 채널](https://palpit.tistory.com/644?category=843239)
 - [Understanding JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools)
 
 <br/>
