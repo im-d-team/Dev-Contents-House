@@ -16,6 +16,7 @@ Dev-Contents-House of Im-D
 - [Finally running Rust natively on a Flutter plugin! Here is how](https://medium.com/flutter-community/finally-running-rust-natively-on-a-flutter-plugin-here-is-how-6f2826eb1735)
 - [NIO 기반 입출력 및 네트워킹 - TCP 블로킹 채널](https://palpit.tistory.com/644?category=843239)
 - [Understanding JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools)
+- [738/clean-code-typescript: 🚿 타입스크립트를 위한 클린코드 - 한글 번역판 🇰🇷](https://github.com/738/clean-code-typescript)
 
 <br/>
 
