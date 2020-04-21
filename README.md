@@ -6,6 +6,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [Vuex Dynamic Register Modules](https://beomy.tistory.com/88)
 - [API Reference | Vue Composition API](https://composition-api.vuejs.org/api.html#watch)
 - [🌳🚀 CS Visualized: Useful Git Commands - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 - [[RFC] Vuex naming conventions](https://github.com/DivanteLtd/vue-storefront/issues/2069)
