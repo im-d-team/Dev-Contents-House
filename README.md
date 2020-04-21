@@ -6,6 +6,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [API Reference | Vue Composition API](https://composition-api.vuejs.org/api.html#watch)
 - [🌳🚀 CS Visualized: Useful Git Commands - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 - [[RFC] Vuex naming conventions](https://github.com/DivanteLtd/vue-storefront/issues/2069)
 - [[Vue.js + PWA + Prerender] PWA와 Prerender 적용 웹 앱 개발](https://kool-jay.tistory.com/27)
