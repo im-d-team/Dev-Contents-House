@@ -6,6 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
+- [웹에서 앱으로 이동하기 (feat.딥링크)](http://feel5ny.github.io/2019/09/22/Communication_001/)
+
 <br/>
 
 ## 📚 Category
