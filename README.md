@@ -6,18 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [Vuex Dynamic Register Modules](https://beomy.tistory.com/88)
-- [API Reference | Vue Composition API](https://composition-api.vuejs.org/api.html#watch)
-- [🌳🚀 CS Visualized: Useful Git Commands - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
-- [[RFC] Vuex naming conventions](https://github.com/DivanteLtd/vue-storefront/issues/2069)
-- [[Vue.js + PWA + Prerender] PWA와 Prerender 적용 웹 앱 개발](https://kool-jay.tistory.com/27)
-- [Progressive 웹 앱이 드디어 iOS에서도! | Sophie writes code](https://sophiedophie.github.io/2018/04/23/progressive-web-app-ios/)
-- [ECMAScript 2020: the final feature set](https://2ality.com/2019/12/ecmascript-2020.html)
-- [Finally running Rust natively on a Flutter plugin! Here is how](https://medium.com/flutter-community/finally-running-rust-natively-on-a-flutter-plugin-here-is-how-6f2826eb1735)
-- [NIO 기반 입출력 및 네트워킹 - TCP 블로킹 채널](https://palpit.tistory.com/644?category=843239)
-- [Understanding JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools)
-- [738/clean-code-typescript: 🚿 타입스크립트를 위한 클린코드 - 한글 번역판 🇰🇷](https://github.com/738/clean-code-typescript)
-
 <br/>
 
 ## 📚 Category
@@ -29,7 +17,7 @@ Dev-Contents-House of Im-D
 
 ### 2. [언어 & Tool](#2-언어-tool)
 
-| [GraphQL](#GraphQL) | [REST](#REST) | [Git](#Git) | [Node.js](#![Node.js]-Node.js) |
+| [GraphQL](#GraphQL) | [REST](#REST) | [Git](#[Git]-Git) | [Node.js](#![Node.js]-Node.js) |
 |:-:|:-:|:-:|:-:|
 | [Java](#![Java]-Java) | [Python](#Python) | [C C++](#C-C++) | [Rust](#Rust) |
 | [이외](#이외) |  |  |  |
@@ -242,6 +230,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Git 그림으로 배우는 Add, Commit의 원리](https://milooy.wordpress.com/2019/06/08/git-add-commit/)
 - [Navigating code on GitHub](https://help.github.com/en/articles/navigating-code-on-github)
 - [구글에서도 사용하는 버전관리 방법론](https://semver.org/lang/ko/)
+- [🌳🚀 CS Visualized: Useful Git Commands - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -464,6 +454,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Promise, 가만히 냅두면 어떻게 될까?](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
 - [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 - [프런트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
+- [ECMAScript 2020: the final feature set](https://2ality.com/2019/12/ecmascript-2020.html)
+- [Understanding JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -540,6 +532,10 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Vue + WebAssembly – Brock Reece](https://medium.com/@brockreece/vue-webassembly-1a09e38d0389)
 - [[번역]Vue.js 3: Future-Oriented Programming | 오르막길](https://genie-youn.github.io/journal/%EB%B2%88%EC%97%AD-Vue.js-3-Future-Oriented-Programming.html)
 - [Vue.js 최근소식들5 — Vue 3 Alpha 버전 시작 등](https://medium.com/@jeongwooahn/vue-js-%EC%B5%9C%EA%B7%BC%EC%86%8C%EC%8B%9D%EB%93%A45-vue-3-alpha-%EB%B2%84%EC%A0%84-%EC%8B%9C%EC%9E%91-%EB%93%B1-92c06b94435b)
+- [Vuex Dynamic Register Modules](https://beomy.tistory.com/88)
+- [API Reference | Vue Composition API](https://composition-api.vuejs.org/api.html#watch)
+- [[RFC] Vuex naming conventions](https://github.com/DivanteLtd/vue-storefront/issues/2069)
+- [[Vue.js + PWA + Prerender] PWA와 Prerender 적용 웹 앱 개발](https://kool-jay.tistory.com/27)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -615,7 +611,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [[번역] useEffect 완벽 가이드](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
 - [TypeScript MS Blog](https://devblogs.microsoft.com/typescript/)
 - [[Typescript] type과 interface 차이](https://medium.com/@alexsung/typescript-type%EA%B3%BC-interface-%EC%B0%A8%EC%9D%B4-86666e3e90c)
-
+- [738/clean-code-typescript: 🚿 타입스크립트를 위한 클린코드 - 한글 번역판 🇰🇷](https://github.com/738/clean-code-typescript)
+  
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -676,6 +673,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### PWA
 
 - [[PWA] 프로그레시브 웹 앱 시작하기 (1) - PWA란?](https://codevkr.tistory.com/85)
+- [Progressive 웹 앱이 드디어 iOS에서도! | Sophie writes code](https://sophiedophie.github.io/2018/04/23/progressive-web-app-ios/)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -730,6 +729,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Flutter - BLoC 패턴 알아보기](https://beomseok95.tistory.com/312)
 - [오준석의 생존코딩](https://survivalcoding.com/)
 - [다트 기본 구조 및 중요 개념](https://brunch.co.kr/@mystoryg/116)
+- [Finally running Rust natively on a Flutter plugin! Here is how](https://medium.com/flutter-community/finally-running-rust-natively-on-a-flutter-plugin-here-is-how-6f2826eb1735)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -807,6 +808,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [네트워크의 기본 'OSI 7계층' 한번에 이해하고 외우는 방법](http://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
 - [TCP의 헤더에는 어떤 정보들이 담겨있는걸까?](https://evan-moon.github.io/2019/11/10/header-of-tcp/)
 - [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
+- [NIO 기반 입출력 및 네트워킹 - TCP 블로킹 채널](https://palpit.tistory.com/644?category=843239)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
