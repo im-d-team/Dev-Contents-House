@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 - [웹에서 앱으로 이동하기 (feat.딥링크)](http://feel5ny.github.io/2019/09/22/Communication_001/)
 - [Backend for Frontend Application Architecture – IBM Developer](https://developer.ibm.com/technologies/microservices/patterns/create-backend-for-frontend-application-architecture/)
 - [마이크로 서비스 아키텍처를 위한 Frontend 개발패턴](https://cyberx.tistory.com/101)
+- [What is Serverless Architecture? - Twilio](https://www.twilio.com/docs/glossary/what-is-serverless-architecture)
 
 <br/>
 
