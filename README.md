@@ -11,6 +11,8 @@ Dev-Contents-House of Im-D
 - [Backend for Frontend Application Architecture – IBM Developer](https://developer.ibm.com/technologies/microservices/patterns/create-backend-for-frontend-application-architecture/)
 - [마이크로 서비스 아키텍처를 위한 Frontend 개발패턴](https://cyberx.tistory.com/101)
 - [What is Serverless Architecture? - Twilio](https://www.twilio.com/docs/glossary/what-is-serverless-architecture)
+- [도대체 Vuex가 뭐길래? - 최인탁 - Medium](https://medium.com/@itsnothingg/%EB%8F%84%EB%8C%80%EC%B2%B4-vuex%EA%B0%80-%EB%AD%90%EA%B8%B8%EB%9E%98-ad5bc15f2371)
+- [[Vuetorials] 6. Vuex Module pattern | JBEE.io](https://jbee.io/vuetorials/Vuetorials-6-Vuex-Module-pattern/)
 
 <br/>
 
