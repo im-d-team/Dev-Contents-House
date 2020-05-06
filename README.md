@@ -6,7 +6,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [Vuex Dynamic Register Modules](https://beomy.tistory.com/88)
+- [Vuex Modules](https://beomy.tistory.com/88)
 - [API Reference | Vue Composition API](https://composition-api.vuejs.org/api.html#watch)
 - [🌳🚀 CS Visualized: Useful Git Commands - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 - [[RFC] Vuex naming conventions](https://github.com/DivanteLtd/vue-storefront/issues/2069)
@@ -16,6 +16,9 @@ Dev-Contents-House of Im-D
 - [Finally running Rust natively on a Flutter plugin! Here is how](https://medium.com/flutter-community/finally-running-rust-natively-on-a-flutter-plugin-here-is-how-6f2826eb1735)
 - [NIO 기반 입출력 및 네트워킹 - TCP 블로킹 채널](https://palpit.tistory.com/644?category=843239)
 - [Understanding JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools)
+- [Web Vitals](https://web.dev/vitals/)
+
+
 
 <br/>
 
