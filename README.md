@@ -14,6 +14,7 @@ Dev-Contents-House of Im-D
 - [도대체 Vuex가 뭐길래? - 최인탁 - Medium](https://medium.com/@itsnothingg/%EB%8F%84%EB%8C%80%EC%B2%B4-vuex%EA%B0%80-%EB%AD%90%EA%B8%B8%EB%9E%98-ad5bc15f2371)
 - [[Vuetorials] 6. Vuex Module pattern | JBEE.io](https://jbee.io/vuetorials/Vuetorials-6-Vuex-Module-pattern/)
 - [Web Vitals](https://web.dev/vitals/)
+- [await의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR32v7GSVk5bHUa4FvPs7BiU2YJN0m7RmTyjAfZp5EGXrm2vq1quNaPI0UU)
 
 <br/>
 
