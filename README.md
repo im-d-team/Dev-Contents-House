@@ -15,6 +15,7 @@ Dev-Contents-House of Im-D
 - [[Vuetorials] 6. Vuex Module pattern | JBEE.io](https://jbee.io/vuetorials/Vuetorials-6-Vuex-Module-pattern/)
 - [Web Vitals](https://web.dev/vitals/)
 - [await의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR32v7GSVk5bHUa4FvPs7BiU2YJN0m7RmTyjAfZp5EGXrm2vq1quNaPI0UU)
+- [13/ Image 업로드 시 회전에 대하여 (feat. exif 메타데이터 - Orientation) | 필오의 개발일지](https://feel5ny.github.io/2018/08/06/JS_13/)
 
 <br/>
 
