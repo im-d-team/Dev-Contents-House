@@ -6,17 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [Changing Scroll Behavior with Vue Router](https://levelup.gitconnected.com/changing-scroll-behavior-with-vue-router-c543fb39144a)
-- [웹에서 앱으로 이동하기 (feat.딥링크)](http://feel5ny.github.io/2019/09/22/Communication_001/)
-- [Backend for Frontend Application Architecture – IBM Developer](https://developer.ibm.com/technologies/microservices/patterns/create-backend-for-frontend-application-architecture/)
-- [마이크로 서비스 아키텍처를 위한 Frontend 개발패턴](https://cyberx.tistory.com/101)
-- [What is Serverless Architecture? - Twilio](https://www.twilio.com/docs/glossary/what-is-serverless-architecture)
-- [도대체 Vuex가 뭐길래? - 최인탁 - Medium](https://medium.com/@itsnothingg/%EB%8F%84%EB%8C%80%EC%B2%B4-vuex%EA%B0%80-%EB%AD%90%EA%B8%B8%EB%9E%98-ad5bc15f2371)
-- [[Vuetorials] 6. Vuex Module pattern | JBEE.io](https://jbee.io/vuetorials/Vuetorials-6-Vuex-Module-pattern/)
-- [Web Vitals](https://web.dev/vitals/)
-- [await의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR32v7GSVk5bHUa4FvPs7BiU2YJN0m7RmTyjAfZp5EGXrm2vq1quNaPI0UU)
-- [13/ Image 업로드 시 회전에 대하여 (feat. exif 메타데이터 - Orientation) | 필오의 개발일지](https://feel5ny.github.io/2018/08/06/JS_13/)
-
 <br/>
 
 ## 📚 Category
@@ -318,7 +307,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [한글 문자 집합 및 인코딩 (Korean Character Set and Encoding)](http://forensic-proof.com/archives/615)
 - [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리](https://d2.naver.com/helloworld/76650)
 - [JAVA 한글자르기(유니코드)](https://jeroschoi.tistory.com/5?category=610740)
-
+- [웹에서 앱으로 이동하기 (feat.딥링크)](http://feel5ny.github.io/2019/09/22/Communication_001/)
+- [웹에서 앱으로 이동하기 (feat.딥링크)](http://feel5ny.github.io/2019/09/22/Communication_001/)
+  
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -467,6 +458,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [프런트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
 - [ECMAScript 2020: the final feature set](https://2ality.com/2019/12/ecmascript-2020.html)
 - [Understanding JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools)
+- [await의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR32v7GSVk5bHUa4FvPs7BiU2YJN0m7RmTyjAfZp5EGXrm2vq1quNaPI0UU)
+- [13/ Image 업로드 시 회전에 대하여 (feat. exif 메타데이터 - Orientation) | 필오의 개발일지](https://feel5ny.github.io/2018/08/06/JS_13/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -547,6 +540,10 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [API Reference | Vue Composition API](https://composition-api.vuejs.org/api.html#watch)
 - [[RFC] Vuex naming conventions](https://github.com/DivanteLtd/vue-storefront/issues/2069)
 - [[Vue.js + PWA + Prerender] PWA와 Prerender 적용 웹 앱 개발](https://kool-jay.tistory.com/27)
+- [Changing Scroll Behavior with Vue Router](https://levelup.gitconnected.com/changing-scroll-behavior-with-vue-router-c543fb39144a)
+- [도대체 Vuex가 뭐길래? - 최인탁 - Medium](https://medium.com/@itsnothingg/%EB%8F%84%EB%8C%80%EC%B2%B4-vuex%EA%B0%80-%EB%AD%90%EA%B8%B8%EB%9E%98-ad5bc15f2371)
+- [[Vuetorials] 6. Vuex Module pattern | JBEE.io](https://jbee.io/vuetorials/Vuetorials-6-Vuex-Module-pattern/)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -760,6 +757,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Webpack 4와 babel 7으로 react개발환경 셋업하기 – Clyde – Medium](https://medium.com/@benjaminwoojang/webpack-4%EC%99%80-babel-7%EC%9C%BC%EB%A1%9C-react%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%85%8B%EC%97%85%ED%95%98%EA%B8%B0-340e00d2760b))
 - [Toast에서 공개한 FE Guide](https://ui.toast.com/fe-guide/ko/)
 - [모두를 위한 접근성](https://medium.com/@euncho/%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%91%EA%B7%BC%EC%84%B1-cd2045b70f02)
+- [Web Vitals](https://web.dev/vitals/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -860,6 +858,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [How to Use the Observable Pattern in JavaScript](https://webdevstudios.com/2019/02/19/observable-pattern-in-javascript/)
 - [Back-end for Front-end Pattern (BFF)](https://medium.com/@giljae/back-end-for-front-end-pattern-bff-4b73f29858d6)
 - [마이크로 서비스 아키텍처를 위한 Frontend 개발패턴](https://cyberx.tistory.com/101)
+- [Backend for Frontend Application Architecture – IBM Developer](https://developer.ibm.com/technologies/microservices/patterns/create-backend-for-frontend-application-architecture/)
+- [마이크로 서비스 아키텍처를 위한 Frontend 개발패턴](https://cyberx.tistory.com/101)
+- [What is Serverless Architecture? - Twilio](https://www.twilio.com/docs/glossary/what-is-serverless-architecture)
 
 **[⬆ Top](#Dev-Contents-House)**
 
