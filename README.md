@@ -9,6 +9,7 @@ Dev-Contents-House of Im-D
 - [마이크로서비스 아키텍처 (MSA) - WeMatch (위매치 마켓디자이너스) - Medium](https://medium.com/wematch/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-msa-359b7973ba79)
 - [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior · Mark's Dev Blog](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - [지금 당장 좋은 커밋 메시지를 남기는 방법(with Git Commit Template)](https://jeong-pro.tistory.com/m/207)[지금 당장 좋은 커밋 메시지를 남기는 방법(with Git Commit Template)](https://jeong-pro.tistory.com/m/207)
+- [Organize your routes with Vue Router - ITNEXT](https://itnext.io/vue-router-99e334094362)
 
 <br/>
 
