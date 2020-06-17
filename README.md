@@ -11,6 +11,7 @@ Dev-Contents-House of Im-D
 - [지금 당장 좋은 커밋 메시지를 남기는 방법(with Git Commit Template)](https://jeong-pro.tistory.com/m/207)[지금 당장 좋은 커밋 메시지를 남기는 방법(with Git Commit Template)](https://jeong-pro.tistory.com/m/207)
 - [Organize your routes with Vue Router - ITNEXT](https://itnext.io/vue-router-99e334094362)
 - [SVG Icon System in Vue.js](https://sujinlee.me/vue-svg-icon-system/)
+- [SVG, 사파리에서 흐리게 보이다](https://jkpark.me/safari/html/css/svg/frontend/2019/06/07/SVG-%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%ED%9D%90%EB%A6%AC%EA%B2%8C-%EB%B3%B4%EC%9D%B4%EB%8B%A4.html)
 
 <br/>
 
