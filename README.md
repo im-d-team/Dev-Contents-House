@@ -6,13 +6,6 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-- [마이크로서비스 아키텍처 (MSA) - WeMatch (위매치 마켓디자이너스) - Medium](https://medium.com/wematch/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-msa-359b7973ba79)
-- [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior · Mark's Dev Blog](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
-- [지금 당장 좋은 커밋 메시지를 남기는 방법(with Git Commit Template)](https://jeong-pro.tistory.com/m/207)[지금 당장 좋은 커밋 메시지를 남기는 방법(with Git Commit Template)](https://jeong-pro.tistory.com/m/207)
-- [Organize your routes with Vue Router - ITNEXT](https://itnext.io/vue-router-99e334094362)
-- [SVG Icon System in Vue.js](https://sujinlee.me/vue-svg-icon-system/)
-- [SVG, 사파리에서 흐리게 보이다](https://jkpark.me/safari/html/css/svg/frontend/2019/06/07/SVG-%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%ED%9D%90%EB%A6%AC%EA%B2%8C-%EB%B3%B4%EC%9D%B4%EB%8B%A4.html)
-
 <br/>
 
 ## 📚 Category
@@ -238,6 +231,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Navigating code on GitHub](https://help.github.com/en/articles/navigating-code-on-github)
 - [구글에서도 사용하는 버전관리 방법론](https://semver.org/lang/ko/)
 - [🌳🚀 CS Visualized: Useful Git Commands - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+- [지금 당장 좋은 커밋 메시지를 남기는 방법(with Git Commit Template)](https://jeong-pro.tistory.com/m/207)
 
 
 **[⬆ Top](#Dev-Contents-House)**
@@ -550,7 +544,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Changing Scroll Behavior with Vue Router](https://levelup.gitconnected.com/changing-scroll-behavior-with-vue-router-c543fb39144a)
 - [도대체 Vuex가 뭐길래? - 최인탁 - Medium](https://medium.com/@itsnothingg/%EB%8F%84%EB%8C%80%EC%B2%B4-vuex%EA%B0%80-%EB%AD%90%EA%B8%B8%EB%9E%98-ad5bc15f2371)
 - [[Vuetorials] 6. Vuex Module pattern | JBEE.io](https://jbee.io/vuetorials/Vuetorials-6-Vuex-Module-pattern/)
-
+- [Organize your routes with Vue Router - ITNEXT](https://itnext.io/vue-router-99e334094362)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -627,7 +621,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [TypeScript MS Blog](https://devblogs.microsoft.com/typescript/)
 - [[Typescript] type과 interface 차이](https://medium.com/@alexsung/typescript-type%EA%B3%BC-interface-%EC%B0%A8%EC%9D%B4-86666e3e90c)
 - [738/clean-code-typescript: 🚿 타입스크립트를 위한 클린코드 - 한글 번역판 🇰🇷](https://github.com/738/clean-code-typescript)
-  
+- [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior · Mark's Dev Blog](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -669,6 +664,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Styling HTML checkboxes is hard - here's why](https://morioh.com/p/d1bfefe65424/styling-html-checkboxes-is-hard-here-s-why)
 - [A Closer Look at SVG Path Data](https://www.sitepoint.com/closer-look-svg-path-data/)
 - [The problem with SVG and Canvas](https://kilianvalkhof.com/2010/design/the-problem-with-svg-and-canvas/)
+- [SVG Icon System in Vue.js](https://sujinlee.me/vue-svg-icon-system/)
+- [SVG, 사파리에서 흐리게 보이다](https://jkpark.me/safari/html/css/svg/frontend/2019/06/07/SVG-%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%ED%9D%90%EB%A6%AC%EA%B2%8C-%EB%B3%B4%EC%9D%B4%EB%8B%A4.html)
 
 **[⬆ Top](#Dev-Contents-House)**
 
