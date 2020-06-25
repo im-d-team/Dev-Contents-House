@@ -6,7 +6,8 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 
-[TypeScript와 Storybook을 사용한 리액트 디자인 시스템 구축하기](https://velog.io/@velopert/design-system-using-typescript-and-storybook)
+- [TypeScript와 Storybook을 사용한 리액트 디자인 시스템 구축하기](https://velog.io/@velopert/design-system-using-typescript-and-storybook)
+- [how to use both inline and external svgs](https://vue-svg-loader.js.org/faq.html#how-to-use-both-inline-and-external-svgs)
 
 <br/>
 
