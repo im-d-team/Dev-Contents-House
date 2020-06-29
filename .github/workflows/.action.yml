@@ -1,0 +1,17 @@
+name: New Contents Noti
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Im-D/slack-hook-action@v1
+        with:
+          slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
+          slack_channel: dev-contents
+          slack_username: GithubPageBot
+        if: always()
