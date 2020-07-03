@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [New in Chrome: CSS Overview](https://css-tricks.com/new-in-chrome-css-overview/)
 - [상황에 맞는 로딩 애니메이션 적용하기](https://medium.com/myrealtrip-product/%EC%83%81%ED%99%A9%EC%97%90-%EB%A7%9E%EB%8A%94-%EB%A1%9C%EB%94%A9-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-2018af51c197)
 - [네이버 블로그](https://m.blog.naver.com/codeitofficial/222013732490)
 - [New in Chrome: CSS Overview](https://css-tricks.com/new-in-chrome-css-overview)
