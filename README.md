@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [New in Chrome: CSS Overview](https://css-tricks.com/new-in-chrome-css-overview)
 - [주니어 개발자가 회사를 떠나는 이유) :: Jay's Code Factory](https://jay-ji.tistory.com/60)
 
 - [TypeScript와 Storybook을 사용한 리액트 디자인 시스템 구축하기](https://velog.io/@velopert/design-system-using-typescript-and-storybook)
