@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [새로운 오픈 소스 컨트리뷰터분들을 환영합니다!](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/master/README-KO.md)
 - [How to Resize Images Before Uploading for Performance](https://morioh.com/p/8cda6535d4e6?f=5c224490c513a556c9042463)
 - [Notion – The all](https://www.notion.so/Notion-Alfred-Tip-0c96380ffe32466e98331db8a056f3e9)
 - [New in Chrome: CSS Overview](https://css-tricks.com/new-in-chrome-css-overview/)
