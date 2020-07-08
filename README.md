@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [월간 개발자스럽다 #56](https://blog.gaerae.com/2020/06/monthly.html)
 - [Using SVG](https://css-tricks.com/using-svg/)
 - [Epiloge](https://www.epiloge.com/how-to-add-dynamic-meta-tags-to-your-vuejs-app-for-google-seo-0fa058)
 - [새로운 오픈 소스 컨트리뷰터분들을 환영합니다!](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/master/README-KO.md)
