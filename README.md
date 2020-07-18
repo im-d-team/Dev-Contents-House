@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [인텔리제이 Github Code Review](https://cheese10yun.github.io/intellij-code-review/)
 - [Notion – The all](https://www.notion.so/Spring-Security-8d099b534582487f90d856f5068c9fd5)
 - [월간 개발자스럽다 #56](https://blog.gaerae.com/2020/06/monthly.html)
 - [Using SVG](https://css-tricks.com/using-svg/)
