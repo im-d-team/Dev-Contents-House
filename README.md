@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [머신러닝 쉽게 배우는 방법](https://www.youtube.com/watch?v=432p379XXMw&feature=youtu.be)
 - [10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
 - [deno 첫 외주 후기](https://kdy1.github.io/post/works/freelance/deno/first-freelance-work/)
 - [Use Chrome DevTools Like a Senior Frontend Developer](https://medium.com/javascript-in-plain-english/use-chrome-devtools-like-a-senior-frontend-developer-99a4740674)
