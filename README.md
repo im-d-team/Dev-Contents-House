@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [빠른 웹을 제공하는 HTTP](https://m.blog.naver.com/sehyunfa/221680799006)
 - [[Vue.js] Lazy load 적용하기2](https://medium.com/@jeongwooahn/vue-js-lazy-load-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B02-3f1a2f4a4ee8)
 - [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/weekly-pick/ko_20200804/)
 - [머신러닝 쉽게 배우는 방법](https://www.youtube.com/watch?v=432p379XXMw&feature=youtu.be)
