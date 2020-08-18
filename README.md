@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [](https://link.medium.com/g3zGKWIZ38)
 - [content](https://web.dev/content-visibility/)
 - [크롬85 부터 지원되는 content-visiblity 로 페이지 성능개선하기](https://news.hada.io/topic?id=2608)
 - [빠른 웹을 제공하는 HTTP](https://m.blog.naver.com/sehyunfa/221680799006)
