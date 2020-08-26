@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [불규칙 속에서 규칙을 찾아내는 정규표현식](https://evan-moon.github.io/2020/07/24/about-regular-expression/)
 - [](https://link.medium.com/g3zGKWIZ38)
 - [content](https://web.dev/content-visibility/)
 - [크롬85 부터 지원되는 content-visiblity 로 페이지 성능개선하기](https://news.hada.io/topic?id=2608)
