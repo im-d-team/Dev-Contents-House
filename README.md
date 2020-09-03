@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [Serverless을 이용한 AWS Lambda의 배포 자동화](https://novemberde.github.io/aws/2017/08/14/Serverless.html)
 - [The A-Z of Web Development](https://dev.to/desoga/the-a-z-of-web-development-5ge6)
 - [불규칙 속에서 규칙을 찾아내는 정규표현식](https://evan-moon.github.io/2020/07/24/about-regular-expression/)
 - [](https://link.medium.com/g3zGKWIZ38)
