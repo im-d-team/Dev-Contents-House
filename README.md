@@ -5,46 +5,8 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
-- [Flowchart Maker & Online Diagram Software](https://www.draw.io/)
-- [AWS Lambda에서 Puppeteer로 크롤링 하기](https://velog.io/@jeffyoun/AWS-Lambda%EC%97%90%EC%84%9C-Puppeteer%EB%A1%9C-%ED%81%AC%EB%A1%A4%EB%A7%81-%ED%95%98%EA%B8%B0)
-- [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/harrythegreat/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
-- [Serverless을 이용한 AWS Lambda의 배포 자동화](https://novemberde.github.io/aws/2017/08/14/Serverless.html)
-- [The A-Z of Web Development](https://dev.to/desoga/the-a-z-of-web-development-5ge6)
-- [불규칙 속에서 규칙을 찾아내는 정규표현식](https://evan-moon.github.io/2020/07/24/about-regular-expression/)
-- [](https://link.medium.com/g3zGKWIZ38)
-- [content](https://web.dev/content-visibility/)
-- [크롬85 부터 지원되는 content-visiblity 로 페이지 성능개선하기](https://news.hada.io/topic?id=2608)
-- [빠른 웹을 제공하는 HTTP](https://m.blog.naver.com/sehyunfa/221680799006)
-- [[Vue.js] Lazy load 적용하기2](https://medium.com/@jeongwooahn/vue-js-lazy-load-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B02-3f1a2f4a4ee8)
-- [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/weekly-pick/ko_20200804/)
-- [머신러닝 쉽게 배우는 방법](https://www.youtube.com/watch?v=432p379XXMw&feature=youtu.be)
-- [10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
-- [deno 첫 외주 후기](https://kdy1.github.io/post/works/freelance/deno/first-freelance-work/)
-- [Use Chrome DevTools Like a Senior Frontend Developer](https://medium.com/javascript-in-plain-english/use-chrome-devtools-like-a-senior-frontend-developer-99a4740674)
-- [🍪 프론트에서 안전하게 로그인 처리하기 (ft. React)](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
-- [[JS] false를 반환하는 falsy](https://soraji.github.io/front/2020/07/24/falsy/)
-- [: 컴퓨터, 독서, 학습, 그리고 사람](https://blog.acronym.co.kr/567)
-- [[WebRTC] 웹브라우저로 화상 채팅을 만들 수 있다고?](https://velog.io/@ehdrms2034/WebRTC-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A1%9C-%ED%99%94%EC%83%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0#%EC%BD%94%EB%93%9C-%EC%A0%84%EC%B2%B4-%EB%B3%B4%EA%B8%B0)
-- [Recoil 레시피: 소개](https://taegon.kim/archives/10105)
-- [인텔리제이 Github Code Review](https://cheese10yun.github.io/intellij-code-review/)
-- [Notion – The all](https://www.notion.so/Spring-Security-8d099b534582487f90d856f5068c9fd5)
-- [월간 개발자스럽다 #56](https://blog.gaerae.com/2020/06/monthly.html)
-- [Using SVG](https://css-tricks.com/using-svg/)
-- [Epiloge](https://www.epiloge.com/how-to-add-dynamic-meta-tags-to-your-vuejs-app-for-google-seo-0fa058)
-- [새로운 오픈 소스 컨트리뷰터분들을 환영합니다!](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/master/README-KO.md)
-- [How to Resize Images Before Uploading for Performance](https://morioh.com/p/8cda6535d4e6?f=5c224490c513a556c9042463)
-- [Notion – The all](https://www.notion.so/Notion-Alfred-Tip-0c96380ffe32466e98331db8a056f3e9)
-- [New in Chrome: CSS Overview](https://css-tricks.com/new-in-chrome-css-overview/)
-- [상황에 맞는 로딩 애니메이션 적용하기](https://medium.com/myrealtrip-product/%EC%83%81%ED%99%A9%EC%97%90-%EB%A7%9E%EB%8A%94-%EB%A1%9C%EB%94%A9-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-2018af51c197)
-- [네이버 블로그](https://m.blog.naver.com/codeitofficial/222013732490)
-- [New in Chrome: CSS Overview](https://css-tricks.com/new-in-chrome-css-overview)
-- [주니어 개발자가 회사를 떠나는 이유) :: Jay's Code Factory](https://jay-ji.tistory.com/60)
 
-- [TypeScript와 Storybook을 사용한 리액트 디자인 시스템 구축하기](https://velog.io/@velopert/design-system-using-typescript-and-storybook)
-- [how to use both inline and external svgs](https://vue-svg-loader.js.org/faq.html#how-to-use-both-inline-and-external-svgs)
-- [An Overview of Scroll Technologies | CSS-Tricks](https://css-tricks.com/an-overview-of-scroll-technologies/?utm_campaign=CSS%20Animation%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
-- [Chrome 콘솔 숨은 기능](https://frontdev.tistory.com/m/entry/Chrome-%EC%BD%98%EC%86%94-%EC%88%A8%EC%9D%80-%EA%B8%B0%EB%8A%A5)
-- [나는 왜 루씬을 C++로 재작성했는가?](https://deview.kr/2019/schedule/295)
+- [Flowchart Maker & Online Diagram Software](https://www.draw.io/)
 
 <br/>
 
@@ -60,7 +22,7 @@ Dev-Contents-House of Im-D
 | [GraphQL](#GraphQL) | [REST](#REST) | [Git](#[Git]-Git) | [Node.js](#![Node.js]-Node.js) |
 |:-:|:-:|:-:|:-:|
 | [Java](#![Java]-Java) | [Python](#Python) | [C C++](#C-C++) | [Rust](#Rust) |
-| [이외](#이외) |  |  |  |
+| [Go](#Go) | [Elm](#Elm) | [이외](#이외) |  |
 
 ### 3. [FrontEnd](#3-frontend)
 
@@ -69,35 +31,25 @@ Dev-Contents-House of Im-D
 | [Functional Programming](#Functional-Programming) | [Vue](#![Vue]-Vue) | [React](#![React]-React) | [TypeScript](#TypeScript) |
 | [Browser](#Browser) | [Redux](#Redux) | [SVG](#SVG) | [HTML](#HTML) |
 | [PWA](#PWA) | [Babel](#Babel) | [AMP](#AMP) | [SVELTE](#SVELTE) |
-| [Web](#Web) ||||
+| [Web](#Web) |[HTTP](#HTTP)|[SEO](#SEO)||
 
 ### 4. [디자인](#4-디자인)
 
-- [디자인 강의](#Design-tool)
+|[디자인 강의](#Design-tool)|
+|:-:|:-:|:-:|:-:|
 
 ### 5. [모바일](#5-모바일)
 
-- [Flutter](#Flutter)
+|[Flutter](#Flutter)|
+|:-:|:-:|:-:|:-:|
 
 ### 6. [기타](#6-기타)
 
-- [보안](#보안)
-- [TEST Case](#TEST-Case)
-- [HTTP](#HTTP)
-- [알고리즘](#알고리즘)
-- [Go](#Go)
-- [네크워크](#네트워크)
-- [OS](#OS)
-- [Elm](#Elm)
-- [Vim](#Vim)
-- [디자인 패턴](#디자인-패턴)
-- [NSIS](#NSIS)
-- [ML](#ML)
-- [SPRING](#SPRING)
-- [Conference](#Conference)
-- [Docker](#Docker)
-
-<br/>
+|[네크워크](#네트워크)|[보안](#보안)|[TEST Case](#TEST-Case)|[알고리즘](#알고리즘)|
+|:-:|:-:|:-:|:-:|
+|[OS](#OS)|[Vim](#Vim)|[디자인 패턴](#디자인-패턴)|[NSIS](#NSIS)|
+|[ML](#ML)|[SPRING](#SPRING)|[Conference](#Conference)|[Docker](#Docker)|
+|[AWS](#AWS)|[Github](#Github)|||
 
 ## 🔒 Rule
 
@@ -132,7 +84,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [당신의 개발자들은 결코 느리지 않다.](http://tech.trenbe.com/?p=547)
 - [레거시 운영개발팀을 수습하다.](https://greypencil.tistory.com/113)
 - [팀을 맡고, 한 달 동안 가장 공을 들인 일 | Huns.me](https://huns.me/posts/2019-11-10-32)
-
+- [주니어 개발자가 회사를 떠나는 이유) :: Jay's Code Factory](https://jay-ji.tistory.com/60)
+  
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -214,6 +167,13 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [잘가, 클린 코드 — Overreacted](https://overreacted.io/ko/goodbye-clean-code/?fbclid=IwAR1OoRQfHG0700ygG-BmviLBcTHA5Jvwl7azTtQm__J5qQelzyWlDlFwpz0)
 - [프로그래머를 지탱하는 3가지 성분](https://speakerdeck.com/totuworld/peurogeuraemeoreul-jitaenghaneun-3gaji-seongbun)
 - [MS가 개발한 새로운 코드 분석 툴, 오픈소스로 풀렸다](https://www.boannews.com/media/view.asp?idx=85876)
+- [월간 개발자스럽다 #56](https://blog.gaerae.com/2020/06/monthly.html)
+- [deno 첫 외주 후기](https://kdy1.github.io/post/works/freelance/deno/first-freelance-work/)
+- [Use Chrome DevTools Like a Senior Frontend Developer](https://medium.com/javascript-in-plain-english/use-chrome-devtools-like-a-senior-frontend-developer-99a4740674)
+- [인텔리제이 Github Code Review](https://cheese10yun.github.io/intellij-code-review/)
+- [새로운 오픈 소스 컨트리뷰터분들을 환영합니다!](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/master/README-KO.md)
+- [Alfred Tip](https://www.notion.so/Notion-Alfred-Tip-0c96380ffe32466e98331db8a056f3e9)
+- [Chrome 콘솔 숨은 기능](https://frontdev.tistory.com/m/entry/Chrome-%EC%BD%98%EC%86%94-%EC%88%A8%EC%9D%80-%EA%B8%B0%EB%8A%A5)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -231,6 +191,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [웹폰트 적용에서 최적화까지](https://armadillo-dev.github.io/html/css/webfont-optimize/)
 - [프레임워크와 라이브러리 차이점 ? 비교? 정의](https://velog.io/@naynara/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EB%B9%84%EA%B5%90-%EC%A0%95%EC%9D%98)
 - [내 사이트 성능측정하고 진단받기(feat. Google)](https://web.dev)
+- [How to Resize Images Before Uploading for Performance](https://morioh.com/p/8cda6535d4e6?f=5c224490c513a556c9042463)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -501,6 +463,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Understanding JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools)
 - [await의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR32v7GSVk5bHUa4FvPs7BiU2YJN0m7RmTyjAfZp5EGXrm2vq1quNaPI0UU)
 - [13/ Image 업로드 시 회전에 대하여 (feat. exif 메타데이터 - Orientation) | 필오의 개발일지](https://feel5ny.github.io/2018/08/06/JS_13/)
+- [[JS] false를 반환하는 falsy](https://soraji.github.io/front/2020/07/24/falsy/)
+- [실시간 커뮤니케이션... WebRTC 기술을 주목하라!](https://blog.acronym.co.kr/567)
+- [[WebRTC] 웹브라우저로 화상 채팅을 만들 수 있다고?](https://velog.io/@ehdrms2034/WebRTC-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A1%9C-%ED%99%94%EC%83%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0#%EC%BD%94%EB%93%9C-%EC%A0%84%EC%B2%B4-%EB%B3%B4%EA%B8%B0)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -533,6 +498,13 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
 - [자바스크립트의 프로토타입 흝어보기](https://evan-moon.github.io/2019/10/23/js-prototype/)
 - [BEM( Block, Element, Modifier) Quick start](https://velog.io/@yesdoing/BEM-Block-Element-Modifier-Quick-start)
+- [크롬85 부터 지원되는 content-visiblity 로 페이지 성능개선하기](https://news.hada.io/topic?id=2608)
+- [New in Chrome: CSS Overview](https://css-tricks.com/new-in-chrome-css-overview/)
+- [상황에 맞는 로딩 애니메이션 적용하기](https://medium.com/myrealtrip-product/%EC%83%81%ED%99%A9%EC%97%90-%EB%A7%9E%EB%8A%94-%EB%A1%9C%EB%94%A9-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-2018af51c197)
+- [content](https://web.dev/content-visibility/)
+- [An Overview of Scroll Technologies | CSS-Tricks](https://css-tricks.com/an-overview-of-scroll-technologies/?utm_campaign=CSS%20Animation%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+- [불규칙 속에서 규칙을 찾아내는 정규표현식](https://evan-moon.github.io/2020/07/24/about-regular-expression/)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -585,6 +557,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [도대체 Vuex가 뭐길래? - 최인탁 - Medium](https://medium.com/@itsnothingg/%EB%8F%84%EB%8C%80%EC%B2%B4-vuex%EA%B0%80-%EB%AD%90%EA%B8%B8%EB%9E%98-ad5bc15f2371)
 - [[Vuetorials] 6. Vuex Module pattern | JBEE.io](https://jbee.io/vuetorials/Vuetorials-6-Vuex-Module-pattern/)
 - [Organize your routes with Vue Router - ITNEXT](https://itnext.io/vue-router-99e334094362)
+- [[Vue.js] Lazy load 적용하기2](https://medium.com/@jeongwooahn/vue-js-lazy-load-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B02-3f1a2f4a4ee8)
+- [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/weekly-pick/ko_20200804/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -645,6 +619,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [왜 내가 Redux 대신 MobX를 쓰게 되었나](https://rokt33r.github.io/posts/why-i-replace-redux-with-mobx)
 - [상태 관리 라이브러리의 미학: Redux 또는 MobX 를 통한 상태 관리](https://velopert.com/3707)
 - [React에서 Mobx 경험기](https://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
+- [🍪 프론트에서 안전하게 로그인 처리하기 (ft. React)](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
+- [Recoil 레시피: 소개](https://taegon.kim/archives/10105)
+- [TypeScript와 Storybook을 사용한 리액트 디자인 시스템 구축하기](https://velog.io/@velopert/design-system-using-typescript-and-storybook)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -706,6 +683,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [The problem with SVG and Canvas](https://kilianvalkhof.com/2010/design/the-problem-with-svg-and-canvas/)
 - [SVG Icon System in Vue.js](https://sujinlee.me/vue-svg-icon-system/)
 - [SVG, 사파리에서 흐리게 보이다](https://jkpark.me/safari/html/css/svg/frontend/2019/06/07/SVG-%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%ED%9D%90%EB%A6%AC%EA%B2%8C-%EB%B3%B4%EC%9D%B4%EB%8B%A4.html)
+- [Using SVG](https://css-tricks.com/using-svg/)
+- [how to use both inline and external svgs](https://vue-svg-loader.js.org/faq.html#how-to-use-both-inline-and-external-svgs)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -726,7 +705,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [[PWA] 프로그레시브 웹 앱 시작하기 (1) - PWA란?](https://codevkr.tistory.com/85)
 - [Progressive 웹 앱이 드디어 iOS에서도! | Sophie writes code](https://sophiedophie.github.io/2018/04/23/progressive-web-app-ios/)
-
+- [Basic <HTML />](https://link.medium.com/g3zGKWIZ38)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -757,6 +736,43 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5?_branch_match_id=720479588826978532)
 
 **[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### Web
+
+- [[영문] Web Development Trends that will Dominate in 2019](https://dashbouquet.com/blog/web-development/web-development-trends-that-will-dominate-in-2019)
+- [Line 블로그](https://engineering.linecorp.com/ko/blog/)
+- [JSONP 알고 쓰자](https://kingbbode.tistory.com/26)
+- [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
+- [웹팩의 기본 개념](http://jeonghwan-kim.github.io/js/2017/05/15/webpack.html)
+- [Babel | PoiemaWeb](https://poiemaweb.com/es6-babel-webpack-1)
+- [Webpack 4와 babel 7으로 react개발환경 셋업하기 – Clyde – Medium](https://medium.com/@benjaminwoojang/webpack-4%EC%99%80-babel-7%EC%9C%BC%EB%A1%9C-react%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%85%8B%EC%97%85%ED%95%98%EA%B8%B0-340e00d2760b))
+- [Toast에서 공개한 FE Guide](https://ui.toast.com/fe-guide/ko/)
+- [모두를 위한 접근성](https://medium.com/@euncho/%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%91%EA%B7%BC%EC%84%B1-cd2045b70f02)
+- [Web Vitals](https://web.dev/vitals/)
+- [The A-Z of Web Development](https://dev.to/desoga/the-a-z-of-web-development-5ge6)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### HTTP
+
+- [브라우저 HTTP 최대 연결수 알아보기](https://medium.com/@syalot005006/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-http-%EC%B5%9C%EB%8C%80-%EC%97%B0%EA%B2%B0%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3f7aa1453bc2)
+- [HTTPS는 어떻게 다를까?](https://parksb.github.io/article/24.html)
+- [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
+- [빠른 웹을 제공하는 HTTP](https://m.blog.naver.com/sehyunfa/221680799006)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### SEO
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
 
 <br/>
 
@@ -790,23 +806,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ## 6. 기타
 
-### Web
-
-- [[영문] Web Development Trends that will Dominate in 2019](https://dashbouquet.com/blog/web-development/web-development-trends-that-will-dominate-in-2019)
-- [Line 블로그](https://engineering.linecorp.com/ko/blog/)
-- [JSONP 알고 쓰자](https://kingbbode.tistory.com/26)
-- [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
-- [웹팩의 기본 개념](http://jeonghwan-kim.github.io/js/2017/05/15/webpack.html)
-- [Babel | PoiemaWeb](https://poiemaweb.com/es6-babel-webpack-1)
-- [Webpack 4와 babel 7으로 react개발환경 셋업하기 – Clyde – Medium](https://medium.com/@benjaminwoojang/webpack-4%EC%99%80-babel-7%EC%9C%BC%EB%A1%9C-react%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%85%8B%EC%97%85%ED%95%98%EA%B8%B0-340e00d2760b))
-- [Toast에서 공개한 FE Guide](https://ui.toast.com/fe-guide/ko/)
-- [모두를 위한 접근성](https://medium.com/@euncho/%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%91%EA%B7%BC%EC%84%B1-cd2045b70f02)
-- [Web Vitals](https://web.dev/vitals/)
-
-**[⬆ Top](#Dev-Contents-House)**
-
----
-
 ### 보안
 
 - [[번역] 비둘기로 설명하는 HTTPS(HTTPS explained with carrier pigeons)](https://www.vobour.com/%EB%B9%84%EB%91%98%EA%B8%B0%EB%A1%9C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-https-https-explained-with-car)
@@ -821,16 +820,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [실용적인 테스트 코드 작성하기(JS)](https://velog.io/@leejh3224/%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
 - [효과적으로 TDD, 리팩토링, OOP를 연습하는 방법은?](https://medium.com/@codesquad_yoda/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-tdd-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-oop%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-7ecc9ddb5d45)
-
-**[⬆ Top](#Dev-Contents-House)**
-
----
-
-### HTTP
-
-- [브라우저 HTTP 최대 연결수 알아보기](https://medium.com/@syalot005006/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-http-%EC%B5%9C%EB%8C%80-%EC%97%B0%EA%B2%B0%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3f7aa1453bc2)
-- [HTTPS는 어떻게 다를까?](https://parksb.github.io/article/24.html)
-- [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -914,23 +903,28 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [NSIS Modern User Interface](https://nsis.sourceforge.io/Docs/Modern%20UI/Readme.html)
 
-<br/>
-
 **[⬆ Top](#Dev-Contents-House)**
+
+---
 
 ### ML
 
 - [머신러닝 단기집중과정 - 구글 colab](https://developers.google.com/machine-learning/crash-course/)
 - [AWS DeepRacer 강화학습 설명](https://github.com/aws-samples/aws-deepracer-workshops/blob/master/Workshops/2019-AWSSummits-AWSDeepRacerService/Lab1/Readme-Korean.md)
 - [How To Create Deep Fakes Tutorial](https://morioh.com/p/4148ffefa259?f=5c21fb01c16e2556b555ab32)
+- [머신러닝 쉽게 배우는 방법](https://www.youtube.com/watch?v=432p379XXMw&feature=youtu.be)
 
 **[⬆ Top](#Dev-Contents-House)**
 
 ### SPRING
 
 - [스프링 - 생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
+- [Spring Security](https://www.notion.so/Spring-Security-8d099b534582487f90d856f5068c9fd5)
+
 
 **[⬆ Top](#Dev-Contents-House)**
+
+---
 
 ### Conference
 
@@ -938,6 +932,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [DEVIEW 2일차 후기](https://jbee.io/etc/deview-2day-review/)
 
 **[⬆ Top](#Dev-Contents-House)**
+
+---
 
 ### Docker
 
@@ -948,6 +944,29 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
 **[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### AWS
+
+- [AWS Lambda에서 Puppeteer로 크롤링 하기](https://velog.io/@jeffyoun/AWS-Lambda%EC%97%90%EC%84%9C-Puppeteer%EB%A1%9C-%ED%81%AC%EB%A1%A4%EB%A7%81-%ED%95%98%EA%B8%B0)
+- [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/harrythegreat/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
+- [Serverless을 이용한 AWS Lambda의 배포 자동화](https://novemberde.github.io/aws/2017/08/14/Serverless.html)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### Github
+
+- [Git, Github, branch 자주 사용하는 커맨드 정리](https://m.blog.naver.com/codeitofficial/222013732490)
+- [10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
 
 [GraphQL]: https://img.icons8.com/color/20/000000/graphql.png
 [Git]: https://img.icons8.com/color/20/000000/git.png
