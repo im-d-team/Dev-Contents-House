@@ -5,14 +5,13 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
-- [Featured case study: NHS](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+
 - [Featured case study: NHS](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 - [SVG, 사파리에서 흐리게 보이다](https://jkpark.me/safari/html/css/svg/frontend/2019/06/07/SVG-%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%ED%9D%90%EB%A6%AC%EA%B2%8C-%EB%B3%B4%EC%9D%B4%EB%8B%A4.html)
 - [html](https://stackoverflow.com/questions/23210126/inline-svg-vs-svg-file-performance)
 - [JSON-LD with Vue.js](https://medium.com/@fmoessle/json-ld-with-vue-js-72cf1ac2af66)
 - [Tabnabbing 공격과 rel=noopener 속성](https://blog.coderifleman.com/2017/05/30/tabnabbing_attack_and_noopener/)
 - [node.js](https://stackoverflow.com/questions/43389724/lambda-function-error-erofs-read-only-file-system-open-tmp-test-zip-proc/43398669)
-
 - [Flowchart Maker & Online Diagram Software](https://www.draw.io/)
 
 <br/>
@@ -43,12 +42,14 @@ Dev-Contents-House of Im-D
 ### 4. [디자인](#4-디자인)
 
 |[디자인 강의](#Design-tool)|
-|:-:|:-:|:-:|:-:|
+|:-:|
+||
 
 ### 5. [모바일](#5-모바일)
 
 |[Flutter](#Flutter)|
-|:-:|:-:|:-:|:-:|
+|:-:|
+||
 
 ### 6. [기타](#6-기타)
 
