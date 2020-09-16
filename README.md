@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [CORS A to Y](https://medium.com/wantedjobs/cors-a-to-y-28cc0b16349d)
 - [1. svelte 소개](https://freeseamew.gitbook.io/svelte/?fbclid=IwAR13PTnR6_H-gh_keybLfdhQvruSJOoZkgj6yCLf6cVPKzD6PlyyzYuGgAQ)
 - [hwp.js](https://github.com/hahnlee/hwp.js)
 
