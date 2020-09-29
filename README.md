@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [Notion – The all](https://www.grabbing.me/IT-1-SaaS-PaaS-IaaS-79cd7661e3fe43e099b7d623777fd7f8)
 - [Vue 3 가볍게 훑어보기](https://joshua1988.github.io/web-development/vuejs/vue3-coming/?fbclid=IwAR3Jrwv1mzBZ9sP1TlU3xs7zoEARZmaK9cZb1rf6gXsYHrdfSwtQRvqZjTs)
 - [좋은 PR에 대한 단상🤔](https://medium.com/hayanmind-tech-blog-kr/%EC%A2%8B%EC%9D%80-pr%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%A8%EC%83%81-6586c3f757ac)
 - [CORS A to Y](https://medium.com/wantedjobs/cors-a-to-y-28cc0b16349d)
