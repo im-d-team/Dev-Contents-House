@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [NestJS 빠르게 배우기 01](https://changhoi.github.io/posts/backend/nestjs-quicklearn-01/)
 - [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
 - [Notion – The all](https://www.grabbing.me/IT-1-SaaS-PaaS-IaaS-79cd7661e3fe43e099b7d623777fd7f8)
 - [Vue 3 가볍게 훑어보기](https://joshua1988.github.io/web-development/vuejs/vue3-coming/?fbclid=IwAR3Jrwv1mzBZ9sP1TlU3xs7zoEARZmaK9cZb1rf6gXsYHrdfSwtQRvqZjTs)
