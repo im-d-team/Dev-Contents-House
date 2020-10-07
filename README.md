@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [TypeOrm 기본개념](https://dkant.net/2019/06/17/typeorm/)
 - [: Happy coding](https://happycording.tistory.com/entry/NestJS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 - [NestJS 빠르게 배우기 01](https://changhoi.github.io/posts/backend/nestjs-quicklearn-01/)
 - [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
