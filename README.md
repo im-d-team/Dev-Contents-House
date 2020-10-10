@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
 - [자바스크립트와 V8 엔진의 메모리 관리 프로세스](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
 - [TypeOrm 기본개념](https://dkant.net/2019/06/17/typeorm/)
 - [: Happy coding](https://happycording.tistory.com/entry/NestJS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
