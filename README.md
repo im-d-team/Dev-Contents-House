@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [](https://link.medium.com/IZ4SPdY0cbb)
 - [JavaScript 기술 개요](https://wiki.developer.mozilla.org/ko/docs/Web/JavaScript/JavaScript_technologies_overview)
 - [Vue.js설계 및 Atomic Design](https://velog.io/@kameals/Vuejs-Atomic-Design)
 - [1장 이해하기 쉬운 코드 작성법](https://peter-cho.gitbook.io/book/3)
