@@ -4,34 +4,7 @@ Dev-Contents-House of Im-D
 
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
-## 📖 This Week
-- [](https://link.medium.com/IZ4SPdY0cbb)
-- [JavaScript 기술 개요](https://wiki.developer.mozilla.org/ko/docs/Web/JavaScript/JavaScript_technologies_overview)
-- [Vue.js설계 및 Atomic Design](https://velog.io/@kameals/Vuejs-Atomic-Design)
-- [1장 이해하기 쉬운 코드 작성법](https://peter-cho.gitbook.io/book/3)
-- [cookies.CookieStore](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/cookies/CookieStore)
-- [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/528?fbclid=IwAR3s8y-YOKF3iW7iTbKx9ZU-wAadE9QhF5ALdkO9lsLC8t-psQIQrJ8H_WM)
-- [](https://link.medium.com/JgLajEoiCab)
-- [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
-- [자바스크립트와 V8 엔진의 메모리 관리 프로세스](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
-- [TypeOrm 기본개념](https://dkant.net/2019/06/17/typeorm/)
-- [: Happy coding](https://happycording.tistory.com/entry/NestJS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
-- [NestJS 빠르게 배우기 01](https://changhoi.github.io/posts/backend/nestjs-quicklearn-01/)
-- [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
-- [Notion – The all](https://www.grabbing.me/IT-1-SaaS-PaaS-IaaS-79cd7661e3fe43e099b7d623777fd7f8)
-- [Vue 3 가볍게 훑어보기](https://joshua1988.github.io/web-development/vuejs/vue3-coming/?fbclid=IwAR3Jrwv1mzBZ9sP1TlU3xs7zoEARZmaK9cZb1rf6gXsYHrdfSwtQRvqZjTs)
-- [좋은 PR에 대한 단상🤔](https://medium.com/hayanmind-tech-blog-kr/%EC%A2%8B%EC%9D%80-pr%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%A8%EC%83%81-6586c3f757ac)
-- [CORS A to Y](https://medium.com/wantedjobs/cors-a-to-y-28cc0b16349d)
-- [1. svelte 소개](https://freeseamew.gitbook.io/svelte/?fbclid=IwAR13PTnR6_H-gh_keybLfdhQvruSJOoZkgj6yCLf6cVPKzD6PlyyzYuGgAQ)
-- [hwp.js](https://github.com/hahnlee/hwp.js)
-
-- [Featured case study: NHS](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
-- [SVG, 사파리에서 흐리게 보이다](https://jkpark.me/safari/html/css/svg/frontend/2019/06/07/SVG-%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%ED%9D%90%EB%A6%AC%EA%B2%8C-%EB%B3%B4%EC%9D%B4%EB%8B%A4.html)
-- [html](https://stackoverflow.com/questions/23210126/inline-svg-vs-svg-file-performance)
-- [JSON-LD with Vue.js](https://medium.com/@fmoessle/json-ld-with-vue-js-72cf1ac2af66)
-- [Tabnabbing 공격과 rel=noopener 속성](https://blog.coderifleman.com/2017/05/30/tabnabbing_attack_and_noopener/)
-- [node.js](https://stackoverflow.com/questions/43389724/lambda-function-error-erofs-read-only-file-system-open-tmp-test-zip-proc/43398669)
-- [Flowchart Maker & Online Diagram Software](https://www.draw.io/)
+## 📖 This Week  
 
 <br/>
 
@@ -76,7 +49,7 @@ Dev-Contents-House of Im-D
 |:-:|:-:|:-:|:-:|
 |[OS](#OS)|[Vim](#Vim)|[디자인 패턴](#디자인-패턴)|[NSIS](#NSIS)|
 |[ML](#ML)|[SPRING](#SPRING)|[Conference](#Conference)|[Docker](#Docker)|
-|[AWS](#AWS)|[Github](#Github)|||
+|[AWS](#AWS)|[Github](#Github)|[Nest.js](#Nest.js)||
 
 ## 🔒 Rule
 
@@ -219,7 +192,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [프레임워크와 라이브러리 차이점 ? 비교? 정의](https://velog.io/@naynara/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EB%B9%84%EA%B5%90-%EC%A0%95%EC%9D%98)
 - [내 사이트 성능측정하고 진단받기(feat. Google)](https://web.dev)
 - [How to Resize Images Before Uploading for Performance](https://morioh.com/p/8cda6535d4e6?f=5c224490c513a556c9042463)
-
+- [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/528?fbclid=IwAR3s8y-YOKF3iW7iTbKx9ZU-wAadE9QhF5ALdkO9lsLC8t-psQIQrJ8H_WM)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -261,7 +234,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [구글에서도 사용하는 버전관리 방법론](https://semver.org/lang/ko/)
 - [🌳🚀 CS Visualized: Useful Git Commands - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 - [지금 당장 좋은 커밋 메시지를 남기는 방법(with Git Commit Template)](https://jeong-pro.tistory.com/m/207)
-
+- [좋은 PR에 대한 단상🤔](https://medium.com/hayanmind-tech-blog-kr/%EC%A2%8B%EC%9D%80-pr%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%A8%EC%83%81-6586c3f757ac)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -338,7 +311,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리](https://d2.naver.com/helloworld/76650)
 - [JAVA 한글자르기(유니코드)](https://jeroschoi.tistory.com/5?category=610740)
 - [웹에서 앱으로 이동하기 (feat.딥링크)](http://feel5ny.github.io/2019/09/22/Communication_001/)
-- [웹에서 앱으로 이동하기 (feat.딥링크)](http://feel5ny.github.io/2019/09/22/Communication_001/)
+- [TypeOrm 기본개념](https://dkant.net/2019/06/17/typeorm/)
   
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -392,7 +365,6 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [ES6: var, let and const — The battle between function scope and block scope](https://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
 - [Emulating Block Scope in JavaScript - A Drip of JavaScript](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
 - [[JS #5] ES6 Map(), Set() – Kevin Seokyou Hong – Medium](https://medium.com/@hongkevin/js-5-es6-map-set-2a9ebf40f96b)
-- [Hello Nestjs](https://dev-momo.tistory.com/entry/Hello-Nestjs)
 - [Javascript performance test - for vs for each vs (map, reduce, filter, find)](https://hackernoon.com/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)
 - [JavaScript Web Workers: A Beginner’s Guide](https://morioh.com/p/4dee73021026/javascript-web-workers-a-beginner-s-guide)
 - [JavaScript Functions — Understanding The Basics](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
@@ -493,6 +465,13 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [[JS] false를 반환하는 falsy](https://soraji.github.io/front/2020/07/24/falsy/)
 - [실시간 커뮤니케이션... WebRTC 기술을 주목하라!](https://blog.acronym.co.kr/567)
 - [[WebRTC] 웹브라우저로 화상 채팅을 만들 수 있다고?](https://velog.io/@ehdrms2034/WebRTC-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A1%9C-%ED%99%94%EC%83%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0#%EC%BD%94%EB%93%9C-%EC%A0%84%EC%B2%B4-%EB%B3%B4%EA%B8%B0)
+- [JavaScript 기술 개요](https://wiki.developer.mozilla.org/ko/docs/Web/JavaScript/JavaScript_technologies_overview)
+- [1장 이해하기 쉬운 코드 작성법](https://peter-cho.gitbook.io/book/3)
+- [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
+- [자바스크립트와 V8 엔진의 메모리 관리 프로세스](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
+- [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
+- [hwp.js](https://github.com/hahnlee/hwp.js)
+- [Flowchart Maker & Online Diagram Software](https://www.draw.io/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -531,7 +510,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [content](https://web.dev/content-visibility/)
 - [An Overview of Scroll Technologies | CSS-Tricks](https://css-tricks.com/an-overview-of-scroll-technologies/?utm_campaign=CSS%20Animation%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 - [불규칙 속에서 규칙을 찾아내는 정규표현식](https://evan-moon.github.io/2020/07/24/about-regular-expression/)
-
+- [ getting your head ’round BEM syntax](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -586,6 +565,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Organize your routes with Vue Router - ITNEXT](https://itnext.io/vue-router-99e334094362)
 - [[Vue.js] Lazy load 적용하기2](https://medium.com/@jeongwooahn/vue-js-lazy-load-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B02-3f1a2f4a4ee8)
 - [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/weekly-pick/ko_20200804/)
+- [Vue 3 가볍게 훑어보기](https://joshua1988.github.io/web-development/vuejs/vue3-coming/?fbclid=IwAR3Jrwv1mzBZ9sP1TlU3xs7zoEARZmaK9cZb1rf6gXsYHrdfSwtQRvqZjTs)
+- [Vue.js설계 및 Atomic Design](https://velog.io/@kameals/Vuejs-Atomic-Design)
+- [JSON-LD with Vue.js](https://medium.com/@fmoessle/json-ld-with-vue-js-72cf1ac2af66)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -683,6 +665,11 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [What is the maximum size of a URL? Does it depend on the browser being used?](https://www.programmerinterview.com/general-miscellaneous/url-size-limit/)
 - [V8 release v8.0](https://v8.dev/blog/v8-release-80)
 - [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
+- [CORS A to Y](https://medium.com/wantedjobs/cors-a-to-y-28cc0b16349d)
+- [브라우저 뷰포트 (layout 와 visual viewport) 간단 정리하기](https://link.medium.com/IZ4SPdY0cbb)
+- [cookies.CookieStore](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/cookies/CookieStore)
+- [Tabnabbing 공격과 rel=noopener 속성](https://blog.coderifleman.com/2017/05/30/tabnabbing_attack_and_noopener/)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -712,6 +699,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [SVG, 사파리에서 흐리게 보이다](https://jkpark.me/safari/html/css/svg/frontend/2019/06/07/SVG-%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%ED%9D%90%EB%A6%AC%EA%B2%8C-%EB%B3%B4%EC%9D%B4%EB%8B%A4.html)
 - [Using SVG](https://css-tricks.com/using-svg/)
 - [how to use both inline and external svgs](https://vue-svg-loader.js.org/faq.html#how-to-use-both-inline-and-external-svgs)
+- [SVG, 사파리에서 흐리게 보이다](https://jkpark.me/safari/html/css/svg/frontend/2019/06/07/SVG-%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%ED%9D%90%EB%A6%AC%EA%B2%8C-%EB%B3%B4%EC%9D%B4%EB%8B%A4.html)
+- [Inline SVG vs SVG File Performance](https://stackoverflow.com/questions/23210126/inline-svg-vs-svg-file-performance)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -761,6 +750,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [스칼라 번역자료](https://sehajyang.github.io/categories/Scala/)
 - [LET’S START SVELTE - W3C 발표자료](https://novemberde.github.io/ppts/svelte/index.html#/)
 - [Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5?_branch_match_id=720479588826978532)
+- [1. svelte 소개](https://freeseamew.gitbook.io/svelte/?fbclid=IwAR13PTnR6_H-gh_keybLfdhQvruSJOoZkgj6yCLf6cVPKzD6PlyyzYuGgAQ)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -979,6 +970,10 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [AWS Lambda에서 Puppeteer로 크롤링 하기](https://velog.io/@jeffyoun/AWS-Lambda%EC%97%90%EC%84%9C-Puppeteer%EB%A1%9C-%ED%81%AC%EB%A1%A4%EB%A7%81-%ED%95%98%EA%B8%B0)
 - [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/harrythegreat/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
 - [Serverless을 이용한 AWS Lambda의 배포 자동화](https://novemberde.github.io/aws/2017/08/14/Serverless.html)
+- [S3, Cloudfront HTTP Referer 접근 제한 하기](https://link.medium.com/JgLajEoiCab)
+- [[IT 종사자라면 이 정도는 알자 시리즈] 1탄. 클라우드 기술과 서비스(SaaS, PaaS, IaaS)](https://www.grabbing.me/IT-1-SaaS-PaaS-IaaS-79cd7661e3fe43e099b7d623777fd7f8)
+- [Lambda file System ./tmp](https://stackoverflow.com/questions/43389724/lambda-function-error-erofs-read-only-file-system-open-tmp-test-zip-proc/43398669)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -989,6 +984,16 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Git, Github, branch 자주 사용하는 커맨드 정리](https://m.blog.naver.com/codeitofficial/222013732490)
 - [10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
 
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### Nest.js
+
+- [NestJS-시작하기](https://happycording.tistory.com/entry/NestJS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+- [NestJS 빠르게 배우기 01](https://changhoi.github.io/posts/backend/nestjs-quicklearn-01/)
+- [Hello Nestjs](https://dev-momo.tistory.com/entry/Hello-Nestjs)
 
 **[⬆ Top](#Dev-Contents-House)**
 
