@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [The Top 3 New JavaScript ES 2021 (ES 12) Features I’m Excited About](https://medium.com/better-programming/the-top-3-new-javascript-es-2021-es-12-features-im-excited-about-a3ac129efbb2)
 - [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator)  
 
 <br/>
