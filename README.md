@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [Reproducing Medium's image zoom](https://francoischalifour.com/medium-image-zoom/)
 - [Glassmorphism in user interfaces](https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9?fbclid=IwAR3SriMESWpeN6D4pilD52hCtekJ14j9ea09_7rwzD_n69zpiyjGpnbUk8I&gi=3b72cacd3593)
 - [[Javascript] IE 11 Ajax Caching 끄기 (jQuery, axios)](https://effortguy.tistory.com/m/36)
 - [1인분 개발자, 다음을 찾아서](https://www.slideshare.net/mobile/jayjin0427/1-239437066?fbclid=IwAR2hLrf-lMLMdfDq96Mpupz2mxrJ8NHxUsokQqo1jyrAhb9obbSCRA0974A)
