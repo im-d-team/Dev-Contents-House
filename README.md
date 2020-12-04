@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [](https://music.youtube.com/channel/UCF5gnykb86dwedwxvsRICXg)
 - [Framework Free](https://m.youtube.com/watch?fbclid=IwAR26le3_nexZvLfVH9aNQs5IlS0unvC9p4rQ7vVmtTCB_Ys6LVdJxh21FiY&feature=youtu.be&v=yBg8w_5THS4)
 - [ETag](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag)
 - [Reproducing Medium's image zoom](https://francoischalifour.com/medium-image-zoom/)
