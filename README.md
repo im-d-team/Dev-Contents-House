@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [리덕스없이 state 관리하기(hooks+context)](https://velog.io/@kimu2370/%EB%A6%AC%EB%8D%95%EC%8A%A4%EC%97%86%EC%9D%B4-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0hookscontext)
 - [A guide of UI design trends for 2021](https://uxdesign.cc/a-guide-of-ui-design-trends-for-2021-637ac038cb99)
 - [vite vs webpack, 그리고 Vue 3.0의 미래.](https://typed.sh/vite-vs-webpack-vue-3-0/)
 - [](https://music.youtube.com/channel/UCF5gnykb86dwedwxvsRICXg)
