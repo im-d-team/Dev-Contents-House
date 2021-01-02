@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [2020.log](https://velog.io/@velopert/2020.log?fbclid=IwAR0igsnOcHlYcv2C0KbgAsNiV_YXszM5x9RGqi6I7WllNf-iFOgWQTodepg)
 - [새로운 상태관리 라이브러리의 탄생, Recoiljs](https://velog.io/@silver2473/%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98-%ED%83%84%EC%83%9D-Recoiljs)
 - [Vite with Preact and TypeScript](https://fettblog.eu/typescript-vite-preact/)
 - [리덕스없이 state 관리하기(hooks+context)](https://velog.io/@kimu2370/%EB%A6%AC%EB%8D%95%EC%8A%A4%EC%97%86%EC%9D%B4-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0hookscontext)
