@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [JavaScript Frameworks, Performance Comparison 2020](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce?fbclid=IwAR0G3TlfgMMCzTAJ2hs6P4rLLBOQmrGeQxWBkRy81ohiNc9BUdkVUivAJyk)
 - [Rome Toolchain](https://rome.tools/)
 - [Caching clash: useSWR() vs. react-query](https://blog.logrocket.com/caching-clash-useswr-vs-react-query/)
 - [Release management in Angular with Lerna](https://indepth.dev/posts/1040/release-management-in-angular-with-lerna)
