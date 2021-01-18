@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [디자인 시스템 소개](https://www.learnstorybook.com/design-systems-for-developers/react/ko/introduction/)
 - [🦀 러스트의 멋짐을 모르는 당신은 불쌍해요](https://parksb.github.io/article/35.html)
 - [JavaScript Frameworks, Performance Comparison 2020](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce?fbclid=IwAR0G3TlfgMMCzTAJ2hs6P4rLLBOQmrGeQxWBkRy81ohiNc9BUdkVUivAJyk)
 - [Rome Toolchain](https://rome.tools/)
