@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [웹 어플리케이션 모바일 화면 확대 방지 (입력, 더블탭, 확대)](https://kjwan4435.tistory.com/65)
 - [Recoil](https://ui.toast.com/weekly-pick/ko_20200616)
 - [React Server Components 짧막 정리](https://velog.io/@mizukikawaii/React-Server-Components-%EC%A7%A7%EB%A7%89-%EC%A0%95%EB%A6%AC)
 - [디자인 시스템 소개](https://www.learnstorybook.com/design-systems-for-developers/react/ko/introduction/)
