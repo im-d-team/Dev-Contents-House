@@ -6,6 +6,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 - [When to use @extend; when to use a mixin – CSS Wizardry – Web Performance OptimisationCSS Wizardry](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
+- [When to use @extend; when to use a mixin – CSS Wizardry – Web Performance OptimisationCSS Wizardry](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 - [[번역] Sass에서 웬만하면 extend 말고 믹스인을 사용하자](https://mytory.net/2016/12/23/when-to-use-extend-when-to-use-a-mixin.html)
 - [[번역] Sass에서 웬만하면 extend 말고 믹스인을 사용하자](https://mytory.net/2016/12/23/when-to-use-extend-when-to-use-a-mixin.html)
 - [자바스크립트 센트리는 어떻게 동작할까?](https://blog.hyeonsulee.com/how-does-sentry-work-in-javascript?fbclid=IwAR0LWGVkr4sp18ZWvzrCfDLqPDVPI48FakbL_8c3aB1DLWNq-BPz1zcqvr0)
