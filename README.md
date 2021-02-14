@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [await-of](https://github.com/xobotyi/await-of)
 - [When to use @extend; when to use a mixin – CSS Wizardry – Web Performance OptimisationCSS Wizardry](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 - [When to use @extend; when to use a mixin – CSS Wizardry – Web Performance OptimisationCSS Wizardry](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 - [[번역] Sass에서 웬만하면 extend 말고 믹스인을 사용하자](https://mytory.net/2016/12/23/when-to-use-extend-when-to-use-a-mixin.html)
