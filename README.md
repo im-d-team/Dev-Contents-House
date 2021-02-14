@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [TSConfig Reference](https://www.typescriptlang.org/ko/tsconfig)
 - [await-of](https://github.com/xobotyi/await-of)
 
 <br/>
