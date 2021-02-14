@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [의사코드(pseudo-code)란?](https://medium.com/djangogirlsseoul-codecamp/%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C-pseudo-code-%EB%9E%80-d892a3479b1d)
 - [Methods for modifying objects in OOCSS – Oliver Joseph Ash](https://oliverjash.me/2012/09/07/methods-for-modifying-objects-in-oocss.html)
 - [[sass] mixin과 extend 알맞게 사용하기](https://13akstjq.github.io/sass/2020/02/22/mixin%EA%B3%BC-extend-%EC%95%8C%EB%A7%9E%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html)
 - [TSConfig Reference](https://www.typescriptlang.org/ko/tsconfig)
