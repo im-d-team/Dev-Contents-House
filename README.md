@@ -6,6 +6,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 - [[번역] Sass에서 웬만하면 extend 말고 믹스인을 사용하자](https://mytory.net/2016/12/23/when-to-use-extend-when-to-use-a-mixin.html)
+- [[번역] Sass에서 웬만하면 extend 말고 믹스인을 사용하자](https://mytory.net/2016/12/23/when-to-use-extend-when-to-use-a-mixin.html)
 - [자바스크립트 센트리는 어떻게 동작할까?](https://blog.hyeonsulee.com/how-does-sentry-work-in-javascript?fbclid=IwAR0LWGVkr4sp18ZWvzrCfDLqPDVPI48FakbL_8c3aB1DLWNq-BPz1zcqvr0)
 - [웹 어플리케이션 모바일 화면 확대 방지 (입력, 더블탭, 확대)](https://kjwan4435.tistory.com/65)
 - [Recoil](https://ui.toast.com/weekly-pick/ko_20200616)
