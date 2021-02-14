@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Im-D/slack-hook-action@v1
+      - uses: Im-D/slack-hook-action@v1.2
         with:
           slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
           slack_channel: dev-contents
