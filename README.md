@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [의존성 관리](https://ui.toast.com/fe-guide/ko_DEPENDENCY-MANAGE)
 - [디버깅](https://ui.toast.com/fe-guide/ko_DEBUG)
 - [성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE)
 - [정적 분석](https://ui.toast.com/fe-guide/ko_STATIC-ANALYSIS)
