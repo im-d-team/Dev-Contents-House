@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [안티 패턴](https://ui.toast.com/fe-guide/ko_ANTI-PATTERN)
 - [코딩컨벤션](https://ui.toast.com/fe-guide/ko_CODING-CONVENTION)
 - [HTML](https://ui.toast.com/fe-guide/ko_HTMLCSS)
 - [Automated Notion backups](https://medium.com/@arturburtsev/automated-notion-backups-f6af4edc298d)
