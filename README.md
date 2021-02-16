@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [CSS in JS 라이브러리에서 Typesafe하게 Theme 관리하기](https://tech.devsisters.com/posts/react-extend-theme/?fbclid=IwAR2V2u6o_9UkqXfntrIx6soOp2G1X5_15jDlIw8W05FvM9Tr1NcON4Jnp_Q)
 - [테스트](https://ui.toast.com/fe-guide/ko_TEST)
 - [의존성 관리](https://ui.toast.com/fe-guide/ko_DEPENDENCY-MANAGE)
 - [디버깅](https://ui.toast.com/fe-guide/ko_DEBUG)
