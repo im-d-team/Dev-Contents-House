@@ -6,6 +6,7 @@ Dev-Contents-House of Im-D
 
 ## 📖 This Week
 - [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217?fbclid=IwAR3X5IcUlxhGcD3NW18PIdegd8Y2Ucbhos_tvhyOUbvvCTL2PuLr7p7x9nw)
+- [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217?fbclid=IwAR3X5IcUlxhGcD3NW18PIdegd8Y2Ucbhos_tvhyOUbvvCTL2PuLr7p7x9nw)
 - [CSS in JS 라이브러리에서 Typesafe하게 Theme 관리하기](https://tech.devsisters.com/posts/react-extend-theme/?fbclid=IwAR2V2u6o_9UkqXfntrIx6soOp2G1X5_15jDlIw8W05FvM9Tr1NcON4Jnp_Q)
 - [테스트](https://ui.toast.com/fe-guide/ko_TEST)
 - [의존성 관리](https://ui.toast.com/fe-guide/ko_DEPENDENCY-MANAGE)
