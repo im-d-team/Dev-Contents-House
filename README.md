@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [자바스크립트 Window](https://nookpi.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Window-Document-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%9D%BC%EA%B9%8C)
 - [modal(popup) 에서 외부(body or parentElement) 스크롤 막기](https://blueshw.github.io/2019/04/24/prevent-scroll-outside/)
 - [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217?fbclid=IwAR3X5IcUlxhGcD3NW18PIdegd8Y2Ucbhos_tvhyOUbvvCTL2PuLr7p7x9nw)
 - [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217?fbclid=IwAR3X5IcUlxhGcD3NW18PIdegd8Y2Ucbhos_tvhyOUbvvCTL2PuLr7p7x9nw)
