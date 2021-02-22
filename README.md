@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [Rust](https://editmate.kr/53e65692403146209d36ec68337b1f7f)
 - [WebAssembly + Rust + wasm-bindgen = ❤️ (Part 1)](https://medium.com/@seungha_kim_IT/webassembly-rust-wasm-bindgen-%EF%B8%8F-part-1-66e902286bf4)
 - [자바스크립트 Window](https://nookpi.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Window-Document-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%9D%BC%EA%B9%8C)
 - [modal(popup) 에서 외부(body or parentElement) 스크롤 막기](https://blueshw.github.io/2019/04/24/prevent-scroll-outside/)
