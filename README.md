@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [공통 컴포넌트 사용](https://jcon.tistory.com/126)
 - [modal(popup) 에서 외부(body or parentElement) 스크롤 막기](https://blueshw.github.io/2019/04/24/prevent-scroll-outside/)
 - [세상에 없던 소셜 Bar](https://bar.creatorclub.kr/?utm_source=DM&utm_medium=dm_paid&utm_campaign=DM_bar&utm_content=bardm_0310)
 - [[머신러닝] 머신러닝의 개요](https://hyeonjiwon.github.io/machine%20learning/ML-1/#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EC%9C%A0%ED%98%95)
