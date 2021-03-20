@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [Referrer Policy, (방문)출처 정책](https://bluebreeze.co.kr/1258)
 - [웹 보안, 웹 취약점을 간단한 설정으로 막아보자](https://cyberx.tistory.com/171)
 - [네이버 블로그](https://blog.naver.com/PostView.nhn?blogId=sehyunfa&logNo=221953875713&categoryNo=19&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
 - [Strict-Transport-Security](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
