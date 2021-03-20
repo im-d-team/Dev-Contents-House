@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [Cache-Control - How to Properly Configure It](https://www.keycdn.com/support/cache-control#cache-control-no-transform)
 - [Entity, DTO, VO 바로 알기](https://velog.io/@gillog/Entity-DTO-VO-%EB%B0%94%EB%A1%9C-%EC%95%8C%EA%B8%B0)
 - [공통 컴포넌트 사용](https://jcon.tistory.com/126)
 - [modal(popup) 에서 외부(body or parentElement) 스크롤 막기](https://blueshw.github.io/2019/04/24/prevent-scroll-outside/)
