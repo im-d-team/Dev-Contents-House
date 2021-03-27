@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [[브런치북] 스타트업, 그리고 개발이야기](https://brunch.co.kr/brunchbook/chickenmoim)
 - [An Overview of JavaScript Testing in 2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
 - [벨로퍼트와 함께하는 리액트 테스팅](https://velog.io/@velopert/react-testing)
 - [Recoil 을 소개합니다 ①](https://shindongri.dev/blog/11/)
