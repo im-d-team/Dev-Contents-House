@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [React Suspense with the Fetch API](https://charles-stover.medium.com/react-suspense-with-the-fetch-api-a1b7369b0469)
 - [7 reasons why you should use SWR.](https://dev.to/thatanjan/7-reasons-why-you-should-use-swr-2e8a)
 - [[브런치북] 스타트업, 그리고 개발이야기](https://brunch.co.kr/brunchbook/chickenmoim)
 - [An Overview of JavaScript Testing in 2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
