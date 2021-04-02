@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [requestIdleCallback으로 초기 렌더링 시간 14% 단축하기](https://engineering.linecorp.com/ko/blog/line-securities-frontend-4/)
 - [React Suspense with the Fetch API](https://charles-stover.medium.com/react-suspense-with-the-fetch-api-a1b7369b0469)
 - [7 reasons why you should use SWR.](https://dev.to/thatanjan/7-reasons-why-you-should-use-swr-2e8a)
 - [[브런치북] 스타트업, 그리고 개발이야기](https://brunch.co.kr/brunchbook/chickenmoim)
