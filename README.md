@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [[git] git stash에 대해서 알아보자](https://sabarada.tistory.com/m/156)
 - [CTO (Chief Technical Officer) 란?](http://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EC%9D%98-%EC%97%AD%ED%95%A0/)
 - [Dev.to처럼 포스팅 제목을 이미지로 만들어서 링크 미리보기(Link Preview) 이미지에 넣어보자](https://nabigraphics.medium.com/dev-to%EC%B2%98%EB%9F%BC-%ED%8F%AC%EC%8A%A4%ED%8C%85-%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C-%EB%A7%81%ED%81%AC-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-link-preview-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90-%EB%84%A3%EC%96%B4%EB%B3%B4%EC%9E%90-ec9157a1ce8f)
 - [: No, thank you](https://ocsusu.tistory.com/20)
