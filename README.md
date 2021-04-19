@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [지속 성장 가능한 소프트웨어를 만들어가는 방법](https://geminikim.medium.com/%EC%A7%80%EC%86%8D-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-97844c5dab63)
 - [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 - [[git] git stash에 대해서 알아보자](https://sabarada.tistory.com/m/156)
 - [CTO (Chief Technical Officer) 란?](http://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EC%9D%98-%EC%97%AD%ED%95%A0/)
