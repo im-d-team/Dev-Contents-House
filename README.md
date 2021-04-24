@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/?fbclid=IwAR24uqkMjtSbtPqrM43zSDSgejyLP__hOE28xNGp_U4PcQDv5En_Sy57bSU)
 - [Sentry로 사내 에러 로그 수집 시스템 구축하기](https://engineering.linecorp.com/ko/blog/log-collection-system-sentry-on-premise/)
 - [The definitive guide to profiling React applications](https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications)
 - [Uber 아키텍처와 시스템 디자인](https://blog.imqa.io/uber-architecture-system-design/?fbclid=IwAR0SGcFY9HFVlz_hVj9TJEW_V7_GC6PgbknTRpnEQDF08zimeInDgjxR3LM)
