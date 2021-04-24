@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [5 Key Lessons React Tutorials Don't Teach](https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?fbclid=IwAR02Y-8Zh7GIOK0SOnIqeYDwiI_fwb1Mbw0Rwi_fS-enwSdiO17gIhhZtww)
 - [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/?fbclid=IwAR24uqkMjtSbtPqrM43zSDSgejyLP__hOE28xNGp_U4PcQDv5En_Sy57bSU)
 - [Sentry로 사내 에러 로그 수집 시스템 구축하기](https://engineering.linecorp.com/ko/blog/log-collection-system-sentry-on-premise/)
 - [The definitive guide to profiling React applications](https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications)
