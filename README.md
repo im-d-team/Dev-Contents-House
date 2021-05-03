@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [블로그 검색 기능 개발 과정](https://blog.rhostem.com/posts/2018-08-23-blog-search)
 - [Gatsby 블로그에 검색기능 구현하기](https://yohanpro.com/posts/gatsby-search)
 - [github jira 연동](https://www.google.com/search?q=github+jira+%EC%97%B0%EB%8F%99&sxsrf=ALeKk01HFm7DnYRQ9nnmtJ13y0HdTwg1qw%3A1619654945111&ei=IfmJYLOpBo7_0gSG55KgDg&oq=github+jira&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYATICCAAyAggAMgIIADICCAAyAggAMgIIADIFCAAQywEyBQgAEMsBOgQIABBHOgQIIxAnOgQIABBDOggIABCxAxCDAToECAAQAzoHCCMQ6gIQJzoFCAAQsQM6BggjECcQE1DEBFjSK2D9M2gBcAF4AIABuwGIAcEPkgEEMC4xM5gBAKABAbABD8gBAsABAQ&sclient=mobile-gws-wiz-serp)
 - [Storybook](https://jetbrains.github.io/ring-ui/develop-storybook/?path=/story/components-button-toolbar--basic)
