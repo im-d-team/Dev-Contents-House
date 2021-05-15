@@ -5,76 +5,6 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
-- [zigbang – Medium](https://medium.com/zigbang)
-- [토스 기술 블로그, 토스테크](https://toss.tech/?fbclid=IwAR1ilPYD7JeEPts-d4n6JfEAbUOsMB6iHz1zej-JFPAFczmL8HEB5_XefSE)
-- [RecordRTC.js | Live Demo](https://recordrtc.org/)
-- [GitHub](https://github.com/slidevjs/slidev)
-- [Documentation](http://docskr.nest-js.com/?fbclid=IwAR0c5UzfFneNcxizrQbdgNFZcIHv1kWjAIjSO0NraQiKEXjgt6hH0C5KrOA)
-- [디미터 법칙(Law of Demeter)](https://youngjinmo.github.io/2021/03/law-of-demeter/)
-- [블로그 검색 기능 개발 과정](https://blog.rhostem.com/posts/2018-08-23-blog-search)
-- [Gatsby 블로그에 검색기능 구현하기](https://yohanpro.com/posts/gatsby-search)
-- [github jira 연동](https://www.google.com/search?q=github+jira+%EC%97%B0%EB%8F%99&sxsrf=ALeKk01HFm7DnYRQ9nnmtJ13y0HdTwg1qw%3A1619654945111&ei=IfmJYLOpBo7_0gSG55KgDg&oq=github+jira&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYATICCAAyAggAMgIIADICCAAyAggAMgIIADIFCAAQywEyBQgAEMsBOgQIABBHOgQIIxAnOgQIABBDOggIABCxAxCDAToECAAQAzoHCCMQ6gIQJzoFCAAQsQM6BggjECcQE1DEBFjSK2D9M2gBcAF4AIABuwGIAcEPkgEEMC4xM5gBAKABAbABD8gBAsABAQ&sclient=mobile-gws-wiz-serp)
-- [Storybook](https://jetbrains.github.io/ring-ui/develop-storybook/?path=/story/components-button-toolbar--basic)
-- [5 Key Lessons React Tutorials Don't Teach](https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?fbclid=IwAR02Y-8Zh7GIOK0SOnIqeYDwiI_fwb1Mbw0Rwi_fS-enwSdiO17gIhhZtww)
-- [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/?fbclid=IwAR24uqkMjtSbtPqrM43zSDSgejyLP__hOE28xNGp_U4PcQDv5En_Sy57bSU)
-- [Sentry로 사내 에러 로그 수집 시스템 구축하기](https://engineering.linecorp.com/ko/blog/log-collection-system-sentry-on-premise/)
-- [The definitive guide to profiling React applications](https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications)
-- [Uber 아키텍처와 시스템 디자인](https://blog.imqa.io/uber-architecture-system-design/?fbclid=IwAR0SGcFY9HFVlz_hVj9TJEW_V7_GC6PgbknTRpnEQDF08zimeInDgjxR3LM)
-- [지속 성장 가능한 소프트웨어를 만들어가는 방법](https://geminikim.medium.com/%EC%A7%80%EC%86%8D-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-97844c5dab63)
-- [지속 성장 가능한 소프트웨어를 만들어가는 방법](https://geminikim.medium.com/%EC%A7%80%EC%86%8D-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-97844c5dab63)
-- [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
-- [[git] git stash에 대해서 알아보자](https://sabarada.tistory.com/m/156)
-- [CTO (Chief Technical Officer) 란?](http://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EC%9D%98-%EC%97%AD%ED%95%A0/)
-- [Dev.to처럼 포스팅 제목을 이미지로 만들어서 링크 미리보기(Link Preview) 이미지에 넣어보자](https://nabigraphics.medium.com/dev-to%EC%B2%98%EB%9F%BC-%ED%8F%AC%EC%8A%A4%ED%8C%85-%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C-%EB%A7%81%ED%81%AC-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-link-preview-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90-%EB%84%A3%EC%96%B4%EB%B3%B4%EC%9E%90-ec9157a1ce8f)
-- [: No, thank you](https://ocsusu.tistory.com/20)
-- [React Stack 2021](https://dev.to/mondal10/react-stack-2021-4h8l?fbclid=IwAR0dPCUb7koXE3LcJVN52eGq7AzBvCYc-obKeZNhik1cEdApQPNFSEj6ndo)
-- [Improved React APIs for Relay](https://developers.facebook.com/blog/post/2021/03/09/introducing-relay-hooks-improved-react-apis-relay/)
-- [NVM, Node, NPM](https://wooogy-egg.tistory.com/m/59)
-- [[번역] 왜 NumPy는 빠를까요?](https://lazymatlab.tistory.com/m/113)
-- [requestIdleCallback으로 초기 렌더링 시간 14% 단축하기](https://engineering.linecorp.com/ko/blog/line-securities-frontend-4/)
-- [React Suspense with the Fetch API](https://charles-stover.medium.com/react-suspense-with-the-fetch-api-a1b7369b0469)
-- [7 reasons why you should use SWR.](https://dev.to/thatanjan/7-reasons-why-you-should-use-swr-2e8a)
-- [[브런치북] 스타트업, 그리고 개발이야기](https://brunch.co.kr/brunchbook/chickenmoim)
-- [An Overview of JavaScript Testing in 2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
-- [벨로퍼트와 함께하는 리액트 테스팅](https://velog.io/@velopert/react-testing)
-- [Recoil 을 소개합니다 ①](https://shindongri.dev/blog/11/)
-- [19 Songs That Matter Right Now](https://www.nytimes.com/interactive/2021/03/10/magazine/best-songs.html)
-- [Referrer Policy, (방문)출처 정책](https://bluebreeze.co.kr/1258)
-- [웹 보안, 웹 취약점을 간단한 설정으로 막아보자](https://cyberx.tistory.com/171)
-- [네이버 블로그](https://blog.naver.com/PostView.nhn?blogId=sehyunfa&logNo=221953875713&categoryNo=19&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
-- [Strict-Transport-Security](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
-- [Best practices for cache control settings for your website](https://medium.com/pixelpoint/best-practices-for-cache-control-settings-for-your-website-ff262b38c5a2)
-- [Cache-Control - How to Properly Configure It](https://www.keycdn.com/support/cache-control#cache-control-no-transform)
-- [Entity, DTO, VO 바로 알기](https://velog.io/@gillog/Entity-DTO-VO-%EB%B0%94%EB%A1%9C-%EC%95%8C%EA%B8%B0)
-- [공통 컴포넌트 사용](https://jcon.tistory.com/126)
-- [modal(popup) 에서 외부(body or parentElement) 스크롤 막기](https://blueshw.github.io/2019/04/24/prevent-scroll-outside/)
-- [세상에 없던 소셜 Bar](https://bar.creatorclub.kr/?utm_source=DM&utm_medium=dm_paid&utm_campaign=DM_bar&utm_content=bardm_0310)
-- [[머신러닝] 머신러닝의 개요](https://hyeonjiwon.github.io/machine%20learning/ML-1/#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EC%9C%A0%ED%98%95)
-- [콘텐츠가 캐시에 유지되는 기간(만료) 관리](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Expiration.html)
-- [React Clean Code](https://betterprogramming.pub/8-ways-to-write-clean-react-code-610c502ccf39)
-- [WebP 이미지 사용하기](https://fourwingsy.medium.com/webp-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-dde09ae6500f)
-- [11 Great Tools for a Monorepo in 2021](https://blog.bitsrc.io/11-tools-to-build-a-monorepo-in-2021-7ce904821cc2)
-- [Rust](https://editmate.kr/53e65692403146209d36ec68337b1f7f)
-- [WebAssembly + Rust + wasm-bindgen = ❤️ (Part 1)](https://medium.com/@seungha_kim_IT/webassembly-rust-wasm-bindgen-%EF%B8%8F-part-1-66e902286bf4)
-- [자바스크립트 Window](https://nookpi.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Window-Document-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%9D%BC%EA%B9%8C)
-- [modal(popup) 에서 외부(body or parentElement) 스크롤 막기](https://blueshw.github.io/2019/04/24/prevent-scroll-outside/)
-- [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217?fbclid=IwAR3X5IcUlxhGcD3NW18PIdegd8Y2Ucbhos_tvhyOUbvvCTL2PuLr7p7x9nw)
-- [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217?fbclid=IwAR3X5IcUlxhGcD3NW18PIdegd8Y2Ucbhos_tvhyOUbvvCTL2PuLr7p7x9nw)
-- [CSS in JS 라이브러리에서 Typesafe하게 Theme 관리하기](https://tech.devsisters.com/posts/react-extend-theme/?fbclid=IwAR2V2u6o_9UkqXfntrIx6soOp2G1X5_15jDlIw8W05FvM9Tr1NcON4Jnp_Q)
-- [테스트](https://ui.toast.com/fe-guide/ko_TEST)
-- [의존성 관리](https://ui.toast.com/fe-guide/ko_DEPENDENCY-MANAGE)
-- [디버깅](https://ui.toast.com/fe-guide/ko_DEBUG)
-- [성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE)
-- [정적 분석](https://ui.toast.com/fe-guide/ko_STATIC-ANALYSIS)
-- [안티 패턴](https://ui.toast.com/fe-guide/ko_ANTI-PATTERN)
-- [코딩컨벤션](https://ui.toast.com/fe-guide/ko_CODING-CONVENTION)
-- [HTML](https://ui.toast.com/fe-guide/ko_HTMLCSS)
-- [Automated Notion backups](https://medium.com/@arturburtsev/automated-notion-backups-f6af4edc298d)
-- [의사코드(pseudo-code)란?](https://medium.com/djangogirlsseoul-codecamp/%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C-pseudo-code-%EB%9E%80-d892a3479b1d)
-- [Methods for modifying objects in OOCSS – Oliver Joseph Ash](https://oliverjash.me/2012/09/07/methods-for-modifying-objects-in-oocss.html)
-- [[sass] mixin과 extend 알맞게 사용하기](https://13akstjq.github.io/sass/2020/02/22/mixin%EA%B3%BC-extend-%EC%95%8C%EB%A7%9E%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html)
-- [TSConfig Reference](https://www.typescriptlang.org/ko/tsconfig)
-- [await-of](https://github.com/xobotyi/await-of)
 
 <br/>
 
@@ -100,6 +30,7 @@ Dev-Contents-House of Im-D
 | [Browser](#Browser) | [상태관리](#상태관리) | [SVG](#SVG) | [HTML](#HTML) |
 | [PWA](#PWA) | [Babel](#Babel) | [AMP](#AMP) | [SVELTE](#SVELTE) |
 | [Web](#Web) |[HTTP](#HTTP)|[SEO](#SEO)| [Rome](#Rome) |
+| [Gatsby](#Gatsby) | [Security](#Security)|||
 
 ### 4. [디자인](#4-디자인)
 
@@ -155,7 +86,13 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [레거시 운영개발팀을 수습하다.](https://greypencil.tistory.com/113)
 - [팀을 맡고, 한 달 동안 가장 공을 들인 일 | Huns.me](https://huns.me/posts/2019-11-10-32)
 - [주니어 개발자가 회사를 떠나는 이유) :: Jay's Code Factory](https://jay-ji.tistory.com/60)
-  
+- [[브런치북] 스타트업, 그리고 개발이야기](https://brunch.co.kr/brunchbook/chickenmoim)
+- [zigbang – Medium](https://medium.com/zigbang)
+- [토스 기술 블로그, 토스테크](https://toss.tech/?fbclid=IwAR1ilPYD7JeEPts-d4n6JfEAbUOsMB6iHz1zej-JFPAFczmL8HEB5_XefSE)
+- [의사코드(pseudo-code)란?](https://medium.com/djangogirlsseoul-codecamp/%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C-pseudo-code-%EB%9E%80-d892a3479b1d)
+
+
+
 **[⬆ Top](#Dev-Contents-House)**
 
 ---
@@ -246,6 +183,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Alfred Tip](https://www.notion.so/Notion-Alfred-Tip-0c96380ffe32466e98331db8a056f3e9)
 - [Chrome 콘솔 숨은 기능](https://frontdev.tistory.com/m/entry/Chrome-%EC%BD%98%EC%86%94-%EC%88%A8%EC%9D%80-%EA%B8%B0%EB%8A%A5)
 - [Semantic Versioning 2.0.0](https://semver.org)
+- [Uber 아키텍처와 시스템 디자인](https://blog.imqa.io/uber-architecture-system-design/?fbclid=IwAR0SGcFY9HFVlz_hVj9TJEW_V7_GC6PgbknTRpnEQDF08zimeInDgjxR3LM)
+- [지속 성장 가능한 소프트웨어를 만들어가는 방법](https://geminikim.medium.com/%EC%A7%80%EC%86%8D-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-97844c5dab63)
+- [CTO (Chief Technical Officer) 란?](http://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EC%9D%98-%EC%97%AD%ED%95%A0/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -265,6 +205,15 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [내 사이트 성능측정하고 진단받기(feat. Google)](https://web.dev)
 - [How to Resize Images Before Uploading for Performance](https://morioh.com/p/8cda6535d4e6?f=5c224490c513a556c9042463)
 - [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/528?fbclid=IwAR3s8y-YOKF3iW7iTbKx9ZU-wAadE9QhF5ALdkO9lsLC8t-psQIQrJ8H_WM)
+- [테스트](https://ui.toast.com/fe-guide/ko_TEST)
+- [의존성 관리](https://ui.toast.com/fe-guide/ko_DEPENDENCY-MANAGE)
+- [디버깅](https://ui.toast.com/fe-guide/ko_DEBUG)
+- [성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE)
+- [정적 분석](https://ui.toast.com/fe-guide/ko_STATIC-ANALYSIS)
+- [안티 패턴](https://ui.toast.com/fe-guide/ko_ANTI-PATTERN)
+- [코딩컨벤션](https://ui.toast.com/fe-guide/ko_CODING-CONVENTION)
+- [HTML](https://ui.toast.com/fe-guide/ko_HTMLCSS)
+- [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/?fbclid=IwAR24uqkMjtSbtPqrM43zSDSgejyLP__hOE28xNGp_U4PcQDv5En_Sy57bSU)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -307,6 +256,10 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [🌳🚀 CS Visualized: Useful Git Commands - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 - [지금 당장 좋은 커밋 메시지를 남기는 방법(with Git Commit Template)](https://jeong-pro.tistory.com/m/207)
 - [좋은 PR에 대한 단상🤔](https://medium.com/hayanmind-tech-blog-kr/%EC%A2%8B%EC%9D%80-pr%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%A8%EC%83%81-6586c3f757ac)
+- [git stash에 대해서 알아보자](https://sabarada.tistory.com/m/156)
+- [github jira 연동](https://www.google.com/search?q=github+jira+%EC%97%B0%EB%8F%99&sxsrf=ALeKk01HFm7DnYRQ9nnmtJ13y0HdTwg1qw%3A1619654945111&ei=IfmJYLOpBo7_0gSG55KgDg&oq=github+jira&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYATICCAAyAggAMgIIADICCAAyAggAMgIIADIFCAAQywEyBQgAEMsBOgQIABBHOgQIIxAnOgQIABBDOggIABCxAxCDAToECAAQAzoHCCMQ6gIQJzoFCAAQsQM6BggjECcQE1DEBFjSK2D9M2gBcAF4AIABuwGIAcEPkgEEMC4xM5gBAKABAbABD8gBAsABAQ&sclient=mobile-gws-wiz-serp)
+
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -326,6 +279,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [견고한 node.js 프로젝트 설계하기](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)  
 - [Node.js의 Events `EventEmitter` 번역](https://edykim.com/ko/post/events-eventemitter-translation-in-node.js/)
 - [Node 제작자가 만든 Deno: 자바스크립트의 새로운 접근](https://blog.ull.im/engineering/2019/04/14/deno-ryan-dahl-2019-04-04.html)
+- [NVM, Node, NPM](https://wooogy-egg.tistory.com/m/59)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -363,7 +318,10 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [rust-lang-book-ko](https://rinthel.github.io/rust-lang-book-ko)
 - [Implementing Life - Rust and WebAssembly](https://rustwasm.github.io/docs/book/game-of-life/implementing.html)
 - [쪼잔한 Rust 4.1. 소유권이 무엇이냐](https://dgkim5360.tistory.com/entry/what-i-learned-from-the-rust-book-chapter-4-1-what-is-ownership?category=990157)
-- [🦀 러스트의 멋짐을 모르는 당신은 불쌍해요](https://parksb.github.io/article/35.html)
+- [🦀 러스트의 멋짐을 모르는 당신은 불쌍해요](https://parksb.github.io/article/35.html
+- [Rust](https://editmate.kr/53e65692403146209d36ec68337b1f7f)
+- [WebAssembly + Rust + wasm-bindgen = ❤️ (Part 1)](https://medium.com/@seungha_kim_IT/webassembly-rust-wasm-bindgen-%EF%B8%8F-part-1-66e902286bf4)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -396,6 +354,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ### ![Javascript] Javascript
 
+- [Dev.to처럼 포스팅 제목을 이미지로 만들어서 링크 미리보기(Link Preview) 이미지에 넣어보자](https://nabigraphics.medium.com/dev-to%EC%B2%98%EB%9F%BC-%ED%8F%AC%EC%8A%A4%ED%8C%85-%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C-%EB%A7%81%ED%81%AC-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-link-preview-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90-%EB%84%A3%EC%96%B4%EB%B3%B4%EC%9E%90-ec9157a1ce8f)
+- [Automated Notion backups](https://medium.com/@arturburtsev/automated-notion-backups-f6af4edc298d)
+- [requestIdleCallback으로 초기 렌더링 시간 14% 단축하기](https://engineering.linecorp.com/ko/blog/line-securities-frontend-4/)
 - [자바스크립트 간단한 Test 코드 만들어보기](https://joshua1988.github.io/web-development/javascript/js-testing/)
 - [자바스크립트 엔진의 최적화 기법 (2) - Hidden class, Inline Caching](https://meetup.toast.com/posts/78)
 - [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726)
@@ -527,7 +488,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [produce 구현해보기(Proxy API를 사용한 ImmerJs 뜯어보기)](https://chodragon9.github.io//blog/produce/#%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EB%8B%A4%EC%A7%80%EA%B8%B0)
 - [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
 - [Using JavaScript to Create Trello-Like Card Re-Arrange and Drag and Drop](https://medium.com/javascript-in-plain-english/using-javascript-to-create-trello-like-card-re-arrange-and-drag-and-drop-557e60125bb4)
-- [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
+- [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance)
 - [Promise, 가만히 냅두면 어떻게 될까?](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
 - [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 - [프런트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
@@ -546,6 +507,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [hwp.js](https://github.com/hahnlee/hwp.js)
 - [Flowchart Maker & Online Diagram Software](https://www.draw.io/)
 - [Reproducing Medium's image zoom](https://francoischalifour.com/medium-image-zoom/)
+- [await-of](https://github.com/xobotyi/await-of)
+- [modal(popup) 에서 외부(body or parentElement) 스크롤 막기](https://blueshw.github.io/2019/04/24/prevent-scroll-outside/)
+- [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -592,6 +556,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [[Javascript] IE 11 Ajax Caching 끄기 (jQuery, axios)](https://effortguy.tistory.com/m/36)
 - [자바스크립트 센트리는 어떻게 동작할까?](https://blog.hyeonsulee.com/how-does-sentry-work-in-javascript?fbclid=IwAR0LWGVkr4sp18ZWvzrCfDLqPDVPI48FakbL_8c3aB1DLWNq-BPz1zcqvr0)
 - [웹 어플리케이션 모바일 화면 확대 방지 (입력, 더블탭, 확대)](https://kjwan4435.tistory.com/65)
+- [CSS in JS 라이브러리에서 Typesafe하게 Theme 관리하기](https://tech.devsisters.com/posts/react-extend-theme/?fbclid=IwAR2V2u6o_9UkqXfntrIx6soOp2G1X5_15jDlIw8W05FvM9Tr1NcON4Jnp_Q)
+- [Methods for modifying objects in OOCSS – Oliver Joseph Ash](https://oliverjash.me/2012/09/07/methods-for-modifying-objects-in-oocss.html)
+- [[sass] mixin과 extend 알맞게 사용하기](https://13akstjq.github.io/sass/2020/02/22/mixin%EA%B3%BC-extend-%EC%95%8C%EB%A7%9E%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html)
 
 
 **[⬆ Top](#Dev-Contents-House)**
@@ -603,6 +570,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [the Different Testing Tools (chai, mocha, enzyme, jest)](https://medium.com/@leannezhang/clarifying-different-testing-tools-chai-mocha-enzyme-jest-d7a561f01857)
 - [Node.js 로 TDD 를 도전해보자](https://seokjun.kim/node-js-tdd/)
 - [BDD로 테스트에 중독되어 보자](https://helloworld.kurly.com/blog/try-bdd/)
+- [An Overview of JavaScript Testing in 2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
+- [Storybook](https://jetbrains.github.io/ring-ui/develop-storybook/?path=/story/components-button-toolbar--basic)
+- [Sentry로 사내 에러 로그 수집 시스템 구축하기](https://engineering.linecorp.com/ko/blog/log-collection-system-sentry-on-premise/)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -651,7 +621,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Vue.js설계 및 Atomic Design](https://velog.io/@kameals/Vuejs-Atomic-Design)
 - [JSON-LD with Vue.js](https://medium.com/@fmoessle/json-ld-with-vue-js-72cf1ac2af66)
 - [vite vs webpack, 그리고 Vue 3.0의 미래.](https://typed.sh/vite-vs-webpack-vue-3-0/)
-- [](https://music.youtube.com/channel/UCF5gnykb86dwedwxvsRICXg)
+- [slidev](https://github.com/slidevjs/slidev)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -659,6 +629,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 ### ![React] React
 
+- [Next.js](https://jcon.tistory.com/126)
 - [The online code editor for web dev](https://stackblitz.com/)
 - [React의 기본, 컴포넌트를 알아보자-모두 알지만 잘 알지는 못하는 컴포넌트](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
 - [Hook을 쉽게 배워보자](https://usehooks.com/)
@@ -716,6 +687,15 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [Recoil 레시피: 소개](https://taegon.kim/archives/10105)
 - [TypeScript와 Storybook을 사용한 리액트 디자인 시스템 구축하기](https://velog.io/@velopert/design-system-using-typescript-and-storybook)
 - [React Server Components 짧막 정리](https://velog.io/@mizukikawaii/React-Server-Components-%EC%A7%A7%EB%A7%89-%EC%A0%95%EB%A6%AC)
+- [5 Key Lessons React Tutorials Don't Teach](https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?fbclid=IwAR02Y-8Zh7GIOK0SOnIqeYDwiI_fwb1Mbw0Rwi_fS-enwSdiO17gIhhZtww)
+- [The definitive guide to profiling React applications](https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications)
+- [React Stack 2021](https://dev.to/mondal10/react-stack-2021-4h8l?fbclid=IwAR0dPCUb7koXE3LcJVN52eGq7AzBvCYc-obKeZNhik1cEdApQPNFSEj6ndo)
+- [Improved React APIs for Relay](https://developers.facebook.com/blog/post/2021/03/09/introducing-relay-hooks-improved-react-apis-relay/)
+- [벨로퍼트와 함께하는 리액트 테스팅](https://velog.io/@velopert/react-testing)
+- [Recoil 을 소개합니다 ①](https://shindongri.dev/blog/11/)
+- [React Clean Code](https://betterprogramming.pub/8-ways-to-write-clean-react-code-610c502ccf39)
+- [React Suspense with the Fetch API](https://charles-stover.medium.com/react-suspense-with-the-fetch-api-a1b7369b0469)
+- [7 reasons why you should use SWR.](https://dev.to/thatanjan/7-reasons-why-you-should-use-swr-2e8a)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -734,6 +714,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [738/clean-code-typescript: 🚿 타입스크립트를 위한 클린코드 - 한글 번역판 🇰🇷](https://github.com/738/clean-code-typescript)
 - [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior · Mark's Dev Blog](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - [Vite with Preact and TypeScript](https://fettblog.eu/typescript-vite-preact/)
+- [TSConfig Reference](https://www.typescriptlang.org/ko/tsconfig)
+- [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217?fbclid=IwAR3X5IcUlxhGcD3NW18PIdegd8Y2Ucbhos_tvhyOUbvvCTL2PuLr7p7x9nw)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -861,6 +844,16 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [모두를 위한 접근성](https://medium.com/@euncho/%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%91%EA%B7%BC%EC%84%B1-cd2045b70f02)
 - [Web Vitals](https://web.dev/vitals/)
 - [The A-Z of Web Development](https://dev.to/desoga/the-a-z-of-web-development-5ge6)
+- [RecordRTC.js | Live Demo](https://recordrtc.org/)
+- [Strict-Transport-Security](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
+- [Best practices for cache control settings for your website](https://medium.com/pixelpoint/best-practices-for-cache-control-settings-for-your-website-ff262b38c5a2)
+- [Cache-Control - How to Properly Configure It](https://www.keycdn.com/support/cache-control#cache-control-no-transform)
+- [콘텐츠가 캐시에 유지되는 기간(만료) 관리](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Expiration.html)
+- [WebP 이미지 사용하기](https://fourwingsy.medium.com/webp-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-dde09ae6500f)
+- [자바스크립트 Window](https://nookpi.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Window-Document-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%9D%BC%EA%B9%8C)
+- [modal(popup) 에서 외부(body or parentElement) 스크롤 막기](https://blueshw.github.io/2019/04/24/prevent-scroll-outside/)
+
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -886,6 +879,26 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### Rome
 
 - [Rome Toolchain](https://rome.tools/)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### Gatsby
+
+- [블로그 검색 기능 개발 과정](https://blog.rhostem.com/posts/2018-08-23-blog-search)
+- [Gatsby 블로그에 검색기능 구현하기](https://yohanpro.com/posts/gatsby-search)
+
+**[⬆ Top](#Dev-Contents-House)**
+
+---
+
+### Security
+
+- [웹 보안, 웹 취약점을 간단한 설정으로 막아보자](https://cyberx.tistory.com/171)
+- [HSTS](https://blog.naver.com/PostView.nhn?blogId=sehyunfa&logNo=221953875713&categoryNo=19&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
+- [Referrer Policy, (방문)출처 정책](https://bluebreeze.co.kr/1258)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -980,6 +993,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [개념 정리 - (7) 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
 - [쓰레드풀 과 ForkJoinPool](https://hamait.tistory.com/612)
+- [: No, thank you](https://ocsusu.tistory.com/20)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -996,6 +1011,7 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 ### MonoRepo
 
 - [Release management in Angular with Lerna](https://indepth.dev/posts/1040/release-management-in-angular-with-lerna)
+- [11 Great Tools for a Monorepo in 2021](https://blog.bitsrc.io/11-tools-to-build-a-monorepo-in-2021-7ce904821cc2)
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -1041,6 +1057,9 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [AWS DeepRacer 강화학습 설명](https://github.com/aws-samples/aws-deepracer-workshops/blob/master/Workshops/2019-AWSSummits-AWSDeepRacerService/Lab1/Readme-Korean.md)
 - [How To Create Deep Fakes Tutorial](https://morioh.com/p/4148ffefa259?f=5c21fb01c16e2556b555ab32)
 - [머신러닝 쉽게 배우는 방법](https://www.youtube.com/watch?v=432p379XXMw&feature=youtu.be)
+- [[번역] 왜 NumPy는 빠를까요?](https://lazymatlab.tistory.com/m/113)
+- [[머신러닝] 머신러닝의 개요](https://hyeonjiwon.github.io/machine%20learning/ML-1/#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EC%9C%A0%ED%98%95)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
@@ -1048,6 +1067,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 
 - [스프링 - 생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
 - [Spring Security](https://www.notion.so/Spring-Security-8d099b534582487f90d856f5068c9fd5)
+- [Entity, DTO, VO 바로 알기](https://velog.io/@gillog/Entity-DTO-VO-%EB%B0%94%EB%A1%9C-%EC%95%8C%EA%B8%B0)
+- [디미터 법칙(Law of Demeter)](https://youngjinmo.github.io/2021/03/law-of-demeter/)
 
 
 **[⬆ Top](#Dev-Contents-House)**
@@ -1104,6 +1125,8 @@ ex) :house: BKJang / javascript / [번역] React를 본격적으로 하기 전 �
 - [NestJS-시작하기](https://happycording.tistory.com/entry/NestJS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 - [NestJS 빠르게 배우기 01](https://changhoi.github.io/posts/backend/nestjs-quicklearn-01/)
 - [Hello Nestjs](https://dev-momo.tistory.com/entry/Hello-Nestjs)
+- [Nest.js - Documentation](http://docskr.nest-js.com/?fbclid=IwAR0c5UzfFneNcxizrQbdgNFZcIHv1kWjAIjSO0NraQiKEXjgt6hH0C5KrOA)
+
 
 **[⬆ Top](#Dev-Contents-House)**
 
