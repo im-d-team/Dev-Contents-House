@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [7 Steps to Secure JavaScript in 2021](https://blog.bitsrc.io/8-steps-to-secure-javascript-in-2021-6d54d5415264)
 
 <br/>
 
