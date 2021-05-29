@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [pm2에 대해 알아보자](https://ocsusu.tistory.com/m/26)
 - [[React Native] 빌드 및 배포하기](https://ingg.dev/rn-deploy/)
 - [7 Steps to Secure JavaScript in 2021](https://blog.bitsrc.io/8-steps-to-secure-javascript-in-2021-6d54d5415264)
 
