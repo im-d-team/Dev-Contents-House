@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [PM2 기본 사용방법](https://blog.outsider.ne.kr/1197)
 - [PM2를 활용한 Node.js 무중단 서비스하기](https://engineering.linecorp.com/ko/blog/pm2-nodejs/)
 - [pm2에 대해 알아보자](https://ocsusu.tistory.com/m/26)
 - [[React Native] 빌드 및 배포하기](https://ingg.dev/rn-deploy/)
