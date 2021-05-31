@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [How to Limit File Upload Size in Nginx](https://www.tecmint.com/limit-file-upload-size-in-nginx/)
 - [react](https://kyounghwan01.github.io/blog/React/react-native/react-native-webview/)
 - [PM2 기본 사용방법](https://blog.outsider.ne.kr/1197)
 - [PM2를 활용한 Node.js 무중단 서비스하기](https://engineering.linecorp.com/ko/blog/pm2-nodejs/)
