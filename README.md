@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [Lambda@Edge Design Best Practices](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/lambdaedge-design-best-practices/?sc_ichannel=ha&sc_icontent=console_aws-console-cloudfront_cloudfront_cf-best-practices_awssm-3496&sc_icampaign=cf-best-practices&trk=ha_awssm-3496&sc_iplace=console_aws-console-cloudfront_cloudfront_INFOBAR)
 - [NAVER D2](https://d2.naver.com/helloworld/7804182)
 - [Web Share API 사용하기](https://ui.toast.com/weekly-pick/ko_20190618)
 - [How to Limit File Upload Size in Nginx](https://www.tecmint.com/limit-file-upload-size-in-nginx/)
