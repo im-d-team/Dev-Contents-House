@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [The 맛있는 브라우저 IE userAgent 확인방법.](https://codepedia.tistory.com/entry/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-IE-userAgent-%ED%99%95%EC%9D%B8%EB%B0%A9%EB%B2%95)
 - [Lambda@Edge Design Best Practices](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/lambdaedge-design-best-practices/?sc_ichannel=ha&sc_icontent=console_aws-console-cloudfront_cloudfront_cf-best-practices_awssm-3496&sc_icampaign=cf-best-practices&trk=ha_awssm-3496&sc_iplace=console_aws-console-cloudfront_cloudfront_INFOBAR)
 - [NAVER D2](https://d2.naver.com/helloworld/7804182)
 - [Web Share API 사용하기](https://ui.toast.com/weekly-pick/ko_20190618)
