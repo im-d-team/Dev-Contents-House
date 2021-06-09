@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [[번역] iOS를 위한 새로운 <video> 정책](https://d0gf00t.tistory.com/35)
 - [filter](https://css-tricks.com/almanac/properties/f/filter/)
 - [배포를 자동화해보자! (feat. Next js, pm2, Nginx)](https://velog.io/@_woogie/%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%B4%EB%B3%B4%EC%9E%90-feat.-Next-js-pm2-Nginx)
 - [The 맛있는 브라우저 IE userAgent 확인방법.](https://codepedia.tistory.com/entry/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-IE-userAgent-%ED%99%95%EC%9D%B8%EB%B0%A9%EB%B2%95)
