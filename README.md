@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [nodejs #08 무중단배포하기](https://velog.io/@secho/nodejs-08-%EB%AC%B4%EC%A4%91%EB%8B%A8%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 - [](https://www.google.com/amp/s/www.willandskill.se/en/setup-a-next-js-project-with-pm2-nginx-and-yarn-on-ubuntu-18-04.amp.html)
 - [Where is Apple going with Safari 15? Websites are starting to look like apps](https://uxdesign.cc/where-is-apple-going-with-safari-15-websites-are-starting-to-look-like-apps-549f48d67cb6)
 - [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
