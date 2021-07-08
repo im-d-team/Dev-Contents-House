@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [React 18을 준비하세요.](https://medium.com/naver-place-dev/react-18%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EC%84%B8%EC%9A%94-8603c36ddb25)
 - [[react, next.js] SSR환경에서 access_token, refresh_tokne 관리하기(cookie이용)](https://lemontia.tistory.com/1012)
 - [nodejs #08 무중단배포하기](https://velog.io/@secho/nodejs-08-%EB%AC%B4%EC%A4%91%EB%8B%A8%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 - [](https://www.google.com/amp/s/www.willandskill.se/en/setup-a-next-js-project-with-pm2-nginx-and-yarn-on-ubuntu-18-04.amp.html)
