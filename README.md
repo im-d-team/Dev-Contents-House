@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
 - [GitHub Labels that are logical, colorful and sensible](https://seantrane.com/posts/logical-colorful-github-labels-18230/)
 - [Your PR Description Matters](https://www.pullrequest.com/blog/writing-a-great-pull-request-description/)
 - [Your PR Description Matters](https://www.pullrequest.com/blog/writing-a-great-pull-request-description/)
