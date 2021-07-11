@@ -5,6 +5,7 @@ Dev-Contents-House of Im-D
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
 
 ## 📖 This Week
+- [Notion Site](https://githubmemory.com/repo/SeonHyungJo/notion-site)
 - [useMemo, useCallback을 언제 써야되나?](https://haragoo30.medium.com/usememo-usecallback%EC%9D%84-%EC%96%B8%EC%A0%9C-%EC%8D%A8%EC%95%BC%EB%90%98%EB%82%98-6a5e6f30f759)
 - [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
 - [GitHub Labels that are logical, colorful and sensible](https://seantrane.com/posts/logical-colorful-github-labels-18230/)
