@@ -1,8 +1,8 @@
 # Dev-Contents-House
 
-Dev-Contents-House of Im-D
-
 🏄🏻‍ **서핑 중 유익한 글, 영상, 슬라이드를 공유합니다**
+
+📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
 - [cz-conventional-changelog-for-jira](https://github.com/digitalroute/cz-conventional-changelog-for-jira)
