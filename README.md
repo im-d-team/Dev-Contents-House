@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [useMemo, useCallback을 언제 써야되나?](https://haragoo30.medium.com/usememo-usecallback%EC%9D%84-%EC%96%B8%EC%A0%9C-%EC%8D%A8%EC%95%BC%EB%90%98%EB%82%98-6a5e6f30f759)
 - [React Clean Architecture](https://www.kpiteng.com/blogs/react-clean-architecture/?fbclid=IwAR1Xu-i-UswXBYnL1GjfvmRdDr5Q1Uba6fCEtKU19tDwwGMJPBF444mKzs0)
 - [cz-conventional-changelog-for-jira](https://github.com/digitalroute/cz-conventional-changelog-for-jira)
 - [next-data-hooks ·](https://github.com/ricokahler/next-data-hooks)
