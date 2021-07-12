@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [React Native Boilerplate 🐙](https://thecodingmachine.github.io/react-native-boilerplate/docs/Introduction)
 - [AI가 나 대신 코딩을? 깃헙 'Copilot' 을 사용해봤다!](https://m.youtube.com/watch?v=x_Yw2f161CU&feature=youtu.be)
 - [스크린을 침범하는 노치, 펀치홀 어떻게 미리 볼 수 있을까?](https://riiidtechblog.medium.com/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%9D%84-%EC%B9%A8%EB%B2%94%ED%95%98%EB%8A%94-%EB%85%B8%EC%B9%98-%ED%8E%80%EC%B9%98%ED%99%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%AF%B8%EB%A6%AC-%EB%B3%BC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-e61c21e40858)
 - [useMemo, useCallback을 언제 써야되나?](https://haragoo30.medium.com/usememo-usecallback%EC%9D%84-%EC%96%B8%EC%A0%9C-%EC%8D%A8%EC%95%BC%EB%90%98%EB%82%98-6a5e6f30f759)
