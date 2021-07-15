@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Kubernetes Essential Tools: 2021](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
 - [UDC 2021](https://udc.upbit.com/)
 - [Home](https://developer.microsoft.com/en-us/fluentui#/)
 - [Lerna와 yarn-workspace를 활용한 Mono Repo (Typescript & Jest) 환경 구성하기](https://jojoldu.tistory.com/585?fbclid=IwAR3bLE4IvrVBneZRwuF8YNEEn_MvZN-Y6m74hXfIYHhr3yJQ_1yMabpXG_U)
