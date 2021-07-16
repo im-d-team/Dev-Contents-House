@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Chromium이 발표한 RenderingNG가 무엇인가?](https://ui.toast.com/weekly-pick/ko_20210713)
 - [naradesign.github.io](https://naradesign.github.io/css-ie-not-supported.html)
 - [React 18을 준비하세요.](https://medium.com/naver-place-dev/react-18%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EC%84%B8%EC%9A%94-8603c36ddb25)
 - [[react](https://velog.io/@octo-5/react-native-web-monorepo)
