@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Low](https://velog.io/@recordsbeat/Low-Pause-Shenandoah-GC?fbclid=IwAR1heQT6jURViu28HWXRS5iHTdPU63_8t0MqoXMSQ7SVq8Yo9rTraKymMqw)
 - [Storybook을 활용하여 본격적으로 디자인 시스템 구축하기](https://velog.io/@velopert/create-your-own-design-system-with-storybook)
 - [Storybook을 이용한 React Test 환경 구축하기](https://benjaminwoojang.medium.com/storybook%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-react-test-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-65bbe6c453b5)
 - [Chromium이 발표한 RenderingNG가 무엇인가?](https://ui.toast.com/weekly-pick/ko_20210713)
