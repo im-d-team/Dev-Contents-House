@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [왜 Password hashing시 Bcrypt 가 추천되어질까?](https://velog.io/@kylexid/%EC%99%9C-bcrypt-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EC%8B%9D%EC%9D%B4-%EC%B6%94%EC%B2%9C%EB%90%98%EC%96%B4%EC%A7%88%EA%B9%8C?fbclid=IwAR0dSfmJM6_L2Om1oJkCd1N6z0423JBeoa3DNxQaKpztyrGfhrSHi2jzghU)
 - [Low](https://velog.io/@recordsbeat/Low-Pause-Shenandoah-GC?fbclid=IwAR1heQT6jURViu28HWXRS5iHTdPU63_8t0MqoXMSQ7SVq8Yo9rTraKymMqw)
 - [Storybook을 활용하여 본격적으로 디자인 시스템 구축하기](https://velog.io/@velopert/create-your-own-design-system-with-storybook)
 - [Storybook을 이용한 React Test 환경 구축하기](https://benjaminwoojang.medium.com/storybook%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-react-test-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-65bbe6c453b5)
