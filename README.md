@@ -6,6 +6,7 @@
 
 ## 📖 This Week
 - [Social Network for Programmers and Developers](https://morioh.com/p/f3ecd1d49ba3?f=5c224490c513a556c9042463)
+- [Social Network for Programmers and Developers](https://morioh.com/p/f3ecd1d49ba3?f=5c224490c513a556c9042463)
 - [NHN Cloud Meetup](https://meetup.toast.com/posts/174)
 - [왜 Password hashing시 Bcrypt 가 추천되어질까?](https://velog.io/@kylexid/%EC%99%9C-bcrypt-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EC%8B%9D%EC%9D%B4-%EC%B6%94%EC%B2%9C%EB%90%98%EC%96%B4%EC%A7%88%EA%B9%8C?fbclid=IwAR0dSfmJM6_L2Om1oJkCd1N6z0423JBeoa3DNxQaKpztyrGfhrSHi2jzghU)
 - [Low](https://velog.io/@recordsbeat/Low-Pause-Shenandoah-GC?fbclid=IwAR1heQT6jURViu28HWXRS5iHTdPU63_8t0MqoXMSQ7SVq8Yo9rTraKymMqw)
