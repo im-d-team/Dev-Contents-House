@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [맞지 않은 인연은 정리하자.](https://greypencil.tistory.com/m/154)
 - [CloudWatch 이상 지표를 슬랙 알람으로 받기 (feat. SNS, Lambda)](https://jojoldu.tistory.com/586?fbclid=IwAR3SQSnYXPy7AkCYJrqngE9pdQ_j2ZUDuSMKXQVfYqwcbWP0STy6XlfG7Qk)
 - [Social Network for Programmers and Developers](https://morioh.com/p/f3ecd1d49ba3?f=5c224490c513a556c9042463)
 - [Social Network for Programmers and Developers](https://morioh.com/p/f3ecd1d49ba3?f=5c224490c513a556c9042463)
