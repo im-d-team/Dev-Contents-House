@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [실용주의 데브옵스 for MSA – tech.kakao.com](https://tech.kakao.com/2021/07/16/devops-for-msa/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR27qMsNX36j1tcIWIfD4c8kvHOcSgS73AIswyLe0o8FvfFVqfKm6lujnLc)
 - [누가 자바스크립트를 파괴할 수 있을까?](https://pawsong.medium.com/%EB%88%84%EA%B0%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%ED%8C%8C%EA%B4%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-bf22cab6d155)
 - [맞지 않은 인연은 정리하자.](https://greypencil.tistory.com/m/154)
 - [CloudWatch 이상 지표를 슬랙 알람으로 받기 (feat. SNS, Lambda)](https://jojoldu.tistory.com/586?fbclid=IwAR3SQSnYXPy7AkCYJrqngE9pdQ_j2ZUDuSMKXQVfYqwcbWP0STy6XlfG7Qk)
