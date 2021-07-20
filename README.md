@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [우리가 부르는 시니어 개발자는 누구인가?](https://techblog.woowahan.com/2525/)
 - [Redux 어떻게 써야 잘 썼다고 소문이 날까?](https://velog.io/@velopert/using-redux-in-2021#presentational--container-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%8A%94-%EC%9D%B4%EC%A0%9C-%EA%B7%B8%EB%A7%8C)
 - [전역 상태 관리에 대한 단상 (stale](https://jbee.io/react/thinking-about-global-state/)
 - [실용주의 데브옵스 for MSA – tech.kakao.com](https://tech.kakao.com/2021/07/16/devops-for-msa/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR27qMsNX36j1tcIWIfD4c8kvHOcSgS73AIswyLe0o8FvfFVqfKm6lujnLc)
