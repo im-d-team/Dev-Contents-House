@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [코딩 잘하면 시니어가 될 수 있을까?](https://youtu.be/ikBAIDVomQ8)
 - [우리가 부르는 시니어 개발자는 누구인가?](https://techblog.woowahan.com/2525/)
 - [Redux 어떻게 써야 잘 썼다고 소문이 날까?](https://velog.io/@velopert/using-redux-in-2021#presentational--container-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%8A%94-%EC%9D%B4%EC%A0%9C-%EA%B7%B8%EB%A7%8C)
 - [전역 상태 관리에 대한 단상 (stale](https://jbee.io/react/thinking-about-global-state/)
