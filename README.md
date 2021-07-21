@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Creating an accessible autocomplete experience](https://react-spectrum.adobe.com/blog/building-a-combobox.html)
 - [5 Code Smells React Beginners Should Avoid](https://betterprogramming.pub/5-code-smells-react-beginners-should-avoid-480c97799162)
 - [코딩 잘하면 시니어가 될 수 있을까?](https://youtu.be/ikBAIDVomQ8)
 - [우리가 부르는 시니어 개발자는 누구인가?](https://techblog.woowahan.com/2525/)
