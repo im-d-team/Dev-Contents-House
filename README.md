@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [HSL이 RGB보다 좋은 점 · Issue #2 · taihoon](https://github.com/taihoon/share/issues/2)
 - [Getting Started](https://loadable-components.com/docs/getting-started/)
 - [<번역>자바스크립트의 메모리 모델](https://junwoo45.github.io/2019-11-04-memory_model/)
 - [Creating an accessible autocomplete experience](https://react-spectrum.adobe.com/blog/building-a-combobox.html)
