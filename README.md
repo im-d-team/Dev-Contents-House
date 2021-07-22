@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Getting Started](https://loadable-components.com/docs/getting-started/)
 - [<번역>자바스크립트의 메모리 모델](https://junwoo45.github.io/2019-11-04-memory_model/)
 - [Creating an accessible autocomplete experience](https://react-spectrum.adobe.com/blog/building-a-combobox.html)
 - [5 Code Smells React Beginners Should Avoid](https://betterprogramming.pub/5-code-smells-react-beginners-should-avoid-480c97799162)
