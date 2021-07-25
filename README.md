@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [](https://link.medium.com/1TporTrDaib)
 - [Bulletproof React 🛡️ ⚛️](https://github.com/alan2207/bulletproof-react?fbclid=IwAR0WqVIKPGkaAdw0XfkrExC4Mj9OKRKdF8H_rSSRV1P7yciLj5yFC_hfPOw)
 - [Headless UI Library란?](https://jbee.io/react/headless-concept/)
 - [스타트업 4년차 직장인들의 고민과 물음들](https://brunch.co.kr/@elenas/267)
