@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [오늘의집 프론트엔드는 어떻게 일하나요?](https://www.bucketplace.co.kr/post/2021-07-26-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94/)
 - [NAVER D2](https://d2.naver.com/helloworld/0881672)
 - [](https://link.medium.com/1TporTrDaib)
 - [Bulletproof React 🛡️ ⚛️](https://github.com/alan2207/bulletproof-react?fbclid=IwAR0WqVIKPGkaAdw0XfkrExC4Mj9OKRKdF8H_rSSRV1P7yciLj5yFC_hfPOw)
