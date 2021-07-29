@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [효율적인 프런트엔드 에러 핸들링](https://jbee.io/react/error-declarative-handling-0/)
 - [리액트의 조화(Reconciliation) 과정 정리](https://velog.io/@dev-mish-mash/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%EC%A1%B0%ED%99%94Reconciliation-%EA%B3%BC%EC%A0%95-%EC%A0%95%EB%A6%AC?fbclid=IwAR35PkgzlamPZXVgpzllOZAlmR6YPJCA7_5FimnMPPf_PkskUuGp5dO7Niw)
 - [How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/?fbclid=IwAR02OpvzTnkwBhDJhyCi2LKheShdGqgoy4qKQuYOQcP_bcRvkZ1BxiV2UuU)
 - [오늘의집 프론트엔드는 어떻게 일하나요?](https://www.bucketplace.co.kr/post/2021-07-26-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94/)
