@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [웹 페이지에서 컨텐츠를 빠르게 보여주기 위한 트릭](https://ui.toast.com/weekly-pick/ko_20161212)
 - [쿠키와 document.cookie](https://ko.javascript.info/cookie)
 - [Adapting to Users with Client Hints](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints#save-data)
 - [AWS에서 어떤 컨테이너 서비스를 이용해야 하나요?](https://aws.amazon.com/ko/blogs/korea/how-to-choose-aws-container-services/?fbclid=IwAR3b9P1GPmMW3STlhzOU6j4wuY_WTzvuJzrLBdPx-Au-hztEb7lhWaUiLMs)
