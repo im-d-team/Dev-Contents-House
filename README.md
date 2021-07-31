@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [쿠키와 document.cookie](https://ko.javascript.info/cookie)
 - [Adapting to Users with Client Hints](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints#save-data)
 - [AWS에서 어떤 컨테이너 서비스를 이용해야 하나요?](https://aws.amazon.com/ko/blogs/korea/how-to-choose-aws-container-services/?fbclid=IwAR3b9P1GPmMW3STlhzOU6j4wuY_WTzvuJzrLBdPx-Au-hztEb7lhWaUiLMs)
 - [효율적인 프런트엔드 에러 핸들링](https://jbee.io/react/error-declarative-handling-0/)
