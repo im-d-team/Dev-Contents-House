@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Adapting to Users with Client Hints](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints#save-data)
 - [AWS에서 어떤 컨테이너 서비스를 이용해야 하나요?](https://aws.amazon.com/ko/blogs/korea/how-to-choose-aws-container-services/?fbclid=IwAR3b9P1GPmMW3STlhzOU6j4wuY_WTzvuJzrLBdPx-Au-hztEb7lhWaUiLMs)
 - [효율적인 프런트엔드 에러 핸들링](https://jbee.io/react/error-declarative-handling-0/)
 - [리액트의 조화(Reconciliation) 과정 정리](https://velog.io/@dev-mish-mash/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%EC%A1%B0%ED%99%94Reconciliation-%EA%B3%BC%EC%A0%95-%EC%A0%95%EB%A6%AC?fbclid=IwAR35PkgzlamPZXVgpzllOZAlmR6YPJCA7_5FimnMPPf_PkskUuGp5dO7Niw)
