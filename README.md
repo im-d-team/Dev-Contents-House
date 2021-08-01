@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [브라우저에서 미디어 권한을 다루는 간단 tip](https://medium.com/watcha/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EB%AF%B8%EB%94%94%EC%96%B4-%EA%B6%8C%ED%95%9C%EC%9D%84-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EA%B0%84%EB%8B%A8-tip-ee9e42ce9cb1)
 - [Yarn 3.0 🚀🤖 Performances, ESBuild, Better Patches, ...](https://dev.to/arcanis/yarn-3-0-performances-esbuild-better-patches-e07?fbclid=IwAR2mXzTTU-Gv2ZDMKJieYG2zPCAJClUabmW9RQmkP7lrUx_bvXHJ2s6ou8I)
 - [useCancelToken: a custom React hook for cancelling Axios requests](https://dev.to/tmns/usecanceltoken-a-custom-react-hook-for-cancelling-axios-requests-1ia4)
 - [웹 페이지에서 컨텐츠를 빠르게 보여주기 위한 트릭](https://ui.toast.com/weekly-pick/ko_20161212)
