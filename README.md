@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [NAVER D2](https://d2.naver.com/helloworld/0473330)
 - [Electron을 대체할 Desktop App개발『Tauri』](https://webdoli.tistory.com/307)
 - [객체지향 생활체조](https://log.hodol.dev/typescript/oop?fbclid=IwAR2upxFW2DIgWWpue9c9A6APZmcUklY2xj5oMJaoMmZw-_NHiSSq8syAMQw)
 - [14년째 Google에서 한국인 개발자로 활약 중이신 이진환 선배님 인터뷰(INTERVIEW)](https://cookiethecat2020.blogspot.com/2021/07/14-google-interview.html?spref=fb&fbclid=IwAR2ICkXT-FTL9dYgTEzV5LP_XSd-x7qrNYojBUnIxx-oIVpMjFW1im5YdLM&m=1)
