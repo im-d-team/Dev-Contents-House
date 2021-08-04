@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [배달의민족 CEO에게 뽑고 싶은 개발자를 물어보았다](https://youtu.be/3H4umWD5bwI)
 - [습관이 되는 주니어의 25가지 실수](https://brunch.co.kr/@vigorous21/871?fbclid=IwAR2e2WsImrjWqIhYtAlh0PMpqQw7VY6engnl7mdaOxxwqQtXfecVGAI9Ezc)
 - [웹 성능 최적화 SSR + Cache 적용기](https://medium.com/wantedjobs/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-ssr-cache-%EC%A0%81%EC%9A%A9%EA%B8%B0-bf022e3a1a72)
 - [오늘의집 프론트엔드는 어떻게 일하나요?](https://www.bucketplace.co.kr/post/2021-07-26-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94/?fbclid=IwAR0EE6n0xpBlq0BHKfxDLTKEtBB0iodaNZOv9kPhLmiSOYC1axZvz7UhgiU)
