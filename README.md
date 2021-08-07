@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- ["컨테이너 혁명을 주도하는" 도커의 의미와 장단점](https://www.itworld.co.kr/news/203644?fbclid=IwAR0kPzVO7nzxw4uINRJPdoSlu3aS728uiDoMIjndBAzAXc9oWEJi0upjb1A)
 - [회사에서 원하는 개발자에 대한 생각](https://yozm.wishket.com/magazine/detail/906/?fbclid=IwAR0Zh0eqU1rS7pA1wAWSyKjVZhy5lLsqhoVmpj1tiPmj5oud9f82X4f2pfc)
 - [배달의민족 CEO에게 뽑고 싶은 개발자를 물어보았다](https://youtu.be/3H4umWD5bwI)
 - [배달의민족 CEO에게 뽑고 싶은 개발자를 물어보았다](https://youtu.be/3H4umWD5bwI)
