@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[번역] 나만의 npm 저장소 만들기, Verdaccio](https://www.devh.kr/2020/Host-Publish-and-Manage-Private-npm-Packages-with/)
 - [[NPM] Make Private NPM Registry with sinopia](https://sanghaklee.tistory.com/55)
 - [: 마이구미 :: 마이구미의 HelloWorld](https://mygumi.tistory.com/371)
 - ["컨테이너 혁명을 주도하는" 도커의 의미와 장단점](https://www.itworld.co.kr/news/203644?fbclid=IwAR0kPzVO7nzxw4uINRJPdoSlu3aS728uiDoMIjndBAzAXc9oWEJi0upjb1A)
