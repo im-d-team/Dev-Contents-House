@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [회사 매각 경험한 개발자들이 또 다시 스타트업 하는 이유](https://youtu.be/iofxe_NmOQ8)
 - [StatusBar 다루기](https://dev-yakuza.posstree.com/ko/react-native/react-native-status-bar/)
 - [StatusBar 다루기](https://dev-yakuza.posstree.com/ko/react-native/react-native-status-bar/)
 - [[번역] 나만의 npm 저장소 만들기, Verdaccio](https://www.devh.kr/2020/Host-Publish-and-Manage-Private-npm-Packages-with/)
