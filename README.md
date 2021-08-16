@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Securing React Native Application](https://www.kpiteng.com/blogs/securing-react-native-application/?fbclid=IwAR2q0MsWwZwCBeqnt5wv3c9M_1aH3lhMZqB5dSOgUfvMUqhrj7FTTRcJhg0)
 - [Microfrontends With React](https://www.kpiteng.com/blogs/microfrontends-with-react/?fbclid=IwAR1RpmrXsjrsM0AELjvcElmRqo5EHfF8QrH5FNWQ2gOKSjKKKqzQV_S4NEw)
 - [swc](https://swc.rs/?fbclid=IwAR2bew4xIGqXTS104Pr2jD5pv7ZZIiDOSlySyeaE2NY9hS0GDmoh1xb-kIM)
 - [회사 매각 경험한 개발자들이 또 다시 스타트업 하는 이유](https://youtu.be/iofxe_NmOQ8)
