@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/)
 - [Securing React Native Application](https://www.kpiteng.com/blogs/securing-react-native-application/?fbclid=IwAR2q0MsWwZwCBeqnt5wv3c9M_1aH3lhMZqB5dSOgUfvMUqhrj7FTTRcJhg0)
 - [Microfrontends With React](https://www.kpiteng.com/blogs/microfrontends-with-react/?fbclid=IwAR1RpmrXsjrsM0AELjvcElmRqo5EHfF8QrH5FNWQ2gOKSjKKKqzQV_S4NEw)
 - [swc](https://swc.rs/?fbclid=IwAR2bew4xIGqXTS104Pr2jD5pv7ZZIiDOSlySyeaE2NY9hS0GDmoh1xb-kIM)
