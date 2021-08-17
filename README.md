@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [WebRTC 미디어 연결 방식 (MCU, SFU, P2P)](https://6987.tistory.com/m/entry/WebRTC-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%97%B0%EA%B2%B0-%EB%B0%A9%EC%8B%9D-MCU-SFU-P2P?fbclid=IwAR05c-SG0kbTMFZEdVI_4lpFWceNATFGcVDivfc0dgRbrYraC4tnCGQRt_E)
 - [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/)
 - [Securing React Native Application](https://www.kpiteng.com/blogs/securing-react-native-application/?fbclid=IwAR2q0MsWwZwCBeqnt5wv3c9M_1aH3lhMZqB5dSOgUfvMUqhrj7FTTRcJhg0)
 - [Microfrontends With React](https://www.kpiteng.com/blogs/microfrontends-with-react/?fbclid=IwAR1RpmrXsjrsM0AELjvcElmRqo5EHfF8QrH5FNWQ2gOKSjKKKqzQV_S4NEw)
