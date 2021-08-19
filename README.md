@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [LINE에서 테스트를 최적화하는 방법](https://engineering.linecorp.com/ko/blog/testing-optimization/)
 - [개발자가 지양해야 할 공부법](https://pronist.tistory.com/83?category=929752)
 - [WebRTC 미디어 연결 방식 (MCU, SFU, P2P)](https://6987.tistory.com/m/entry/WebRTC-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%97%B0%EA%B2%B0-%EB%B0%A9%EC%8B%9D-MCU-SFU-P2P?fbclid=IwAR05c-SG0kbTMFZEdVI_4lpFWceNATFGcVDivfc0dgRbrYraC4tnCGQRt_E)
 - [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/)
