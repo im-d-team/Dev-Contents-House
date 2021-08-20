@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [도커는 무엇으로 어떻게 구성되어 있을까?](https://medium.com/@cloudacode/%EB%8F%84%EC%BB%A4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9C%BC%EB%A1%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%EC%84%B1%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84%EA%B9%8C-1b2a52ca8d1c)
 - [http와 https가 어떤 차이가 있는지 간단하게 실습해 봅시다.](https://codingdog.tistory.com/entry/http%EC%99%80-https%EA%B0%80-%EC%96%B4%EB%96%A4-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EC%9E%88%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%8B%A4%EC%8A%B5%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 - [LINE에서 테스트를 최적화하는 방법](https://engineering.linecorp.com/ko/blog/testing-optimization/)
 - [개발자가 지양해야 할 공부법](https://pronist.tistory.com/83?category=929752)
