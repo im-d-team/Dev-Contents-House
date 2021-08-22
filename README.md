@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [TypeScript 4.4: The Good, The Bad and The Not So Bad](https://medium.com/stackanatomy/typescript-4-4-the-good-the-bad-and-the-not-so-bad-29a4dfe4d2a1)
 - [React Virtual Dom and Memo on Performance](https://medium.com/nerd-for-tech/react-virtual-dom-and-memo-hooks-on-performance-8b9498d7b3e1)
 - [stopPropagation vs stopImmediatePropagation 제대로 이해하기](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/stoppropagation-vs-stopimmediatepropagation-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-75edaaed7841)
 - [Rush로 프론트엔드 모노레포 도입기](https://medium.com/mildang/rush%EB%A1%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%EB%8F%84%EC%9E%85%EA%B8%B0-5da0c5bc9b30)
