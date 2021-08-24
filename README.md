@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [회복 탄력성 높은 프론트엔드 아키텍처 — 모니카 렌트, GOTO 2019](https://medium.com/tech-confs-in-korean/%ED%9A%8C%EB%B3%B5-%ED%83%84%EB%A0%A5%EC%84%B1-%EB%86%92%EC%9D%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%AA%A8%EB%8B%88%EC%B9%B4-%EB%A0%8C%ED%8A%B8-goto-2019-947f7507f1bb)
 - [TypeScript 4.4: The Good, The Bad and The Not So Bad](https://medium.com/stackanatomy/typescript-4-4-the-good-the-bad-and-the-not-so-bad-29a4dfe4d2a1)
 - [React Virtual Dom and Memo on Performance](https://medium.com/nerd-for-tech/react-virtual-dom-and-memo-hooks-on-performance-8b9498d7b3e1)
 - [stopPropagation vs stopImmediatePropagation 제대로 이해하기](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/stoppropagation-vs-stopimmediatepropagation-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-75edaaed7841)
