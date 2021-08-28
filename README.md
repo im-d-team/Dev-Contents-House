@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Stop Using Atomic Design Pattern](https://jbee.io/react/stop-using-atomic-design/)
 - [프론트엔드 개발자에게 가장 중요한 역량은?](https://blog.toss.im/article/toss-frontend-chapter)
 - [세 달 간의 오늘의집 개발자 온보딩 과정을 돌아보다](https://www.bucketplace.co.kr/post/2021-08-11-%EC%84%B8-%EB%8B%AC-%EA%B0%84%EC%9D%98-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B3%BC%EC%A0%95%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8B%A4/?fbclid=IwAR2u5gLUBCS7TD_ztOF2wyOHvQHAg1oaHNz--mX6W6hNoGHJFz-kgM0ZUTo)
 - [Systemizer](https://honzaap.github.io/Systemizer/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR3xw3Zuy65Z51LvvnnUljvHSsCLugy4mWje2vXn6ycibSrcfIkgQBLqjPY)
