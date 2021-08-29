@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Micro Frontends 번역글 1/5](https://medium.com/@juyeon.kate/micro-frontends-%EB%B2%88%EC%97%AD%EA%B8%80-1-5-29c80baf5df)
 - [1 대결에서 이겼다.](https://ui.toast.com/weekly-pick/ko_20200908)
 - [Stop Using Atomic Design Pattern](https://jbee.io/react/stop-using-atomic-design/)
 - [프론트엔드 개발자에게 가장 중요한 역량은?](https://blog.toss.im/article/toss-frontend-chapter)
