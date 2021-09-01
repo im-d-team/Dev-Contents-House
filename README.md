@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Pre-Caching Images with React Suspense](https://css-tricks.com/pre-caching-image-with-react-suspense/)
 - [오늘 또 잘못 커밋해 버리고 말았다...](https://www.hamadevelop.me/gitCommonMistakes/?fbclid=IwAR1AEF2P4Ln_AoseaI7LdpeSm5a6Tnrmc1nHbASEOLwTJuM4a6O81fxTKMo)
 - [Nx와 Yarn Workspaces](https://imch.dev/posts/monorepo-digging-nx-yarn-workspaces/)
 - [Micro Frontends 번역글 1/5](https://medium.com/@juyeon.kate/micro-frontends-%EB%B2%88%EC%97%AD%EA%B8%80-1-5-29c80baf5df)
