@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Version 6 (Development branch)](https://github.com/verdaccio/verdaccio)
 - [개발 실력을 위한 IT기업 기술 블로그 45곳 모음](https://brunch.co.kr/@sicle-official/35?fbclid=IwAR1kEpidpWa15WhfH3eMRzp5TD_vPq-s2xcuFZ4UAkR8s877Y5YHFwjyJf8)
 - [Incremental DOM과 Virtual DOM 비교](https://ui.toast.com/weekly-pick/ko_20210819?fbclid=IwAR3KyJjE1UdT99S99XYvfCcXzUf5Tg7MBVCkqd85RWga7WP9HH0OxxOdZtQ)
 - [Pre-Caching Images with React Suspense](https://css-tricks.com/pre-caching-image-with-react-suspense/)
