@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [이모티콘 서비스는 왜 MSA를 선택했나? – tech.kakao.com](https://tech.kakao.com/2021/09/14/msa/)
 - [Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 - [App Distribution(앱 배포)](https://snyung.com/content/2021-08-22--IOS-Signing(%EC%9D%B8%EC%A6%9D%EC%84%9C)-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [Version 6 (Development branch)](https://github.com/verdaccio/verdaccio)
