@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [How to Build a Monorepo with Nx, Next.js and TypeScript](https://www.sitepoint.com/monorepo-nx-next-typescript/)
 - [[Micro Frontend] 마이크로 프론트앤드](https://mobicon.tistory.com/m/572)
 - [이모티콘 서비스는 왜 MSA를 선택했나? – tech.kakao.com](https://tech.kakao.com/2021/09/14/msa/)
 - [Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
