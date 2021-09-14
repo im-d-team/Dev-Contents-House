@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 - [App Distribution(앱 배포)](https://snyung.com/content/2021-08-22--IOS-Signing(%EC%9D%B8%EC%A6%9D%EC%84%9C)-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [Version 6 (Development branch)](https://github.com/verdaccio/verdaccio)
 - [개발 실력을 위한 IT기업 기술 블로그 45곳 모음](https://brunch.co.kr/@sicle-official/35?fbclid=IwAR1kEpidpWa15WhfH3eMRzp5TD_vPq-s2xcuFZ4UAkR8s877Y5YHFwjyJf8)
