@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Notion – The all](https://javascript-korea.notion.site/FE-Workflow-f2a956ea6a8d4bfbbd2b0451471545c5)
 - [도메인 주도 개발 전환 이야기](https://spoqa.github.io/2021/09/13/domain-driven-development-transition-story.html)
 - [How to Build a Monorepo with Nx, Next.js and TypeScript](https://www.sitepoint.com/monorepo-nx-next-typescript/)
 - [[Micro Frontend] 마이크로 프론트앤드](https://mobicon.tistory.com/m/572)
