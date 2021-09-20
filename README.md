@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Amplify Console에 monorepo를 연결해서 웹호스팅 할 때의 주의사항](http://blog.hwahae.co.kr/all/tech/tech-tech/5637/)
 - [: Deploy a Server](https://deploy-server-side-rendered-app-on-amplify.workshop.aws/ko/introduction.html)
 - [Notion – The all](https://javascript-korea.notion.site/FE-Workflow-f2a956ea6a8d4bfbbd2b0451471545c5)
 - [도메인 주도 개발 전환 이야기](https://spoqa.github.io/2021/09/13/domain-driven-development-transition-story.html)
