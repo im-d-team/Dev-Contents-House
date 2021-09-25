@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Introducing Gatsby 4](https://v4.gatsbyjs.com/gatsby-4)
 - [Create a new empty Nx Workspace](https://egghead.io/lessons/javascript-create-a-new-empty-nx-workspace)
 - [또 컴포넌트가 지멋대로 리렌더링 된다.](https://www.hamadevelop.me/rerender/?fbclid=IwAR2RsXMe4Ewso8co9ZJRYcb4Yq-V-OP8boLtUC_MEVFD_B2Y0Md7q-hPPww)
 - [Amplify Console에 monorepo를 연결해서 웹호스팅 할 때의 주의사항](http://blog.hwahae.co.kr/all/tech/tech-tech/5637/)
