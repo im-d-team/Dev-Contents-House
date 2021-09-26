@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [What's new in React 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18?fbclid=IwAR3MKr9wlMILOO7-ne1OowoUwwPYN1aKo3fiS5h1n6uPN7lBFU6sk1AhZ20)
 - [웹과 리액트 꼼꼼히 다시 배우기 #1 Element, Document, Dom tree, DOM](https://velog.io/@jakeseo_me/%EC%9B%B9%EA%B3%BC-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%BC%BC%EA%BC%BC%ED%9E%88-%EB%8B%A4%EC%8B%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0-1-Element-Document-Dom-tree-DOM)
 - [웹과 리액트 꼼꼼히 다시 배우기 #1 Element, Document, Dom tree, DOM](https://velog.io/@jakeseo_me/%EC%9B%B9%EA%B3%BC-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%BC%BC%EA%BC%BC%ED%9E%88-%EB%8B%A4%EC%8B%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0-1-Element-Document-Dom-tree-DOM)
 - [Introducing Gatsby 4](https://v4.gatsbyjs.com/gatsby-4)
