@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [웹과 리액트 꼼꼼히 다시 배우기 #1 Element, Document, Dom tree, DOM](https://velog.io/@jakeseo_me/%EC%9B%B9%EA%B3%BC-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%BC%BC%EA%BC%BC%ED%9E%88-%EB%8B%A4%EC%8B%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0-1-Element-Document-Dom-tree-DOM)
 - [Introducing Gatsby 4](https://v4.gatsbyjs.com/gatsby-4)
 - [Create a new empty Nx Workspace](https://egghead.io/lessons/javascript-create-a-new-empty-nx-workspace)
 - [또 컴포넌트가 지멋대로 리렌더링 된다.](https://www.hamadevelop.me/rerender/?fbclid=IwAR2RsXMe4Ewso8co9ZJRYcb4Yq-V-OP8boLtUC_MEVFD_B2Y0Md7q-hPPww)
