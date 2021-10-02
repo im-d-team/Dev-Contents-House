@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [What's new in React 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18)
 - [API Architectural Styles](https://devaraj-durairaj.medium.com/api-architectural-styles-c16237d981ec)
 - [변경에 유연한 컴포넌트](https://jbee.io/web/components-should-be-flexible/?fbclid=IwAR29EctmKZebh4L3k7m5VqDEhFSoVH14rxKbcKB2S4yolBNclvGckaNV14I)
 - [What's new in React 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18?fbclid=IwAR3MKr9wlMILOO7-ne1OowoUwwPYN1aKo3fiS5h1n6uPN7lBFU6sk1AhZ20)
