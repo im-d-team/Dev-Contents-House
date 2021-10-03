@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [React Error Handling and Logging Best Practices](https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666)
 - [What's new in React 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18)
 - [API Architectural Styles](https://devaraj-durairaj.medium.com/api-architectural-styles-c16237d981ec)
 - [변경에 유연한 컴포넌트](https://jbee.io/web/components-should-be-flexible/?fbclid=IwAR29EctmKZebh4L3k7m5VqDEhFSoVH14rxKbcKB2S4yolBNclvGckaNV14I)
