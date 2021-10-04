@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Recoil](https://ui.toast.com/weekly-pick/ko_20200616)
 - [React Error Handling and Logging Best Practices](https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666)
 - [What's new in React 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18)
 - [API Architectural Styles](https://devaraj-durairaj.medium.com/api-architectural-styles-c16237d981ec)
