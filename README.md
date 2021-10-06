@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Faster React Apps With Memoization](https://blog.px.dev/ui-performance/)
 - [: 시행착오를 줄이는 방법](https://dataportal.kr/14)
 - [Recoil](https://ui.toast.com/weekly-pick/ko_20200616)
 - [React Error Handling and Logging Best Practices](https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666)
