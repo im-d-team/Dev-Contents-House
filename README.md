@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Nextjs 11 릴리즈 노트 살펴보고 블로그에 적용하기](https://yceffort.kr/2021/06/nextjs-11#%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)
 - [When to useCallback and useMemo](https://medium.com/@omar.hsouna/usecallback-vs-usememo-hooks-in-react-cb410bb24019)
 - [Faster React Apps With Memoization](https://blog.px.dev/ui-performance/)
 - [: 시행착오를 줄이는 방법](https://dataportal.kr/14)
