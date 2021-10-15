@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까?](https://wormwlrm.github.io/2021/10/11/Why-User-Agent-string-is-so-complex.html)
 - [FEConf 2021](https://2021.feconf.kr/)
 - [Sentry로 사내 에러 로그 수집 시스템 구축하기](https://engineering.linecorp.com/ko/blog/log-collection-system-sentry-on-premise/?fbclid=IwAR1H-JimG1Lg3rkhgiQGwSTANrW0K6kkRetE0oPK5LTtD4lQRHRAYkIXyzw)
 - [Nextjs 11 릴리즈 노트 살펴보고 블로그에 적용하기](https://yceffort.kr/2021/06/nextjs-11#%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)
