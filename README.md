@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [NAVER D2](https://d2.naver.com/news/0568192)
 - [Three.js Fundamentals](https://threejsfundamentals.org/)
 - [브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까?](https://wormwlrm.github.io/2021/10/11/Why-User-Agent-string-is-so-complex.html)
 - [FEConf 2021](https://2021.feconf.kr/)
