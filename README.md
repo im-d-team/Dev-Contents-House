@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [NAVER D2](https://d2.naver.com/news/0568192)
 - [Next.js Automatic Image Optimization with next/image Component](https://medium.com/habilelabs/next-js-automatic-image-optimization-with-next-image-component-a7b420eea7c6)
 - [NAVER D2](https://d2.naver.com/news/0568192)
 - [Three.js Fundamentals](https://threejsfundamentals.org/)
