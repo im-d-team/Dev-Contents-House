@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Github Action 을 cli 로 manual 하게 호출하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163430&fbclid=IwAR383FSS7i6yex2FbsK1e5GNRAnZMiBNv_xQlN2hO6M8P3-v0qjVr3EwNq8)
 - [if(kakao) 2021](https://if.kakao.com/)
 - [NAVER D2](https://d2.naver.com/news/0568192)
 - [Next.js Automatic Image Optimization with next/image Component](https://medium.com/habilelabs/next-js-automatic-image-optimization-with-next-image-component-a7b420eea7c6)
