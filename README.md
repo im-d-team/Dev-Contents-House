@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [DEVIEW 2021](https://deview.kr/2021)
 - [Github Action 을 cli 로 manual 하게 호출하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163430&fbclid=IwAR383FSS7i6yex2FbsK1e5GNRAnZMiBNv_xQlN2hO6M8P3-v0qjVr3EwNq8)
 - [if(kakao) 2021](https://if.kakao.com/)
 - [NAVER D2](https://d2.naver.com/news/0568192)
