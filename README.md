@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [사례별로 알아본 안전한 S3 사용 가이드](https://techblog.woowahan.com/6217/?fbclid=IwAR2tCGXUR6j64JIPTfOWNcZoIwTAMK17_sMJJDC6lxEy31ONg8KZibVYmpk)
 - [react-philosophies](https://github.com/mithi/react-philosophies)
 - [DEVIEW 2021](https://deview.kr/2021)
 - [Github Action 을 cli 로 manual 하게 호출하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163430&fbclid=IwAR383FSS7i6yex2FbsK1e5GNRAnZMiBNv_xQlN2hO6M8P3-v0qjVr3EwNq8)
