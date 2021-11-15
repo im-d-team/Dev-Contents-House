@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [next.js getInitialProps 사용법](https://kyounghwan01.github.io/blog/React/next/getInitialProps/)
 - [Attention Required!](https://webera.blog/implement-refresh-token-with-jwt-in-react-app-using-axios-1910087c3d7)
 - [타입 표명(Type Assertion)](https://radlohead.gitbook.io/typescript-deep-dive/type-system/type-assertion)
 - [사례별로 알아본 안전한 S3 사용 가이드](https://techblog.woowahan.com/6217/?fbclid=IwAR2tCGXUR6j64JIPTfOWNcZoIwTAMK17_sMJJDC6lxEy31ONg8KZibVYmpk)
