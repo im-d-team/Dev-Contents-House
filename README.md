@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Attention Required!](https://levelup.gitconnected.com/micro-frontend-architecture-dynamic-import-chunks-from-another-webpack-bundle-at-runtime-1132d8cb6051)
 - [next.js getInitialProps 사용법](https://kyounghwan01.github.io/blog/React/next/getInitialProps/)
 - [Attention Required!](https://webera.blog/implement-refresh-token-with-jwt-in-react-app-using-axios-1910087c3d7)
 - [타입 표명(Type Assertion)](https://radlohead.gitbook.io/typescript-deep-dive/type-system/type-assertion)
