@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Attention Required!](https://medium.com/@i_am_root/pull-to-refresh-%EC%A7%81%EC%A0%91-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90-4253b3ff8bac)
 - [PWA(Progressive Web Apps) Manifest 만들기](https://ux.stories.pe.kr/225)
 - [Attention Required!](https://betterprogramming.pub/whats-new-in-typescript-4-5-57d6b88b1e72)
 - [Attention Required!](https://levelup.gitconnected.com/micro-frontend-architecture-dynamic-import-chunks-from-another-webpack-bundle-at-runtime-1132d8cb6051)
