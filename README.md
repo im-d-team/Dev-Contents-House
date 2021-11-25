@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [](https://link.medium.com/Aop8fyvxslb)
 - [Webpack 5](https://github.com/nrwl/nx/issues/3116)
 - [Attention Required!](https://medium.com/@i_am_root/pull-to-refresh-%EC%A7%81%EC%A0%91-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90-4253b3ff8bac)
 - [PWA(Progressive Web Apps) Manifest 만들기](https://ux.stories.pe.kr/225)
