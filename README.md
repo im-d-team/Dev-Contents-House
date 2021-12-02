@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Attention Required!](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
 - [Helm 시작하기 - 1편. helm이란?](https://malwareanalysis.tistory.com/193?category=1060965&fbclid=IwAR0SrEbsx66Ze6t97yArO0-iLW11bBpZGybL0p4i_SeGBc9QJZ2ylmtZ5lI)
 - [](https://link.medium.com/Aop8fyvxslb)
 - [Webpack 5](https://github.com/nrwl/nx/issues/3116)
