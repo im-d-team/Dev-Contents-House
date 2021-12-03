@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [프론트엔드와 THE TWELVE-FACTOR APP](https://fe-developers.kakaoent.com/2021/211125-create-12factor-app-with-nextjs/?fbclid=IwAR2lx378a3SrWwagc65hEz5CzR34D4ktw9WwGIjjJm_LxGILma3lKMnLbXM)
 - [Attention Required!](https://betterprogramming.pub/headless-ui-components-a-journey-with-high-order-components-render-props-and-custom-hooks-811c9677b4cf)
 - [Attention Required!](https://blog.bitsrc.io/react-with-typescript-cheatsheet-9dd891dc5bfe)
 - [Helm 시작하기 - 1편. helm이란?](https://malwareanalysis.tistory.com/193?category=1060965&fbclid=IwAR0SrEbsx66Ze6t97yArO0-iLW11bBpZGybL0p4i_SeGBc9QJZ2ylmtZ5lI)
