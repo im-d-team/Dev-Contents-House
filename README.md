@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Techie to tech lead: My five biggest mistakes](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html?fbclid=IwAR297c6bAIfzedYtKClwapmE0u9uiW4hH8rwtobTGx4Msq8fFLdqC-gl9bc)
 - [NHN Cloud Meetup](https://meetup.toast.com/posts/297?fbclid=IwAR1D-7XCkfkG2ylcL2iKmdqP8m9RE6rpOzu_g2_og3OjeIW36LFv7E6WlbU)
 - [프론트엔드와 THE TWELVE-FACTOR APP](https://fe-developers.kakaoent.com/2021/211125-create-12factor-app-with-nextjs/?fbclid=IwAR2lx378a3SrWwagc65hEz5CzR34D4ktw9WwGIjjJm_LxGILma3lKMnLbXM)
 - [Attention Required!](https://betterprogramming.pub/headless-ui-components-a-journey-with-high-order-components-render-props-and-custom-hooks-811c9677b4cf)
