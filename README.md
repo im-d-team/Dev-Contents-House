@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Attention Required!](https://betterprogramming.pub/5-dev-tools-to-look-out-for-in-2022-713f94c0f3cf)
 - [Podman, Buildah, Skopeo를 활용하여 Docker CLI 대체하기](https://waspro.tistory.com/679)
 - [podman 소개 및 설치](https://www.lesstif.com/container/podman-98926748.html)
 - [Techie to tech lead: My five biggest mistakes](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html?fbclid=IwAR297c6bAIfzedYtKClwapmE0u9uiW4hH8rwtobTGx4Msq8fFLdqC-gl9bc)
