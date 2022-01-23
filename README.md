@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [그림으로 쉽게 보는 HTTP 변천사](https://brunch.co.kr/@swimjiy/39)
 - [Just a moment...](https://medium.com/monday-9-pm/%EC%B4%88%EB%B3%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-url-shortener-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%8E%B8-base62%EC%99%80-%EC%B6%A4%EC%9D%84-9acc226fb7eb)
 - [React Proto](https://react-proto.github.io/react-proto/)
 - [JavaScript 번들러로 본 조선시대 붕당의 이해](https://yozm.wishket.com/magazine/detail/1261/?fbclid=IwAR1bGAfDQCkr0CwsFeogHef8bhPfDVZ9RYHQebym1NwyyyqoaZ7vkeUFGR8)
