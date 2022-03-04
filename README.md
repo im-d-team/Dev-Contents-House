@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[Experiment] X](https://sg-choi.tistory.com/540)
 - [고루틴의 동작 원리에 관하여](https://ykarma1996.tistory.com/188?fbclid=IwAR13PYnkee-9krtLNiLtKIX4CunJwZ3aQsQM6AGQOIQckTrkPQOHwhvmi54)
 - [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
 - [WebVM](https://webvm.io)
