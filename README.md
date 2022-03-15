@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Just a moment...](https://medium.com/daangn/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-mini-memcached-%EA%B0%9C%EB%B0%9C%EA%B8%B0-732bf2bb9e)
 - [Wallaby](https://wallabyjs.com/?utm_source=cooperpress&utm_medium=javascript&utm_content=javascript)
 - [TRACKIT에서 딥링크를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-deeplink-in-trackit/)
 - [[Experiment] X](https://sg-choi.tistory.com/540)
