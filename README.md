@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [쏘카 QA는 무슨 일을 하고 어떻게 일하나요?](https://tech.socarcorp.kr/qa/2022/03/18/probationary-period_QA.html)
 - [Just a moment...](https://pfdev.medium.com/%EC%82%AC%EB%A7%9D%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EC%82%B4%EB%A6%AC%EA%B8%B0-6f2d22a53242)
 - [Just a moment...](https://medium.com/daangn/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-mini-memcached-%EA%B0%9C%EB%B0%9C%EA%B8%B0-732bf2bb9e)
 - [Wallaby](https://wallabyjs.com/?utm_source=cooperpress&utm_medium=javascript&utm_content=javascript)
