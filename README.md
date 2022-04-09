@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [readme.so](https://readme.so/)
 - [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
 - [쏘카 QA는 무슨 일을 하고 어떻게 일하나요?](https://tech.socarcorp.kr/qa/2022/03/18/probationary-period_QA.html)
 - [쏘카 QA는 무슨 일을 하고 어떻게 일하나요?](https://tech.socarcorp.kr/qa/2022/03/18/probationary-period_QA.html)
