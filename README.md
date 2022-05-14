@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [개발자의 AWS 권한을 GitOps로 우아하게 관리하는 방법](https://hyperconnect.github.io/2022/05/12/aws-permission-management-using-gitops.html?fbclid=IwAR0FvxlBpZHIhA7ZwqOx4NEP0gPDQI4iQiE9nFKZZQ06C_G6LnFPfXwtZ6I)
 - [readme.so](https://readme.so/)
 - [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
 - [쏘카 QA는 무슨 일을 하고 어떻게 일하나요?](https://tech.socarcorp.kr/qa/2022/03/18/probationary-period_QA.html)
