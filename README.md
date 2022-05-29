@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Just a moment...](https://medium.com/ne-digital/how-to-reduce-next-js-bundle-size-68f7ac70c375)
 - [How to easily reduce your NextJS bundle size by 30%?](https://www.flavienbonvin.com/reduce-next-js-bundle/)
 - [Largest Contentful Paint(최대 콘텐츠풀 페인트, LCP)](https://web.dev/i18n/ko/lcp/)
 - [Largest Contentful Paint(최대 콘텐츠풀 페인트, LCP)](https://web.dev/i18n/ko/lcp/)
