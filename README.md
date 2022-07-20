@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [💻📖 hacker-laws](https://github.com/codeanddonuts/hacker-laws-kr)
 - [STYLIS](https://github.com/thysultan/stylis)
 - [Functional Reactive Programming](https://jw910911.tistory.com/m/22)
 - [History API는 가라! 이제는 Navigation API의 시대가 온다](https://wormwlrm.github.io/2022/06/20/Navigation-API.html?fs=e&s=cl&fbclid=IwAR3Qw7GbE878tewPJs3m8qUYWi1vmEnMT__znjHbFGNrXSdPqvhMhilDVkU)
