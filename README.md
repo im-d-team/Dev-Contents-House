@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [: victolee](https://victorydntmd.tistory.com/335)
 - [💻📖 hacker-laws](https://github.com/codeanddonuts/hacker-laws-kr)
 - [STYLIS](https://github.com/thysultan/stylis)
 - [Functional Reactive Programming](https://jw910911.tistory.com/m/22)
