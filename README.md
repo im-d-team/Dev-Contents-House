@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Just a moment...](https://frontend-digest.com/progressively-loading-images-in-react-107cb075417a)
 - [: victolee](https://victorydntmd.tistory.com/335)
 - [💻📖 hacker-laws](https://github.com/codeanddonuts/hacker-laws-kr)
 - [STYLIS](https://github.com/thysultan/stylis)
