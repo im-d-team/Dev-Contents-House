@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [ngrok](https://ngrok.com/)
 - [디자인 패턴들](https://refactoring.guru/ko/design-patterns)
 - [Just a moment...](https://frontend-digest.com/progressively-loading-images-in-react-107cb075417a)
 - [: victolee](https://victorydntmd.tistory.com/335)
