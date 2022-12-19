@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [EVENT【1/25（水）】AWSへのシステム移行、成功のポイント](https://dev.classmethod.jp/articles/build-multiple-services-with-terraform-01/)
 - [Just a moment...](https://blog.bitsrc.io/react-beautiful-conditional-rendering-with-renderwhen-d8e4d5d962a2)
 - [ngrok](https://ngrok.com/)
 - [디자인 패턴들](https://refactoring.guru/ko/design-patterns)
