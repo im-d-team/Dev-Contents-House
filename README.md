@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Chrome](https://gist.github.com/felquis/a08ee196747f71689dcb)
 - [테라폼(Terraform) 기초 튜토리얼 AWS와 테라폼으로 구현하는 Infrastructure as Code](https://www.44bits.io/ko/post/terraform_introduction_infrastrucute_as_code)
 - [EVENT【1/25（水）】AWSへのシステム移行、成功のポイント](https://dev.classmethod.jp/articles/build-multiple-services-with-terraform-01/)
 - [Just a moment...](https://blog.bitsrc.io/react-beautiful-conditional-rendering-with-renderwhen-d8e4d5d962a2)
