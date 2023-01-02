@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [: Terraform & AWS 101](https://terraform101.inflearn.devopsart.dev/intro/)
 - [Chrome](https://gist.github.com/felquis/a08ee196747f71689dcb)
 - [테라폼(Terraform) 기초 튜토리얼 AWS와 테라폼으로 구현하는 Infrastructure as Code](https://www.44bits.io/ko/post/terraform_introduction_infrastrucute_as_code)
 - [EVENT【1/25（水）】AWSへのシステム移行、成功のポイント](https://dev.classmethod.jp/articles/build-multiple-services-with-terraform-01/)
