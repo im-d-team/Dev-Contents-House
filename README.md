@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Trust is good, observation is better: Intersection Observer v2](https://web.dev/intersectionobserver-v2/)
 - [tRPC](https://trpc.io/)
 - [: Terraform & AWS 101](https://terraform101.inflearn.devopsart.dev/intro/)
 - [Chrome](https://gist.github.com/felquis/a08ee196747f71689dcb)
