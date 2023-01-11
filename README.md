@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Promise는 왜 취소가 안 될까?](https://tech.kakao.com/2023/01/11/promise-cancelation-in-javascript/)
 - [Trust is good, observation is better: Intersection Observer v2](https://web.dev/intersectionobserver-v2/)
 - [tRPC](https://trpc.io/)
 - [: Terraform & AWS 101](https://terraform101.inflearn.devopsart.dev/intro/)
