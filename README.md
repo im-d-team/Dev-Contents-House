@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [CS50x 2023](https://cs50.harvard.edu/x/2023/?fbclid=IwAR0w0kaspkYrfzhEDrqXa39QVfSfboGhgpOsGMcIGWRenzy1uLG9W4Q3Di4)
 - [Promise는 왜 취소가 안 될까?](https://tech.kakao.com/2023/01/11/promise-cancelation-in-javascript/)
 - [Trust is good, observation is better: Intersection Observer v2](https://web.dev/intersectionobserver-v2/)
 - [tRPC](https://trpc.io/)
