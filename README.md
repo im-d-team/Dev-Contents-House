@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/?fbclid=IwAR3IqVnPjZMle_rhQEjFV_Ngxkjn9gatqiPjQa_wz3BlIdMdL_f5STbxAgQ)
 - [Node.js와 Rust의 우아한 결합 napi-rs](https://blog.hanlee.io/2022/napi-rs/?fbclid=IwAR0akBF9ULToKxHmqQpbnwtJgpNAN6ENPgs_jfFf-5OeG2FGX6Ecwe7_LKE)
 - [CS50x 2023](https://cs50.harvard.edu/x/2023/?fbclid=IwAR0w0kaspkYrfzhEDrqXa39QVfSfboGhgpOsGMcIGWRenzy1uLG9W4Q3Di4)
 - [Promise는 왜 취소가 안 될까?](https://tech.kakao.com/2023/01/11/promise-cancelation-in-javascript/)
