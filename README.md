@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [웹개발 관련](https://blog.outsider.ne.kr/1657?fbclid=IwAR1O7wZgs-7epqBy6kq0xBXVo4MMnnWeZU7Cuv8tJ6hEyjd4uEBAijN-S4g)
 - [코드 리뷰는 스포츠다](https://wormwlrm.github.io/2023/02/20/Code-Review-is-a-Sports.html)
 - [Just a moment...](https://medium.com/@bluetch/javascript-es6-es7-es8-es9-es10-es11-and-es12-519d8be7d48c)
 - [D2 Tour](https://d2lang.com/tour/intro/)
