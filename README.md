@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [파이썬 개발자가 러스트를 배워야 하는 이유](https://indosaram.github.io/rust-python-book/ch1-01.html)
 - [웹개발 관련](https://blog.outsider.ne.kr/1657?fbclid=IwAR1O7wZgs-7epqBy6kq0xBXVo4MMnnWeZU7Cuv8tJ6hEyjd4uEBAijN-S4g)
 - [코드 리뷰는 스포츠다](https://wormwlrm.github.io/2023/02/20/Code-Review-is-a-Sports.html)
 - [Just a moment...](https://medium.com/@bluetch/javascript-es6-es7-es8-es9-es10-es11-and-es12-519d8be7d48c)
