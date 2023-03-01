@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [코드 리뷰는 스포츠다](https://wormwlrm.github.io/2023/02/20/Code-Review-is-a-Sports.html)
 - [Just a moment...](https://medium.com/@bluetch/javascript-es6-es7-es8-es9-es10-es11-and-es12-519d8be7d48c)
 - [D2 Tour](https://d2lang.com/tour/intro/)
 - [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/?fbclid=IwAR3IqVnPjZMle_rhQEjFV_Ngxkjn9gatqiPjQa_wz3BlIdMdL_f5STbxAgQ)
