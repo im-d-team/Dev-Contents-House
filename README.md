@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[번역] Next.js 작동 방식](https://velog.io/@surim014/how-next.js-works)
 - [Notion – The all](https://poweblog.notion.site/Chat-GPT-Generative-AI-dc0f31ba699244998f5507b5f25e01b5)
 - [그 많은 OTT 콘텐츠는 어떻게 웹에서 재생될 수 있을까](https://wormwlrm.github.io/2023/03/05/DRM-Contents-on-Web.html?fbclid=IwAR1f6Y9pdZPtCyL5GYdjd9kIfeWlhpsORz59mEwpKDOXjge3wNzth_RJXKQ)
 - [파이썬 개발자가 러스트를 배워야 하는 이유](https://indosaram.github.io/rust-python-book/ch1-01.html)
