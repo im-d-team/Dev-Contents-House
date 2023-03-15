@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [GIT 내부 탐험하기](https://blog.hwahae.co.kr/all/tech/12046)
 - [33 CSS 3D Buttons](https://freefrontend.com/css-3d-buttons/)
 - [자바스크립트에서 `globalThis`의 소름끼치는 폴리필](https://ui.toast.com/weekly-pick/ko_20190503)
 - [(번역) React는 컴포넌트를 언제 다시 리렌더링 할까요?](https://velog.io/@surim014/react-rerender)
