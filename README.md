@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Chrome의 기본 레퍼러 정책 변화 - strict-origin-when-cross-origin (2020.07 / Chrome v.85)](https://americanopeople.tistory.com/358)
 - [Referer and Referrer-Policy best practices](https://web.dev/referrer-best-practices/)
 - [토스 스터디 클럽](https://toss.im/career/toss-study-club)
 - [토스증권 QA 문화 ‘통합테스트’를 아시나요? (feat. 해외주식)](https://toss.tech/article/tossinvest-qa-integration-test)
