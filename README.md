@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [토스증권 QA 문화 ‘통합테스트’를 아시나요? (feat. 해외주식)](https://toss.tech/article/tossinvest-qa-integration-test)
 - [(번역) HTML 이미지 최적화](https://velog.io/@lky5697/fast-images)
 - [[번역] 잘 알려진 UI 패턴을 사용하여 리액트 애플리케이션 모듈화하기](https://velog.io/@eunbinn/modularizing-react-apps#%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A2%80-%EB%8D%94-%EB%B0%9C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%B6%94%EC%B6%9C)
 - [GIT 내부 탐험하기](https://blog.hwahae.co.kr/all/tech/12046)
