@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Notion – The all](https://nine-stilton-f82.notion.site/51ef09d7e3fc4e2a839aa40348eddb2a)
 - [Chrome의 기본 레퍼러 정책 변화 - strict-origin-when-cross-origin (2020.07 / Chrome v.85)](https://americanopeople.tistory.com/358)
 - [Referer and Referrer-Policy best practices](https://web.dev/referrer-best-practices/)
 - [토스 스터디 클럽](https://toss.im/career/toss-study-club)
