@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [(번역) React 훅은 실수일까요?](https://velog.io/@lky5697/were-react-hooks-a-mistake?utm_source=substack&utm_medium=email)
 - [Date는 어떻게 주고 받는게 바람직할까요?](https://blog.hoseung.me/2023-03-23-how-to-transfer-date/)
 - [디미터 법칙 (The Law of Demeter)](https://johngrib.github.io/wiki/jargon/law-of-demeter/)
 - [테크 리더 3인이 전하는 “개발자 원칙”](https://techblog.woowahan.com/11045/?mibextid=Zxz2cZ)
