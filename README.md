@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [도메인이 무엇인가요?](https://brunch.co.kr/@graypool/428)
 - [V8 Garbage Collection](https://iyu88.github.io//javascript/2023/03/11/garbage-collection.html)
 - [[번역] 2023년 버전 리액트 프로젝트를 시작하는 방법](https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023?utm_source=substack&utm_medium=email)
 - [Git Flow에서 트렁크 기반 개발으로 나아가기](https://tech.mfort.co.kr/blog/2022-08-05-trunk-based-development/)
