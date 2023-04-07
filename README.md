@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [(번역) 프런트엔드 개발의 종말](https://velog.io/@sehyunny/the-end-of-fe-development?utm_source=substack&utm_medium=email)
 - [[번역] 지난 3년간의 모든 자바스크립트 및 타입스크립트 기능](https://velog.io/@surim014/All-JavaScript-and-TypeScript-Features-of-the-last-3-years?utm_source=substack&utm_medium=email)
 - [도메인이 무엇인가요?](https://brunch.co.kr/@graypool/428)
 - [V8 Garbage Collection](https://iyu88.github.io//javascript/2023/03/11/garbage-collection.html)
