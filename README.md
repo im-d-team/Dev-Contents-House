@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Yarn 대신 pnpm으로 넘어간 3가지 이유](https://engineering.ab180.co/stories/yarn-to-pnpm?ref=codenary)
 - [INFCON 2023](https://www.inflearn.com/infcon-2023/teaser)
 - [[React] Suspense 이해하기](https://developer-alle.tistory.com/428)
 - [React Concurrent Mode - Data fetching, Suspense, React hook](https://iyu88.github.io//react/2022/11/01/react-concurrent-mode.html)
