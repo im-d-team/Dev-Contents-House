@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[React] Suspense 이해하기](https://developer-alle.tistory.com/428)
 - [React Concurrent Mode - Data fetching, Suspense, React hook](https://iyu88.github.io//react/2022/11/01/react-concurrent-mode.html)
 - [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/?trkCampaign=aws-summit&trk=ae185516-42ab-4fb0-874c-9cc3ccc0ec5e&sc_channel=display+ads)
 - [(번역) 프런트엔드 개발의 종말](https://velog.io/@sehyunny/the-end-of-fe-development?utm_source=substack&utm_medium=email)
