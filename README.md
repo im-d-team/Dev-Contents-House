@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[React🌀] 차세대 상태관리 라이브러리, Jotai VS Zustand ⭐ (Feat. Recoil)](https://programming119.tistory.com/263)
 - [그동안의 작업](https://velog.io/@typo/react-labs-march-2023)
 - [Yarn 대신 pnpm으로 넘어간 3가지 이유](https://engineering.ab180.co/stories/yarn-to-pnpm?ref=codenary)
 - [INFCON 2023](https://www.inflearn.com/infcon-2023/teaser)
