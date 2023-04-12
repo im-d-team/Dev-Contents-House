@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [fiber architecture)](https://velog.io/@jay/setStateisnotasync#%EB%AA%A8%EB%8D%98-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%8A%94-closure%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%B4-%EB%86%92%EB%8B%A4)
 - [프론트엔드 개발자가 PWA 알아야 하는 이유](https://yozm.wishket.com/magazine/detail/1969/?fbclid=IwAR0rXYxiAZ14alLJL0Bvo9piWoQpbocIHkaK6V3jVhgNcKb0A_bwysNiDIQ)
 - [[React🌀] 차세대 상태관리 라이브러리, Jotai VS Zustand ⭐ (Feat. Recoil)](https://programming119.tistory.com/263)
 - [그동안의 작업](https://velog.io/@typo/react-labs-march-2023)
