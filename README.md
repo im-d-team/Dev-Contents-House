@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [프론트엔드 개발자가 PWA 알아야 하는 이유](https://yozm.wishket.com/magazine/detail/1969/?fbclid=IwAR0rXYxiAZ14alLJL0Bvo9piWoQpbocIHkaK6V3jVhgNcKb0A_bwysNiDIQ)
 - [[React🌀] 차세대 상태관리 라이브러리, Jotai VS Zustand ⭐ (Feat. Recoil)](https://programming119.tistory.com/263)
 - [그동안의 작업](https://velog.io/@typo/react-labs-march-2023)
 - [Yarn 대신 pnpm으로 넘어간 3가지 이유](https://engineering.ab180.co/stories/yarn-to-pnpm?ref=codenary)
