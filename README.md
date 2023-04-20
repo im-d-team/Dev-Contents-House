@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Navigator: sendBeacon() method](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/sendBeacon)
 - [React 프로젝트 내부에서 연구 개발 중인 프로젝트를...](https://careerly.co.kr/comments/81632?utm_campaign=user-shareh)
 - [[IT TREND] 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
 - [fiber architecture)](https://velog.io/@jay/setStateisnotasync#%EB%AA%A8%EB%8D%98-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%8A%94-closure%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%B4-%EB%86%92%EB%8B%A4)
