@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [queueMicrotask() global function](https://developer.mozilla.org/en-US/docs/Web/API/queueMicrotask)
 - [Navigator: sendBeacon() method](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/sendBeacon)
 - [React 프로젝트 내부에서 연구 개발 중인 프로젝트를...](https://careerly.co.kr/comments/81632?utm_campaign=user-shareh)
 - [[IT TREND] 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
