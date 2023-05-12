@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [(번역) 더 나은 CSS 트랜지션 및 애니매이션을 위한 10가지 팁](https://ykss.netlify.app/translation/ten_tips_for_better_css_transitions_and_animations/?utm_source=substack&utm_medium=email)
 - [(번역) 2023년 웹 개발 트렌드 10가지](https://ykss.netlify.app/translation/10_web_development_trends_in_2023/)
 - [커스텀 프로퍼티를 이용해 CSS 와 자바스크립트 간 데이터 공유하기](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/sharing-data-between-css-and-javascript-using-custom-properties.md?utm_source=substack&utm_medium=email)
 - [Just a moment...](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C-cdac7a1e2710)
