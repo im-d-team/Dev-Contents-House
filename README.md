@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [첫 번째 WebGPU 앱](https://codelabs.developers.google.com/your-first-webgpu-app?hl=ko)
 - [(번역) StructuredClone API를 사용하여 객체를 깊은 복사하는 법](https://soobing.github.io/javascript/deep-copying-objects-with-the-structuredclone-api/)
 - [(번역) 더 나은 CSS 트랜지션 및 애니매이션을 위한 10가지 팁](https://ykss.netlify.app/translation/ten_tips_for_better_css_transitions_and_animations/?utm_source=substack&utm_medium=email)
 - [(번역) 2023년 웹 개발 트렌드 10가지](https://ykss.netlify.app/translation/10_web_development_trends_in_2023/)
