@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [개발자 생활 첫 10년, 이 세 가지가 중요합니다](https://yozm.wishket.com/magazine/detail/2025/?fbclid=IwAR1KhiL7wo4eK3lrfzv__0wUGjz4trU5pIU78P7EVTuZvnwgd49Hmh0FGLA)
 - [iOS 및 iPadOS의 웹 앱용 웹 푸시](https://ktseo41.github.io/blog/log/web-push-for-web-apps-on-ios-and-ipados.html)
 - [2023년 Vue에게 기대할 수 있는 점과 React와의 차이점](https://ktseo41.github.io/blog/log/what-to-expect-from-vue-in-2023-and-how-it-differs-from-react.html)
 - [Mozilla 웹 기술 블로그](http://hacks.mozilla.or.kr/)
