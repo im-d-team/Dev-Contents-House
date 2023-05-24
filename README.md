@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [1. dead code 제거](https://ghost-kr.channel.io/tech-channel-sdk-js-beondeul-keugi-gyeongryanghwareul-wihan-jeonryaggwa-dogu/)
 - [2018년, 내가 모르는 기술들](https://overreacted.io/ko/things-i-dont-know-as-of-2018/)
 - [](https://overreacted.io/ko/things-i-dont-know-as-of-2018/https://overreacted.io/ko/things-i-dont-know-as-of-2018/)
 - [개발자 생활 첫 10년, 이 세 가지가 중요합니다](https://yozm.wishket.com/magazine/detail/2025/?fbclid=IwAR1KhiL7wo4eK3lrfzv__0wUGjz4trU5pIU78P7EVTuZvnwgd49Hmh0FGLA)
