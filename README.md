@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[번역] Next.js 13.4](https://velog.io/@typo/next.js-13.4?utm_source=substack&utm_medium=email)
 - [1. dead code 제거](https://ghost-kr.channel.io/tech-channel-sdk-js-beondeul-keugi-gyeongryanghwareul-wihan-jeonryaggwa-dogu/)
 - [2018년, 내가 모르는 기술들](https://overreacted.io/ko/things-i-dont-know-as-of-2018/)
 - [](https://overreacted.io/ko/things-i-dont-know-as-of-2018/https://overreacted.io/ko/things-i-dont-know-as-of-2018/)
