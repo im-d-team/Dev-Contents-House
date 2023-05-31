@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [우아한형제들에서 시니어 개발자로 일하면 어떨까? – (1) 일](https://techblog.woowahan.com/12250/)
 - [Next.js 와 React Router로 싱글 페이지 애플리케이션 만들기](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/building-a-spa-with-nextjs.md?utm_source=substack&utm_medium=email)
 - [블로그 app dir 업그레이드 후기](https://yceffort.kr/2023/05/blog-app-dir)
 - [[번역] Next.js 13.4](https://velog.io/@typo/next.js-13.4?utm_source=substack&utm_medium=email)
