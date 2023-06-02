@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[번역] “const”의 속임수](https://velog.io/@lky5697/the-const-deception?utm_source=substack&utm_medium=email)
 - [개발자 스펙트럼](https://careerly.co.kr/comments/84176?utm_campaign=user-shareh)
 - [다섯 가지 패키지와 악의적인 설치 스크립트](https://velog.io/@superlipbalm/dissecting-npm-malware-five-packages-and-their-evil-install-scripts?utm_source=substack&utm_medium=email)
 - [우아한형제들에서 시니어 개발자로 일하면 어떨까? – (1) 일](https://techblog.woowahan.com/12250/)
