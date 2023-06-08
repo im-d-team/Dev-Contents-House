@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [The large, small, and dynamic viewport units](https://web.dev/viewport-units/)
 - [(번역) 팝오버(popover) API를 소개합니다](https://ykss.netlify.app/translation/introducing_the_popover_api/?utm_source=substack&utm_medium=email)
 - [Just a moment...](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C-%EC%B2%AB-chatgpt-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-757953d20aec)
 - [[번역] “const”의 속임수](https://velog.io/@lky5697/the-const-deception?utm_source=substack&utm_medium=email)
