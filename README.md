@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Just a moment...](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EB%8B%B9%EC%8B%A0%EC%9D%98-jest-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8A%94-%EC%9E%98%EB%AA%BB%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84-%EC%88%98%EB%8F%84-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-866f5f982ff9)
 - [The large, small, and dynamic viewport units](https://web.dev/viewport-units/)
 - [(번역) 팝오버(popover) API를 소개합니다](https://ykss.netlify.app/translation/introducing_the_popover_api/?utm_source=substack&utm_medium=email)
 - [Just a moment...](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C-%EC%B2%AB-chatgpt-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-757953d20aec)
