@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [토스ㅣSLASH 23](https://www.youtube.com/watch?v=NwLWX2RNVcw&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=5)
 - [토스ㅣSLASH 23](https://www.youtube.com/watch?v=6H9WQDRFZYg&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=7)
 - [Just a moment...](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EB%8B%B9%EC%8B%A0%EC%9D%98-jest-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8A%94-%EC%9E%98%EB%AA%BB%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84-%EC%88%98%EB%8F%84-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-866f5f982ff9)
 - [The large, small, and dynamic viewport units](https://web.dev/viewport-units/)
