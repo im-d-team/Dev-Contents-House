@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Just a moment...](https://blog.mathpresso.com/how-next-font-works-8bb72c2bae39)
 - [scroll-margin-top](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-top)
 - [Foundation](https://designsystem.line.me/LDSG/foundation)
 - [ecsstatic](https://www.ecsstatic.dev/)
