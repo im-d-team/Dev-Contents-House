@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [좋은 코드 설계를 위한 답없는 고민들](https://cheese10yun.github.io/code-design/)
 - [AI development starts here](https://www.modular.com/)
 - [Sticky Table of Contents with Scrolling Active States](https://css-tricks.com/sticky-table-of-contents-with-scrolling-active-states/)
 - [Just a moment...](https://blog.mathpresso.com/how-next-font-works-8bb72c2bae39)
