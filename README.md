@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[번역] 리액트 동시성 이해하기](https://velog.io/@eunbinn/react-concurrency?utm_source=substack&utm_medium=email)
 - [좋은 코드 설계를 위한 답없는 고민들](https://cheese10yun.github.io/code-design/)
 - [AI development starts here](https://www.modular.com/)
 - [Sticky Table of Contents with Scrolling Active States](https://css-tricks.com/sticky-table-of-contents-with-scrolling-active-states/)
