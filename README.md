@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [개발자가 테스트를 보는 세 가지 관점](https://yozm.wishket.com/magazine/detail/2068/?fbclid=IwAR3zclRI-ZEu7lc8aImdGXzTWv57rb1kn9vUuhHrKJh5de-E3EXRAmZGcpk_aem_th_AZrosKfLiKK0mcLHVDvm8QETs82rgBGRLvS1nHHcJLc-R3UMrSc04M-RpAfr1ZiSqqY)
 - [(번역) 캐시 시스템 설계할 때 기억해야 할 6가지 캐싱 전략](https://soobing.github.io/cs/6-caching-strategies/)
 - [React Server Components](https://patterns-dev-kr.github.io/rendering-patterns/react-server-components/)
 - [[번역] 리액트 동시성 이해하기](https://velog.io/@eunbinn/react-concurrency?utm_source=substack&utm_medium=email)
