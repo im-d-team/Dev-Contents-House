@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [snyung blog](https://blog.snyung.com/posts/2023-06-18--%EB%AA%A8%EB%B0%94%EC%9D%BC_viewport_%ED%9E%98%EB%93%A4%EC%A7%80_%EC%95%8A%EC%9C%BC%EC%84%B8%EC%9A%94)
 - [Prepare for viewport resize behavior changes coming to Chrome on Android](https://developer.chrome.com/blog/viewport-resize-behavior/#viewport-resize-behavior)
 - [The large, small, and dynamic viewport units](https://web.dev/viewport-units/)
 - [Next.js 13 + MySQL](https://jasonwatmore.com/next-js-13-mysql-connect-to-mysql-database-with-sequelize-in-nextjs)
