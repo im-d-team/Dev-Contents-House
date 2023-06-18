@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Prepare for viewport resize behavior changes coming to Chrome on Android](https://developer.chrome.com/blog/viewport-resize-behavior/#viewport-resize-behavior)
 - [The large, small, and dynamic viewport units](https://web.dev/viewport-units/)
 - [Next.js 13 + MySQL](https://jasonwatmore.com/next-js-13-mysql-connect-to-mysql-database-with-sequelize-in-nextjs)
 - [개발자가 테스트를 보는 세 가지 관점](https://yozm.wishket.com/magazine/detail/2068/?fbclid=IwAR3zclRI-ZEu7lc8aImdGXzTWv57rb1kn9vUuhHrKJh5de-E3EXRAmZGcpk_aem_th_AZrosKfLiKK0mcLHVDvm8QETs82rgBGRLvS1nHHcJLc-R3UMrSc04M-RpAfr1ZiSqqY)
