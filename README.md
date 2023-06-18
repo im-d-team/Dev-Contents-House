@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [ChatGPT 플러그인들의 목록](https://coda.io/@contenjoo/plug?fbclid=IwAR2WlNW8iIBTbFsUiUmtEoG2fbNrzBizvwqpaLSSx7laqPhV73_CrhSmvwI_aem_th_Aeo60VrE7TTlx6XwGa5BUZLLL27G1RVI21rmruWk3hn5pRu-BzOKsC-cIKUcvdw8zb8)
 - [snyung blog](https://blog.snyung.com/posts/2023-06-18--%EB%AA%A8%EB%B0%94%EC%9D%BC_viewport_%ED%9E%98%EB%93%A4%EC%A7%80_%EC%95%8A%EC%9C%BC%EC%84%B8%EC%9A%94)
 - [Prepare for viewport resize behavior changes coming to Chrome on Android](https://developer.chrome.com/blog/viewport-resize-behavior/#viewport-resize-behavior)
 - [The large, small, and dynamic viewport units](https://web.dev/viewport-units/)
