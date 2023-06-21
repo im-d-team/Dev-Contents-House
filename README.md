@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[번역] 리액트 동시성 이해하기](https://velog.io/@eunbinn/react-concurrency?utm_source=substack&utm_medium=email)
 - [월간 크롬 이슈 리포트 2023년 6월호](https://ui.toast.com/posts/ko_chrome_report_202306)
 - [Fast and reliable end](https://playwright.dev/)
 - [(번역) 리액트 API와 코드 재사용의 진화](https://velog.io/@sehyunny/evolution-of-react-apis-and-code-reuses?utm_source=substack&utm_medium=email)
