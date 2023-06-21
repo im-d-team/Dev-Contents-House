@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [월간 크롬 이슈 리포트 2023년 6월호](https://ui.toast.com/posts/ko_chrome_report_202306)
 - [Fast and reliable end](https://playwright.dev/)
 - [(번역) 리액트 API와 코드 재사용의 진화](https://velog.io/@sehyunny/evolution-of-react-apis-and-code-reuses?utm_source=substack&utm_medium=email)
 - [ChatGPT 플러그인들의 목록](https://coda.io/@contenjoo/plug?fbclid=IwAR2WlNW8iIBTbFsUiUmtEoG2fbNrzBizvwqpaLSSx7laqPhV73_CrhSmvwI_aem_th_Aeo60VrE7TTlx6XwGa5BUZLLL27G1RVI21rmruWk3hn5pRu-BzOKsC-cIKUcvdw8zb8)
