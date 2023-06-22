@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Cloudflare를 웹 애플리케이션을 위한 최고의 장소로 만들기](https://ktseo41.github.io/blog/log/making-cloudflare-for-web.html)
 - [[번역] 리액트 동시성 이해하기](https://velog.io/@eunbinn/react-concurrency?utm_source=substack&utm_medium=email)
 - [월간 크롬 이슈 리포트 2023년 6월호](https://ui.toast.com/posts/ko_chrome_report_202306)
 - [Fast and reliable end](https://playwright.dev/)
