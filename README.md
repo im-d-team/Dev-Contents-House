@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [블록으로 돌아가기](https://ktseo41.github.io/blog/log/virtual-dom-back-in-block.html)
 - [Config 2023 후기](https://www.sanghyo.xyz/2023-config-review)
 - [(번역) 이벤트 루프를 차단하지 않기 위한 실용적인 가이드](https://ykss.netlify.app/translation/practical_guide_to_not_blocking_the_event_loop/?utm_source=substack&utm_medium=email)
 - [프로덕트 매니저 vs 프로덕트 오너 (+그 외)](https://yozm.wishket.com/magazine/detail/905/)
