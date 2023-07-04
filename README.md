@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Just a moment...](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-create-react-app-%EA%B6%8C%EC%9E%A5%EC%9D%84-vite%EB%A1%9C-%EB%8C%80%EC%B2%B4-pr-%EB%8C%80%ED%95%9C-dan-abramov%EC%9D%98-%EB%8B%B5%EB%B3%80-3050b5678ac8)
 - [블록으로 돌아가기](https://ktseo41.github.io/blog/log/virtual-dom-back-in-block.html)
 - [Config 2023 후기](https://www.sanghyo.xyz/2023-config-review)
 - [(번역) 이벤트 루프를 차단하지 않기 위한 실용적인 가이드](https://ykss.netlify.app/translation/practical_guide_to_not_blocking_the_event_loop/?utm_source=substack&utm_medium=email)
