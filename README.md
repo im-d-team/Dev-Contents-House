@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [타입스크립트 5.2의 새로운 키워드: 'using'](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/using-keyword.md?utm_source=substack&utm_medium=email)
 - [Just a moment...](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-create-react-app-%EA%B6%8C%EC%9E%A5%EC%9D%84-vite%EB%A1%9C-%EB%8C%80%EC%B2%B4-pr-%EB%8C%80%ED%95%9C-dan-abramov%EC%9D%98-%EB%8B%B5%EB%B3%80-3050b5678ac8)
 - [블록으로 돌아가기](https://ktseo41.github.io/blog/log/virtual-dom-back-in-block.html)
 - [Config 2023 후기](https://www.sanghyo.xyz/2023-config-review)
