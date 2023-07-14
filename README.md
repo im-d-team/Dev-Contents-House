@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [(번역) 하이드레이션은 트리이고, 재개 가능성(Resumability)은 맵입니다](https://velog.io/@superlipbalm/hydration-tree-resumability-map?utm_source=substack&utm_medium=email)
 - [(번역) 미래지향적 웹사이트를 구축하는 여러분이 몰랐던 7가지 자바스크립트 웹 API 🤯](https://ykss.netlify.app/translation/7_more_js_web_apis_to_build_futuristic_websites_you_didnt_know/?utm_source=substack&utm_medium=email)
 - [(번역) 미래지향적 웹사이트를 구축하는 여러분이 몰랐던 7가지 자바스크립트 웹 API 🤯](https://ykss.netlify.app/translation/7_more_js_web_apis_to_build_futuristic_websites_you_didnt_know/?utm_source=substack&utm_medium=email)
 - [효율적인 Mock Test](https://tech.kakaopay.com/post/mock-test-code/)
