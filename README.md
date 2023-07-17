@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Just a moment...](https://junghan92.medium.com/npm-%EC%83%9D%ED%83%9C%EA%B3%84-%EC%A4%91%EC%8B%AC%EC%97%90-%EC%9E%88%EB%8A%94-%EA%B1%B0%EB%8C%80%ED%95%9C-%EB%B2%84%EA%B7%B8-51d8664c5984)
 - [(번역) 하이드레이션은 트리이고, 재개 가능성(Resumability)은 맵입니다](https://velog.io/@superlipbalm/hydration-tree-resumability-map?utm_source=substack&utm_medium=email)
 - [(번역) 미래지향적 웹사이트를 구축하는 여러분이 몰랐던 7가지 자바스크립트 웹 API 🤯](https://ykss.netlify.app/translation/7_more_js_web_apis_to_build_futuristic_websites_you_didnt_know/?utm_source=substack&utm_medium=email)
 - [(번역) 미래지향적 웹사이트를 구축하는 여러분이 몰랐던 7가지 자바스크립트 웹 API 🤯](https://ykss.netlify.app/translation/7_more_js_web_apis_to_build_futuristic_websites_you_didnt_know/?utm_source=substack&utm_medium=email)
