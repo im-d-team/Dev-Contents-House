@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[번역] useEffect는 종종 페인트(paint) 이전에 동작합니다.](https://velog.io/@lky5697/unintentional-layout-effect?utm_source=substack&utm_medium=email)
 - [Next.js에서 i18n과 호환성을 갖춘 정적 HTML Export](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/static-html-export-i18n.md?utm_source=substack&utm_medium=email)
 - [Just a moment...](https://junghan92.medium.com/npm-%EC%83%9D%ED%83%9C%EA%B3%84-%EC%A4%91%EC%8B%AC%EC%97%90-%EC%9E%88%EB%8A%94-%EA%B1%B0%EB%8C%80%ED%95%9C-%EB%B2%84%EA%B7%B8-51d8664c5984)
 - [(번역) 하이드레이션은 트리이고, 재개 가능성(Resumability)은 맵입니다](https://velog.io/@superlipbalm/hydration-tree-resumability-map?utm_source=substack&utm_medium=email)
