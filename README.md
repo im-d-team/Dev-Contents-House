@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [웹 접근성 준수가 가져오는 프론트엔드 개발의 이점](https://maxkim-j.github.io/posts/web-accessiblity-virtuous-cycle/)
 - [React Query와 함께하는 API 에러 처리 설계하기](https://blog.hwahae.co.kr/all/tech/7867)
 - [NAVER D2](https://d2.naver.com/helloworld/4003712)
 - [[번역] useEffect는 종종 페인트(paint) 이전에 동작합니다.](https://velog.io/@lky5697/unintentional-layout-effect?utm_source=substack&utm_medium=email)
