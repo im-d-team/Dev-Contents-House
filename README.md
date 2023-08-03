@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [React Query와 함께하는 API 에러 처리 설계하기](https://blog.hwahae.co.kr/all/tech/7867)
 - [NAVER D2](https://d2.naver.com/helloworld/4003712)
 - [[번역] useEffect는 종종 페인트(paint) 이전에 동작합니다.](https://velog.io/@lky5697/unintentional-layout-effect?utm_source=substack&utm_medium=email)
 - [Next.js에서 i18n과 호환성을 갖춘 정적 HTML Export](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/static-html-export-i18n.md?utm_source=substack&utm_medium=email)
