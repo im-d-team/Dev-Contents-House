@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [2023년 SVG-in-JS와 결별](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/breaking-up-with-svg-in-js-in-2023.md?utm_source=substack&utm_medium=email)
 - [Just a moment...](https://medium.com/flutter-korea/hello-flutter-3-10-87b957b9c90c)
 - [플러터 상태관리란](https://comdoc.tistory.com/m/entry/%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC%EB%9E%80)
 - [웹 접근성 준수가 가져오는 프론트엔드 개발의 이점](https://maxkim-j.github.io/posts/web-accessiblity-virtuous-cycle/)
