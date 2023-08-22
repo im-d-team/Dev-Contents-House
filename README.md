@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Shorebird](https://shorebird.dev/)
 - [리액트로 인해 잊었거나 전혀 몰랐던 것들](https://ktseo41.github.io/blog/log/things-you-forgot-or-never-knew-because-of-react.html)
 - [2023년 SVG-in-JS와 결별](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/breaking-up-with-svg-in-js-in-2023.md?utm_source=substack&utm_medium=email)
 - [Just a moment...](https://medium.com/flutter-korea/hello-flutter-3-10-87b957b9c90c)
