@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [(번역) 우리들을 위한 디자인 패턴](https://soobing.github.io/cs/design-patterns-for-humans/)
 - [테스트 코드로부터 피드백 받기](https://tech.kakaopay.com/post/mock-test-code-part-2/)
 - [Shorebird](https://shorebird.dev/)
 - [리액트로 인해 잊었거나 전혀 몰랐던 것들](https://ktseo41.github.io/blog/log/things-you-forgot-or-never-knew-because-of-react.html)
