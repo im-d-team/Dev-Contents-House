@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Just a moment...](https://medium.com/@tkarmakar27112000/code-push-in-flutter-with-shorebird-aa50b617ee43)
 - [How to Achieve 60FPS Animations in React Native](https://www.callstack.com/blog/60fps-animations-in-react-native)
 - [(번역) 우리들을 위한 디자인 패턴](https://soobing.github.io/cs/design-patterns-for-humans/)
 - [테스트 코드로부터 피드백 받기](https://tech.kakaopay.com/post/mock-test-code-part-2/)
