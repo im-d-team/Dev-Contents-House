@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[모두의연구소] 애플 Vision Pro 상세 기술 설명 & SW 개발 튜토리얼](https://modulabs.im/popdetail/64ef2d92e07987cc2d2348b6)
 - [(번역) 뛰어난 테스팅 글 모음 (자바스크립트 포함)](https://velog.io/@sehyunny/a-compilation-of-outstanding-testing-articles)
 - [리액트로 인해 잊었거나 전혀 몰랐던 것들](https://ktseo41.github.io/blog/log/things-you-forgot-or-never-knew-because-of-react.html)
 - [Just a moment...](https://medium.com/@tkarmakar27112000/code-push-in-flutter-with-shorebird-aa50b617ee43)
