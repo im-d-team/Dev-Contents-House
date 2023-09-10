@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://snyk.io/blog/javascript-runtime-compare-node-deno-bun/)
 - [Bun 1.0](https://bun.sh/blog/bun-v1.0)
 - [웹 앱을 만드는 가장 새로운 오래된 방법](https://velog.io/@eunbinn/htmx-the-newest-old-way-to-make-web-apps?utm_source=substack&utm_medium=email)
 - [[모두의연구소] 애플 Vision Pro 상세 기술 설명 & SW 개발 튜토리얼](https://modulabs.im/popdetail/64ef2d92e07987cc2d2348b6)
