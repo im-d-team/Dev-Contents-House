@@ -6,6 +6,7 @@
 
 ## 📖 This Week
 - [(번역) 리액트 웹 컴포넌트로 디자인 시스템 구축하기](https://velog.io/@superlipbalm/building-design-system-react-web-components?utm_source=substack&utm_medium=email)
+- [(번역) 리액트 웹 컴포넌트로 디자인 시스템 구축하기](https://velog.io/@superlipbalm/building-design-system-react-web-components?utm_source=substack&utm_medium=email)
 - [모던 바닐라 자바스크립트로 본 반응성을 구현하는 패턴](https://ktseo41.github.io/blog/log/patterns-for-reactivity-with-modern-vanilla-javascript.html)
 - [Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://snyk.io/blog/javascript-runtime-compare-node-deno-bun/)
 - [Bun 1.0](https://bun.sh/blog/bun-v1.0)
