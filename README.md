@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [FECONF 2023](https://2023.feconf.kr/)
 - [좋은 예외(Exception) 처리](https://jojoldu.tistory.com/734)
 - [Just a moment...](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%84%B8-%EA%B0%80%EC%A7%80-%ED%81%B0-%EC%88%98%EB%8B%A8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%9C%84%EC%B9%98%EC%9D%98-%EC%98%81%ED%96%A5-a9c021869d4a)
 - [(번역) 리액트 웹 컴포넌트로 디자인 시스템 구축하기](https://velog.io/@superlipbalm/building-design-system-react-web-components?utm_source=substack&utm_medium=email)
