@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Just a moment...](https://medium.com/@christiron_37280/react-native-performance-%EB%B2%88%EC%97%AD-6f28c0adf887)
 - [React Native Under The Hood](https://geundung.dev/130)
 - [FECONF 2023](https://2023.feconf.kr/)
 - [좋은 예외(Exception) 처리](https://jojoldu.tistory.com/734)
