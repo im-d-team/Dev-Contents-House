@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [(번역) 우선순위 힌트를 활용하여 모든 네트워크 활동을 제어하기](https://velog.io/@superlipbalm/priority-hints?utm_source=substack&utm_medium=email)
 - [2023-10](https://github.com/naver/fe-news/blob/master/issues/2023-10.md)
 - [당신이 알아야 할 모든 것들](https://ykss.netlify.app/translation/bun_vs_node_js_everything_you_need_to_know/?utm_source=substack&utm_medium=email)
 - [Just a moment...](https://medium.com/@christiron_37280/react-native-performance-%EB%B2%88%EC%97%AD-6f28c0adf887)
