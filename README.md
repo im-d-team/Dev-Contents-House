@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [[Flutter] Fastlane을 사용하여 배포 자동화하기](https://deku.posstree.com/ko/flutter/fastlane/)
 - [What is a hero image?](https://www.optimizely.com/optimization-glossary/hero-image/)
 - [(번역) 우선순위 힌트를 활용하여 모든 네트워크 활동을 제어하기](https://velog.io/@superlipbalm/priority-hints?utm_source=substack&utm_medium=email)
 - [2023-10](https://github.com/naver/fe-news/blob/master/issues/2023-10.md)
