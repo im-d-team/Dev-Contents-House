@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [NAVER D2](https://d2.naver.com/helloworld/3010710)
 - [[Flutter] Riverpod 사용해보기 #1](https://velog.io/@leeeeeoy/Flutter-Riverpod-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-1)
 - [Form 으로 손쉽게 여러개의 텍스트필드 상태관리하기!](https://blog.codefactory.ai/flutter/form/)
 - [모던 CSS 적용 방법 둘러보기(CSS-in-JS with zero-runtime)](https://pozafly.github.io/css/explore-how-to-apply-modern-css/)
