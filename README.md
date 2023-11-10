@@ -6,6 +6,7 @@
 
 ## 📖 This Week
 - [(번역) Next.js에서 패키지 가져오기를 최적화한 방법](https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js?utm_source=substack&utm_medium=email)
+- [(번역) Next.js에서 패키지 가져오기를 최적화한 방법](https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js?utm_source=substack&utm_medium=email)
 - [[Korean FE Article] 자바스크립트에서 base64 문자열 인코딩의 미묘한 차이](https://kofearticle.substack.com/p/korean-fe-article-base64?utm_source=post-email-title&publication_id=695413&post_id=138489306&utm_campaign=email-post-title&isFreemail=true&r=g9d5i&utm_medium=email)
 - [2023-11](https://github.com/naver/fe-news/blob/master/issues/2023-11.md)
 - [딥링크 실전에서 잘 사용하는 방법](https://velog.io/@tosspayments/%EB%94%A5%EB%A7%81%ED%81%AC-%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C-%EC%9E%98-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
