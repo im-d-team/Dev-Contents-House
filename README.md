@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [리액트 UI를 합성하기 위한 패턴](https://ykss.netlify.app/translation/headless_component_a_pattern_for_composing_react_uis/?utm_source=substack&utm_medium=email)
 - [(번역) Next.js에서 패키지 가져오기를 최적화한 방법](https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js?utm_source=substack&utm_medium=email)
 - [(번역) Next.js에서 패키지 가져오기를 최적화한 방법](https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js?utm_source=substack&utm_medium=email)
 - [[Korean FE Article] 자바스크립트에서 base64 문자열 인코딩의 미묘한 차이](https://kofearticle.substack.com/p/korean-fe-article-base64?utm_source=post-email-title&publication_id=695413&post_id=138489306&utm_campaign=email-post-title&isFreemail=true&r=g9d5i&utm_medium=email)
