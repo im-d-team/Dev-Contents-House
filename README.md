@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Just a moment...](https://medium.com/@shubhadeepchat/best-practices-of-code-review-b4fff998c610)
 - [(번역) 시그널(Signal)에 대한 소개](https://soobing.github.io/react/introducing-signals/)
 - [리액트 UI를 합성하기 위한 패턴](https://ykss.netlify.app/translation/headless_component_a_pattern_for_composing_react_uis/?utm_source=substack&utm_medium=email)
 - [(번역) Next.js에서 패키지 가져오기를 최적화한 방법](https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js?utm_source=substack&utm_medium=email)
