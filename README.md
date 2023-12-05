@@ -5,6 +5,7 @@
 📬 **Facebook Page를 팔로잉하세요** 👉 https://www.facebook.com/ImDevloper
 
 ## 📖 This Week
+- [Just a moment...](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%8B%9C%EA%B7%B8%EB%84%90-signals-a6a8c3cb5114)
 - [Just a moment...](https://medium.com/@shubhadeepchat/best-practices-of-code-review-b4fff998c610)
 - [(번역) 시그널(Signal)에 대한 소개](https://soobing.github.io/react/introducing-signals/)
 - [리액트 UI를 합성하기 위한 패턴](https://ykss.netlify.app/translation/headless_component_a_pattern_for_composing_react_uis/?utm_source=substack&utm_medium=email)
